@@ -1,7 +1,7 @@
 """
 Simple command line tool to download icons from game-icons.net as a zip file, and unpack them into the icons/ directory.
 Reports on any newly added icons, and any errors that occurred during the download or unpacking process, which gets appended
-to the logs/icons.log file.
+to the logs/icons.txt file.
 """
 import csv
 import datetime
@@ -19,7 +19,7 @@ logger.setLevel(logging.INFO)
 DEFAULT_ICON_URL = "https://game-icons.net/archives/png/zip/000000/ffffff/game-icons.net.png.zip"
 # The directory to save the icons to, defaults to ./ because the zip file contains a directory called "icons" already
 OUTPUT_DIRECTORY = "./"
-LOG_FILE = "logs/icons.log"
+LOG_FILE = "logs/icons.txt"
 CSV_OUTPUT_PATH = "icons/all_icons.csv"
 
 # Set up additional logging to another file
