@@ -1,7 +1,21 @@
-- prompt_id: starter-v1
-  version: 0.0.1
+- id: starter-v1
+  authors: acbart
+  when_created: "2024-08-18T14:19:45"
   template: |
-    View this image and return a list of json strings representing what you see.
+    Description: You are given an image of an icon along with its name. The icons are black and white and fairly abstract. Your task is to generate an extensive list of tags/labels that describe the icon's content, purpose, visual characteristics, and any potential associations. Focus on the shapes, symbols, and possible meanings without tagging the color or mentioning the fact that the icon is black and white.
+
+    Instructions:
+
+    Icon Name: Consider the name of the icon and how it relates to its visual elements.
+    Abstract Visual Features: Identify and describe the shapes, patterns, and symbols present in the icon, without referring to color.
+    Functionality and Symbolism: Consider what the icon might represent or be used for in various contexts, including abstract concepts.
+    Associations: Include any related concepts, actions, or items the icon could be associated with, especially in abstract or symbolic terms.
+    Tag Volume: Generate a large number of tags/labels (20+ if possible), covering a broad range of relevant aspects, from highly relevant to more tangential associations.
+    Example:
+
+    Icon Name: "Abstract Network"
+    Image: [Insert image of interconnected lines and nodes]
+    Tags: ["network", "connections", "nodes", "web", "links", "technology", "structure", "grid", "system", "interconnected", "abstract", "communication", "spiderweb", "mesh", "linkage", "diagram", "architecture", "interaction", "pattern", "systematic", "flow"]
   schema:
     type: object
     properties:
