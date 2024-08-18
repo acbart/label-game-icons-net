@@ -31,6 +31,7 @@ def load_all_icons(icon_file: str):
     icons = []
     with open(icon_file, 'r', encoding='utf-8') as f:
         reader = csv.reader(f)
+        next(reader) # Skip the header
         for row in reader:
             name, path = row
             icons.append(Icon(name=name, path=path))

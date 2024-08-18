@@ -3,6 +3,7 @@ Simple command line tool to download icons from game-icons.net as a zip file, an
 Reports on any newly added icons, and any errors that occurred during the download or unpacking process, which gets appended
 to the logs/icons.txt file.
 """
+from collections import defaultdict
 import csv
 import datetime
 import os
@@ -28,6 +29,7 @@ def setup_file_logger(log_file_path: str):
     file_handler.setLevel(logging.INFO)
     file_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
     logger.addHandler(file_handler)
+    logger.addHandler(logging.StreamHandler())
 
 def download_icons(icon_url: str, output_dir: str, csv_path: str, force: bool = False):
     """
@@ -100,20 +102,33 @@ def download_icons(icon_url: str, output_dir: str, csv_path: str, force: bool = 
     
     logger.info("Icons downloaded and unpacked successfully.")
     
+    # Iterate through all directories looking for png files
+    unpacked_icons = defaultdict(list)
+    for root, dirs, files in os.walk(output_dir):
+        for file in files:
+            if file.endswith(".png"):
+                icon = file
+                # Force linux style style line endings
+                path = Path(os.path.join(root, file)).as_posix()
+                # Remove the extension from the icon name
+                icon = Path(icon).stem
+                # Get the author folder that this is in (without the root)
+                author = Path(root).name
+                # Add the icon to the dictionary
+                unpacked_icons[icon].append((path, author))
+    
     # Generate a flat CSV file with the icon names and their paths
     logger.info(f"Generating CSV file with icon names and paths: {csv_path}")
     with open(csv_path, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow(["icon", "path"])
-        # Iterate through all directories looking for png files
-        for root, dirs, files in os.walk(output_dir):
-            for file in files:
-                if file.endswith(".png"):
-                    icon = file
-                    # Force linux style style line endings
-                    path = Path(os.path.join(root, file)).as_posix()
-                    # Remove the extension from the icon name
-                    icon = Path(icon).stem
+        for icon, paths in unpacked_icons.items():
+            if len(paths) > 1:
+                logger.warning(f"Multiple ({len(paths)}) paths found for icon {icon}. Will prefix them with the artist name.")
+            for (path, author) in paths:
+                if len(paths) > 1:
+                    writer.writerow([f"{author}_{icon}", path])
+                else:
                     writer.writerow([icon, path])
     
     

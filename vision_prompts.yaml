@@ -24,8 +24,14 @@
         items:
           type: object
           properties:
-            name:
+            label:
               type: string
-            confidence:
+              description: "A label for the icon."
+            relevance:
               type: string
               enum: ['low', 'medium', 'high']
+              description: "Low: Tangentially related or less significant. Medium: Moderately relevant. High: Highly relevant or central to the icon's meaning."
+          required: ['label', 'relevance']
+          additionalProperties: false
+    required: ['labels']
+    additionalProperties: false

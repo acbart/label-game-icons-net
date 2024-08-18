@@ -1,4 +1,6 @@
 openai_key.txt
+batch_requests/executions/*
+!batch_requests/executions/.keep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

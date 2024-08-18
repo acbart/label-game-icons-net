@@ -192,22 +192,31 @@ class OpenAI:
         ]
         batch_file = io.StringIO(json.dumps(messages))
         batch_input_file = self.client.files.create(file=batch_file, purpose="batch")
+        
+    def upload_string_as_file(self, contents):
+        io_file = io.BytesIO(contents.encode())
+        file_object = self.client.files.create(file=io_file, purpose="batch")
+        return file_object
+        
     
-    def submit_batch_file(self, batch_input_file, description):
-        return client.batches.create(
-            input_file_id=batch_input_file.id,
+    def submit_batch_file(self, batch_input_file_id, description):
+        batch = self.client.batches.create(
+            input_file_id=batch_input_file_id,
             endpoint="/v1/chat/completions",
             completion_window="24h",
             metadata={
                 "description": description,
             }
         )
+        if batch.errors:
+            raise Exception(f"Error submitting batch file: {batch.errors}")
+        return batch
         
     def check_batch_file(self, batch_id):
         return self.client.batches.retrieve(batch_id)
     
     def get_batch_file(self, batch_id):
-        batch = self.client.files.retrieve(batch_id)
+        batch = self.client.batches.retrieve(batch_id)
         output_file_id = batch.output_file_id
         if not output_file_id:
             raise Exception("Batch file is not ready for retrieval yet.")
