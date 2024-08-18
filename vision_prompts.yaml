@@ -1,0 +1,17 @@
+- prompt_id: starter-v1
+  version: 0.0.1
+  template: |
+    View this image and return a list of json strings representing what you see.
+  schema:
+    type: object
+    properties:
+      labels: 
+        type: array
+        items:
+          type: object
+          properties:
+            name:
+              type: string
+            confidence:
+              type: string
+              enum: ['low', 'medium', 'high']
