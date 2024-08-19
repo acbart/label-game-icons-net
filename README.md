@@ -1,7 +1,15 @@
 # label-game-icons-net
+
 A project to label all of the Game Icons from game-icons.net. The game-icons.net project is a wonderful, free collection of icons for game developers. When I wrote this, there were 4149 different icons. However, I couldn't find a set of labels for these icons. All the icons have at least a few tags, but I wanted to have a large number of labels/tags. This project attempts to provide them.
 
 The plan is to generate a "first-draft" of labels via the GPT API, and then to allow folks to refine them if they are interested. We'll have some scripts for doing batch runs of the image vision API to generate additional labels into CSV files. We'll also have a workflow script for combining all the labels/tags into a single final file (or files, perhaps offering CSV, JSON, etc.). We'll try to track some metadata about whether a label was `produced`/`verified` by a `human`/`machine`, and then also generate subsets based on whether folks are fine with "the whole set" or want "just the verified". We'll also probably get a measure of relevance (`high`, `medium`, `low`).
+
+# Downloads
+
+The following files are available for download:
+
+* [dist/all_labels.csv](./dist/all_labels.csv) - The full set of labels, without metadata
+* [dist/all_labels.json](./dist/all_labels.json) - The full set of labels, without metadata
 
 # License
 
