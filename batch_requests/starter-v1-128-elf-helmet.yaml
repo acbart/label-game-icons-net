@@ -1,0 +1,21 @@
+author: Austin Cory Bart
+execution:
+- batch_id: batch_vPEDoDD7Ojs9zb8ip184t5aA
+  execution_id: '0'
+  input_file_id: file-t7WnVRpKn32Xt1RVEUGAEzre
+  status: completed
+  when_completed: '2024-08-18T18:06:16.499704'
+  when_started: '2024-08-18T17:47:41.755301'
+- batch_id: batch_8coAVhFDDKxiGYDN9z3NYawF
+  execution_id: '1'
+  input_file_id: file-1fZo9zCFBj6pIENTVk3nk0ic
+  status: completed
+  when_completed: '2024-08-18T18:09:58.381623'
+  when_started: '2024-08-18T18:06:38.739506'
+icons:
+- elf-helmet
+id: starter-v1-128-elf-helmet
+prompt_id: starter-v1
+size: 128
+use_all_icons: false
+when_created: '2024-08-18T17:47:39.621840'
