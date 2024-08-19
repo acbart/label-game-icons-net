@@ -1,0 +1,27 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+hypodermic-test,health,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,immunization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,injection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,medical device,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.081326,,1
+hypodermic-test,medicine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,needle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,syringe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,treatment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,vaccination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,vaccine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,clinical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,dosage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,drop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.081326,,1
+hypodermic-test,fluid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,pharmacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,prescription,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,procedure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.081326,,1
+hypodermic-test,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,sterile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.081326,,1
+hypodermic-test,therapy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.080789,,1
+hypodermic-test,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2k5B6iNnIodM2b95I48LMi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.081326,,1

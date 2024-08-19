@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+miracle-medecine,breakage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,broken,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,cutting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,scissors,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,sharp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,tool failure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,accident,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,damage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,disruption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,jagged,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,malfunction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,puncture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,caution,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,crisis,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,explosion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,hazard,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,repair,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1
+miracle-medecine,unexpected,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tfQQBfQhav3gmi0Df9SHF7M9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.443244,,1

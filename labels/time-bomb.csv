@@ -1,0 +1,27 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+time-bomb,bomb,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,countdown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,detonation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,emergency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.539781,,1
+time-bomb,fuse,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,time,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,time limit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.539781,,1
+time-bomb,timer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,urgency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,alarm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,calculated time,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.539781,,1
+time-bomb,clock face,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,dangerous device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.539781,,1
+time-bomb,deadline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,explosion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,explosive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.539781,,1
+time-bomb,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,ignite,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.539781,,1
+time-bomb,pressure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,seconds,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,threat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,tick,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.538751,,1
+time-bomb,hour hand,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.539781,,1
+time-bomb,minute markers,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFFXSl6FPq2c2qyQ2lmbKYIo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.539781,,1

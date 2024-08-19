@@ -1,0 +1,25 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+boots,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,buildings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,cityscape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,skyline,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,urban,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,business district,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,city planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,commercial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,development,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,downtown,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,metropolis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,real estate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,skyscrapers,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,tower,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,urbanization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,concrete jungle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,cosmopolitan,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,dense,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,economic growth,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,landscape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1
+boots,urban life,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tJrKXWsQoWfGrqwhmOcQy00O,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.030967,,1

@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+files,bank,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,commerce,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,credit card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,debit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,finance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,money,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,payment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,purchase,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,transaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,PIN,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,business,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,cardholder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,chip,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,contactless,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,credit limit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,credit line,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,economy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,electronic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,financial institution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,identification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,issuing bank,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,spending,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,wallet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1
+files,plastic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RdVfqiKVb8KU4HVPuolGbXgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.820807,,1

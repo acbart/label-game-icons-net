@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+guards,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,conversation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,dialogue,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,discussion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,exchange,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,faces,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,human figures,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,human interaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,interaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,people,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,abstract faces,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,abstract people,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,argument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,crossing lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,debate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,engagement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,face-to-face,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,negotiation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,opposing views,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,opposition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,social,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,speaking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1
+guards,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j57ujYvzWL2FDKhZxviXI9aG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.137939,,1

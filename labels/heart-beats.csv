@@ -1,0 +1,23 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+heart-beats,cardiac,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,cardiology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,health,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,heart rate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,heartbeat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,medicine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,pulse,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,EKG,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,EKG graph,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,diagnosis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,electrocardiogram,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,frequency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,lifeline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,monitor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,monitoring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,oscillation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,vital signs,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,waveform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1
+heart-beats,wellness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K6WeuiNydDPfDwgrYlLrZyBU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.228552,,1

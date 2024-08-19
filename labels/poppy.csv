@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+poppy,blast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,bomb,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,coil,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,dangerous,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,detonation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,hazard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,risk,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,snake,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,threat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,animation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,boom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,cartoonish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,coil snake,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,fear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,swirl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,wild,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1
+poppy,comic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2osFn9VqnjdjNEheLscyKabz,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.921870,,1

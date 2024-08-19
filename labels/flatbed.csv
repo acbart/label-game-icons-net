@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+flatbed,cargo,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,delivery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,freight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,logistics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,2
+flatbed,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,truck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,carrier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,goods,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,hauling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,load,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,moving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,road,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,service,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,shipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,wheel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,black and white,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,business,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,commerce,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,industry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,minimalistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1
+flatbed,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_An7B86x0MiWpzBPAi9npmLtq,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.277832,,1

@@ -1,0 +1,25 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+halt,fingers,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,gesture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,halt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,hand,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,palm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,stop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,block,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,command,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,five,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,gesture control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,access,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,attention,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,barrier,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,expression,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,guidance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,human,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,manual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,permission,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1
+halt,safety,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f6rotg46WDz67f0VkfaQjmtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.300094,,1

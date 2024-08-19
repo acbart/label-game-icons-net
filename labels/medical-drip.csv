@@ -1,0 +1,23 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+medical-drip,IV drip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,intravenous,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,clinical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,fluid bag,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,hospital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,hydration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,infusion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,medicine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,patient care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,therapy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,treatment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,aid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.777103,,1
+medical-drip,emergency,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,equipment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,monitoring,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,procedure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.777103,,1
+medical-drip,recovery,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.776103,,1
+medical-drip,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.777103,,1
+medical-drip,wellness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wOm0JFQHnrLZVtN6CwLswLcb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.777103,,1

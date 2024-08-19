@@ -1,0 +1,31 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+cz-skorpion,barrel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,control,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,firearm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,gun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,pistol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,shooting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,trigger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,ammunition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,concealment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,crime,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,hunting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,law enforcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,marksmanship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,military,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,offense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,policing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,projectile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,self-protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,sport shooting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,tactical gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,violence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,war,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,gangster,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1
+cz-skorpion,metal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8z9U0Bk9QDgPqh1c7qrxqcvB,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.228082,,1

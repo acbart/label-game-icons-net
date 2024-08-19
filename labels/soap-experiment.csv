@@ -1,0 +1,28 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+soap-experiment,chemical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,chemistry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,experiment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,flask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,laboratory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,reaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,research,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,scientific process,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,alchemy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,beaker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,bubbles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,creation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,education,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,mixture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,potion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,solution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,study,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,substance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,test tube,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1
+soap-experiment,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.080202,,1
+soap-experiment,imagination,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.080202,,1
+soap-experiment,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M039AHZo7vmoWu7DlnDq0gtX,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.079203,,1

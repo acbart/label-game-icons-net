@@ -1,0 +1,27 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+emerald,3d shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,cube,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,angles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,dimensions,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,edges,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.593787,,1
+emerald,form,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,illusion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,optical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,perspective,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,polygon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.593787,,1
+emerald,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.592777,,1
+emerald,aligned,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.593787,,1
+emerald,angle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.593787,,1
+emerald,block,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.593787,,1
+emerald,construction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.593787,,1
+emerald,facets,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.593787,,1
+emerald,framework,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.593787,,1
+emerald,innovation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.593787,,1
+emerald,mathematical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.593787,,1
+emerald,solid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jpMbM1RQmM30hcGHHtVnnqnN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.593787,,1

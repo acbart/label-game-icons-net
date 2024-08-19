@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+bullet-bill,GPS,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,destination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,landmark,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,location,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,location pin,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,map,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,marker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,place,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,pointer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,arrow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,coordinate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,find,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,geography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,orientation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,position,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,search,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,spot,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,target,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1
+bullet-bill,track,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fXQkcq3MvBk8aqK0MA1Bcv2U,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.022814,,1

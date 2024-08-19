@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+help,assistance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.007033,,1
+help,guidance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.007033,,1
+help,help,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.006030,,1
+help,information,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.006030,,1
+help,inquiry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.006030,,1
+help,query,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.006030,,1
+help,question mark,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.006030,,1
+help,unknown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.007033,,1
+help,advice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.007033,,1
+help,ambiguity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.006030,,1
+help,confusion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.006030,,1
+help,curiosity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.006030,,1
+help,doubt,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.006030,,1
+help,explanation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.007033,,1
+help,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.007033,,1
+help,investigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.006030,,1
+help,knowledge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.007033,,1
+help,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.006030,,1
+help,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.007033,,1
+help,search,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.006030,,1
+help,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.006030,,1
+help,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.007033,,1
+help,uncertainty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.006030,,1
+help,unsure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.007033,,1
+help,puzzle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_clkvI89xv8ZoDiHuGEZKerts,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.007033,,1

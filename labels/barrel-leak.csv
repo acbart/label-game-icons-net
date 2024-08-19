@@ -1,0 +1,24 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+barrel-leak,barrel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,contamination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,environment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,hazard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,leakage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,oil spill,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,pollution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,crude oil,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,ecology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,environmental disaster,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,industrial accident,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,petroleum,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,spillage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,waste,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,marine life,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,natural resource,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,precaution,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,response,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1
+barrel-leak,safety,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jaca2xKZ5QDlnaP1xByKlk9H,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.774508,,1

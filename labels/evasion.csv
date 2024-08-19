@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+evasion,alarm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,alert,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,emergency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,escape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,evacuation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,exit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,siren,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,urgency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,attention,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,crisis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,disaster,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,disruption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,fear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,peril,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,precaution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,running,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,rush,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,threat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,visual signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1
+evasion,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v2Jrbk9jrTwtbWM5Ggw9uQPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.740328,,1

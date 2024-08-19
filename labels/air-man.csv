@@ -1,0 +1,23 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+air-man,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,respirator,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,airflow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,biohazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,fan,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,filter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,ventilation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,breathe,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,circulation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,cooling,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,emergency,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,environment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,equipment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,hazmat,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,health,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,protection gear,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1
+air-man,workplace safety,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zP4ejA2DhLgNEK6eQxmC1YLL,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.552616,,1

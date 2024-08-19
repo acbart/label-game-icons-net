@@ -1,0 +1,31 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+unbalanced,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,counterbalance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,equilibrium,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,level,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,seesaw,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,stability,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,weight distribution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,action-reaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,comparison,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,duality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,duel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,forces,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,fulcrum,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,imbalance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,lever,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,mechanics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,opposite forces,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,opposition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,physics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,pivot,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,scales,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,teeter-totter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,tipping point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1
+unbalanced,triangle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DnRwDSGgs78lQkuOgsL9Idz1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.442827,,1

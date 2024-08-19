@@ -1,0 +1,25 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+bus-stop,bus stop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,commute,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,public transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,stop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,transit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,transport,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,waiting area,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,bench,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,destination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,guide,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,journey planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.240777,,1
+bus-stop,metro,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,route,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,schedule,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,shelter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,signage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,signpost,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,station,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,urban,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,urban infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.240777,,1
+bus-stop,waiting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1
+bus-stop,municipal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uUOwncUT27fyhC9AuFPIVFRT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.239775,,1

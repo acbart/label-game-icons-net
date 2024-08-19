@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+pulse,air circulation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.054573,,1
+pulse,airflow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,blades,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.054573,,1
+pulse,fan,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.054573,,1
+pulse,propeller,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.054573,,1
+pulse,rotation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.054573,,1
+pulse,ventilation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,aerodynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,centrifugal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,cooler,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,cooling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.054573,,1
+pulse,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,machine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,spiral,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,wind,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,circle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1
+pulse,system,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YeliReW6zH7s8qRIVHrswJdp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.055576,,1

@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+p90,ban,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,barred,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,crossed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,forbidden,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,gun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,no firearms,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,prohibition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,restriction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,authority,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,denied,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,disallowed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,law,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,peace,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,prevention,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,regulation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,rules,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,graphics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1
+p90,illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eZHqoQH7p6xalGV8KYFxGa5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.393376,,1

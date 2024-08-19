@@ -1,0 +1,28 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+scalpel,blade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,cut,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,cutting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,incision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,medical device,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,operation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,precision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,precision tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,scalpel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,sharp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,surgery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,surgical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,carving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,clean cut,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,craft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,dissection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,exactness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,instrument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,procedure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,weapon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,artistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1
+scalpel,drawing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aJPxr80erJx1g40OcUu7b3Nu,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.887317,,1

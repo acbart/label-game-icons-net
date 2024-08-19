@@ -1,0 +1,27 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+tic-tac-toe,Xs and Os,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,board,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,grid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,strategy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,three-in-a-row,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,tic-tac-toe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,two-player,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,children's game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,circles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,crosses,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,draw,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,intersection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,logic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,move,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,opponent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,play,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,tie,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,turn-based,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,winning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,zero-sum,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,activity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1
+tic-tac-toe,leisure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZxZRB4obpE2x70kdPmBoQCkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.271252,,1

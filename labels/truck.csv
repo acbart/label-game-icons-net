@@ -1,0 +1,31 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+truck,cargo,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,delivery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,freight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,hauling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,logistics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,truck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,business,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,commerce,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,distribution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,driving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,heavy duty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,long haul,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,route,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,shipping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,supply chain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,trade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,transport,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,wheels,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,cargo hold,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,economy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,fleet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,infrastructure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,navigation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1
+truck,road,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KnQogN3veJfDCSP42PKA4CMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.404766,,1

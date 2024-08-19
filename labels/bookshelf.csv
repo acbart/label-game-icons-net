@@ -1,0 +1,25 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+bookshelf,academic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,bookshelf,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,education,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,information,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,knowledge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,learning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,library,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,literature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,organization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,reading,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,shelving,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,study,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,classification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,collection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,compilation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,display,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,intellectual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,order,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,stack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,stacked,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1
+bookshelf,vertical lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lXjLWjlK3HxXx5TK9vk7fxd8,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.923993,,1

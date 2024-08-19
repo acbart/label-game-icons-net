@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+scabbard,accident,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,caution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,fall,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,injury,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,slip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,exclamation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,physical risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,OSHA,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,alertness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,emergency,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,fall protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,industrial safety,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,prevention,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,safety protocol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,workplace,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1

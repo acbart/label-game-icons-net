@@ -1,0 +1,21 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+door-watcher,access control,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,bank vault,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,keyhole,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,lock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,locking mechanism,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,vault door,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,closed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,confidential,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,door,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,financial security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,protection system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,safekeeping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,storage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,fortress,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1
+door-watcher,steel,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nI9Dkdi1EBAB7NFFqQ8y4yxq,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.592567,,1

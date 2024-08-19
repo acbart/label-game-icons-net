@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+shrug,confusion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,doubt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,gesture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,indifference,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,shrug,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,uncertainty,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,unknown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,ambiguity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,body language,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,casual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,informal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,inquiry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,lack of knowledge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,puzzlement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,question,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,skepticism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,carefree,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,casual conversation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,easygoing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,lack of opinion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,no worries,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,not sure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1
+shrug,relaxed,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0heW51k9yeDbwFFnCJEsaF04,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.813433,,1

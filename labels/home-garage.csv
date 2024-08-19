@@ -1,0 +1,25 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+home-garage,car,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,garage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,parking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,vehicle storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,automobile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,building,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,door,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,entrance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,home,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,residential,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,shelter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,business,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,cover,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,driveway,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,facility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,housing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,real estate,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1
+home-garage,workshop,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_P10tr7ceq1nOkeMF1g4YSoat,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.301724,,1

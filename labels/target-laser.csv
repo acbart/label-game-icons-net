@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+target-laser,ban,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,block,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,forbidden,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,no entry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,not allowed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,prohibit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,prohibition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,restriction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,stop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,anti,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,cancel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,cancellation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,cutting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,exclusion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,geometric shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,line,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,negative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,remove,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,control,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,sharp,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1
+target-laser,subtract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fekmthcs8vLkTkdz0EQmdiJl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.099024,,1

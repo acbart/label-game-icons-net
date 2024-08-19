@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+wood-beam,CCTV,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,camera,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,monitoring,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,surveillance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,data collection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,eye,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,lens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,observation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,recording,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,security system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,surveillance footage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,viewing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,vigilance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,watching,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,alert,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,information,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,insight,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,network,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,oversight,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1
+wood-beam,systematic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wl5ZUNUGhcZOpAQTdLj6m9wa,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.650811,,1

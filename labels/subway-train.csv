@@ -1,0 +1,25 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+subway-train,line,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,metro,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,public transport,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,railway,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,subway,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,track,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,train,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,transit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,commute,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,locomotive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,passenger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,route,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,station,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,transport network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,urban,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,conveyance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,journey,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1
+subway-train,speed,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eXJlgfeWNp4Z40AtsMaUT9IX,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.368978,,1

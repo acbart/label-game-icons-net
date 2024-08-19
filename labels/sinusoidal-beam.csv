@@ -1,0 +1,23 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+sinusoidal-beam,crossed out,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,forbidden,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,no entry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,prohibited,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,banned,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,blocked,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,cancellation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,denial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,entry denied,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,error,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,non-permissible,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,rejection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,restriction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,stop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,alert,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,caution,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,constraint,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,halt,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,inactive,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1
+sinusoidal-beam,unavailable,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.008459,,1
+sinusoidal-beam,undo,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.008459,,1
+sinusoidal-beam,void,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FgcPt5YykTCgVPs0xL6nDTGn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.007558,,1

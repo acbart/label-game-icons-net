@@ -1,0 +1,23 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+traffic-lights-red,signal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,stoplight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,traffic light,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,commute,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,intersection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,management,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,order,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,regulation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,automation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,civil engineering,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,sequencing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,timing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1
+traffic-lights-red,urban,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_btvlbpTyyAIE0VWugXCyqdCg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.347554,,1

@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+sea-cliff,accident,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,disaster,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,falling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,fluid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,liquid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,overturned,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,spillage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,leak,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,mess,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,splash,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,abstract form,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,cascading,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,chaos,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,droplet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,imbalance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,interpretation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1
+sea-cliff,tilt,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tOkC8hRPBXyxrn1ozlLwGmFL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.685894,,1

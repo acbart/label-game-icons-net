@@ -1,0 +1,23 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+traffic-cone,barrier,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,caution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,traffic cone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,circular base,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,obstacle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,precaution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,pyramid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,restriction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,roadwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,triangle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,zoning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,control,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,guidance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,order,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,regulation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1
+traffic-cone,urban,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ww1YpI2JtPs3R6s2VGbBR7Aq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.340523,,1

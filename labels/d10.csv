@@ -1,0 +1,25 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+d10,D20,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,chance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,gaming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,numbers,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,role-playing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,board game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,fun,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,interactive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,luck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,mathematics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,numerical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,polyhedron,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,probability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,randomness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,calculation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,hobby,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,octahedron,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1
+d10,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O4kbfa8z56ThWkQgBv6bVavw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.231084,,1

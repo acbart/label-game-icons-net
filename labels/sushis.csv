@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+sushis,Japanese cuisine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,nigiri,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,rice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,seafood,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,sushi,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,bite-sized,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,chopsticks,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,cuisine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,delicacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,fresh,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,gourmet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,ingredient,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,oriental,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,raw,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,restaurant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,slice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,culture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,dinner,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,fusion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,health,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1
+sushis,tasting,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8Z5XGBHwywXAzUXYfaq9zV0V,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.141142,,1

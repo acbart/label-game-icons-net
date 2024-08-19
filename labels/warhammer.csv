@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+warhammer,accuracy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,calibration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,calipers,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,measurement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,measurement tools,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,precision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,adjustment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,machining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,mechanics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,metalwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,scale,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,technical drawing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,grip,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,mathematics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,science,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1
+warhammer,symmetry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jPLRU9YGO0KJhHWQMSivzYmP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.554175,,1

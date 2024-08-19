@@ -1,0 +1,25 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+lightning-dissipation,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,electricity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,hazard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,lightning bolt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,voltage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,blackout,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,electric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,explosion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,jagged lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,shock,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,storm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,strike,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,thunderstorm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,burst,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,clash,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,weather,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1
+lightning-dissipation,zigzag,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SVAmIM0Jcf39JLo1ASrSCz4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.257967,,1

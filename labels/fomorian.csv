@@ -1,0 +1,28 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+fomorian,accident,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,alert,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,caution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,fall prevention,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,falling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,hazard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,precaution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,risk,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,slippery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,unsafe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,accidental,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,awareness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,chaos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,environmental hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,imbalance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,2
+fomorian,instability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,liability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,public safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,stumble,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,trip,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1
+fomorian,uncertainty,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d5XxgUfi9Vlf2nSaT7YyeJt3,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.428409,,1

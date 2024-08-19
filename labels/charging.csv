@@ -1,0 +1,30 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+charging,battery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,charging,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,electricity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,plug,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,power,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,adapter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,charging station,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,current,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,portable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,recharge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,supply,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,capacity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,circuit,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,dock,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,gadget,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,infrastructure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,input,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,maintenance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,power management,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,socket,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1
+charging,utilities,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bIapvKwpbhBOm5bHUMBOEQ6t,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.197983,,1

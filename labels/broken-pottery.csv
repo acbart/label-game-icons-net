@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+broken-pottery,broken,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,cracked,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,damage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,fragile,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,vase,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,accident,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,collapse,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,disaster,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,disrupt,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,failure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,fissure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,pottery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,ruined,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,sharp lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,zigzag,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,defect,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,discontinuity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,gap,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,imperfection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,interruption,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,rupture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,shatter,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1
+broken-pottery,split,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xG7CrmdVpV3J2SgYEL5hl7QR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.006816,,1

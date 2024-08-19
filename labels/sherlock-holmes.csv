@@ -1,0 +1,25 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+sherlock-holmes,detective,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,inspector,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,investigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,magnifying glass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,mystery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,search,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,clue,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,evidence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,examination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,inquiry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,observation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,profile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,scrutiny,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,sleuth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,sleuthing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,exploration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,perception,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,persona,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,question,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,riddle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,secret,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1
+sherlock-holmes,unsolved,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rtuzglmERItxJXX9tL2u1vGZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.770418,,1

@@ -1,0 +1,26 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+caveman,builder,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,hammer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,manual labor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,worker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,building,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,fixing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,job,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,occupation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,person,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,physically demanding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,repair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,effort,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.166001,,1
+caveman,hard hat,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.166001,,1
+caveman,industry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1
+caveman,outdoor work,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.166001,,1
+caveman,process,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.166001,,1
+caveman,project,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.166001,,1
+caveman,site,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.166001,,1
+caveman,strength,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2P4QEG74JsS99byhBKLfl2C,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.165005,,1

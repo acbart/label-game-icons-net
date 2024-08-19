@@ -1,0 +1,28 @@
+icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+tow-truck,assistance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,crane,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.328459,,1
+tow-truck,roadside assistance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.328459,,1
+tow-truck,tow truck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.328459,,1
+tow-truck,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.328459,,1
+tow-truck,truck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.328459,,1
+tow-truck,aid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,automobile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.328459,,1
+tow-truck,breakdown,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.328459,,1
+tow-truck,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.328459,,1
+tow-truck,hauling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,hook,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.328459,,1
+tow-truck,lift,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,lifting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,load,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,recovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.328459,,1
+tow-truck,rescue,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.328459,,1
+tow-truck,service,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,mechanical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,motion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,operation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
+tow-truck,tool,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5WCw4MBUL1V7tN5r6viXb1u8,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.329545,,1
