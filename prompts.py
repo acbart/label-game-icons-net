@@ -31,6 +31,8 @@ class Prompt:
     changelog: Optional[list[str]] = dataclasses.field(default_factory=list)
     
     def populate(self, icon, icon_data):
+        # An artist name may precede the icon separated by an underscore
+        icon = icon.split("_")[-1]
         return {
             "model": "",
             "response_format": {
