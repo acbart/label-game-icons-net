@@ -33,26 +33,16 @@ jobs:
               uses: actions/checkout@v4
               with:
                   fetch-depth: 0
-            - name: Use Node.js ${{ matrix.node-version }}
-              uses: actions/setup-node@v3
-              with:
-                  node-version: ${{ matrix.node-version }}
-            - id: get-repo-values
-              run: |
-                  url=https://$(echo "${{github.repository}}" | sed "s/\//.github.io\//")
-                  echo "url=$url" >> $GITHUB_OUTPUT
             - name: Set up Python
               uses: actions/setup-python@v4
               with:
                   python-version: '3.x'
-            - name: Copy over index.md to docs/
+            - name: Build csv/json files
               run: |
-                  cp README.md docs/index.md
-            - name: Generate HTML from Markdown for EGDD
-              uses: ldeluigi/markdown-docs@latest
-              with:
-                  src: docs
-                  dst: dist/
+                  python3 combine_labels.py
+            - name: Copy over README.md to docs/
+              run: |
+                  cp README.md dist/index.md
             - name: Setup Pages
               uses: actions/configure-pages@v3
             - name: Upload artifact
