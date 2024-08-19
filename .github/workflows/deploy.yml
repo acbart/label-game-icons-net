@@ -37,6 +37,10 @@ jobs:
               uses: actions/setup-python@v4
               with:
                   python-version: '3.x'
+            - name: Build csv/json files
+              run: |
+                  mkdir dist
+                  python3 combine_labels.py
             - name: Copy over README.md to docs/
               run: |
                   mkdir docs/
@@ -47,9 +51,6 @@ jobs:
                   src: docs/
                   dst: dist/
                   title: "Labels for game-icons.net"
-            - name: Build csv/json files
-              run: |
-                  python3 combine_labels.py
             - name: Setup Pages
               uses: actions/configure-pages@v3
             - name: Upload artifact
