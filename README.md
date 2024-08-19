@@ -6,10 +6,10 @@ The plan is to generate a "first-draft" of labels via the GPT API, and then to a
 
 # Downloads
 
-The following files are available for download:
+The following files are available for download when you view this from the deployed site (otherwise they get placed into the `dist` directory):
 
-* [dist/all_labels.csv](./dist/all_labels.csv) - The full set of labels, without metadata
-* [dist/all_labels.json](./dist/all_labels.json) - The full set of labels, without metadata
+* [all_labels.csv](./all_labels.csv) - The full set of labels, without metadata
+* [all_labels.json](./all_labels.json) - The full set of labels, without metadata
 
 # License
 
