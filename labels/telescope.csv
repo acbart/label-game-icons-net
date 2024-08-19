@@ -1,25 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-telescope,astronomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
+telescope,astronomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
 telescope,cosmos,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
-telescope,galaxy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
+telescope,galaxy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
 telescope,night sky,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
-telescope,observation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
-telescope,outer space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
-telescope,space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
-telescope,stargazing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
+telescope,observation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
+telescope,outer space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
+telescope,space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
+telescope,stargazing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
 telescope,stars,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
-telescope,telescope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
-telescope,universe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
+telescope,telescope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
+telescope,universe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
 telescope,amateur astronomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
-telescope,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
-telescope,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
+telescope,astronomer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1
+telescope,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
+telescope,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1
+telescope,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
 telescope,explore,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
-telescope,lens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
+telescope,focus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1
+telescope,instrument,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1
+telescope,lens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
+telescope,magnification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1
 telescope,observation tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
-telescope,optics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
+telescope,optics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
 telescope,research,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
-telescope,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
-telescope,sight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
+telescope,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
+telescope,search,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1
+telescope,sight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
 telescope,sky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
 telescope,star watch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
-telescope,tripod,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,1
+telescope,study,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1
+telescope,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1
+telescope,tools,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1
+telescope,tripod,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h3fFXO4vWgViLdCmqVfOP1mo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.224674,,2
+telescope,viewing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1
+telescope,cosmic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1
+telescope,curiosity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1
+telescope,horizon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1
+telescope,observation deck,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1
+telescope,planetary,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S90ITwLIZLT6y5clYPR7op4t,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.967100,,1

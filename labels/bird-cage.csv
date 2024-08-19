@@ -1,23 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 bird-cage,animal enclosure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
-bird-cage,barrier,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
+bird-cage,barrier,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,2
 bird-cage,bars,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
-bird-cage,cage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
-bird-cage,containment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
-bird-cage,restriction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
+bird-cage,bird-cage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
+bird-cage,boundaries,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
+bird-cage,cage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,2
+bird-cage,captivity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
+bird-cage,containment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,2
+bird-cage,freedom limitations,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
+bird-cage,restriction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,2
+bird-cage,symbolic enclosure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
+bird-cage,symbolic imprisonment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
 bird-cage,boundary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
-bird-cage,confinement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
+bird-cage,confinement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,2
 bird-cage,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
+bird-cage,curved bars,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
+bird-cage,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
+bird-cage,dome shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
 bird-cage,grid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
-bird-cage,isolation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
+bird-cage,home,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
+bird-cage,imprisonment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
+bird-cage,isolation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,2
 bird-cage,metalwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
 bird-cage,perimeter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
 bird-cage,prison,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
-bird-cage,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
-bird-cage,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
+bird-cage,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,2
+bird-cage,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,2
 bird-cage,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
+bird-cage,vertical bars,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
 bird-cage,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
+bird-cage,aesthetics,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
+bird-cage,arc structure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
 bird-cage,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
 bird-cage,framework,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
 bird-cage,iron,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
-bird-cage,safety,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,1
+bird-cage,ornamental,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
+bird-cage,privacy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yAMgvEfD2Ipcn8WYqqyybZWW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.398055,,1
+bird-cage,safety,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_un9QntEGXpbIdBwKj5PxGbT6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.862992,,2

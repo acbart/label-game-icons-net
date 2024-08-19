@@ -1,26 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-ibis,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
-ibis,beak,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
-ibis,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
-ibis,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
+ibis,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,2
+ibis,beak,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,2
+ibis,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,2
+ibis,ibis,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
+ibis,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,2
 ibis,profile,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
-ibis,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
-ibis,wildlife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
+ibis,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,2
+ibis,wading bird,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
+ibis,wildlife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,2
+ibis,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
 ibis,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
 ibis,avian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
 ibis,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
+ibis,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
 ibis,curved shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
+ibis,curved shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
+ibis,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
+ibis,elegant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
 ibis,grace,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
+ibis,graceful,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
 ibis,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
-ibis,ornithology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
+ibis,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
+ibis,long neck,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
+ibis,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
+ibis,ornithology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,2
+ibis,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
+ibis,pictogram,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
 ibis,standing posture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
 ibis,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
+ibis,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
 ibis,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
+ibis,visual representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
 ibis,zoology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
-ibis,artistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
+ibis,Egyptian mythology,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
+ibis,Z shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
+ibis,artistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,2
 ibis,ecosystem,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
+ibis,emergent,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
 ibis,environment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
 ibis,flight,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
 ibis,habitat,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
 ibis,illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
+ibis,migration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1
 ibis,representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sneraoA9yCchIrXSedei2dYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.357829,,1
+ibis,wetlands,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UpPJI2X4Ob7UUWQa7X2sH2Ho,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.282520,,1

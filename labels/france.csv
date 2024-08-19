@@ -1,22 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-france,country,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.967279,,1
+france,Europe,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.661166,,1
+france,France,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.661166,,1
+france,country,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.967279,,2
 france,map,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.967279,,1
+france,map outline,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.661166,,1
+france,abstract country shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.662060,,1
 france,area,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
 france,border,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
-france,cartography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
+france,boundary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.662060,,1
+france,cartography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,2
+france,continental shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.661166,,1
 france,demarcation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
+france,destination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.662060,,1
 france,division,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
-france,geography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
+france,geography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,2
 france,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
 france,land,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
+france,landmass,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.661166,,1
 france,locale,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
-france,nation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
+france,nation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,2
 france,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
 france,political,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
-france,region,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
+france,region,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,2
+france,territorial outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.661166,,1
 france,territory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
+france,travel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.662060,,1
 france,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
+france,abstract border,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.661166,,1
 france,emblem,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
-france,representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
+france,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.662060,,1
+france,identity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.662060,,1
+france,navigation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.662060,,1
+france,political map,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.662060,,1
+france,representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,2
 france,shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1
+france,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_etIY0045JiPgxFsXybcbIE2U,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.661166,,1
 france,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rL2loSa5zo7YMZ3F1PX1xEJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.968281,,1

@@ -1,24 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 skeleton,anatomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
-skeleton,bones,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
+skeleton,bones,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,2
+skeleton,human anatomy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.166259,,1
 skeleton,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
-skeleton,ribcage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
+skeleton,ribcage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,2
 skeleton,skeletal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
-skeleton,skeleton,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
-skeleton,spine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
-skeleton,vertebrae,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
+skeleton,skeleton,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,2
+skeleton,spine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,2
+skeleton,vertebrae,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,2
 skeleton,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
-skeleton,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
+skeleton,abstract figure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.167259,,1
+skeleton,anatomical structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.167259,,1
+skeleton,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,2
 skeleton,body,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
 skeleton,diagnosis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
+skeleton,diagram,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.167259,,1
 skeleton,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
-skeleton,human figure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
+skeleton,health icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.167259,,1
+skeleton,human figure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,2
 skeleton,humanoid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
+skeleton,medical illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.167259,,1
+skeleton,minimalist design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.167259,,1
 skeleton,sci-fi,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
 skeleton,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
+skeleton,skull,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.167259,,1
+skeleton,spinal column,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.166259,,1
 skeleton,spooky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
-skeleton,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
+skeleton,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,2
 skeleton,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
-skeleton,x-ray,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
+skeleton,x-ray,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,2
+skeleton,alignment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.167259,,1
+skeleton,conceptual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.167259,,1
+skeleton,framework,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.167259,,1
 skeleton,halloween,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
 skeleton,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hY8lmLoz4U4IdgVDhjKWZWQX,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.453674,,1
+skeleton,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.167259,,1
+skeleton,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.167259,,1
+skeleton,skeleton key,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P240qXvNp5YHEs8ZSmNTb3sy,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.167259,,1

@@ -1,23 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-mountain-climbing,ascend,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
+mountain-climbing,ascend,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,2
+mountain-climbing,climber,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
 mountain-climbing,climbing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
+mountain-climbing,mountain-climbing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
 mountain-climbing,mountaineering,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
+mountain-climbing,outdoor activity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
 mountain-climbing,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
-mountain-climbing,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
+mountain-climbing,physical challenge,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
+mountain-climbing,rock face,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
+mountain-climbing,achievement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
+mountain-climbing,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,2
 mountain-climbing,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
 mountain-climbing,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
-mountain-climbing,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
-mountain-climbing,determination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
+mountain-climbing,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,2
+mountain-climbing,determination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,2
+mountain-climbing,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
 mountain-climbing,extreme,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
-mountain-climbing,hiking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
+mountain-climbing,extreme sport,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
+mountain-climbing,fitness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
+mountain-climbing,hiking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,2
+mountain-climbing,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
 mountain-climbing,outdoor recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
 mountain-climbing,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
+mountain-climbing,peak,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
 mountain-climbing,perseverance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
 mountain-climbing,physical activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
 mountain-climbing,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
-mountain-climbing,rope,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
+mountain-climbing,risk-taking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
+mountain-climbing,rope,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,2
 mountain-climbing,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
 mountain-climbing,skill,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
-mountain-climbing,sports,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
+mountain-climbing,sports,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,2
 mountain-climbing,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
+mountain-climbing,summit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
 mountain-climbing,technique,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nCFZittwFUyAEj6d9FORKFCO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.300388,,1
+mountain-climbing,terrain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
+mountain-climbing,vertical climb,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
+mountain-climbing,adrenaline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
+mountain-climbing,gear,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1
+mountain-climbing,success,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bPvL3DaQdu3YOb5y8VsZDWtM,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.133474,,1

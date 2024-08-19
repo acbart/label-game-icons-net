@@ -1,27 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-moncler-jacket,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
+moncler-jacket,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,2
 moncler-jacket,collar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
 moncler-jacket,garment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
-moncler-jacket,jacket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
-moncler-jacket,outerwear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
+moncler-jacket,jacket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,2
+moncler-jacket,outerwear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,2
+moncler-jacket,puffer,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yo6OqwBf7vslu33Lepj4sboy,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.057471,,1
 moncler-jacket,puffy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
 moncler-jacket,quilted,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
-moncler-jacket,winter wear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
+moncler-jacket,winter wear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,2
+moncler-jacket,casual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yo6OqwBf7vslu33Lepj4sboy,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.057471,,1
 moncler-jacket,casual wear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
 moncler-jacket,cold weather,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
 moncler-jacket,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
+moncler-jacket,comfortable,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yo6OqwBf7vslu33Lepj4sboy,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.057471,,1
 moncler-jacket,cozy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
-moncler-jacket,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
+moncler-jacket,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yo6OqwBf7vslu33Lepj4sboy,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.057471,,1
+moncler-jacket,durable,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yo6OqwBf7vslu33Lepj4sboy,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.057471,,1
+moncler-jacket,fabric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yo6OqwBf7vslu33Lepj4sboy,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.057471,,1
+moncler-jacket,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,2
+moncler-jacket,functional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yo6OqwBf7vslu33Lepj4sboy,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.057471,,1
 moncler-jacket,functionality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
-moncler-jacket,insulation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
-moncler-jacket,layering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
-moncler-jacket,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
-moncler-jacket,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
-moncler-jacket,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
-moncler-jacket,warmth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
+moncler-jacket,insulation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,2
+moncler-jacket,layering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,2
+moncler-jacket,modern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yo6OqwBf7vslu33Lepj4sboy,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.057471,,1
+moncler-jacket,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,2
+moncler-jacket,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,2
+moncler-jacket,quilted pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yo6OqwBf7vslu33Lepj4sboy,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.057471,,1
+moncler-jacket,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,2
+moncler-jacket,texture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yo6OqwBf7vslu33Lepj4sboy,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.057471,,1
+moncler-jacket,versatile,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yo6OqwBf7vslu33Lepj4sboy,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.057471,,1
+moncler-jacket,warmth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,2
 moncler-jacket,zipper,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
+moncler-jacket,customizable,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yo6OqwBf7vslu33Lepj4sboy,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.057471,,1
 moncler-jacket,expedition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
 moncler-jacket,fashion statement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
 moncler-jacket,hoodie,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
+moncler-jacket,seams,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yo6OqwBf7vslu33Lepj4sboy,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.057471,,1
 moncler-jacket,travel,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1
 moncler-jacket,windbreaker,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zmME0XSOd0Avaisv20Fk0T28,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.876524,,1

@@ -1,25 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-horned-reptile,fantasy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
-horned-reptile,horns,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
+horned-reptile,angular shapes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
+horned-reptile,fantasy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,2
+horned-reptile,head,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
+horned-reptile,horned reptile,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
+horned-reptile,horns,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,2
 horned-reptile,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
 horned-reptile,mythical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
+horned-reptile,sharp lines,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
+horned-reptile,symmetric design,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
 horned-reptile,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
+horned-reptile,abstract animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
+horned-reptile,aggression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
 horned-reptile,armor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
 horned-reptile,beast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
+horned-reptile,bold,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
 horned-reptile,character,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
-horned-reptile,creature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
+horned-reptile,creature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,2
 horned-reptile,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
 horned-reptile,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
 horned-reptile,eyes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
-horned-reptile,face,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
+horned-reptile,face,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,2
+horned-reptile,fear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
 horned-reptile,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
 horned-reptile,helmet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
 horned-reptile,imaginary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
+horned-reptile,intimidating,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
 horned-reptile,logo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
 horned-reptile,mystical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
-horned-reptile,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
+horned-reptile,mythical creature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
+horned-reptile,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
+horned-reptile,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
+horned-reptile,predator,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
+horned-reptile,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,2
+horned-reptile,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
+horned-reptile,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
 horned-reptile,animal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
 horned-reptile,camouflage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
+horned-reptile,defense,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
+horned-reptile,identity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bqXu4vqXxzUUWcRJUOtoZ3wK,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.096416,,1
 horned-reptile,ornamentation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
 horned-reptile,representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1
 horned-reptile,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qua99zD987kGVDTnyoER7yv5,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.316744,,1

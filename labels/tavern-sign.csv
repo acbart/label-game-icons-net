@@ -1,25 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+tavern-sign,advertisement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
+tavern-sign,ale,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
+tavern-sign,bar,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
+tavern-sign,beer mug,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
 tavern-sign,curtain,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
 tavern-sign,drama,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
 tavern-sign,performance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
 tavern-sign,play,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
+tavern-sign,pub,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
 tavern-sign,show,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
+tavern-sign,signage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
 tavern-sign,stage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
+tavern-sign,tavern,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
 tavern-sign,theater,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
 tavern-sign,acting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
 tavern-sign,actors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
 tavern-sign,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
 tavern-sign,backdrop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
+tavern-sign,banner,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
+tavern-sign,brewery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
 tavern-sign,cinema,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
+tavern-sign,drink,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
 tavern-sign,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
+tavern-sign,establishment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
 tavern-sign,event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
+tavern-sign,food and drink,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
+tavern-sign,gathering place,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
+tavern-sign,hangout,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
+tavern-sign,hospitality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
+tavern-sign,inn,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
+tavern-sign,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
+tavern-sign,meeting point,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
 tavern-sign,musical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
 tavern-sign,opera,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
 tavern-sign,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
 tavern-sign,production,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
+tavern-sign,rustic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
 tavern-sign,scene,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
 tavern-sign,set design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
+tavern-sign,socializing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
 tavern-sign,spotlight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
+tavern-sign,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
+tavern-sign,welcome,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
+tavern-sign,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
 tavern-sign,auditorium,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
+tavern-sign,decor,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
 tavern-sign,movie,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1
+tavern-sign,tradition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dne3s9Ih41f1odKBtDEqBJ1h,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.924122,,1
 tavern-sign,visual arts,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XQ92e5iUIL14HbTm2koeLkJX,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.211675,,1

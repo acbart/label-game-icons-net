@@ -1,26 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-nose-front,breathing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
-nose-front,nose,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
-nose-front,olfactory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
-nose-front,smell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
+nose-front,body part,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MHGwhgzLAST51dA4BG4g5zKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.448332,,1
+nose-front,breathing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,2
+nose-front,facial feature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MHGwhgzLAST51dA4BG4g5zKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.448332,,1
+nose-front,front view,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MHGwhgzLAST51dA4BG4g5zKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.448332,,1
+nose-front,human,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MHGwhgzLAST51dA4BG4g5zKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.448332,,1
+nose-front,nose,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,2
+nose-front,olfactory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,2
+nose-front,smell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,2
+nose-front,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MHGwhgzLAST51dA4BG4g5zKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.448332,,1
 nose-front,air,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
-nose-front,airway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
-nose-front,anatomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
+nose-front,airway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,2
+nose-front,anatomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,2
 nose-front,aroma,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
 nose-front,biological,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
 nose-front,exhale,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
 nose-front,facial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
 nose-front,filter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
 nose-front,fragrance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
-nose-front,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
+nose-front,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,2
 nose-front,human feature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
 nose-front,inhale,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
+nose-front,line art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MHGwhgzLAST51dA4BG4g5zKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.448332,,1
+nose-front,medical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MHGwhgzLAST51dA4BG4g5zKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.448332,,1
+nose-front,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MHGwhgzLAST51dA4BG4g5zKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.448332,,1
 nose-front,nasal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
 nose-front,odor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
 nose-front,organ,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
 nose-front,perception,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
-nose-front,respiration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
-nose-front,scent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
-nose-front,sense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
+nose-front,profile,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MHGwhgzLAST51dA4BG4g5zKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.448332,,1
+nose-front,respiration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,2
+nose-front,scent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,2
+nose-front,sense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,2
+nose-front,simplified,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MHGwhgzLAST51dA4BG4g5zKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.448332,,1
 nose-front,sniffing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
+nose-front,abstract design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MHGwhgzLAST51dA4BG4g5zKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.448332,,1
+nose-front,aesthetics,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MHGwhgzLAST51dA4BG4g5zKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.448332,,1
+nose-front,drawing,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MHGwhgzLAST51dA4BG4g5zKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.448332,,1
 nose-front,protrusion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LJVunjaPFGSd5aOIIQFPigbK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.987558,,1
+nose-front,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MHGwhgzLAST51dA4BG4g5zKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.448332,,1

@@ -1,29 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-choice,checkmark,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
-choice,choice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
-choice,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
-choice,decision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
+choice,alternatives,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
+choice,checkmark,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,2
+choice,choice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,2
+choice,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,2
+choice,decide,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
+choice,decision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,2
+choice,decision-making,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
 choice,no,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
-choice,options,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
+choice,options,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,2
 choice,yes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
+choice,yes or no,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
 choice,alternative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
 choice,approval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
-choice,binary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
+choice,arrow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
+choice,binary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,2
 choice,branching,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
 choice,choice point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
-choice,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
+choice,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,2
 choice,divergence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
+choice,either or,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
 choice,evaluation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
+choice,fork,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
+choice,optional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
 choice,outcome,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
 choice,path,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
+choice,paths,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
+choice,pathway,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
 choice,process,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
 choice,rejection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
-choice,selection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
+choice,selection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,2
+choice,split,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
+choice,task,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
 choice,workflow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
+choice,bifurcation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
+choice,icons,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
+choice,interface,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
 choice,junction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
 choice,logic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
-choice,navigation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
+choice,navigation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,2
 choice,plan,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
-choice,route,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
+choice,progression,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1
+choice,route,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,2
 choice,strategy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
 choice,system,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PXpqAHU9O8IS8r6OGH8Js1XH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.240012,,1
+choice,user interface,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kVnZHvWA9KNwdNVx8jnFPcbB,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.890712,,1

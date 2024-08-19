@@ -1,23 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-skoll_bowie-knife,blade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
+skoll_bowie-knife,blade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,2
+skoll_bowie-knife,bowie knife,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_36x3poaxdRD3WgbWdOBf6ADx,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.622836,,1
 skoll_bowie-knife,dagger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
-skoll_bowie-knife,knife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
-skoll_bowie-knife,sharp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
-skoll_bowie-knife,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
-skoll_bowie-knife,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
-skoll_bowie-knife,cutting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
-skoll_bowie-knife,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
-skoll_bowie-knife,fighting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
-skoll_bowie-knife,hunting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
+skoll_bowie-knife,edged weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_36x3poaxdRD3WgbWdOBf6ADx,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.622836,,1
+skoll_bowie-knife,knife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,2
+skoll_bowie-knife,sharp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,2
+skoll_bowie-knife,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,2
+skoll_bowie-knife,classic design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_36x3poaxdRD3WgbWdOBf6ADx,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.622836,,1
+skoll_bowie-knife,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,2
+skoll_bowie-knife,curved blade,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_36x3poaxdRD3WgbWdOBf6ADx,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.622836,,1
+skoll_bowie-knife,cutting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,2
+skoll_bowie-knife,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,2
+skoll_bowie-knife,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_36x3poaxdRD3WgbWdOBf6ADx,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.622836,,1
+skoll_bowie-knife,fighting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,2
+skoll_bowie-knife,handle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_36x3poaxdRD3WgbWdOBf6ADx,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.622836,,1
+skoll_bowie-knife,hunting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,2
+skoll_bowie-knife,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_36x3poaxdRD3WgbWdOBf6ADx,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.622836,,1
+skoll_bowie-knife,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_36x3poaxdRD3WgbWdOBf6ADx,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.622836,,1
 skoll_bowie-knife,piercing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
 skoll_bowie-knife,point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
-skoll_bowie-knife,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
-skoll_bowie-knife,survival,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
-skoll_bowie-knife,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
-skoll_bowie-knife,cutlery,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
+skoll_bowie-knife,pointed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_36x3poaxdRD3WgbWdOBf6ADx,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.622836,,1
+skoll_bowie-knife,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,2
+skoll_bowie-knife,survival,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,2
+skoll_bowie-knife,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_36x3poaxdRD3WgbWdOBf6ADx,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.622836,,1
+skoll_bowie-knife,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,2
+skoll_bowie-knife,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_36x3poaxdRD3WgbWdOBf6ADx,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.622836,,1
+skoll_bowie-knife,camping,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_36x3poaxdRD3WgbWdOBf6ADx,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.622836,,1
+skoll_bowie-knife,cutlery,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,2
+skoll_bowie-knife,historic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_36x3poaxdRD3WgbWdOBf6ADx,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.622836,,1
 skoll_bowie-knife,historical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
 skoll_bowie-knife,martial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
 skoll_bowie-knife,mission,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
 skoll_bowie-knife,precision,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
 skoll_bowie-knife,stealth,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
 skoll_bowie-knife,sword,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQvjNTcJqsKkUQVUreLncaF0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.043943,,1
+skoll_bowie-knife,utility,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_36x3poaxdRD3WgbWdOBf6ADx,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.622836,,1

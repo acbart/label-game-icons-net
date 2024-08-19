@@ -1,25 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-penguin,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
-penguin,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
-penguin,flightless,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
-penguin,penguin,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
-penguin,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
+penguin,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,2
+penguin,antarctic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
+penguin,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,2
+penguin,cold climate,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
+penguin,flightless,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,2
+penguin,penguin,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,2
+penguin,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,2
 penguin,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
-penguin,arctic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
+penguin,arctic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,2
 penguin,cold region,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
+penguin,curve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
 penguin,cute,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
 penguin,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
 penguin,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
+penguin,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
+penguin,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
+penguin,logo,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
 penguin,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
-penguin,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
+penguin,minimalistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
+penguin,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,2
+penguin,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
 penguin,recognizable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
+penguin,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
 penguin,sea life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
-penguin,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
+penguin,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,2
+penguin,simplified shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
 penguin,south pole,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
+penguin,stylized,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
 penguin,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
-penguin,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
+penguin,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
+penguin,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,2
 penguin,black and white,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
-penguin,cartoonish,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
+penguin,branding,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
+penguin,cartoonish,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,2
 penguin,chic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
-penguin,emblem,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
+penguin,elegance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
+penguin,emblem,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,2
+penguin,endangered species,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
 penguin,mascot,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gQjwcynVaKWcOOJ6XckN6afC,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.156733,,1
+penguin,minimal art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
+penguin,novelty,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1
+penguin,profile,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xakMahAgphJH3t5b0s9HdSUJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.160246,,1

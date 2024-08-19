@@ -1,25 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 shadow-follower,figures,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
+shadow-follower,follower,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
+shadow-follower,human figure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
 shadow-follower,people,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
+shadow-follower,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
 shadow-follower,silhouettes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
 shadow-follower,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
 shadow-follower,community,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
+shadow-follower,companion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
 shadow-follower,companionship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
-shadow-follower,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
+shadow-follower,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,2
+shadow-follower,copier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
 shadow-follower,couple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
+shadow-follower,duplicate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
 shadow-follower,engagement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
 shadow-follower,group,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
-shadow-follower,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
+shadow-follower,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,2
+shadow-follower,imitation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
 shadow-follower,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
 shadow-follower,meeting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
-shadow-follower,pair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
+shadow-follower,mimicry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
+shadow-follower,mirror image,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
+shadow-follower,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
+shadow-follower,pair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,2
 shadow-follower,partners,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
+shadow-follower,reflection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
 shadow-follower,relationship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
 shadow-follower,social,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
 shadow-follower,society,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
+shadow-follower,tailing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
+shadow-follower,tracking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
 shadow-follower,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
 shadow-follower,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
 shadow-follower,ambiguity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
+shadow-follower,appearance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
+shadow-follower,association,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
 shadow-follower,interpretation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
+shadow-follower,overlay,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
 shadow-follower,petition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
-shadow-follower,shadow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,1
+shadow-follower,proximity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZVhZfFDp8y9cDLGYznNMrY72,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.979040,,1
+shadow-follower,shadow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fQbzxNzhbAoWvV0bcLaC3pgT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.932231,,2

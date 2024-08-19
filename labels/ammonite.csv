@@ -1,25 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 ammonite,growth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
+ammonite,marine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s7DHvKp7nUGT1Ww1DwRPcOZp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.555951,,1
 ammonite,marine life,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
-ammonite,nautilus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
-ammonite,sea creature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
-ammonite,shell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
-ammonite,spiral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
-ammonite,ammonite,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
-ammonite,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
+ammonite,nautilus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,2
+ammonite,sea creature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,2
+ammonite,shell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,2
+ammonite,spiral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,2
+ammonite,ammonite,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,2
+ammonite,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s7DHvKp7nUGT1Ww1DwRPcOZp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.555951,,1
+ammonite,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,2
 ammonite,circles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
 ammonite,curl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.806610,,1
-ammonite,evolution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
-ammonite,fossil,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
-ammonite,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
-ammonite,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
+ammonite,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s7DHvKp7nUGT1Ww1DwRPcOZp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.555951,,1
+ammonite,evolution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,2
+ammonite,fossil,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,2
+ammonite,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s7DHvKp7nUGT1Ww1DwRPcOZp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.555951,,1
+ammonite,invertebrate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s7DHvKp7nUGT1Ww1DwRPcOZp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.555951,,1
+ammonite,natural history,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s7DHvKp7nUGT1Ww1DwRPcOZp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.555951,,1
+ammonite,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,2
+ammonite,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,2
+ammonite,paleontology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s7DHvKp7nUGT1Ww1DwRPcOZp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.555951,,1
+ammonite,prehistoric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s7DHvKp7nUGT1Ww1DwRPcOZp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.555951,,1
+ammonite,science,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s7DHvKp7nUGT1Ww1DwRPcOZp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.555951,,1
 ammonite,shellfish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.806610,,1
 ammonite,squid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
 ammonite,swirl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
-ammonite,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
+ammonite,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s7DHvKp7nUGT1Ww1DwRPcOZp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.555951,,1
+ammonite,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,2
+ammonite,tentacles,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s7DHvKp7nUGT1Ww1DwRPcOZp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.555951,,1
 ammonite,underwater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.805609,,1
-ammonite,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.806610,,1
+ammonite,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.806610,,2
 ammonite,artistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.806610,,1
 ammonite,coiling,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.806610,,1
-ammonite,mollusk,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.806610,,1
-ammonite,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.806610,,1
+ammonite,decoration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s7DHvKp7nUGT1Ww1DwRPcOZp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.555951,,1
+ammonite,mollusk,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.806610,,2
+ammonite,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BIuV7QY32MYHU1dbZqUBad6z,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.806610,,2

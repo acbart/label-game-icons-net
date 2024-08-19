@@ -1,25 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-bad-gnome,character,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
+bad-gnome,abstract,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,beard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,character,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,2
+bad-gnome,gnome,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,impish,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,mischievous,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
 bad-gnome,ninja,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
 bad-gnome,stealth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
+bad-gnome,troublemaker,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
 bad-gnome,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
 bad-gnome,agility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
 bad-gnome,assassin,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.408013,,1
 bad-gnome,camouflage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
+bad-gnome,cheeky,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
 bad-gnome,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.408013,,1
+bad-gnome,creature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
 bad-gnome,disguise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
+bad-gnome,dynamic pose,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,expression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,facial features,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,fantastical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,fantasy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,hat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
 bad-gnome,hidden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
+bad-gnome,humanoid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,legendary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
 bad-gnome,martial arts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
 bad-gnome,mask,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.408013,,1
 bad-gnome,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
 bad-gnome,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
+bad-gnome,mythical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,negative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,persona,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
 bad-gnome,shadow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
 bad-gnome,sneak,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
 bad-gnome,spy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.408013,,1
+bad-gnome,storybook,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
 bad-gnome,swift,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
 bad-gnome,vigilante,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.408013,,1
 bad-gnome,warrior,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.408013,,1
+bad-gnome,whimsical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
 bad-gnome,escape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.408013,,1
-bad-gnome,figure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,1
-bad-gnome,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.408013,,1
-bad-gnome,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.408013,,1
+bad-gnome,figure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.406975,,2
+bad-gnome,folk tale,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYZKJWFWZpK2I1TNU86izacV,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.633030,,1
+bad-gnome,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.408013,,2
+bad-gnome,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7uQYJLuYvEHJVw7vr4eKXgFF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.408013,,2

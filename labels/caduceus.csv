@@ -1,26 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-caduceus,caduceus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
-caduceus,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
+caduceus,caduceus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,2
+caduceus,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,2
+caduceus,medical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rcpWt3SUpK97nZhcEEsRVOdZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.141335,,1
 caduceus,medical symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
-caduceus,medicine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
+caduceus,medicine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,2
 caduceus,serpents intertwined,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
-caduceus,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
+caduceus,snakes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rcpWt3SUpK97nZhcEEsRVOdZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.141335,,1
+caduceus,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,2
 caduceus,two snakes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
-caduceus,Hermes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
+caduceus,wings,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rcpWt3SUpK97nZhcEEsRVOdZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.141335,,1
+caduceus,Hermes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,2
+caduceus,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rcpWt3SUpK97nZhcEEsRVOdZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.141335,,1
 caduceus,ancient symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
-caduceus,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
+caduceus,authority,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rcpWt3SUpK97nZhcEEsRVOdZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.141335,,1
+caduceus,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,2
 caduceus,classical symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.066916,,1
-caduceus,commerce,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
-caduceus,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.066916,,1
-caduceus,duality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
-caduceus,healing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
-caduceus,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.066916,,1
+caduceus,commerce,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,2
+caduceus,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.066916,,2
+caduceus,duality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,2
+caduceus,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rcpWt3SUpK97nZhcEEsRVOdZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.141335,,1
+caduceus,healing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,2
+caduceus,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.066916,,2
 caduceus,mythical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.066916,,1
-caduceus,mythology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
-caduceus,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.066916,,1
-caduceus,staff,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
+caduceus,mythology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,2
+caduceus,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.066916,,2
+caduceus,staff,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,2
+caduceus,staff of Hermes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rcpWt3SUpK97nZhcEEsRVOdZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.141335,,1
 caduceus,winged staff,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
+caduceus,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rcpWt3SUpK97nZhcEEsRVOdZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.141335,,1
 caduceus,astronomy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
+caduceus,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rcpWt3SUpK97nZhcEEsRVOdZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.141335,,1
+caduceus,emblem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rcpWt3SUpK97nZhcEEsRVOdZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.141335,,1
+caduceus,logo,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rcpWt3SUpK97nZhcEEsRVOdZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.141335,,1
 caduceus,negotiation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
 caduceus,sacred geometry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.066916,,1
-caduceus,trade,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,1
+caduceus,trade,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uSIMVl52qWcsgxYhRHtmuMhJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.065913,,2

@@ -1,25 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+card-pick,card,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
 card-pick,cards,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
-card-pick,magnifying glass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
+card-pick,choice,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
+card-pick,magnifying glass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,2
+card-pick,pick,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
 card-pick,search,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
-card-pick,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
+card-pick,selection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
+card-pick,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,2
+card-pick,close examination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
 card-pick,clue,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
+card-pick,decision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
+card-pick,deck,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
 card-pick,details,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
 card-pick,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
+card-pick,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
 card-pick,examination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
 card-pick,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
-card-pick,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
+card-pick,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,2
+card-pick,game,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
 card-pick,games,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
 card-pick,inquiry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
 card-pick,insight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
-card-pick,inspection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
+card-pick,inspection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,2
 card-pick,investigate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
 card-pick,investigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
-card-pick,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
+card-pick,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,2
 card-pick,observe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
 card-pick,perception,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
+card-pick,playing cards,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
+card-pick,random selection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
 card-pick,review,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
-card-pick,scrutiny,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
-card-pick,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
+card-pick,scrutiny,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,2
+card-pick,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,2
 card-pick,study,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
+card-pick,symbolic choice,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
+card-pick,activity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
 card-pick,detective,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Vk4Id8hT59r83z8KCbORmTTs,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.715810,,1
+card-pick,fun,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
+card-pick,gambling,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
+card-pick,hobby,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1
+card-pick,luck,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hCJecU52XUkJSfUpurdKlSEw,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.110279,,1

@@ -1,26 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+surprised-skull,alarm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
 surprised-skull,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.344189,,1
 surprised-skull,death,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
+surprised-skull,emotion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
+surprised-skull,expression,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
+surprised-skull,face,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
 surprised-skull,hazard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
 surprised-skull,menacing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
-surprised-skull,skull,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.344189,,1
+surprised-skull,reaction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
+surprised-skull,shock,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
+surprised-skull,skull,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.344189,,2
+surprised-skull,startle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
+surprised-skull,surprise,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
 surprised-skull,threat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
-surprised-skull,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.344189,,1
+surprised-skull,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.344189,,2
+surprised-skull,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
 surprised-skull,abstract face,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.344189,,1
 surprised-skull,aggressive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
 surprised-skull,anatomical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
+surprised-skull,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
 surprised-skull,cartoonish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
 surprised-skull,chaotic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
+surprised-skull,character,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
+surprised-skull,comic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
+surprised-skull,creepy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
 surprised-skull,eye sockets,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.344189,,1
-surprised-skull,fear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
-surprised-skull,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
-surprised-skull,intimidation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
+surprised-skull,eyes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
+surprised-skull,fear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,2
+surprised-skull,ghostly,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
+surprised-skull,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,2
+surprised-skull,intimidation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,2
+surprised-skull,jagged,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
+surprised-skull,mouth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
 surprised-skull,pirate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
+surprised-skull,quirky,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
 surprised-skull,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.344189,,1
-surprised-skull,spiky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.344189,,1
+surprised-skull,skeleton,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
+surprised-skull,spiky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.344189,,2
+surprised-skull,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
 surprised-skull,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
 surprised-skull,teeth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.344189,,1
+surprised-skull,unexpected,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
+surprised-skull,unusual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
 surprised-skull,black spot,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
 surprised-skull,explosive,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.344189,,1
+surprised-skull,ghastly,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
+surprised-skull,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ie63n4YSffgZvXloCDoiNJak,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.619855,,1
 surprised-skull,impact,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.345183,,1
 surprised-skull,sunburst,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aZK3i6SkKfvlccCu6QXeWX0r,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.344189,,1

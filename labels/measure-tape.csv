@@ -1,16 +1,29 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 measure-tape,connection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
+measure-tape,length,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
+measure-tape,measure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
+measure-tape,measurement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
+measure-tape,measurement markings,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
 measure-tape,pathway,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
 measure-tape,railroad,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
 measure-tape,railway system,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
 measure-tape,route,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
+measure-tape,tape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
 measure-tape,tracks,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
 measure-tape,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
 measure-tape,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
+measure-tape,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
+measure-tape,coiling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
 measure-tape,commute,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
+measure-tape,construction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
 measure-tape,convergence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
+measure-tape,curved,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
+measure-tape,dashed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
 measure-tape,destination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
 measure-tape,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
+measure-tape,distance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
+measure-tape,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
+measure-tape,flexible,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
 measure-tape,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
 measure-tape,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
 measure-tape,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
@@ -19,9 +32,21 @@ measure-tape,logistics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batc
 measure-tape,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
 measure-tape,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
 measure-tape,parallel lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
-measure-tape,planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
+measure-tape,planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,2
+measure-tape,precision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
 measure-tape,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
+measure-tape,ruler,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
+measure-tape,scale,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
+measure-tape,sewing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
 measure-tape,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
+measure-tape,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
 measure-tape,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
+measure-tape,calculation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
+measure-tape,crafting,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
+measure-tape,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
+measure-tape,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
 measure-tape,heavy industry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1
+measure-tape,snail shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
+measure-tape,spiral,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
+measure-tape,symmetry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZxnHuGSMSZiq8PNaOZJarBtn,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.711408,,1
 measure-tape,urban,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dznsO7l6mBfdVT7fOybck9PH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.767105,,1

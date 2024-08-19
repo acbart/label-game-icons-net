@@ -1,28 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-land-mine,alert,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,1
+land-mine,alert,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,2
 land-mine,attention,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,1
-land-mine,caution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,1
+land-mine,caution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,2
+land-mine,danger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
 land-mine,exclamation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,1
+land-mine,explosive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
+land-mine,hazard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
 land-mine,important,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,1
+land-mine,land-mine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
+land-mine,military,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
 land-mine,notice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,1
-land-mine,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,1
+land-mine,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,2
 land-mine,activation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1
 land-mine,button,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,1
+land-mine,circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
+land-mine,circular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
 land-mine,command,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1
 land-mine,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1
+land-mine,detonation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
+land-mine,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
+land-mine,exclamation mark,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
 land-mine,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1
 land-mine,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1
 land-mine,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,1
+land-mine,impact,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
 land-mine,indicator,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1
 land-mine,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1
 land-mine,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1
 land-mine,notification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,1
 land-mine,prompt,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1
+land-mine,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
+land-mine,risk,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
+land-mine,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
+land-mine,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
 land-mine,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,1
-land-mine,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,1
+land-mine,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.194755,,2
 land-mine,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1
+land-mine,threat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
+land-mine,trap,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
+land-mine,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
 land-mine,emphasis,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1
 land-mine,graphic element,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1
 land-mine,interface design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1
+land-mine,pictogram,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lJyr1fi7nxtqku4amBxWgkeP,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.513822,,1
 land-mine,pop-up,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1
 land-mine,user interface,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dHchNcTd3soa85CQqXxXkJHW,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.195692,,1

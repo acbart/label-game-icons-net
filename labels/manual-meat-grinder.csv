@@ -1,27 +1,54 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 manual-meat-grinder,artificial intelligence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
 manual-meat-grinder,automation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
+manual-meat-grinder,crank,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,crank handle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,cutting blades,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
 manual-meat-grinder,electronics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
 manual-meat-grinder,engineering,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
 manual-meat-grinder,futuristic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
+manual-meat-grinder,grinding,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,hand-operated,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,kitchen tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
 manual-meat-grinder,machine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
+manual-meat-grinder,manual meat grinder,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,manual operation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,meat processing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
 manual-meat-grinder,mechanism,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
+manual-meat-grinder,mincing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
 manual-meat-grinder,robot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
 manual-meat-grinder,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
 manual-meat-grinder,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
+manual-meat-grinder,appliance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,chop,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
 manual-meat-grinder,circuit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
 manual-meat-grinder,components,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
+manual-meat-grinder,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
 manual-meat-grinder,cyber,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
 manual-meat-grinder,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
-manual-meat-grinder,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
+manual-meat-grinder,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,2
 manual-meat-grinder,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
+manual-meat-grinder,food preparation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,food processing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,functional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
 manual-meat-grinder,future,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
+manual-meat-grinder,gear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
 manual-meat-grinder,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
 manual-meat-grinder,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
+manual-meat-grinder,home cooking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,homemade,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
 manual-meat-grinder,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
 manual-meat-grinder,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
 manual-meat-grinder,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
-manual-meat-grinder,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
+manual-meat-grinder,kitchen equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,2
 manual-meat-grinder,programming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
+manual-meat-grinder,rustic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
 manual-meat-grinder,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
+manual-meat-grinder,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,vintage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
 manual-meat-grinder,block,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8tatQpvQXIwZloeIPCdGDvsn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.741573,,1
+manual-meat-grinder,diagram,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,illustration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1
+manual-meat-grinder,steel,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYkQFVsbX8ilGJNEBPKFBjsM,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.617461,,1

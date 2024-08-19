@@ -1,25 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-archery-target,aim,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
-archery-target,archery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
-archery-target,bullseye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
-archery-target,center,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.834737,,1
-archery-target,focus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.834737,,1
-archery-target,goal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.834737,,1
-archery-target,objective,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
-archery-target,precision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
-archery-target,target,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.834737,,1
-archery-target,accuracy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
-archery-target,achievement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
+archery-target,aim,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,2
+archery-target,archery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,2
+archery-target,bullseye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,2
+archery-target,center,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.834737,,2
+archery-target,focus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.834737,,2
+archery-target,goal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.834737,,2
+archery-target,hitting the mark,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cPHa8kFRs7PtMLO8mAR6hyr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.706631,,1
+archery-target,objective,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,2
+archery-target,precision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,2
+archery-target,target,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.834737,,2
+archery-target,target practice,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cPHa8kFRs7PtMLO8mAR6hyr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.706631,,1
+archery-target,accuracy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,2
+archery-target,achievement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,2
 archery-target,central,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
+archery-target,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cPHa8kFRs7PtMLO8mAR6hyr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.706631,,1
 archery-target,circles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
-archery-target,concentric circles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
+archery-target,concentric circles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,2
 archery-target,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
 archery-target,focal point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
-archery-target,shooting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
-archery-target,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
+archery-target,marksmanship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cPHa8kFRs7PtMLO8mAR6hyr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.706631,,1
+archery-target,rings,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cPHa8kFRs7PtMLO8mAR6hyr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.706631,,1
+archery-target,shooting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,2
+archery-target,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,2
 archery-target,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
+archery-target,competition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cPHa8kFRs7PtMLO8mAR6hyr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.706631,,1
+archery-target,dartboard,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cPHa8kFRs7PtMLO8mAR6hyr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.706631,,1
 archery-target,emphasize,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
+archery-target,game,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cPHa8kFRs7PtMLO8mAR6hyr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.706631,,1
 archery-target,mark,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
 archery-target,navigation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
 archery-target,point,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
 archery-target,roundel,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BeAmW3QZSgLagQMMYArElRsG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.835725,,1
+archery-target,sports,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cPHa8kFRs7PtMLO8mAR6hyr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.706631,,1
+archery-target,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cPHa8kFRs7PtMLO8mAR6hyr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.706631,,1

@@ -1,24 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-perspective-dice-four,chance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
-perspective-dice-four,cube,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
-perspective-dice-four,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
+perspective-dice-four,3D shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
+perspective-dice-four,chance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,2
+perspective-dice-four,cube,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,2
+perspective-dice-four,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,2
 perspective-dice-four,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
-perspective-dice-four,luck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
+perspective-dice-four,luck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,2
 perspective-dice-four,number,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
+perspective-dice-four,number four,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
+perspective-dice-four,perspective,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
 perspective-dice-four,random,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
 perspective-dice-four,board game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
+perspective-dice-four,board games,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
 perspective-dice-four,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
-perspective-dice-four,gaming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
+perspective-dice-four,gameplay,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
+perspective-dice-four,gaming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,2
+perspective-dice-four,numerical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
 perspective-dice-four,probability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
-perspective-dice-four,roll,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
+perspective-dice-four,randomness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
+perspective-dice-four,roll,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,2
+perspective-dice-four,sides,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
 perspective-dice-four,square,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
 perspective-dice-four,tactics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
 perspective-dice-four,three-dimensional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
+perspective-dice-four,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
 perspective-dice-four,block,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
+perspective-dice-four,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
 perspective-dice-four,fortune,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
 perspective-dice-four,gambling,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
+perspective-dice-four,geometric,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
+perspective-dice-four,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
+perspective-dice-four,illustration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
 perspective-dice-four,mathematics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
+perspective-dice-four,orientation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
+perspective-dice-four,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
 perspective-dice-four,play,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
+perspective-dice-four,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
 perspective-dice-four,strategy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
 perspective-dice-four,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
+perspective-dice-four,symbols,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1
 perspective-dice-four,unpredictable,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LxhPff2AtW5x9Xy0pjt8nDZv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.167737,,1
+perspective-dice-four,visualization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Qz6CnscwErEAzRErgOOIOQVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.185024,,1

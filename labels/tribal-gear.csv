@@ -1,27 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 tribal-gear,emblem,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
+tribal-gear,gear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
 tribal-gear,helmet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
-tribal-gear,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
-tribal-gear,spear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
-tribal-gear,warrior,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
-tribal-gear,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
+tribal-gear,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,2
+tribal-gear,spear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,2
+tribal-gear,tribal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
+tribal-gear,warrior,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,2
+tribal-gear,weaponry,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
+tribal-gear,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,2
+tribal-gear,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
 tribal-gear,ancient warfare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
-tribal-gear,armor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
-tribal-gear,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
+tribal-gear,armor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,2
+tribal-gear,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,2
+tribal-gear,bold,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
 tribal-gear,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
 tribal-gear,courage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
-tribal-gear,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
+tribal-gear,culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
+tribal-gear,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
+tribal-gear,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,2
+tribal-gear,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
+tribal-gear,ethnic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
+tribal-gear,geometrics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
+tribal-gear,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
+tribal-gear,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
 tribal-gear,heroic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
+tribal-gear,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
 tribal-gear,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
+tribal-gear,identity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
+tribal-gear,markings,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
 tribal-gear,martial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
 tribal-gear,military,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
-tribal-gear,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
+tribal-gear,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
+tribal-gear,primitive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
+tribal-gear,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,3
 tribal-gear,protection gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
+tribal-gear,ritual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
 tribal-gear,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
+tribal-gear,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
 tribal-gear,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
+tribal-gear,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h38YvU4il8IywUExkIPOIm00,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.644271,,1
 tribal-gear,Greek warrior,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
 tribal-gear,Roman soldier,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
-tribal-gear,historical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
+tribal-gear,historical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,2
 tribal-gear,knight,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
 tribal-gear,medieval,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1
 tribal-gear,mythological,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7dIy29ImYkUKTii1PMdDt9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.370768,,1

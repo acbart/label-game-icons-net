@@ -1,24 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-key-lock,control,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
-key-lock,key,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
-key-lock,keyhole,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
-key-lock,lock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
-key-lock,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
-key-lock,safeguard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
-key-lock,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
-key-lock,unlock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
-key-lock,access,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
-key-lock,authorization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
+key-lock,control,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,2
+key-lock,key,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,2
+key-lock,keyhole,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,2
+key-lock,lock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,2
+key-lock,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,2
+key-lock,safeguard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,2
+key-lock,safety,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
+key-lock,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,2
+key-lock,unlock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,2
+key-lock,access,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,2
+key-lock,authentication,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
+key-lock,authorization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,2
+key-lock,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
+key-lock,closure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
+key-lock,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
+key-lock,device,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
 key-lock,door,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
-key-lock,entry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
+key-lock,encryption,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
+key-lock,entry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,2
 key-lock,gate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
+key-lock,guard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
 key-lock,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
-key-lock,mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
-key-lock,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
+key-lock,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
+key-lock,locking system,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
+key-lock,mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,2
+key-lock,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,2
+key-lock,privacy protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
 key-lock,privilege,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
-key-lock,safe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
+key-lock,protection mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
+key-lock,restriction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
+key-lock,safe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,2
+key-lock,secrecy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
 key-lock,secret,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
+key-lock,security measures,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
 key-lock,solution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
+key-lock,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gIOYLtx6WJKabaqdu5ViEubV,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.849473,,1
 key-lock,metaphor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
 key-lock,puzzle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1
 key-lock,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BaWxSQeLoF6nWjITOJzoFfaa,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.518855,,1

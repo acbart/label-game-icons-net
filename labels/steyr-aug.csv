@@ -1,21 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 steyr-aug,anti-smoking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.482398,,1
+steyr-aug,assault,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
 steyr-aug,ban,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.481394,,1
 steyr-aug,cigarette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.481394,,1
 steyr-aug,crossed out,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.481394,,1
+steyr-aug,firearm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
 steyr-aug,forbidden,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.481394,,1
+steyr-aug,gun,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
+steyr-aug,military,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
 steyr-aug,no smoking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.481394,,1
 steyr-aug,prohibition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.481394,,1
+steyr-aug,rifle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
+steyr-aug,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
+steyr-aug,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
+steyr-aug,armed forces,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
+steyr-aug,arms,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
 steyr-aug,avoidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.482398,,1
 steyr-aug,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.481394,,1
+steyr-aug,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
+steyr-aug,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
+steyr-aug,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
+steyr-aug,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
 steyr-aug,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.481394,,1
+steyr-aug,infantry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
 steyr-aug,instruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.482398,,1
 steyr-aug,line,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.482398,,1
 steyr-aug,message,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.482398,,1
+steyr-aug,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
 steyr-aug,policy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.482398,,1
+steyr-aug,precision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
+steyr-aug,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
 steyr-aug,public health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.482398,,1
 steyr-aug,restriction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.481394,,1
 steyr-aug,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.482398,,1
+steyr-aug,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
+steyr-aug,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
 steyr-aug,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.481394,,1
+steyr-aug,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
+steyr-aug,technical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
 steyr-aug,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.481394,,1
+steyr-aug,angled,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
+steyr-aug,linear,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1
 steyr-aug,negative space,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vTX8KkcHIYbj5RLPMJFmvoaK,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.482398,,1
+steyr-aug,smooth,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgicsTnoG0aSKejxAEXAqnYn,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.268218,,1

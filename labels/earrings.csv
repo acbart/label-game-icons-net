@@ -1,23 +1,36 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+earrings,accessories,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BZLiiman1gvy1ZGLoqhEHJee,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.474042,,1
 earrings,accessory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,1
-earrings,earrings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.649907,,1
-earrings,fashion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,1
-earrings,jewelry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,1
-earrings,ornament,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,1
-earrings,pendant,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,1
+earrings,diamond shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BZLiiman1gvy1ZGLoqhEHJee,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.474042,,1
+earrings,earrings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.649907,,2
+earrings,fashion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,2
+earrings,hook,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BZLiiman1gvy1ZGLoqhEHJee,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.474042,,1
+earrings,jewelry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,2
+earrings,ornament,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,2
+earrings,pendant,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,2
+earrings,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BZLiiman1gvy1ZGLoqhEHJee,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.474042,,1
 earrings,aesthetic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,1
-earrings,chic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650544,,1
+earrings,chic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650544,,2
 earrings,danglers,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650544,,1
 earrings,dangling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650544,,1
 earrings,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,1
-earrings,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,1
+earrings,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,2
+earrings,drop design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BZLiiman1gvy1ZGLoqhEHJee,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.474042,,1
 earrings,earring hooks,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,1
-earrings,elegant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,1
-earrings,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,1
+earrings,elegant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,2
+earrings,feminine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BZLiiman1gvy1ZGLoqhEHJee,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.474042,,1
+earrings,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,2
 earrings,luxury,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650544,,1
-earrings,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,1
-earrings,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,1
+earrings,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BZLiiman1gvy1ZGLoqhEHJee,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.474042,,1
+earrings,modern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BZLiiman1gvy1ZGLoqhEHJee,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.474042,,1
+earrings,pair,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BZLiiman1gvy1ZGLoqhEHJee,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.474042,,1
+earrings,personal adornment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BZLiiman1gvy1ZGLoqhEHJee,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.474042,,1
+earrings,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,2
+earrings,stylish,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BZLiiman1gvy1ZGLoqhEHJee,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.474042,,1
+earrings,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,2
 earrings,art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650544,,1
+earrings,artistic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BZLiiman1gvy1ZGLoqhEHJee,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.474042,,1
+earrings,bold,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BZLiiman1gvy1ZGLoqhEHJee,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.474042,,1
 earrings,craftsmanship,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650544,,1
-earrings,formal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,1
+earrings,formal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650453,,2
 earrings,shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_O6EFmktZ6CSHcZ1rQlIVZKtY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.650544,,1

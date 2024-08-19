@@ -1,25 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-lambda,Greek letter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
-lambda,calculus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
+lambda,Greek letter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,2
+lambda,abstraction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_A772hDOIsdR3AAs7PmlW1vOb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.046808,,1
+lambda,calculus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,2
 lambda,computation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
-lambda,function,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
-lambda,lambda,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
-lambda,lambda calculus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
+lambda,function,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,2
+lambda,functional programming,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_A772hDOIsdR3AAs7PmlW1vOb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.046808,,1
+lambda,lambda,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,2
+lambda,lambda calculus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,2
 lambda,lambda expression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
+lambda,math notation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_A772hDOIsdR3AAs7PmlW1vOb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.046808,,1
 lambda,mathematical notation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
-lambda,mathematics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
-lambda,programming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
-lambda,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
+lambda,mathematics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,2
+lambda,programming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,2
+lambda,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,2
+lambda,theoretical computer science,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_A772hDOIsdR3AAs7PmlW1vOb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.046808,,1
 lambda,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
+lambda,abstraction layer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_A772hDOIsdR3AAs7PmlW1vOb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.046808,,1
 lambda,academic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
-lambda,equation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
-lambda,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
+lambda,algorithm,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_A772hDOIsdR3AAs7PmlW1vOb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.046808,,1
+lambda,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_A772hDOIsdR3AAs7PmlW1vOb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.046808,,1
+lambda,data,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_A772hDOIsdR3AAs7PmlW1vOb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.046808,,1
+lambda,equation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,2
+lambda,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,2
 lambda,formula,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
 lambda,integral,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
+lambda,logic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_A772hDOIsdR3AAs7PmlW1vOb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.046808,,1
+lambda,notation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_A772hDOIsdR3AAs7PmlW1vOb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.046808,,1
 lambda,notations,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
 lambda,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
-lambda,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
+lambda,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,2
 lambda,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
 lambda,theory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
+lambda,variable,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_A772hDOIsdR3AAs7PmlW1vOb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.046808,,1
 lambda,variables,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
+lambda,elegance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_A772hDOIsdR3AAs7PmlW1vOb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.046808,,1
 lambda,letters,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KJv0REp7gY6M04xXHdfTbEue,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.582990,,1
+lambda,structure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_A772hDOIsdR3AAs7PmlW1vOb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.046808,,1

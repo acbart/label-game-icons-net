@@ -1,27 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-paper-clip,attachment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
-paper-clip,binding,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
-paper-clip,clip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
+paper-clip,attachment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,2
+paper-clip,binding,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,2
+paper-clip,clip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,2
+paper-clip,fastener,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
 paper-clip,fastening,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
+paper-clip,hold papers,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
 paper-clip,holding papers,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
 paper-clip,office supply,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
-paper-clip,organization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
+paper-clip,organization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,2
+paper-clip,organization tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
+paper-clip,paper management,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
+paper-clip,paper-clip,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
 paper-clip,paperclip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
-paper-clip,stationery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
+paper-clip,secure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
+paper-clip,stationery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,2
+paper-clip,U-shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
 paper-clip,binder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
-paper-clip,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
+paper-clip,bundle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
+paper-clip,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,2
+paper-clip,curve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
 paper-clip,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
+paper-clip,document,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
+paper-clip,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
 paper-clip,everyday use,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
+paper-clip,join,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
 paper-clip,lightweight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
-paper-clip,link,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
+paper-clip,link,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,2
+paper-clip,loop,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
 paper-clip,loops,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
+paper-clip,metal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
 paper-clip,metal wire,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
-paper-clip,minimalism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
-paper-clip,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
-paper-clip,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
+paper-clip,minimalism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,2
+paper-clip,office,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
+paper-clip,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,2
+paper-clip,streamline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
+paper-clip,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,2
+paper-clip,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
 paper-clip,temporary hold,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
-paper-clip,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
+paper-clip,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,2
 paper-clip,form,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
+paper-clip,hardware,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
 paper-clip,object,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
 paper-clip,shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1
+paper-clip,simplification,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PdYBADh7kqzwfV4YgBqPUsTV,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.965638,,1
 paper-clip,tool,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KNnCODs5jEe4gNHppwVqndxp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.095999,,1

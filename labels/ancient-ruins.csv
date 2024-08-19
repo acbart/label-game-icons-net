@@ -1,27 +1,53 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+ancient-ruins,ancient,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
+ancient-ruins,antiquity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
+ancient-ruins,archaeology,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
 ancient-ruins,building,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
 ancient-ruins,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
 ancient-ruins,construction site,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
+ancient-ruins,cultural,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
 ancient-ruins,demolition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
-ancient-ruins,destruction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
+ancient-ruins,destruction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,2
+ancient-ruins,heritage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
+ancient-ruins,historical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
+ancient-ruins,history,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
 ancient-ruins,industrial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
-ancient-ruins,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
-ancient-ruins,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
+ancient-ruins,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,2
+ancient-ruins,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,2
+ancient-ruins,artifacts,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
 ancient-ruins,bricks,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
+ancient-ruins,collapse,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
 ancient-ruins,crane,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
+ancient-ruins,debris,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
+ancient-ruins,decay,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
+ancient-ruins,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
+ancient-ruins,disrepair,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
 ancient-ruins,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
 ancient-ruins,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
 ancient-ruins,excavation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
 ancient-ruins,heavy machinery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
+ancient-ruins,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
 ancient-ruins,labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
 ancient-ruins,manual work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
 ancient-ruins,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
+ancient-ruins,monument,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
+ancient-ruins,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
 ancient-ruins,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
-ancient-ruins,ruins,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
+ancient-ruins,pyramid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
+ancient-ruins,relic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
+ancient-ruins,remnant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
+ancient-ruins,ruination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
+ancient-ruins,ruins,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,2
 ancient-ruins,site,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
+ancient-ruins,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
 ancient-ruins,urban,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
 ancient-ruins,urban development,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
 ancient-ruins,walls,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
 ancient-ruins,wrecking ball,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
+ancient-ruins,ziggurat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
+ancient-ruins,ancestors,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
+ancient-ruins,medieval,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
 ancient-ruins,safety,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
+ancient-ruins,time,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1
 ancient-ruins,tools,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8yPUhipCc0dCgGZrZOX9kxto,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.601743,,1
+ancient-ruins,tourism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xgNHG0SMDaotFCcbEzXlD4j3,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.369211,,1

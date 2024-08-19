@@ -1,29 +1,55 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 orb-wand,audio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
+orb-wand,enchantment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
+orb-wand,magic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
 orb-wand,microphone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
+orb-wand,orb,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
 orb-wand,recording,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
+orb-wand,sorcery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
 orb-wand,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
 orb-wand,speech,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
+orb-wand,spellcasting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
 orb-wand,voice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
+orb-wand,wand,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
+orb-wand,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
 orb-wand,amplification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
 orb-wand,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
 orb-wand,broadcasting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
+orb-wand,ceremonial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
+orb-wand,circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
 orb-wand,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
 orb-wand,communication tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.851374,,1
 orb-wand,concert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
+orb-wand,energy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
 orb-wand,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
 orb-wand,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
+orb-wand,fantasy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
+orb-wand,focus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
 orb-wand,iconic symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
 orb-wand,interview,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.851374,,1
 orb-wand,karaoke,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
 orb-wand,media,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
 orb-wand,music,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
+orb-wand,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
+orb-wand,mystical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
+orb-wand,mythical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
 orb-wand,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
 orb-wand,podcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
+orb-wand,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
 orb-wand,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
 orb-wand,presentation tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
 orb-wand,public speaking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
+orb-wand,ritual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
+orb-wand,scepter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
 orb-wand,singing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
 orb-wand,studio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
+orb-wand,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
+orb-wand,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
+orb-wand,alchemy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
+orb-wand,amulet,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
 orb-wand,announcement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1
+orb-wand,circle pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
+orb-wand,conjuring,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
+orb-wand,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
+orb-wand,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HZGGzAZzpVbRxitFTirSs83J,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.454435,,1
 orb-wand,technology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SBBU1MmeEr6OlL0t5bLtXE7T,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.850276,,1

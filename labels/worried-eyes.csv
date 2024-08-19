@@ -1,23 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-worried-eyes,eyes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
-worried-eyes,gaze,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
+worried-eyes,anxiety,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.148895,,1
+worried-eyes,concern,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.147899,,1
+worried-eyes,emotion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.147899,,1
+worried-eyes,eyeballs,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.148895,,1
+worried-eyes,eyes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,2
+worried-eyes,gaze,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,2
 worried-eyes,looking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
+worried-eyes,pupil,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.148895,,1
 worried-eyes,seeing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
 worried-eyes,sight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
 worried-eyes,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
-worried-eyes,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
-worried-eyes,attention,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
-worried-eyes,awareness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
+worried-eyes,worry,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.147899,,1
+worried-eyes,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,2
+worried-eyes,attention,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,2
+worried-eyes,awareness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,2
+worried-eyes,caution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.148895,,1
 worried-eyes,dual focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
-worried-eyes,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
-worried-eyes,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
+worried-eyes,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,2
+worried-eyes,fear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.148895,,1
+worried-eyes,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,2
+worried-eyes,glance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.148895,,1
 worried-eyes,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.811565,,1
+worried-eyes,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.148895,,1
+worried-eyes,nervous,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.147899,,1
 worried-eyes,notice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
 worried-eyes,observation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,2
+worried-eyes,oval,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.148895,,1
 worried-eyes,pair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
 worried-eyes,perception,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
+worried-eyes,simple shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.148895,,1
+worried-eyes,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.148895,,1
+worried-eyes,visual cue,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.148895,,1
 worried-eyes,watchful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.811565,,1
 worried-eyes,watching,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1
+worried-eyes,cartoon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.148895,,1
+worried-eyes,critique,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c3Cat923X8TJwUGhzx3qXalc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.148895,,1
 worried-eyes,graphic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.811565,,1
 worried-eyes,inspection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.811565,,1
 worried-eyes,spectator,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8X6B6oLrrOvb8dkLYr0QklY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.810564,,1

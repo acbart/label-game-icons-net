@@ -1,23 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-sunglasses,eyewear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
+sunglasses,eyewear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,2
+sunglasses,frame,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
 sunglasses,frames,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
+sunglasses,glare,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
 sunglasses,glasses,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
+sunglasses,lens,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
+sunglasses,protection from sun,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
+sunglasses,shade,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
 sunglasses,sight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
 sunglasses,spectacles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
-sunglasses,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
-sunglasses,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
+sunglasses,summer,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
+sunglasses,sunglasses,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
+sunglasses,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,2
+sunglasses,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
+sunglasses,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,2
+sunglasses,beach,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
 sunglasses,circular shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
 sunglasses,clarity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
+sunglasses,cool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
+sunglasses,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.546053,,1
+sunglasses,eye,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
 sunglasses,eye health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
-sunglasses,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
+sunglasses,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,2
 sunglasses,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
+sunglasses,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
+sunglasses,holiday,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
+sunglasses,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
+sunglasses,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.546053,,1
 sunglasses,lens frames,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
 sunglasses,lenses,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
-sunglasses,optics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
+sunglasses,minimalistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
+sunglasses,modern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
+sunglasses,optics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,2
+sunglasses,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
 sunglasses,perception,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
-sunglasses,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
+sunglasses,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,2
 sunglasses,reading,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
-sunglasses,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
+sunglasses,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,2
+sunglasses,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
+sunglasses,travel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.546053,,1
+sunglasses,trendy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.545128,,1
+sunglasses,vacation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c5tSzw0bNl8WFy7ZmAcV9YCZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.546053,,1
 sunglasses,detail,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
 sunglasses,education,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1
 sunglasses,intelligence,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ily2hC69CCf8N3osOhvJmVKl,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.129136,,1

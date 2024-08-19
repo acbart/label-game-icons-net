@@ -1,7 +1,13 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+crook-flail,Egyptian iconography,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
+crook-flail,ancient symbols,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
+crook-flail,crook,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
+crook-flail,flail,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
 crook-flail,frequency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
 crook-flail,harmonics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
+crook-flail,historical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
 crook-flail,oscillation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
+crook-flail,pharaonic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
 crook-flail,physics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
 crook-flail,pitch,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
 crook-flail,resonance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
@@ -10,15 +16,34 @@ crook-flail,tuning fork,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch
 crook-flail,vibration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
 crook-flail,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
 crook-flail,audio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
+crook-flail,authority,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
 crook-flail,calibration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
+crook-flail,ceremonial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
+crook-flail,crossed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
+crook-flail,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
+crook-flail,duality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
 crook-flail,experiment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
 crook-flail,experimental,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
+crook-flail,harvest,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
+crook-flail,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
+crook-flail,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
 crook-flail,instrument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
+crook-flail,leadership,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
 crook-flail,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
 crook-flail,music,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
+crook-flail,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
+crook-flail,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
 crook-flail,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
+crook-flail,royalty,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
 crook-flail,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
+crook-flail,shepherd's crook,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
 crook-flail,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
+crook-flail,symbols,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
 crook-flail,testing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
 crook-flail,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
 crook-flail,wave,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oyGv0BxRBJv9B9ONT0m1MROA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.421718,,1
+crook-flail,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
+crook-flail,curve,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
+crook-flail,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
+crook-flail,linear shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1
+crook-flail,zigzag pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yKGi7Ra7YJWn3pnG9azLYy7u,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.694226,,1

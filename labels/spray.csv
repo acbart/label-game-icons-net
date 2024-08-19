@@ -1,26 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-spray,aerosol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
-spray,art,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
+spray,aerosol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
+spray,art,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
 spray,canister,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
-spray,creativity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
+spray,creativity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
 spray,expression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
-spray,graffiti,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
-spray,paint,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
-spray,spray can,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
-spray,street art,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
-spray,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
-spray,cap,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
-spray,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
+spray,graffiti,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
+spray,paint,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
+spray,spray,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1
+spray,spray can,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
+spray,spray paint,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1
+spray,sprayer,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1
+spray,street art,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
+spray,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
+spray,application,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1
+spray,cap,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
+spray,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
 spray,creative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
-spray,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
-spray,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
+spray,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
+spray,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
+spray,dispersion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1
+spray,function,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1
+spray,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1
 spray,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
 spray,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
-spray,nozzle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
+spray,mist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1
+spray,nozzle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
+spray,pressure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1
 spray,pressurized,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
 spray,supply,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
-spray,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
-spray,urban,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
+spray,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
+spray,urban,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,2
 spray,DIY,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
 spray,craft,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
+spray,indicative,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1
 spray,non-toxic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hBNlFu6D4XBdV6EDY3ITWqwH,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.210381,,1
+spray,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1
+spray,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1
+spray,simplistic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1
+spray,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1
+spray,utilitarian,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TG2RCHobcE6zBbTzEIdhAUqz,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.091086,,1

@@ -1,26 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-modern-city,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.868526,,1
-modern-city,buildings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.868526,,1
-modern-city,cityscape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.868526,,1
+modern-city,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.868526,,2
+modern-city,buildings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.868526,,2
+modern-city,cityscape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.868526,,2
 modern-city,high-rise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.868526,,1
-modern-city,skyline,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.868526,,1
-modern-city,skyscraper,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
-modern-city,urban,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.868526,,1
-modern-city,business district,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
+modern-city,modernity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JlReXPKwILeCQaIb5CGuTmMM,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.027474,,1
+modern-city,skyline,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.868526,,2
+modern-city,skyscraper,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,2
+modern-city,urban,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.868526,,2
+modern-city,business district,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,2
 modern-city,city planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
 modern-city,commercial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
-modern-city,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
-modern-city,corporate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
-modern-city,development,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
+modern-city,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,2
+modern-city,corporate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,2
+modern-city,density,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JlReXPKwILeCQaIb5CGuTmMM,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.027474,,1
+modern-city,development,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,2
 modern-city,downtown,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
-modern-city,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
-modern-city,metropolis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.868526,,1
+modern-city,economic center,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JlReXPKwILeCQaIb5CGuTmMM,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.027474,,1
+modern-city,growth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JlReXPKwILeCQaIb5CGuTmMM,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.027474,,1
+modern-city,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,2
+modern-city,living spaces,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JlReXPKwILeCQaIb5CGuTmMM,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.027474,,1
+modern-city,metropolis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.868526,,2
 modern-city,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
 modern-city,office,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.868526,,1
-modern-city,real estate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
+modern-city,progress,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JlReXPKwILeCQaIb5CGuTmMM,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.027474,,1
+modern-city,real estate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,2
 modern-city,skyline silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
+modern-city,urban planning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JlReXPKwILeCQaIb5CGuTmMM,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.027474,,1
 modern-city,urbanization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
 modern-city,avenue,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
+modern-city,commuting,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JlReXPKwILeCQaIb5CGuTmMM,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.027474,,1
+modern-city,cosmopolitan,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JlReXPKwILeCQaIb5CGuTmMM,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.027474,,1
+modern-city,diversity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JlReXPKwILeCQaIb5CGuTmMM,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.027474,,1
+modern-city,globalization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JlReXPKwILeCQaIb5CGuTmMM,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.027474,,1
+modern-city,innovation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JlReXPKwILeCQaIb5CGuTmMM,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.027474,,1
 modern-city,municipality,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
+modern-city,network,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JlReXPKwILeCQaIb5CGuTmMM,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.027474,,1
 modern-city,residential,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1
 modern-city,zoning,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KQ78YhuZdMaKnBxa7mHcSRyw,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.869525,,1

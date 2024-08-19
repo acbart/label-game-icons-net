@@ -1,25 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 cooler,box,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
-cooler,cold,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
-cooler,container,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
+cooler,cold,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,2
+cooler,container,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,2
 cooler,cool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
+cooler,cooler,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MQhZ9kB3fANjuWLMl7eOKmf6,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.440254,,1
 cooler,freezer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
-cooler,frozen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
+cooler,frozen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,2
 cooler,ice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
-cooler,preservation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
-cooler,snowflake,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
-cooler,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
-cooler,chill,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
+cooler,preservation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,2
+cooler,snowflake,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,2
+cooler,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,2
+cooler,beverage cooler,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MQhZ9kB3fANjuWLMl7eOKmf6,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.440254,,1
+cooler,chill,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,2
 cooler,climate control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
-cooler,frost,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
+cooler,frost,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,2
+cooler,insulated,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MQhZ9kB3fANjuWLMl7eOKmf6,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.440254,,1
 cooler,insulation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
 cooler,non-perishable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
+cooler,portable,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MQhZ9kB3fANjuWLMl7eOKmf6,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.440254,,1
 cooler,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
 cooler,refrigeration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
 cooler,temperature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
+cooler,temperature control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MQhZ9kB3fANjuWLMl7eOKmf6,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.440254,,1
+cooler,Arctic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MQhZ9kB3fANjuWLMl7eOKmf6,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.440254,,1
+cooler,camping,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MQhZ9kB3fANjuWLMl7eOKmf6,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.440254,,1
+cooler,chill box,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MQhZ9kB3fANjuWLMl7eOKmf6,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.440254,,1
+cooler,crisp,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MQhZ9kB3fANjuWLMl7eOKmf6,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.440254,,1
+cooler,durable,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MQhZ9kB3fANjuWLMl7eOKmf6,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.440254,,1
 cooler,environment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
 cooler,glacier,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
-cooler,icebox,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
+cooler,icebox,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,2
 cooler,network,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
+cooler,outdoor activity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MQhZ9kB3fANjuWLMl7eOKmf6,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.440254,,1
+cooler,refreshment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MQhZ9kB3fANjuWLMl7eOKmf6,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.440254,,1
 cooler,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1
+cooler,thermos,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MQhZ9kB3fANjuWLMl7eOKmf6,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.440254,,1
+cooler,weatherproof,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MQhZ9kB3fANjuWLMl7eOKmf6,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.440254,,1
 cooler,winter,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_knA6KWW0NMzIf03x50ph3Qbv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.369718,,1

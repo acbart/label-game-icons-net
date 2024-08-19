@@ -1,26 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 sbed_grenade,bodybuilding,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
+sbed_grenade,danger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
+sbed_grenade,detonation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
 sbed_grenade,dumbbell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
 sbed_grenade,exercise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
+sbed_grenade,explosive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
 sbed_grenade,fitness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
+sbed_grenade,grenade,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
 sbed_grenade,gym,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
 sbed_grenade,lift,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
+sbed_grenade,military,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
 sbed_grenade,muscle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
 sbed_grenade,strength,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
 sbed_grenade,training,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
+sbed_grenade,warfare,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
+sbed_grenade,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
 sbed_grenade,weight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
 sbed_grenade,workout,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
 sbed_grenade,aerobics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
 sbed_grenade,bar,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
+sbed_grenade,blast,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
+sbed_grenade,caution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
+sbed_grenade,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
+sbed_grenade,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
+sbed_grenade,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
 sbed_grenade,endurance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
 sbed_grenade,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
+sbed_grenade,handle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
 sbed_grenade,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
 sbed_grenade,heavy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
+sbed_grenade,impact,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
 sbed_grenade,physical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
+sbed_grenade,pin,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
 sbed_grenade,resistance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
+sbed_grenade,risk,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
+sbed_grenade,round shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
+sbed_grenade,safety lever,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
+sbed_grenade,security threat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
 sbed_grenade,sport,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
+sbed_grenade,symbolic of conflict,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
+sbed_grenade,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
 sbed_grenade,balanced,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
 sbed_grenade,compact,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
+sbed_grenade,hardware,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
 sbed_grenade,object,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
+sbed_grenade,protection device,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
 sbed_grenade,round,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1
+sbed_grenade,self-defense,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ry182n5DsyBpNE7is9REP2io,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.539457,,1
 sbed_grenade,solid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bb0Y2P3xCJFJPHZDZZb6J9bp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.931217,,1

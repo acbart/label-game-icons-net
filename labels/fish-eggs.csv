@@ -1,25 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-fish-eggs,aquatic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
+fish-eggs,aquatic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,2
 fish-eggs,bubbles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
-fish-eggs,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
-fish-eggs,school,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
-fish-eggs,sea life,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
+fish-eggs,eggs,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
+fish-eggs,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,2
+fish-eggs,life cycle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
+fish-eggs,reproduction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
+fish-eggs,school,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,2
+fish-eggs,sea life,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,2
+fish-eggs,spawn,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
+fish-eggs,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
+fish-eggs,abundance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
 fish-eggs,bubble cluster,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
+fish-eggs,circles,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
+fish-eggs,cluster,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
+fish-eggs,composition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
+fish-eggs,continued growth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
 fish-eggs,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
+fish-eggs,embryo,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
 fish-eggs,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
+fish-eggs,fertility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
 fish-eggs,habitat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
+fish-eggs,hatching,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
 fish-eggs,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
 fish-eggs,marine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
+fish-eggs,marine biology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
 fish-eggs,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
-fish-eggs,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
-fish-eggs,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
+fish-eggs,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,2
+fish-eggs,nested,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
+fish-eggs,nurturing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
+fish-eggs,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,2
+fish-eggs,organic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
 fish-eggs,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
+fish-eggs,round shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
 fish-eggs,swimming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
+fish-eggs,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_thPON56lBQ99F39okMwdi5vI,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.207385,,1
 fish-eggs,texture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
 fish-eggs,underwater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
 fish-eggs,water,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
 fish-eggs,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
-fish-eggs,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
+fish-eggs,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,2
 fish-eggs,curve,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
 fish-eggs,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1
 fish-eggs,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HYrIt3ZjOjNlyhJ5BtvfPUYH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.853288,,1

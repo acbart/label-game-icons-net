@@ -1,28 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-cannon,artillery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
-cannon,cannon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
-cannon,military,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
-cannon,projectile,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
-cannon,warfare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
-cannon,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
+cannon,artillery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
+cannon,cannon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
+cannon,military,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
+cannon,projectile,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
+cannon,warfare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
+cannon,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
 cannon,ammunition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
+cannon,ancient weapon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PENZvO578ZKMDh2AvJcMvB7k,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.094267,,1
 cannon,attack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
 cannon,barrage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
-cannon,barrel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
-cannon,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
-cannon,blast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
+cannon,barrel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
+cannon,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
+cannon,blast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
+cannon,cannonball,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PENZvO578ZKMDh2AvJcMvB7k,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.094267,,1
+cannon,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PENZvO578ZKMDh2AvJcMvB7k,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.094267,,1
 cannon,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
-cannon,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
-cannon,explosive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
-cannon,firepower,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
-cannon,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
+cannon,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
+cannon,explosive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
+cannon,firepower,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
+cannon,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
 cannon,fortification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
-cannon,historical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
+cannon,gunpowder,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PENZvO578ZKMDh2AvJcMvB7k,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.094267,,1
+cannon,historical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
 cannon,history,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
+cannon,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PENZvO578ZKMDh2AvJcMvB7k,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.094267,,1
 cannon,powder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
-cannon,siege,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
+cannon,rolling wheel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PENZvO578ZKMDh2AvJcMvB7k,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.094267,,1
+cannon,siege,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,2
+cannon,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PENZvO578ZKMDh2AvJcMvB7k,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.094267,,1
+cannon,symbolic of power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PENZvO578ZKMDh2AvJcMvB7k,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.094267,,1
+cannon,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PENZvO578ZKMDh2AvJcMvB7k,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.094267,,1
 cannon,antique,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
 cannon,artifacts,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
+cannon,circular shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PENZvO578ZKMDh2AvJcMvB7k,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.094267,,1
 cannon,display,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
 cannon,emblem,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1
+cannon,movement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PENZvO578ZKMDh2AvJcMvB7k,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.094267,,1
 cannon,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PTx9XEKaPDZltxZL2vQ8u3Ie,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.163121,,1

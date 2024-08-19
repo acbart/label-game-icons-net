@@ -1,26 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-clothes,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
-clothes,pants,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
+clothes,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,2
+clothes,pants,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,2
 clothes,shirt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
-clothes,apparel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
-clothes,attire,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
-clothes,casual wear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
-clothes,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
-clothes,garment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
+clothes,t-shirt,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0rrA0n0gVosAQFKhpabNbzO,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.057641,,1
+clothes,apparel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,2
+clothes,attire,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,2
+clothes,casual wear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,2
+clothes,daily wear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0rrA0n0gVosAQFKhpabNbzO,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.057641,,1
+clothes,ensemble,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0rrA0n0gVosAQFKhpabNbzO,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.057641,,1
+clothes,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,2
+clothes,garment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,2
 clothes,laundry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
-clothes,outfit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
+clothes,outfit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,2
+clothes,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0rrA0n0gVosAQFKhpabNbzO,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.057641,,1
 clothes,top,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
 clothes,trousers,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
-clothes,wardrobe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
+clothes,wardrobe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,2
+clothes,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0rrA0n0gVosAQFKhpabNbzO,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.057641,,1
 clothes,closet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
 clothes,clothing brand,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
 clothes,clothing display,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
-clothes,dress code,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
+clothes,dress code,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,2
 clothes,fabric,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
 clothes,hanger,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
+clothes,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0rrA0n0gVosAQFKhpabNbzO,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.057641,,1
+clothes,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0rrA0n0gVosAQFKhpabNbzO,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.057641,,1
+clothes,identity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0rrA0n0gVosAQFKhpabNbzO,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.057641,,1
+clothes,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0rrA0n0gVosAQFKhpabNbzO,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.057641,,1
 clothes,personal attire,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
 clothes,seasonal fashion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
-clothes,style,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
+clothes,simplified design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0rrA0n0gVosAQFKhpabNbzO,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.057641,,1
+clothes,style,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,2
+clothes,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0rrA0n0gVosAQFKhpabNbzO,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.057641,,1
 clothes,tailoring,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
 clothes,uniform,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1
+clothes,visual communication,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0rrA0n0gVosAQFKhpabNbzO,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.057641,,1
 clothes,wardrobe management,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m3XdPCYjBmx6IIExRCNEBh70,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.285164,,1

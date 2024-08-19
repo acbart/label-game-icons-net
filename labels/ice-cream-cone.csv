@@ -1,25 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 ice-cream-cone,cold treat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,1
 ice-cream-cone,cone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,1
-ice-cream-cone,dessert,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,1
-ice-cream-cone,ice cream,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,1
+ice-cream-cone,cone shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
+ice-cream-cone,dessert,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,2
+ice-cream-cone,dessert symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
+ice-cream-cone,ice cream,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,2
+ice-cream-cone,ice cream cone,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
 ice-cream-cone,scoop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.361828,,1
-ice-cream-cone,confectionery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.361828,,1
-ice-cream-cone,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.361828,,1
+ice-cream-cone,scoops,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
+ice-cream-cone,sweet treat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
+ice-cream-cone,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
+ice-cream-cone,cold,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
+ice-cream-cone,confectionery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.361828,,2
+ice-cream-cone,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.361828,,2
 ice-cream-cone,delicious,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.361828,,1
 ice-cream-cone,food,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,1
-ice-cream-cone,frozen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.361828,,1
+ice-cream-cone,food icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
+ice-cream-cone,frozen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.361828,,2
+ice-cream-cone,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
 ice-cream-cone,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.361828,,1
+ice-cream-cone,layered texture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
+ice-cream-cone,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
 ice-cream-cone,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,1
+ice-cream-cone,refreshment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
 ice-cream-cone,simple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.361828,,1
-ice-cream-cone,snack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,1
+ice-cream-cone,snack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,2
 ice-cream-cone,sphere,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,1
-ice-cream-cone,summer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,1
+ice-cream-cone,spheres,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
+ice-cream-cone,summer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,2
 ice-cream-cone,sweet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,1
 ice-cream-cone,triangle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,1
+ice-cream-cone,triangle base,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
 ice-cream-cone,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.361828,,1
 ice-cream-cone,geometry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,1
 ice-cream-cone,graphic design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.361828,,1
 ice-cream-cone,lattice,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.361828,,1
 ice-cream-cone,point,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.361828,,1
+ice-cream-cone,pyramid formation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
 ice-cream-cone,texture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JxA58jB88cYBjCJDoZrLBJGX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.360808,,1
+ice-cream-cone,tower,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1
+ice-cream-cone,visual metaphor,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8rgOu8lxBHNKV1og1AZNqtlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.306823,,1

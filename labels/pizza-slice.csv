@@ -1,26 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-pizza-slice,cheese,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
-pizza-slice,fast food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
-pizza-slice,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
-pizza-slice,pizza,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.264260,,1
-pizza-slice,slice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
+pizza-slice,cheese,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
+pizza-slice,fast food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
+pizza-slice,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
+pizza-slice,pizza,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.264260,,2
+pizza-slice,slice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
 pizza-slice,Italian cuisine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
-pizza-slice,appetizer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
+pizza-slice,appetizer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
 pizza-slice,circular base,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
-pizza-slice,comfort food,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
-pizza-slice,crust,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
+pizza-slice,comfort food,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
+pizza-slice,crust,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
 pizza-slice,delicious,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
+pizza-slice,delivery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KGSCWAP5p5NK7NNLtZXZSMc6,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.489678,,1
 pizza-slice,dining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
-pizza-slice,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
-pizza-slice,party,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
-pizza-slice,pepperoni,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
+pizza-slice,dinner,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KGSCWAP5p5NK7NNLtZXZSMc6,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.489678,,1
+pizza-slice,flavor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KGSCWAP5p5NK7NNLtZXZSMc6,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.489678,,1
+pizza-slice,italian,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KGSCWAP5p5NK7NNLtZXZSMc6,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.489678,,1
+pizza-slice,lunch,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KGSCWAP5p5NK7NNLtZXZSMc6,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.489678,,1
+pizza-slice,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
+pizza-slice,party,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
+pizza-slice,pepperoni,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
 pizza-slice,pizzeria,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
-pizza-slice,restaurant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
-pizza-slice,snack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
-pizza-slice,takeout,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
-pizza-slice,triangle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
+pizza-slice,restaurant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
+pizza-slice,snack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
+pizza-slice,takeout,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
+pizza-slice,toppings,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KGSCWAP5p5NK7NNLtZXZSMc6,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.489678,,1
+pizza-slice,triangle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
 pizza-slice,baked,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
-pizza-slice,gourmet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
+pizza-slice,baking,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KGSCWAP5p5NK7NNLtZXZSMc6,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.489678,,1
+pizza-slice,culinary,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KGSCWAP5p5NK7NNLtZXZSMc6,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.489678,,1
+pizza-slice,gourmet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,2
 pizza-slice,greasy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
+pizza-slice,informal dining,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KGSCWAP5p5NK7NNLtZXZSMc6,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.489678,,1
 pizza-slice,oven,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1
+pizza-slice,slice of life,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KGSCWAP5p5NK7NNLtZXZSMc6,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.489678,,1
+pizza-slice,texture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KGSCWAP5p5NK7NNLtZXZSMc6,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.489678,,1
 pizza-slice,yum,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g8X39izUQMpTFiu4NK65ulGt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.265260,,1

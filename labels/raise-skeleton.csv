@@ -1,25 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 raise-skeleton,ash,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
+raise-skeleton,bones,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
 raise-skeleton,burst,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
 raise-skeleton,debris,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
 raise-skeleton,energy release,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
 raise-skeleton,eruption,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
 raise-skeleton,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
+raise-skeleton,hand,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,horror,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
 raise-skeleton,natural disaster,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
+raise-skeleton,necromancy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,raising,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,resurrection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,skeleton,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,supernatural,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,undead,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,zombie,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
 raise-skeleton,abstract phenomenon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
+raise-skeleton,afterlife,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,animation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,awakening,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
 raise-skeleton,blast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
 raise-skeleton,cataclysm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
 raise-skeleton,concentric circles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
+raise-skeleton,dark arts,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
 raise-skeleton,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
 raise-skeleton,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
+raise-skeleton,emergence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,fantasy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
 raise-skeleton,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
 raise-skeleton,formation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
+raise-skeleton,grave,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
 raise-skeleton,ground,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
 raise-skeleton,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
 raise-skeleton,intensity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
 raise-skeleton,lava,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
-raise-skeleton,rise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
+raise-skeleton,magic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,mystical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,mythology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,occult,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,revival,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,rise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,2
 raise-skeleton,shockwave,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
+raise-skeleton,spooky,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
+raise-skeleton,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_543Wcy1qsSEiwYgU9555YhQF,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.062141,,1
 raise-skeleton,volcanism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
 raise-skeleton,volcano,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1
 raise-skeleton,perceptive,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8YJLqd5OnsqYa7dj0Lt8b71H,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.423525,,1

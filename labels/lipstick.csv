@@ -1,29 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+lipstick,beauty,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
+lipstick,cosmetics,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
 lipstick,creativity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
 lipstick,drawing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
+lipstick,lipstick,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
+lipstick,makeup,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
 lipstick,pencil,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
 lipstick,stationery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
+lipstick,tube shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
 lipstick,writing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
+lipstick,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
+lipstick,application,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
 lipstick,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
 lipstick,compose,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
 lipstick,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
 lipstick,content creation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
+lipstick,cosmetic product,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
 lipstick,craft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
+lipstick,cylinder,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
 lipstick,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
 lipstick,draft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
 lipstick,edit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
 lipstick,education,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
 lipstick,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
+lipstick,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
+lipstick,feminine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
+lipstick,femininity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
+lipstick,glamour,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
 lipstick,idea,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
+lipstick,mouth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
 lipstick,note,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
+lipstick,personal care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
 lipstick,record,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
+lipstick,self-expression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
 lipstick,sketch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
-lipstick,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
+lipstick,style,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
+lipstick,tip,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
+lipstick,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,2
+lipstick,decoration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
 lipstick,graphic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
+lipstick,illustration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
 lipstick,instruction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
 lipstick,manual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
 lipstick,office,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
+lipstick,product design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
+lipstick,sample,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_r5WzSO8rqZtzEANV2rRTSE88,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.300191,,1
 lipstick,school,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
 lipstick,sketchbook,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
-lipstick,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1
+lipstick,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,2
 lipstick,text,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jr9wjLe0M5iZIX4z33fgbflg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.650531,,1

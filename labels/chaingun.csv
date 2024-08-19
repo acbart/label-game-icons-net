@@ -1,21 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+chaingun,ammunition,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
 chaingun,arrangement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
 chaingun,central point,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
-chaingun,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
+chaingun,chaingun,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,2
+chaingun,circular pattern,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,combat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,firepower,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,heavy artillery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,machine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,mechanical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,military,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,munition,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
 chaingun,organization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
+chaingun,power,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,rotation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
 chaingun,surrounding elements,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
-chaingun,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
+chaingun,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,2
+chaingun,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,aggression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
 chaingun,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
+chaingun,cannon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
 chaingun,centralized,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
+chaingun,circle of power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
 chaingun,distribution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
+chaingun,dots,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
 chaingun,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
+chaingun,gear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
 chaingun,grouping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
 chaingun,nucleus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
 chaingun,particles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
 chaingun,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
+chaingun,projectiles,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,ring formation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,six shooter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
+chaingun,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
 chaingun,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
+chaingun,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUTkxPAhZkxSqt8lV84aAzS6,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.654333,,1
 chaingun,unity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
-chaingun,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
+chaingun,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,2
 chaingun,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
 chaingun,element,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1
 chaingun,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YYvTQe6yqMEDAlXQhNQkpW8T,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.958535,,1

@@ -1,26 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 watchtower,guard tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,lookout,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,observation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,watchtower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
+watchtower,lookout,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
+watchtower,observation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
+watchtower,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
+watchtower,tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
+watchtower,watchtower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
+watchtower,alert,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zxOY9QVesPyqvX3GNBtCfS7C,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.550946,,1
+watchtower,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
+watchtower,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zxOY9QVesPyqvX3GNBtCfS7C,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.550946,,1
+watchtower,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
 watchtower,elevated,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,fortification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
+watchtower,fortification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
 watchtower,framework,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,height,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
+watchtower,guard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zxOY9QVesPyqvX3GNBtCfS7C,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.550946,,1
+watchtower,height,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
 watchtower,military,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,monitoring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
+watchtower,monitoring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
+watchtower,observation deck,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zxOY9QVesPyqvX3GNBtCfS7C,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.551840,,1
 watchtower,outpost,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
+watchtower,oversight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zxOY9QVesPyqvX3GNBtCfS7C,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.551840,,1
+watchtower,patrol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zxOY9QVesPyqvX3GNBtCfS7C,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.551840,,1
+watchtower,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
+watchtower,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
+watchtower,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
+watchtower,sentry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zxOY9QVesPyqvX3GNBtCfS7C,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.551840,,1
 watchtower,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
-watchtower,vantage point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
+watchtower,strategic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zxOY9QVesPyqvX3GNBtCfS7C,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.550946,,1
+watchtower,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
+watchtower,vantage point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,2
 watchtower,viewing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
+watchtower,watchful,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zxOY9QVesPyqvX3GNBtCfS7C,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.550946,,1
+watchtower,caution,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zxOY9QVesPyqvX3GNBtCfS7C,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.550946,,1
 watchtower,construction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
 watchtower,frontier,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1
+watchtower,landmark,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zxOY9QVesPyqvX3GNBtCfS7C,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.551840,,1
 watchtower,wooden structure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q7LvEIeY9Zl2sAXBkUv7Yqmm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.565130,,1

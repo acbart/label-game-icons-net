@@ -1,25 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 nunchaku,cardio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,chains,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
+nunchaku,combat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
+nunchaku,defense,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
 nunchaku,exercise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
 nunchaku,fitness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
 nunchaku,jump rope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,martial arts,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
+nunchaku,martial training,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
+nunchaku,nunchaku,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
 nunchaku,physical activity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
 nunchaku,rope skipping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,self-defense,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
+nunchaku,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
 nunchaku,workout,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,agility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
 nunchaku,arc,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
-nunchaku,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,2
+nunchaku,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
 nunchaku,coordination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,discipline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
+nunchaku,dual baton,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
 nunchaku,endurance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,flow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
 nunchaku,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,linkage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
 nunchaku,loop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
-nunchaku,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,2
 nunchaku,play,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,precision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
 nunchaku,routine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,skill,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
 nunchaku,sport equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
 nunchaku,sports,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,sticks,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
+nunchaku,swinging,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
 nunchaku,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
 nunchaku,training,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,two sections,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
 nunchaku,children's game,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,circles,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
+nunchaku,connector,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1
 nunchaku,flexibility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
 nunchaku,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
 nunchaku,recreation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_10uMLvHCICHYs1tYpWTkCkgp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.997559,,1
+nunchaku,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Frow1v3bTaU6hwlpzAudtrsq,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.495702,,1

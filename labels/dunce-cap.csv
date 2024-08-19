@@ -1,20 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+dunce-cap,cone,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
 dunce-cap,crying,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
+dunce-cap,dunce-cap,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
+dunce-cap,education,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
 dunce-cap,emotion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,2
+dunce-cap,punishment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
 dunce-cap,sadness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
 dunce-cap,teardrop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
 dunce-cap,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
+dunce-cap,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
+dunce-cap,childhood,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
 dunce-cap,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
+dunce-cap,discipline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
 dunce-cap,drop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
-dunce-cap,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
-dunce-cap,face,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
+dunce-cap,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,2
+dunce-cap,face,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,2
+dunce-cap,failure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
+dunce-cap,headwear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
+dunce-cap,humiliation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
+dunce-cap,ignorance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
+dunce-cap,learning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
 dunce-cap,mascot,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
 dunce-cap,metaphor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
+dunce-cap,school,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
+dunce-cap,shame,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
+dunce-cap,silliness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
+dunce-cap,student,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
 dunce-cap,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
+dunce-cap,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
+dunce-cap,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
 dunce-cap,dramatic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
 dunce-cap,drop shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
 dunce-cap,illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
+dunce-cap,minimalist design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
+dunce-cap,nostalgia,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
 dunce-cap,personification,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
+dunce-cap,simple shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
 dunce-cap,stressed,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
-dunce-cap,triangle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1
+dunce-cap,traditional,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8wkoWJEWwGt1epGwz5bJBfh6,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.424869,,1
+dunce-cap,triangle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,2
 dunce-cap,water,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_19ts0VrRg74PrpTc58Q7qBoT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.630569,,1

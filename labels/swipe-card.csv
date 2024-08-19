@@ -1,28 +1,36 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 swipe-card,account,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,banking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
+swipe-card,banking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
 swipe-card,cardholder,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,cashless,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,checkout,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,commerce,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,credit card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
+swipe-card,cashless,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
+swipe-card,checkout,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
+swipe-card,commerce,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
+swipe-card,credit card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
 swipe-card,electronic payment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,finance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
+swipe-card,finance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
 swipe-card,financial services,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,money,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,payment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,purchase,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,shopping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,swipe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,transaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,POS,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
+swipe-card,money,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
+swipe-card,payment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
+swipe-card,payment method,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZdCxaODD7kEFNkE9yTIpaZyF,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.701595,,1
+swipe-card,plastic card,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZdCxaODD7kEFNkE9yTIpaZyF,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.701595,,1
+swipe-card,purchase,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
+swipe-card,shopping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
+swipe-card,swipe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
+swipe-card,transaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
+swipe-card,POS,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
+swipe-card,business,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZdCxaODD7kEFNkE9yTIpaZyF,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.701595,,1
 swipe-card,credit limit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
 swipe-card,debit card,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
+swipe-card,digital wallet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZdCxaODD7kEFNkE9yTIpaZyF,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.701595,,1
+swipe-card,finance technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZdCxaODD7kEFNkE9yTIpaZyF,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.701595,,1
 swipe-card,funds,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
+swipe-card,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
 swipe-card,plastic money,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
 swipe-card,retail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
-swipe-card,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
+swipe-card,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,2
 swipe-card,spending,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
+swipe-card,swipe machine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZdCxaODD7kEFNkE9yTIpaZyF,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.701595,,1
 swipe-card,wallet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
 swipe-card,barcode,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gWs6BRO6o04LqXJIjyBnpA2a,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.159658,,1
+swipe-card,economy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZdCxaODD7kEFNkE9yTIpaZyF,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.701595,,1
+swipe-card,information,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZdCxaODD7kEFNkE9yTIpaZyF,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.701595,,1

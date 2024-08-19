@@ -1,25 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-tank-top,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
-tank-top,sleeveless,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
+tank-top,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,2
+tank-top,cut-off sleeves,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
+tank-top,sleeveless,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,2
 tank-top,tank top,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.198676,,1
-tank-top,activewear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
-tank-top,apparel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
+tank-top,tank-top,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
+tank-top,upper body garment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
+tank-top,activewear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,2
+tank-top,apparel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,2
+tank-top,athletic wear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
 tank-top,basic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
-tank-top,casual wear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
-tank-top,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
+tank-top,basic wear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
+tank-top,casual style,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
+tank-top,casual wear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,2
+tank-top,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
+tank-top,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,2
 tank-top,garment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
+tank-top,gender-neutral,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
+tank-top,informal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
+tank-top,layering piece,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
 tank-top,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
 tank-top,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
-tank-top,sportswear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
+tank-top,simple silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
+tank-top,sportswear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,2
 tank-top,summer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
+tank-top,summer wear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
 tank-top,topwear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
-tank-top,undergarment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
+tank-top,undergarment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,2
+tank-top,unisex clothing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
+tank-top,versatility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
 tank-top,wardrobe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
+tank-top,wardrobe staple,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
+tank-top,warm weather,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
 tank-top,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
+tank-top,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
 tank-top,graphic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
 tank-top,icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
+tank-top,minimalist design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
+tank-top,outerwear,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1
 tank-top,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
 tank-top,shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
 tank-top,simple,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
 tank-top,symmetrical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
 tank-top,template,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gj7F2252Gyz0pB31D7Gh1q2k,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.199675,,1
+tank-top,youth fashion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mk1TGHxy2ye93Oz8U8tN0g5K,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.858446,,1

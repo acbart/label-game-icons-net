@@ -1,22 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 metal-hand,basket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.415243,,1
 metal-hand,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.415243,,1
+metal-hand,gesture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
+metal-hand,hand,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
 metal-hand,harvest,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.415243,,1
+metal-hand,horns,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
+metal-hand,metal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
+metal-hand,rock music,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
+metal-hand,rock on,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
+metal-hand,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
 metal-hand,agriculture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.416193,,1
+metal-hand,attitude,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
+metal-hand,celebration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
 metal-hand,collect,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.415243,,1
+metal-hand,concert,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
 metal-hand,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.415243,,1
+metal-hand,expression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
+metal-hand,fan,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
+metal-hand,fingers,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
 metal-hand,gather,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.415243,,1
 metal-hand,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.416193,,1
 metal-hand,market,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.416193,,1
+metal-hand,music,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
 metal-hand,picnic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.415243,,1
 metal-hand,produce,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.416193,,1
+metal-hand,sign,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
+metal-hand,subculture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
+metal-hand,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
 metal-hand,woven,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.416193,,1
+metal-hand,youth culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
 metal-hand,basketry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.416193,,1
 metal-hand,carry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.416193,,1
+metal-hand,communication,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
+metal-hand,energetic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
+metal-hand,enthusiasm,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
 metal-hand,farm,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.416193,,1
+metal-hand,festivity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
 metal-hand,handheld,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.416193,,1
+metal-hand,identity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
+metal-hand,personality,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
 metal-hand,rustic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.416193,,1
 metal-hand,shopping,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.416193,,1
 metal-hand,storage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.416193,,1
+metal-hand,style,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mmp71CoTpLVZeeJD9fViHVB5,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.321656,,1
 metal-hand,supplies,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.416193,,1
 metal-hand,utility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0qq9UMoOnvBftOueMZ6L4msm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.416193,,1

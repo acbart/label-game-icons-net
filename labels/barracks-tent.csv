@@ -1,26 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+barracks-tent,barracks,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
+barracks-tent,camp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
 barracks-tent,campground,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
-barracks-tent,camping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
-barracks-tent,outdoor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
-barracks-tent,shelter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
+barracks-tent,camping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,2
+barracks-tent,emergency shelter,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
+barracks-tent,expeditionary force,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
+barracks-tent,field operations,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
+barracks-tent,military,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
+barracks-tent,outdoor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,2
+barracks-tent,shelter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,2
 barracks-tent,temporary home,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
-barracks-tent,temporary structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
-barracks-tent,tent,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
+barracks-tent,temporary structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,2
+barracks-tent,tent,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,2
 barracks-tent,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
-barracks-tent,base camp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
-barracks-tent,canvas,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
+barracks-tent,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
+barracks-tent,assembly,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
+barracks-tent,base camp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,2
+barracks-tent,canvas,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,2
 barracks-tent,conical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
 barracks-tent,cover,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
 barracks-tent,event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
-barracks-tent,expedition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
+barracks-tent,expedition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,2
 barracks-tent,fabric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
+barracks-tent,fabric structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
 barracks-tent,festival,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
 barracks-tent,holiday,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
+barracks-tent,housing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
 barracks-tent,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
-barracks-tent,nomadic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
+barracks-tent,lodging,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
+barracks-tent,nomadic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,2
+barracks-tent,pole,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
 barracks-tent,portability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
+barracks-tent,portable,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
+barracks-tent,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
 barracks-tent,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
 barracks-tent,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
+barracks-tent,temporary housing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.085778,,1
 barracks-tent,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
 barracks-tent,wilderness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
 barracks-tent,caravan,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_W7ipH4gYB1vZV9ZAi6ulNewt,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.769483,,1
+barracks-tent,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.086894,,1
+barracks-tent,utilities,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJLeAKfY9M5ijiUkkeg8ZqDZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.086894,,1

@@ -1,15 +1,20 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 drop-weapon,attention,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
-drop-weapon,gesture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
+drop-weapon,discard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
+drop-weapon,drop,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
+drop-weapon,gesture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,2
 drop-weapon,giving directions,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
-drop-weapon,hand,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
-drop-weapon,interaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
+drop-weapon,hand,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,2
+drop-weapon,interaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,2
 drop-weapon,pointing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
-drop-weapon,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
+drop-weapon,release,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
+drop-weapon,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
+drop-weapon,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,2
 drop-weapon,announcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
 drop-weapon,authority,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
 drop-weapon,command,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
-drop-weapon,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
+drop-weapon,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,2
+drop-weapon,conflict resolution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
 drop-weapon,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
 drop-weapon,conveyance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
 drop-weapon,emphasis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
@@ -17,10 +22,22 @@ drop-weapon,engagement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batc
 drop-weapon,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
 drop-weapon,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
 drop-weapon,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
-drop-weapon,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
+drop-weapon,instruction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
+drop-weapon,intention,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
+drop-weapon,metaphor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
+drop-weapon,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,2
+drop-weapon,nonviolence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
 drop-weapon,outreach,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
+drop-weapon,peace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
+drop-weapon,relinquish,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
 drop-weapon,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
 drop-weapon,speaking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
+drop-weapon,surrender,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
+drop-weapon,symbolic gesture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
+drop-weapon,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
+drop-weapon,visual cue,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
+drop-weapon,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
 drop-weapon,broadcast,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
 drop-weapon,dynamics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1
+drop-weapon,mechanism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eWru2lPXiXiw3HlfhgMkpeUD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.622634,,1
 drop-weapon,sound waves,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LTTmlVz7a8LpZDGReji7pu52,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.252664,,1

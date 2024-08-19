@@ -1,26 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-crab-claw,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
-crab-claw,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
+crab-claw,claw,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
+crab-claw,crab,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
+crab-claw,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,2
+crab-claw,grip,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
+crab-claw,pincer,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
+crab-claw,pinch,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
+crab-claw,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,2
 crab-claw,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
+crab-claw,sharp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
 crab-claw,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
 crab-claw,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
+crab-claw,animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
+crab-claw,attack,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
+crab-claw,curved shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
 crab-claw,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
 crab-claw,durability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
 crab-claw,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
+crab-claw,grab,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
 crab-claw,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
+crab-claw,hard shell,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
 crab-claw,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
 crab-claw,jagged,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
+crab-claw,marine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
+crab-claw,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
 crab-claw,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
+crab-claw,predator,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
 crab-claw,protection layer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
 crab-claw,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
 crab-claw,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
+crab-claw,sea creature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
+crab-claw,seafood,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
 crab-claw,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
 crab-claw,solid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
 crab-claw,spiked,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
 crab-claw,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
+crab-claw,symbolic strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
+crab-claw,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
+crab-claw,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
+crab-claw,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1
 crab-claw,armor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
 crab-claw,badge,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
 crab-claw,barrier,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
 crab-claw,blunt,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
 crab-claw,boundary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
 crab-claw,emblem,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R3gILdVdEVD5uR4rUXBAY3vD,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.286704,,1
+crab-claw,texture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GZWlk4dyLLOfTc8YdFf2H6xg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.752083,,1

@@ -1,26 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 lorc_gas-mask,breathing apparatus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
+lorc_gas-mask,chemical-protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
 lorc_gas-mask,gas mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
+lorc_gas-mask,gas-mask,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
 lorc_gas-mask,hazardous environment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
 lorc_gas-mask,health and safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
-lorc_gas-mask,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
-lorc_gas-mask,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
+lorc_gas-mask,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,2
+lorc_gas-mask,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,2
 lorc_gas-mask,protective gear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
-lorc_gas-mask,respirator,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
+lorc_gas-mask,respirator,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,2
+lorc_gas-mask,safety,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
 lorc_gas-mask,safety gear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
+lorc_gas-mask,safety-equipment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
+lorc_gas-mask,safety-gear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
 lorc_gas-mask,toxic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
+lorc_gas-mask,air-purification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
 lorc_gas-mask,airborne particles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
 lorc_gas-mask,biohazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
+lorc_gas-mask,breathing-apparatus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
 lorc_gas-mask,chemical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
+lorc_gas-mask,circular-filter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
 lorc_gas-mask,disaster preparedness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
+lorc_gas-mask,dust,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
+lorc_gas-mask,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
 lorc_gas-mask,emergency equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
 lorc_gas-mask,environmental,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
+lorc_gas-mask,environmental-safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
 lorc_gas-mask,face shield,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
-lorc_gas-mask,filter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
-lorc_gas-mask,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
+lorc_gas-mask,filter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,2
+lorc_gas-mask,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
+lorc_gas-mask,health,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
+lorc_gas-mask,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,2
 lorc_gas-mask,industrial work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
+lorc_gas-mask,military,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
+lorc_gas-mask,oval-eyes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
 lorc_gas-mask,oxygen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
-lorc_gas-mask,pandemic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
-lorc_gas-mask,pollution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
-lorc_gas-mask,survival,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
-lorc_gas-mask,warfare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,1
+lorc_gas-mask,pandemic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,2
+lorc_gas-mask,pollution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,2
+lorc_gas-mask,smog-protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
+lorc_gas-mask,survival,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,2
+lorc_gas-mask,toxic-environment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
+lorc_gas-mask,warfare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4PNEZqtTO1pQtdvvAI2YnQl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.847279,,2
+lorc_gas-mask,abstract-face,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
+lorc_gas-mask,alien,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
+lorc_gas-mask,anonymous,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1
+lorc_gas-mask,science,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FrfAe2pVrHfllW7sYCLY2ySz,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.186098,,1

@@ -1,26 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 oil-rig,crude oil,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
-oil-rig,drilling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
-oil-rig,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
-oil-rig,extraction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
+oil-rig,derrick,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
+oil-rig,drilling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,2
+oil-rig,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,2
+oil-rig,extraction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,2
 oil-rig,fossil fuels,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
+oil-rig,fuel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
 oil-rig,natural resources,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
 oil-rig,oil rig,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
-oil-rig,petroleum,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
-oil-rig,economy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
+oil-rig,oil-rig,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
+oil-rig,petrochemical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
+oil-rig,petroleum,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,2
+oil-rig,structure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
+oil-rig,construction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
+oil-rig,economy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,2
+oil-rig,energy source,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
+oil-rig,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
 oil-rig,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
 oil-rig,geology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
 oil-rig,gushers,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
-oil-rig,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
-oil-rig,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
+oil-rig,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,2
+oil-rig,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,2
+oil-rig,industry icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
 oil-rig,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
+oil-rig,investment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
 oil-rig,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
-oil-rig,platform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
+oil-rig,machinery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
+oil-rig,platform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,2
 oil-rig,pollution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
-oil-rig,production,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
+oil-rig,production,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,2
 oil-rig,pumping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
 oil-rig,refinery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
-oil-rig,resource,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
-oil-rig,tower,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
+oil-rig,resource,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,2
+oil-rig,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
+oil-rig,tower,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,2
+oil-rig,architecture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
+oil-rig,framework,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,2
+oil-rig,geometric,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
 oil-rig,manufacturing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
 oil-rig,mining,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nrw1OuD1mVli1tnRT8A8XYox,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.025578,,1
+oil-rig,support,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
+oil-rig,transport,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1
+oil-rig,vertical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3YPjXXWx7VfpBr5Z8Qk0VvXa,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.643435,,1

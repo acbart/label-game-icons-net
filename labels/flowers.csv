@@ -1,23 +1,36 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 flowers,abstract pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,1
-flowers,bloom,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.779181,,1
+flowers,bloom,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.779181,,2
 flowers,blossom,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,1
-flowers,botanical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,1
-flowers,floral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,1
-flowers,petals,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,1
-flowers,arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,1
+flowers,blossoms,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AZbtvquIFVPNFoMSQ3xl43kz,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.870965,,1
+flowers,botanical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,2
+flowers,flora,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AZbtvquIFVPNFoMSQ3xl43kz,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.870965,,1
+flowers,floral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,2
+flowers,flowers,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AZbtvquIFVPNFoMSQ3xl43kz,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.870965,,1
+flowers,petals,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,2
+flowers,abstract design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AZbtvquIFVPNFoMSQ3xl43kz,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.870965,,1
+flowers,aesthetics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AZbtvquIFVPNFoMSQ3xl43kz,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.870965,,1
+flowers,arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,2
+flowers,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AZbtvquIFVPNFoMSQ3xl43kz,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.870965,,1
 flowers,cluster,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,1
-flowers,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,1
+flowers,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,2
 flowers,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.779181,,1
-flowers,garden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,1
-flowers,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,1
-flowers,motif,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.779181,,1
+flowers,garden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,2
+flowers,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,2
+flowers,life,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AZbtvquIFVPNFoMSQ3xl43kz,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.870965,,1
+flowers,motif,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.779181,,2
+flowers,natural beauty,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AZbtvquIFVPNFoMSQ3xl43kz,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.870965,,1
 flowers,natural design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.779181,,1
-flowers,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,1
-flowers,organic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,1
+flowers,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,2
+flowers,organic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,2
 flowers,ornament,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.779181,,1
-flowers,spring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.779181,,1
-flowers,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,1
+flowers,ornamental,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AZbtvquIFVPNFoMSQ3xl43kz,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.870965,,1
+flowers,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AZbtvquIFVPNFoMSQ3xl43kz,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.870965,,1
+flowers,spring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.779181,,2
+flowers,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AZbtvquIFVPNFoMSQ3xl43kz,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.870965,,1
+flowers,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.778177,,2
 flowers,visual art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.779181,,1
+flowers,visual balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AZbtvquIFVPNFoMSQ3xl43kz,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.870965,,1
 flowers,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.779181,,1
-flowers,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.779181,,1
+flowers,growth cycle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AZbtvquIFVPNFoMSQ3xl43kz,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.870965,,1
+flowers,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ac6PjLXj38meyxlIduggZglK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.779181,,2

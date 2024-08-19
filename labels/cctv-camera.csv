@@ -1,26 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 cctv-camera,CCTV,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
-cctv-camera,monitoring,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
+cctv-camera,monitoring,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,2
+cctv-camera,security,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.580370,,1
 cctv-camera,security camera,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
 cctv-camera,security system,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
-cctv-camera,surveillance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
+cctv-camera,surveillance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,2
 cctv-camera,alertness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
-cctv-camera,camera,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
+cctv-camera,camera,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,2
+cctv-camera,closed circuit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.580370,,1
 cctv-camera,detect,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
+cctv-camera,detection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.580370,,1
 cctv-camera,deterrence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
 cctv-camera,footage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
-cctv-camera,lens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
-cctv-camera,observation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
-cctv-camera,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
-cctv-camera,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
-cctv-camera,public safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
-cctv-camera,recording,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
-cctv-camera,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
-cctv-camera,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
-cctv-camera,vigilance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
+cctv-camera,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.580370,,1
+cctv-camera,lens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,2
+cctv-camera,observation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,2
+cctv-camera,oversight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.580370,,1
+cctv-camera,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,2
+cctv-camera,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,2
+cctv-camera,public safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,2
+cctv-camera,recording,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,2
+cctv-camera,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,2
+cctv-camera,surveillance system,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.580370,,1
+cctv-camera,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,2
+cctv-camera,vigilance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,2
 cctv-camera,watch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
+cctv-camera,watchfulness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.580370,,1
 cctv-camera,angle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
+cctv-camera,architecture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.581367,,1
+cctv-camera,crime prevention,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.580370,,1
 cctv-camera,dark angle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
+cctv-camera,data collection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.580370,,1
+cctv-camera,digital age,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.580370,,1
+cctv-camera,electronic device,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.581367,,1
 cctv-camera,electronics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
 cctv-camera,guardianship,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
 cctv-camera,installation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2mkmvdQWBe2srtNC6tA1ESfB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.167002,,1
+cctv-camera,intrusion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.580370,,1
+cctv-camera,smart city,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.581367,,1
+cctv-camera,urban environment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.580370,,1
+cctv-camera,warning,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NprgiiAlqxskgTLQu8PXwILy,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.580370,,1

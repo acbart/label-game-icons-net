@@ -1,26 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-sbed_tombstone,cemetery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,death,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,grave,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,headstone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,marker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,memorial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,resting place,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,tombstone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
+sbed_tombstone,burial,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BtSJ691AKFsIZYBd9BFaEKX9,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.111127,,1
+sbed_tombstone,cemetery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
+sbed_tombstone,death,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
+sbed_tombstone,grave,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
+sbed_tombstone,headstone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
+sbed_tombstone,marker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
+sbed_tombstone,memorial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
+sbed_tombstone,resting place,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
+sbed_tombstone,tombstone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
+sbed_tombstone,afterlife,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BtSJ691AKFsIZYBd9BFaEKX9,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.111127,,1
+sbed_tombstone,eternity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BtSJ691AKFsIZYBd9BFaEKX9,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.111127,,1
 sbed_tombstone,finality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,funeral,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
+sbed_tombstone,funeral,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
+sbed_tombstone,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
 sbed_tombstone,history,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,legacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,monument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,mourning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
+sbed_tombstone,legacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
+sbed_tombstone,memory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BtSJ691AKFsIZYBd9BFaEKX9,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.111127,,1
+sbed_tombstone,monument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
+sbed_tombstone,mourning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
 sbed_tombstone,reflection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,remembrance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
+sbed_tombstone,remembrance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
 sbed_tombstone,spirituality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
 sbed_tombstone,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
+sbed_tombstone,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BtSJ691AKFsIZYBd9BFaEKX9,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.111127,,1
 sbed_tombstone,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
+sbed_tombstone,tribute,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BtSJ691AKFsIZYBd9BFaEKX9,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.111127,,1
+sbed_tombstone,boundary,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BtSJ691AKFsIZYBd9BFaEKX9,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.111127,,1
+sbed_tombstone,curved top,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BtSJ691AKFsIZYBd9BFaEKX9,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.111127,,1
 sbed_tombstone,darkness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,peace,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
+sbed_tombstone,historical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BtSJ691AKFsIZYBd9BFaEKX9,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.111127,,1
+sbed_tombstone,iconic shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BtSJ691AKFsIZYBd9BFaEKX9,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.111127,,1
+sbed_tombstone,indicative,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BtSJ691AKFsIZYBd9BFaEKX9,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.111127,,1
+sbed_tombstone,peace,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
 sbed_tombstone,quiet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
-sbed_tombstone,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1
+sbed_tombstone,rectangular base,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BtSJ691AKFsIZYBd9BFaEKX9,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.111127,,1
+sbed_tombstone,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BtSJ691AKFsIZYBd9BFaEKX9,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.111127,,1
+sbed_tombstone,sign,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BtSJ691AKFsIZYBd9BFaEKX9,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.111127,,1
+sbed_tombstone,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,2
 sbed_tombstone,solitude,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5HfCLnaPDOAuY6mIWTTihemo,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.548751,,1

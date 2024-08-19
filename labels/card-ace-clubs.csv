@@ -1,21 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-card-ace-clubs,ace,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
-card-ace-clubs,card suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
-card-ace-clubs,clubs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
-card-ace-clubs,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
+card-ace-clubs,ace,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,2
+card-ace-clubs,card,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3K4HMqNNfiFsUf4arFmLEomB,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.519958,,1
+card-ace-clubs,card suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,2
+card-ace-clubs,clubs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,2
+card-ace-clubs,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,2
 card-ace-clubs,suit of clubs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
 card-ace-clubs,blackjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
-card-ace-clubs,card game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
+card-ace-clubs,card game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,2
+card-ace-clubs,competition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3K4HMqNNfiFsUf4arFmLEomB,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.519958,,1
+card-ace-clubs,deck,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3K4HMqNNfiFsUf4arFmLEomB,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.519958,,1
 card-ace-clubs,deck of cards,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
-card-ace-clubs,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
-card-ace-clubs,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
+card-ace-clubs,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,2
+card-ace-clubs,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,2
 card-ace-clubs,game piece,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
+card-ace-clubs,graphic design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3K4HMqNNfiFsUf4arFmLEomB,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.519958,,1
 card-ace-clubs,high value,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
-card-ace-clubs,poker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
+card-ace-clubs,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3K4HMqNNfiFsUf4arFmLEomB,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.519958,,1
+card-ace-clubs,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3K4HMqNNfiFsUf4arFmLEomB,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.519958,,1
+card-ace-clubs,poker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,2
 card-ace-clubs,ranking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
+card-ace-clubs,spade shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3K4HMqNNfiFsUf4arFmLEomB,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.519958,,1
+card-ace-clubs,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3K4HMqNNfiFsUf4arFmLEomB,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.519958,,1
+card-ace-clubs,winning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3K4HMqNNfiFsUf4arFmLEomB,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.519958,,1
+card-ace-clubs,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3K4HMqNNfiFsUf4arFmLEomB,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.519958,,1
+card-ace-clubs,chance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3K4HMqNNfiFsUf4arFmLEomB,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.519958,,1
 card-ace-clubs,competitive,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
+card-ace-clubs,favorites,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3K4HMqNNfiFsUf4arFmLEomB,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.519958,,1
 card-ace-clubs,leisure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
-card-ace-clubs,luck,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
+card-ace-clubs,luck,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,2
+card-ace-clubs,luck-based games,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3K4HMqNNfiFsUf4arFmLEomB,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.519958,,1
+card-ace-clubs,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3K4HMqNNfiFsUf4arFmLEomB,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.519958,,1
 card-ace-clubs,recreation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
-card-ace-clubs,strategy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
-card-ace-clubs,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,1
+card-ace-clubs,strategy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,2
+card-ace-clubs,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TQIL33gk7Dz7okctD3uup0GU,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.166767,,2

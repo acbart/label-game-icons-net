@@ -1,23 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 scorpio,Scorpio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
-scorpio,astrology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
-scorpio,horoscope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
-scorpio,scorpion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
-scorpio,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
-scorpio,water sign,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
+scorpio,astrology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,2
+scorpio,horoscope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,2
+scorpio,scorpio,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1
+scorpio,scorpion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,2
+scorpio,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,2
+scorpio,water sign,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,2
+scorpio,zodiac,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1
 scorpio,zodiac sign,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
 scorpio,November,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
 scorpio,October,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
+scorpio,arrow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1
 scorpio,astrological chart,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
-scorpio,constellation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
+scorpio,constellation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,2
+scorpio,curved line,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1
 scorpio,curved shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
-scorpio,mysterious,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
-scorpio,mysticism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
+scorpio,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1
+scorpio,glyph,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1
+scorpio,intensity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1
+scorpio,intuition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1
+scorpio,mysterious,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,2
+scorpio,mysticism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,2
 scorpio,mythology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
+scorpio,passion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1
 scorpio,personality traits,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
+scorpio,planetary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1
 scorpio,planetary influence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
 scorpio,pointed end,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
-scorpio,tail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
+scorpio,tail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,2
+scorpio,transformation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1
+scorpio,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1
 scorpio,alchemy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
-scorpio,esoteric,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
+scorpio,calendar,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1
+scorpio,cycle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1
+scorpio,esoteric,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,2
 scorpio,occult,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OqmNh5KZaDdnxoqRbEbOFJxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.670894,,1
+scorpio,predictions,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iQr0x7TzS25WeFoUUpaR5vGo,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.037790,,1

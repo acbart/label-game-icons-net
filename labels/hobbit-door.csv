@@ -1,30 +1,56 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+hobbit-door,adventure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
 hobbit-door,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
-hobbit-door,circular,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
+hobbit-door,circular,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,2
+hobbit-door,doorway,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
+hobbit-door,fantasy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
 hobbit-door,geometry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,harmony,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
+hobbit-door,hobbit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
+hobbit-door,hobbit-door,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
 hobbit-door,integration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
+hobbit-door,mystical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
 hobbit-door,pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
+hobbit-door,realm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
+hobbit-door,round,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
 hobbit-door,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,symmetric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
+hobbit-door,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
+hobbit-door,barrel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
 hobbit-door,bars,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,central alignment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,central dot,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
+hobbit-door,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
 hobbit-door,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,decorative design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,division,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,division lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
+hobbit-door,enclosure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
+hobbit-door,entryway,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
 hobbit-door,equal segments,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,framework,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
+hobbit-door,gate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
+hobbit-door,home,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
+hobbit-door,journey,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
 hobbit-door,mathematics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,order,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
+hobbit-door,portal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
 hobbit-door,proportions,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
+hobbit-door,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
+hobbit-door,ring,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
+hobbit-door,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
+hobbit-door,shelter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
+hobbit-door,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
+hobbit-door,threshold,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
+hobbit-door,wooden,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
+hobbit-door,connection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1
 hobbit-door,cutout,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,formal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,inclusions,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
 hobbit-door,principle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bJRqHIwZFy5GZpAAxshuYEDL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.288727,,1
+hobbit-door,secrecy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Zn5jcaaZ4ssWNIlYL93SZrQm,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.958673,,1

@@ -1,31 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-compass,cardinal points,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
+compass,cardinal points,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,2
 compass,compass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
-compass,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
-compass,exploration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
-compass,guidance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
-compass,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
+compass,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,2
+compass,exploration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,2
+compass,guidance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,2
+compass,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,2
 compass,navigation tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
 compass,pathfinding,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
-compass,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
+compass,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,2
 compass,angular,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
+compass,arrow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
 compass,cartography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
-compass,explorer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
+compass,destination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
+compass,explorer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,2
 compass,geographic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
-compass,instrument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
-compass,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
+compass,instrument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,2
+compass,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,2
 compass,locator,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
 compass,map,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
 compass,needle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
-compass,orientation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
+compass,north,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
+compass,orientation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,2
 compass,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
+compass,pointer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
 compass,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
-compass,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
-compass,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
-compass,voyage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
-compass,wayfinding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
+compass,searching,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
+compass,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,2
+compass,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
+compass,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,2
+compass,voyage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,2
+compass,wayfinding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,2
+compass,adventurer,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
 compass,angle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
+compass,circle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
+compass,coordinates,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
+compass,diagram,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
+compass,dial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
+compass,expedition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
+compass,graphic design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
+compass,mapping,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
 compass,points of interest,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
+compass,radial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1
 compass,rosette,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
 compass,star,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
 compass,surveying,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JK9FqxDUwSDgyCJLuea9q9hE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.266760,,1
+compass,trajectory,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SzqCrY1jmurl2zqRRHHoQpzK,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.667734,,1

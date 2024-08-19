@@ -1,28 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-tarot-00-the-fool,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
+tarot-00-the-fool,adventure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
+tarot-00-the-fool,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,2
+tarot-00-the-fool,beginning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
 tarot-00-the-fool,bucket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
+tarot-00-the-fool,carefree,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
 tarot-00-the-fool,effort,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
+tarot-00-the-fool,exploration,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
+tarot-00-the-fool,freedom,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
 tarot-00-the-fool,human figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
+tarot-00-the-fool,innocence,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
 tarot-00-the-fool,labor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
 tarot-00-the-fool,pole,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
+tarot-00-the-fool,potential,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
 tarot-00-the-fool,resource,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
+tarot-00-the-fool,risk,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
 tarot-00-the-fool,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
+tarot-00-the-fool,trust,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
 tarot-00-the-fool,water carrier,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
 tarot-00-the-fool,work,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
 tarot-00-the-fool,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
+tarot-00-the-fool,bag,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
 tarot-00-the-fool,burden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
 tarot-00-the-fool,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
-tarot-00-the-fool,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
+tarot-00-the-fool,individual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
+tarot-00-the-fool,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,2
+tarot-00-the-fool,leap of faith,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
 tarot-00-the-fool,load,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
 tarot-00-the-fool,manual work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
-tarot-00-the-fool,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
-tarot-00-the-fool,path,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
+tarot-00-the-fool,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,2
+tarot-00-the-fool,naivety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
+tarot-00-the-fool,open mind,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
+tarot-00-the-fool,path,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,2
+tarot-00-the-fool,possibility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
 tarot-00-the-fool,resourceful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
+tarot-00-the-fool,spontaneity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
+tarot-00-the-fool,stick,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
 tarot-00-the-fool,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
 tarot-00-the-fool,sustainability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
 tarot-00-the-fool,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
 tarot-00-the-fool,task,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
 tarot-00-the-fool,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
 tarot-00-the-fool,transport,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
+tarot-00-the-fool,unknown,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
+tarot-00-the-fool,wandering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
+tarot-00-the-fool,youth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1
 tarot-00-the-fool,archaic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
 tarot-00-the-fool,outdoor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KBFU2TQymQkrlAVeLTwq7X5S,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.370978,,1
+tarot-00-the-fool,potential dangers,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R4SFSDqBIQCvWKJLtqAclLqF,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.513853,,1

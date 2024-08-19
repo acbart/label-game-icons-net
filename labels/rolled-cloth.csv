@@ -1,23 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 rolled-cloth,documentation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
+rolled-cloth,fabric roll,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.523141,,1
 rolled-cloth,journal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
 rolled-cloth,note-taking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
 rolled-cloth,notebook,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
+rolled-cloth,roll,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
+rolled-cloth,rolled-cloth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.523141,,1
+rolled-cloth,scroll,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
 rolled-cloth,spiral binding,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
+rolled-cloth,carpet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
 rolled-cloth,creative writing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
 rolled-cloth,diary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
 rolled-cloth,education,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
+rolled-cloth,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
+rolled-cloth,home decor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
 rolled-cloth,ideas,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
+rolled-cloth,interior design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
 rolled-cloth,learning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
+rolled-cloth,material,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
 rolled-cloth,memory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
 rolled-cloth,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
 rolled-cloth,pages,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
+rolled-cloth,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
 rolled-cloth,planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
 rolled-cloth,recording,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
+rolled-cloth,roll up,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
+rolled-cloth,rug,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
+rolled-cloth,sewing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
 rolled-cloth,sketchbook,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
 rolled-cloth,stationery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
 rolled-cloth,study,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
+rolled-cloth,swatch,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
+rolled-cloth,tailoring,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
+rolled-cloth,textile,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.523141,,1
+rolled-cloth,texture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
 rolled-cloth,thoughts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
+rolled-cloth,unfurl,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
+rolled-cloth,woven,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
 rolled-cloth,writing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
+rolled-cloth,artisan,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
+rolled-cloth,craft,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
+rolled-cloth,industrial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
+rolled-cloth,manufacturing,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
+rolled-cloth,merchandise,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
 rolled-cloth,office supplies,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
 rolled-cloth,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5dEnVogIGLokUxeulH2u3WDl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.547325,,1
+rolled-cloth,shopping,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1
+rolled-cloth,stores,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_00TtmPBN3CssplS7U2sVZzvQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.524114,,1

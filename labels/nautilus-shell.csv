@@ -1,26 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 nautilus-shell,circles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
 nautilus-shell,cyclical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
-nautilus-shell,design,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.729761,,1
+nautilus-shell,design,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.729761,,2
+nautilus-shell,fibonacci,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
 nautilus-shell,flower-inspired,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.729761,,1
-nautilus-shell,growth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
+nautilus-shell,geometry,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
+nautilus-shell,growth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,2
+nautilus-shell,mathematics,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
 nautilus-shell,natural patterns,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
-nautilus-shell,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
+nautilus-shell,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,2
+nautilus-shell,nautilus shell,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
 nautilus-shell,organic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
+nautilus-shell,pattern,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
 nautilus-shell,rotation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
-nautilus-shell,spiral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
-nautilus-shell,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.729761,,1
+nautilus-shell,shell,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
+nautilus-shell,shell structure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
+nautilus-shell,spiral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,2
+nautilus-shell,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.729761,,2
 nautilus-shell,aesthetics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.729761,,1
 nautilus-shell,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.729761,,1
-nautilus-shell,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
+nautilus-shell,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,2
 nautilus-shell,botanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.729761,,1
+nautilus-shell,complexity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
+nautilus-shell,continuity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
 nautilus-shell,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
+nautilus-shell,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
 nautilus-shell,equilibrium,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
+nautilus-shell,evolution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
 nautilus-shell,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
 nautilus-shell,fluidity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
-nautilus-shell,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
+nautilus-shell,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,2
 nautilus-shell,life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
+nautilus-shell,marine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
 nautilus-shell,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
-nautilus-shell,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,1
+nautilus-shell,natural design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
+nautilus-shell,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
+nautilus-shell,order,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
+nautilus-shell,regularity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
+nautilus-shell,seashell,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
+nautilus-shell,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.728758,,2
+nautilus-shell,whirl,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
+nautilus-shell,wholeness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
+nautilus-shell,identity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
 nautilus-shell,mosaic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.729761,,1
+nautilus-shell,snail,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1
 nautilus-shell,visualization,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8M8CcUtbeHJP964h2aluwPf2,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.729761,,1
+nautilus-shell,voyage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rtV9XcSrlvX2QNYTbTWxOOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.179281,,1

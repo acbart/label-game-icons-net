@@ -1,25 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+card-2-hearts,card,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4OtlBsogOUP0WAtW7492xu8G,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.256237,,1
 card-2-hearts,card suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
-card-2-hearts,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
-card-2-hearts,hearts,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
-card-2-hearts,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
+card-2-hearts,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,2
+card-2-hearts,hearts,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,2
+card-2-hearts,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,2
+card-2-hearts,rank,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4OtlBsogOUP0WAtW7492xu8G,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.256237,,1
 card-2-hearts,spades,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
-card-2-hearts,suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
-card-2-hearts,two,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
+card-2-hearts,suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,2
+card-2-hearts,two,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,2
 card-2-hearts,Blackjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
 card-2-hearts,Poker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
+card-2-hearts,bridge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4OtlBsogOUP0WAtW7492xu8G,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.256237,,1
 card-2-hearts,card game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
 card-2-hearts,chance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
 card-2-hearts,collection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
-card-2-hearts,deck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
+card-2-hearts,deck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,2
 card-2-hearts,fortune,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
-card-2-hearts,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
-card-2-hearts,luck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
+card-2-hearts,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,2
+card-2-hearts,luck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,2
 card-2-hearts,number,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
+card-2-hearts,numeric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4OtlBsogOUP0WAtW7492xu8G,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.256237,,1
 card-2-hearts,pair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
-card-2-hearts,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
-card-2-hearts,pips,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
+card-2-hearts,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,2
+card-2-hearts,pips,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,2
+card-2-hearts,poker,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4OtlBsogOUP0WAtW7492xu8G,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.256237,,1
 card-2-hearts,strategic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
-card-2-hearts,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
+card-2-hearts,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4OtlBsogOUP0WAtW7492xu8G,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.256237,,1
+card-2-hearts,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,2
+card-2-hearts,traditional games,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4OtlBsogOUP0WAtW7492xu8G,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.256237,,1
+card-2-hearts,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4OtlBsogOUP0WAtW7492xu8G,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.256237,,1
 card-2-hearts,clubs,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
+card-2-hearts,compete,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4OtlBsogOUP0WAtW7492xu8G,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.256237,,1
+card-2-hearts,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4OtlBsogOUP0WAtW7492xu8G,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.256237,,1
 card-2-hearts,diamonds,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hTSfjjc40wqZYln4pCxcYJpe,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.111677,,1
+card-2-hearts,dual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4OtlBsogOUP0WAtW7492xu8G,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.256237,,1
+card-2-hearts,entertainment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4OtlBsogOUP0WAtW7492xu8G,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.256237,,1
+card-2-hearts,match,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4OtlBsogOUP0WAtW7492xu8G,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.256237,,1

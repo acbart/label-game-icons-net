@@ -1,25 +1,53 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+hut,cottage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
 hut,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
 hut,disaster,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
+hut,dwelling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
 hut,eruption,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
 hut,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
 hut,hazard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
+hut,hut,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
 hut,lava,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
 hut,magma,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
+hut,roof,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
+hut,shelter,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
 hut,volcano,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
+hut,abode,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
 hut,ash,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
+hut,basic structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
+hut,building,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
 hut,crater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
 hut,earth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
 hut,eruption cloud,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
 hut,geology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
+hut,habitat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
+hut,home,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
 hut,mountain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
 hut,natural event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
 hut,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
+hut,primitive dwelling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
+hut,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
+hut,residence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
+hut,rural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
 hut,seismic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
+hut,simple housing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
+hut,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
 hut,tectonic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
+hut,thatched roof,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
+hut,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
 hut,vent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
 hut,volcanology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
+hut,architecture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
+hut,asymmetry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
+hut,covering,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
 hut,geyser,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
+hut,handcrafted,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
 hut,landscape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
+hut,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
+hut,organic shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
+hut,patterns,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
 hut,plate,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1
+hut,sustainability,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
+hut,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
+hut,temporary home,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kPkWj7yfBcWdT3bQyjEvLzIL,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.263361,,1
 hut,tremor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N89Kw3wL3HVPPHv5GKOugpeX,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.350829,,1

@@ -1,28 +1,55 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 visored-helm,anonymity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
+visored-helm,armor,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
 visored-helm,concealment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
 visored-helm,disguise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
+visored-helm,headgear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
+visored-helm,helmet,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
+visored-helm,helmeted,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.717212,,1
 visored-helm,hidden,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
 visored-helm,incognito,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
-visored-helm,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
+visored-helm,knight,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
+visored-helm,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,2
+visored-helm,medieval,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
 visored-helm,mystery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
 visored-helm,privacy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
 visored-helm,secret,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
-visored-helm,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
+visored-helm,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,2
+visored-helm,visor,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
+visored-helm,warrior,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
 visored-helm,abstract person,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
+visored-helm,battle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
+visored-helm,chivalry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
+visored-helm,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.717212,,1
+visored-helm,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
 visored-helm,digital security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
 visored-helm,espionage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
 visored-helm,faceless,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
+visored-helm,fantasy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.717212,,1
+visored-helm,guard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.717212,,1
 visored-helm,hacker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
+visored-helm,heroic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.717212,,1
+visored-helm,historical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.717212,,1
+visored-helm,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.717212,,1
 visored-helm,invisibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
 visored-helm,persona,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
-visored-helm,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
+visored-helm,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,3
+visored-helm,protection gear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.717212,,1
+visored-helm,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
+visored-helm,shield,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
+visored-helm,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
 visored-helm,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
+visored-helm,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
+visored-helm,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.717212,,1
 visored-helm,unknown identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
+visored-helm,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.716187,,1
 visored-helm,cybersecurity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
 visored-helm,enigmatic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
+visored-helm,figure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.717212,,1
 visored-helm,intrigue,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
 visored-helm,mysterious figure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
 visored-helm,privacy settings,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
+visored-helm,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.717212,,1
+visored-helm,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RwMPQyZtrR4WYJIdR4SI2YWL,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.717212,,1
 visored-helm,suspense,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1
 visored-helm,undercover,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n3vxZmyW5U3aRJluFIumf8xf,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.710188,,1

@@ -1,26 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 bread-slice,apparel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
+bread-slice,bread,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
 bread-slice,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
 bread-slice,dots pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
 bread-slice,fashion item,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
+bread-slice,food,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
 bread-slice,garment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
+bread-slice,loaf,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
 bread-slice,skirt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
+bread-slice,slice,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
+bread-slice,sliced,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
 bread-slice,wear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
-bread-slice,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
+bread-slice,bakery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
+bread-slice,baking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
+bread-slice,breakfast,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
+bread-slice,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
+bread-slice,crust,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
+bread-slice,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
+bread-slice,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,2
 bread-slice,dots,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
+bread-slice,dough,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
 bread-slice,fabric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
 bread-slice,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
+bread-slice,flour,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
+bread-slice,grain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
+bread-slice,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
+bread-slice,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
+bread-slice,meal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
+bread-slice,nutrition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,2
 bread-slice,outfit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
 bread-slice,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
 bread-slice,polka dots,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
+bread-slice,sandwich,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
+bread-slice,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
 bread-slice,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
 bread-slice,textile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
 bread-slice,texture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
+bread-slice,toast,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
 bread-slice,trendy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
 bread-slice,wardrobe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
+bread-slice,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
 bread-slice,accessory,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
 bread-slice,collection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
 bread-slice,decoration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
+bread-slice,economy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1
 bread-slice,graphic design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
 bread-slice,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
 bread-slice,presentation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oB556KF7CmDY5z6uG1E49tLg,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.983513,,1
+bread-slice,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nlYhwBofSmDsuv8m7iGY49OW,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.857137,,1

@@ -1,20 +1,23 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-chest,box,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
-chest,chest,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
+chest,box,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,2
+chest,chest,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,2
 chest,guarded,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
-chest,lock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
-chest,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
+chest,keyhole,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZTHqKvvFje9JmW3wv7Nnn0U2,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.802519,,1
+chest,lock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,2
+chest,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,2
 chest,safe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
 chest,secrecy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
-chest,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.220990,,1
-chest,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
-chest,treasure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
+chest,secure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZTHqKvvFje9JmW3wv7Nnn0U2,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.802519,,1
+chest,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.220990,,2
+chest,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,2
+chest,treasure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,2
 chest,treasure chest,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
-chest,vault,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
+chest,vault,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,2
 chest,access,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
 chest,blockade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
-chest,closure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
-chest,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
+chest,closure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,2
+chest,closure mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZTHqKvvFje9JmW3wv7Nnn0U2,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.802519,,1
+chest,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,2
 chest,containment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
 chest,encryption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
 chest,fortress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
@@ -22,7 +25,15 @@ chest,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CB
 chest,hinge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
 chest,keep,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
 chest,latch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
+chest,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZTHqKvvFje9JmW3wv7Nnn0U2,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.802519,,1
 chest,ownership,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
-chest,possession,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
+chest,possession,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,2
 chest,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
+chest,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZTHqKvvFje9JmW3wv7Nnn0U2,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.802519,,1
+chest,storage box,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZTHqKvvFje9JmW3wv7Nnn0U2,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.802519,,1
 chest,unlock,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CBkle5LL1drUalbiijpFmDJe,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.221984,,1
+chest,valuables,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZTHqKvvFje9JmW3wv7Nnn0U2,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.802519,,1
+chest,wealth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZTHqKvvFje9JmW3wv7Nnn0U2,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.802519,,1
+chest,casket,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZTHqKvvFje9JmW3wv7Nnn0U2,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.802519,,1
+chest,hoard,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZTHqKvvFje9JmW3wv7Nnn0U2,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.802519,,1
+chest,repository,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZTHqKvvFje9JmW3wv7Nnn0U2,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.802519,,1

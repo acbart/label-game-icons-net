@@ -1,26 +1,54 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+caterpillar,animal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
 caterpillar,assembly,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
+caterpillar,caterpillar,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
 caterpillar,completion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
+caterpillar,creature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,insect,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
 caterpillar,integration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
 caterpillar,interlocking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
 caterpillar,jigsaw,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
+caterpillar,larva,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
 caterpillar,pieces,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.159003,,1
 caterpillar,problem solving,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
 caterpillar,puzzle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.159003,,1
+caterpillar,segment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,biology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
 caterpillar,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
 caterpillar,collaboration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
+caterpillar,curved shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
 caterpillar,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
+caterpillar,development,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,earth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,environment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
 caterpillar,fit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
+caterpillar,flow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
 caterpillar,form,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
 caterpillar,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
+caterpillar,growth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,life cycle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
 caterpillar,logic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
 caterpillar,matching,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
+caterpillar,metamorphosis,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,nature patterns,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,organic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
 caterpillar,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
 caterpillar,parts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
-caterpillar,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
+caterpillar,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,2
+caterpillar,progression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
 caterpillar,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
 caterpillar,solution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
 caterpillar,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
+caterpillar,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,transformation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,abstract representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
 caterpillar,brain teaser,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
-caterpillar,creativity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
+caterpillar,creativity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,2
 caterpillar,entertainment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YCbmfNF0jlsUaSSiOIfopwFr,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.160003,,1
+caterpillar,minimalist design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1
+caterpillar,texture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NBPepjU4lZf3SayhOokjKW55,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.546856,,1

@@ -1,31 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 abstract-031,atomic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
 abstract-031,contamination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
-abstract-031,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
-abstract-031,hazard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
-abstract-031,nuclear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
+abstract-031,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,2
+abstract-031,hazard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,2
+abstract-031,nuclear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,2
 abstract-031,nuclear energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
-abstract-031,radiation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
+abstract-031,radiation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,2
 abstract-031,radioactive,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
-abstract-031,toxic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
-abstract-031,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
-abstract-031,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
-abstract-031,caution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
+abstract-031,toxic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,2
+abstract-031,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,2
+abstract-031,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,2
+abstract-031,caution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,2
 abstract-031,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
-abstract-031,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
+abstract-031,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,2
 abstract-031,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
+abstract-031,harmful,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K1CurqkYCjAGMWuKvQ4MecRq,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.685814,,1
 abstract-031,hazmat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
 abstract-031,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
-abstract-031,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
+abstract-031,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,2
 abstract-031,industrial safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
+abstract-031,poison,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K1CurqkYCjAGMWuKvQ4MecRq,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.685814,,1
 abstract-031,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
-abstract-031,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
+abstract-031,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,2
 abstract-031,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
-abstract-031,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
+abstract-031,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,2
 abstract-031,safety protocol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
-abstract-031,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
+abstract-031,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,2
 abstract-031,securing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
-abstract-031,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
+abstract-031,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K1CurqkYCjAGMWuKvQ4MecRq,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.685814,,1
+abstract-031,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,2
 abstract-031,triad,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
+abstract-031,triangle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K1CurqkYCjAGMWuKvQ4MecRq,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.685814,,1
+abstract-031,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K1CurqkYCjAGMWuKvQ4MecRq,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.685814,,1
 abstract-031,anti-radiation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
 abstract-031,biohazard,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YZFbFZFA4tRiJvJu2mgcsISJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.605182,,1
+abstract-031,black circle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K1CurqkYCjAGMWuKvQ4MecRq,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.685814,,1
+abstract-031,darkness,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K1CurqkYCjAGMWuKvQ4MecRq,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.685814,,1
+abstract-031,destruction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K1CurqkYCjAGMWuKvQ4MecRq,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.685814,,1
+abstract-031,technology,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K1CurqkYCjAGMWuKvQ4MecRq,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.685814,,1

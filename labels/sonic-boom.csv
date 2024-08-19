@@ -1,25 +1,54 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+sonic-boom,circular motion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,concentric circles,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
 sonic-boom,detection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
+sonic-boom,energy release,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,explosion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,impact,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
 sonic-boom,monitoring,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
+sonic-boom,movement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
 sonic-boom,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
 sonic-boom,radar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
+sonic-boom,ripple effect,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
 sonic-boom,scan,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
 sonic-boom,signal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
+sonic-boom,sonic-boom,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,sound waves,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
 sonic-boom,tracking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
+sonic-boom,blast,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
 sonic-boom,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
+sonic-boom,burst,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
 sonic-boom,circular,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
 sonic-boom,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
 sonic-boom,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
 sonic-boom,detection system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
 sonic-boom,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
+sonic-boom,disruption,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
 sonic-boom,echo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
+sonic-boom,expansion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,frequency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
 sonic-boom,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
 sonic-boom,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
+sonic-boom,rebound,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
 sonic-boom,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
 sonic-boom,sensing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
+sonic-boom,shockwave,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
 sonic-boom,sonar,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
 sonic-boom,spiral,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
 sonic-boom,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
 sonic-boom,target,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
 sonic-boom,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
+sonic-boom,velocity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,vibration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
 sonic-boom,waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FUxAJuI1Tq9tS10Ar1Vwv0VW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.081151,,1
+sonic-boom,acoustic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,aerospace,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,aviation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,intensity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,jet,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,phenomenon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,power,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,pressure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1
+sonic-boom,supersonic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yg5mfrFV1No8WNRq6xFr3fWq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.484953,,1

@@ -1,25 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-tiger,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
+tiger,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,2
+tiger,big cat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
 tiger,black and white pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
 tiger,characteristic markings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
 tiger,contrast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
-tiger,stripe pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
+tiger,predator,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
+tiger,stripe pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,2
 tiger,stripes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
+tiger,tiger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
 tiger,zebra,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
 tiger,African fauna,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
+tiger,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
 tiger,biodiversity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
-tiger,camouflage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
-tiger,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
+tiger,camouflage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,2
+tiger,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,2
 tiger,equine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
+tiger,ferocity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
 tiger,herbivore,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
 tiger,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
-tiger,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
+tiger,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,2
+tiger,jungle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
 tiger,mammal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
-tiger,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
+tiger,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,2
+tiger,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
 tiger,safari,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
 tiger,savannah,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
+tiger,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
+tiger,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
 tiger,wild,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
-tiger,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
+tiger,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,2
 tiger,zoology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
 tiger,abstract representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1
+tiger,figure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
+tiger,geometric shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
+tiger,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
+tiger,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
+tiger,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
+tiger,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
+tiger,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uh0cO4Wt07NrHxheC5rJ7fo4,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.276224,,1
 tiger,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zLeTlGmXIAfa01XcWG9tMtMo,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.279232,,1

@@ -1,25 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 delapouite_sunrise,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
-delapouite_sunrise,dawn,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
+delapouite_sunrise,beginning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
+delapouite_sunrise,dawn,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,2
 delapouite_sunrise,dusk,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
+delapouite_sunrise,morning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
+delapouite_sunrise,new day,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
+delapouite_sunrise,sun,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
 delapouite_sunrise,sun rays,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
-delapouite_sunrise,sunrise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
+delapouite_sunrise,sunrise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,2
 delapouite_sunrise,sunset,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
 delapouite_sunrise,upward direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
+delapouite_sunrise,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
 delapouite_sunrise,ascend,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
-delapouite_sunrise,awakening,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
-delapouite_sunrise,cycle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
-delapouite_sunrise,daybreak,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
+delapouite_sunrise,awakening,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,2
+delapouite_sunrise,circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
+delapouite_sunrise,cycle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,2
+delapouite_sunrise,daybreak,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,2
+delapouite_sunrise,direction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
 delapouite_sunrise,emergence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
 delapouite_sunrise,fresh start,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
 delapouite_sunrise,future,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
-delapouite_sunrise,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
+delapouite_sunrise,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,2
 delapouite_sunrise,half-circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
 delapouite_sunrise,hope,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
-delapouite_sunrise,horizon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
-delapouite_sunrise,light,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
+delapouite_sunrise,horizon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,2
+delapouite_sunrise,light,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,2
 delapouite_sunrise,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
 delapouite_sunrise,new beginning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
+delapouite_sunrise,optimism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
+delapouite_sunrise,progress,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
+delapouite_sunrise,radiance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
 delapouite_sunrise,rebirth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
+delapouite_sunrise,refresh,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
+delapouite_sunrise,renewal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
+delapouite_sunrise,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
 delapouite_sunrise,transition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
-delapouite_sunrise,nature,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,1
+delapouite_sunrise,uplift,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
+delapouite_sunrise,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
+delapouite_sunrise,half circle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pEUOIJicxzqkIU5BjO3ZEmYY,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.559002,,1
+delapouite_sunrise,nature,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A2dv6gYG1snFfz1TlJZp3AA5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.131118,,2

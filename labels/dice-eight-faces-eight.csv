@@ -1,26 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-dice-eight-faces-eight,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
+dice-eight-faces-eight,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,2
+dice-eight-faces-eight,eight-sided,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H8d9ZwJ8i2JHx2CpzsT6V9gL,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.980719,,1
 dice-eight-faces-eight,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
-dice-eight-faces-eight,gaming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
-dice-eight-faces-eight,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
+dice-eight-faces-eight,gaming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,2
+dice-eight-faces-eight,gaming die,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H8d9ZwJ8i2JHx2CpzsT6V9gL,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.980719,,1
+dice-eight-faces-eight,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,2
 dice-eight-faces-eight,number,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
-dice-eight-faces-eight,octahedron,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
-dice-eight-faces-eight,role-playing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
+dice-eight-faces-eight,number eight,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H8d9ZwJ8i2JHx2CpzsT6V9gL,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.980719,,1
+dice-eight-faces-eight,octahedron,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,2
+dice-eight-faces-eight,role-playing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,2
 dice-eight-faces-eight,roll,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
 dice-eight-faces-eight,tabletop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
 dice-eight-faces-eight,3D,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
+dice-eight-faces-eight,3D shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H8d9ZwJ8i2JHx2CpzsT6V9gL,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.980719,,1
 dice-eight-faces-eight,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
 dice-eight-faces-eight,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
 dice-eight-faces-eight,angular,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
+dice-eight-faces-eight,board games,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H8d9ZwJ8i2JHx2CpzsT6V9gL,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.980719,,1
+dice-eight-faces-eight,chance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H8d9ZwJ8i2JHx2CpzsT6V9gL,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.980719,,1
+dice-eight-faces-eight,decision making,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H8d9ZwJ8i2JHx2CpzsT6V9gL,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.980719,,1
 dice-eight-faces-eight,decision-making,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
 dice-eight-faces-eight,facet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
 dice-eight-faces-eight,hexagon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
-dice-eight-faces-eight,luck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
+dice-eight-faces-eight,luck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,2
 dice-eight-faces-eight,math,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
-dice-eight-faces-eight,polygon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
-dice-eight-faces-eight,probability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
-dice-eight-faces-eight,random,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
+dice-eight-faces-eight,multi-face,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H8d9ZwJ8i2JHx2CpzsT6V9gL,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.980719,,1
+dice-eight-faces-eight,polygon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,2
+dice-eight-faces-eight,probability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,2
+dice-eight-faces-eight,random,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,2
 dice-eight-faces-eight,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
-dice-eight-faces-eight,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
+dice-eight-faces-eight,strategy games,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H8d9ZwJ8i2JHx2CpzsT6V9gL,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.980719,,1
+dice-eight-faces-eight,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,2
+dice-eight-faces-eight,tactics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H8d9ZwJ8i2JHx2CpzsT6V9gL,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.980719,,1
 dice-eight-faces-eight,three-dimensional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
+dice-eight-faces-eight,abstract representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H8d9ZwJ8i2JHx2CpzsT6V9gL,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.980719,,1
 dice-eight-faces-eight,calculation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TVVSGt8gyxnwSFyp9tTNGAOA,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.515251,,1
+dice-eight-faces-eight,cubes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H8d9ZwJ8i2JHx2CpzsT6V9gL,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.980719,,1
+dice-eight-faces-eight,mathematics,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H8d9ZwJ8i2JHx2CpzsT6V9gL,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.980719,,1
+dice-eight-faces-eight,puzzle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H8d9ZwJ8i2JHx2CpzsT6V9gL,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.980719,,1

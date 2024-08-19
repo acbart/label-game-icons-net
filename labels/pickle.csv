@@ -1,26 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+pickle,cucumber,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
+pickle,food,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
 pickle,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
 pickle,musical note,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
+pickle,pickle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
 pickle,treble clef,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
-pickle,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
+pickle,vegetable,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
+pickle,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,2
 pickle,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
 pickle,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
 pickle,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
+pickle,condiment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
 pickle,creative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
+pickle,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
+pickle,curved shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
+pickle,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
 pickle,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
+pickle,fermented,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
 pickle,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
+pickle,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
 pickle,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
 pickle,music theory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
 pickle,musician,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
 pickle,notation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
+pickle,organic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
+pickle,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
 pickle,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
 pickle,pitch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
+pickle,preserved,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
 pickle,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
 pickle,scale,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
 pickle,score,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
+pickle,side dish,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
+pickle,snack,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
 pickle,song,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
 pickle,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
 pickle,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
+pickle,texture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
+pickle,wavy lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
+pickle,zigzag,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
+pickle,decoration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
+pickle,gourmet,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
 pickle,instrument,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
+pickle,minimalism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
+pickle,nutrition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
 pickle,orchestra,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1
+pickle,symmetrical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nupyioTnLWUAuLNlE8n7FwNX,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.286883,,1
 pickle,tempo,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_M9I23j8cRQhEIN0OTArH9HZx,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.211732,,1

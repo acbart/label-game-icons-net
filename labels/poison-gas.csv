@@ -1,23 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 poison-gas,burst,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,1
-poison-gas,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,1
+poison-gas,chemical warfare,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,crossbones,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,2
+poison-gas,death,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
 poison-gas,detonation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,1
 poison-gas,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,1
 poison-gas,explosive,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,1
 poison-gas,explosive blast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,1
 poison-gas,explosive force,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,1
+poison-gas,gas,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,poison,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,skull,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,toxic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,toxin,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
 poison-gas,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,1
+poison-gas,alert,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,biohazard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,biohazardous,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
 poison-gas,chaos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.671881,,1
+poison-gas,chemical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,contamination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
 poison-gas,disruption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.671881,,1
 poison-gas,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.671881,,1
 poison-gas,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,1
+poison-gas,environment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
 poison-gas,eruption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,1
-poison-gas,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,1
+poison-gas,exposure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,fumes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,2
 poison-gas,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,1
 poison-gas,intensity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.671881,,1
+poison-gas,mask,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
 poison-gas,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.671881,,1
+poison-gas,noxious,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
 poison-gas,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.671881,,1
+poison-gas,respiratory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
 poison-gas,shockwave,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.670881,,1
-poison-gas,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.671881,,1
+poison-gas,smoke,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.671881,,2
 poison-gas,abstraction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.671881,,1
 poison-gas,chemical reaction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_baMA9tSNZt2EFX3fWdqpWSr6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.671881,,1
+poison-gas,emission,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,industrial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,outbreak,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1
+poison-gas,substance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pNDms5X4rdth10ikuAWcaulV,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.143052,,1

@@ -1,24 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-saloon-doors,barrier,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
+saloon-doors,barrier,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,2
 saloon-doors,doors,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
-saloon-doors,entrance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
-saloon-doors,gate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
+saloon-doors,doorway,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEtXrAw3JKlf9IB4as7UCVgA,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.791398,,1
+saloon-doors,dual doors,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEtXrAw3JKlf9IB4as7UCVgA,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.791398,,1
+saloon-doors,entrance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,2
+saloon-doors,gate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,2
 saloon-doors,saloon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
+saloon-doors,saloon doors,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEtXrAw3JKlf9IB4as7UCVgA,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.791398,,1
 saloon-doors,swinging,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
+saloon-doors,swinging doors,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEtXrAw3JKlf9IB4as7UCVgA,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.791398,,1
 saloon-doors,western,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
+saloon-doors,Western,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEtXrAw3JKlf9IB4as7UCVgA,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.791398,,1
 saloon-doors,access,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
-saloon-doors,cowboy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
-saloon-doors,divider,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
+saloon-doors,cowboy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,2
+saloon-doors,divider,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,2
+saloon-doors,hospitality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEtXrAw3JKlf9IB4as7UCVgA,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.791398,,1
+saloon-doors,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEtXrAw3JKlf9IB4as7UCVgA,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.791398,,1
 saloon-doors,open,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
 saloon-doors,passageway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
-saloon-doors,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
+saloon-doors,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,2
+saloon-doors,separation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEtXrAw3JKlf9IB4as7UCVgA,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.791398,,1
 saloon-doors,shutters,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
-saloon-doors,swing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
-saloon-doors,threshold,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
+saloon-doors,swing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,2
+saloon-doors,threshold,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,2
+saloon-doors,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEtXrAw3JKlf9IB4as7UCVgA,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.791398,,1
+saloon-doors,vintage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEtXrAw3JKlf9IB4as7UCVgA,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.791398,,1
+saloon-doors,architecture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEtXrAw3JKlf9IB4as7UCVgA,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.791398,,1
 saloon-doors,boundary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
 saloon-doors,close,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
-saloon-doors,entryway,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
-saloon-doors,old west,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
+saloon-doors,entryway,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,2
+saloon-doors,historic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEtXrAw3JKlf9IB4as7UCVgA,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.791398,,1
+saloon-doors,old west,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,2
+saloon-doors,partition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEtXrAw3JKlf9IB4as7UCVgA,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.791398,,1
+saloon-doors,public space,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEtXrAw3JKlf9IB4as7UCVgA,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.791398,,1
 saloon-doors,security,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
 saloon-doors,transition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1
 saloon-doors,transitional space,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VxVBpr8YnWMUAkTscxGTPS4I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.623416,,1

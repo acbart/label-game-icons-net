@@ -1,4 +1,5 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+trinacria,ancient symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
 trinacria,cycle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
 trinacria,iteration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
 trinacria,loop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
@@ -7,10 +8,32 @@ trinacria,reload,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GD
 trinacria,renew,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
 trinacria,repeat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
 trinacria,restart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
+trinacria,symbolic meaning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,symbolism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,symmetric,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,symmetric design,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,three legs,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,trinacria,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
 trinacria,update,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
+trinacria,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
 trinacria,arrow circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
+trinacria,artistic representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,center,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,circular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
 trinacria,circular motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
 trinacria,continuation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
+trinacria,cultural icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,cyclic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,historical significance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,medusa head,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,mythological figure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,mythology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
 trinacria,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
 trinacria,perpetual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
 trinacria,process,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
@@ -18,6 +41,12 @@ trinacria,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_re
 trinacria,recycle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
 trinacria,repetition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
 trinacria,restoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
-trinacria,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
+trinacria,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,2
 trinacria,sync,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
+trinacria,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,visual motif,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,wholeness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,diverse origins,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
+trinacria,spiral,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1
 trinacria,time,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GDBlNsYrGd9EnypN3asQ1OO6,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.383775,,1
+trinacria,tribal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qHRarfwSd3uVfloDQBXOWnUs,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.683411,,1

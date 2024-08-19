@@ -1,27 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-bed-lamp,lamp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
-bed-lamp,lighting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
-bed-lamp,reading light,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
-bed-lamp,shade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
-bed-lamp,table lamp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
+bed-lamp,bed-lamp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IkRyAYKmFBPNuLcthXMEhfh8,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.299680,,1
+bed-lamp,bedroom accessory,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IkRyAYKmFBPNuLcthXMEhfh8,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.299680,,1
+bed-lamp,furnishing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IkRyAYKmFBPNuLcthXMEhfh8,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.299680,,1
+bed-lamp,lamp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,2
+bed-lamp,lampstand,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IkRyAYKmFBPNuLcthXMEhfh8,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.299680,,1
+bed-lamp,lighting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,2
+bed-lamp,reading light,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,2
+bed-lamp,shade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,2
+bed-lamp,table lamp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,2
+bed-lamp,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IkRyAYKmFBPNuLcthXMEhfh8,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.299680,,1
 bed-lamp,ambient,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.832613,,1
-bed-lamp,bedside,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
+bed-lamp,bedside,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,2
+bed-lamp,bulb,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IkRyAYKmFBPNuLcthXMEhfh8,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.299680,,1
+bed-lamp,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IkRyAYKmFBPNuLcthXMEhfh8,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.299680,,1
 bed-lamp,decor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
+bed-lamp,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IkRyAYKmFBPNuLcthXMEhfh8,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.299680,,1
 bed-lamp,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
-bed-lamp,electric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
+bed-lamp,domestic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IkRyAYKmFBPNuLcthXMEhfh8,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.299680,,1
+bed-lamp,electric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,2
 bed-lamp,fixture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.832613,,1
-bed-lamp,furniture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
+bed-lamp,functional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IkRyAYKmFBPNuLcthXMEhfh8,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.299680,,1
+bed-lamp,furniture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,2
 bed-lamp,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.832613,,1
 bed-lamp,home,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
-bed-lamp,illumination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
+bed-lamp,home decor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IkRyAYKmFBPNuLcthXMEhfh8,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.299680,,1
+bed-lamp,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IkRyAYKmFBPNuLcthXMEhfh8,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.299680,,1
+bed-lamp,illumination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,2
 bed-lamp,interior,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
-bed-lamp,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.832613,,1
-bed-lamp,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.832613,,1
+bed-lamp,interior design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IkRyAYKmFBPNuLcthXMEhfh8,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.299680,,1
+bed-lamp,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.832613,,2
+bed-lamp,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.832613,,2
+bed-lamp,nightlight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IkRyAYKmFBPNuLcthXMEhfh8,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.299680,,1
 bed-lamp,room,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
-bed-lamp,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
-bed-lamp,soft light,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
-bed-lamp,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.832613,,1
-bed-lamp,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.832613,,1
-bed-lamp,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1
+bed-lamp,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,2
+bed-lamp,soft light,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,2
+bed-lamp,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.832613,,2
+bed-lamp,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.832613,,2
+bed-lamp,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,2
 bed-lamp,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.832613,,1
 bed-lamp,vase shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YpZP4QYOWOvadAfD4Iyb871y,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.831591,,1

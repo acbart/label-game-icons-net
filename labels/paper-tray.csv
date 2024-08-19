@@ -1,25 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 paper-tray,data,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
 paper-tray,document,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
+paper-tray,file holder,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
 paper-tray,file storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
 paper-tray,files,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
 paper-tray,folder,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
 paper-tray,information,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
-paper-tray,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
-paper-tray,administration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
+paper-tray,office supply,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
+paper-tray,paper tray,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
+paper-tray,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,2
+paper-tray,tray,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
+paper-tray,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
+paper-tray,administration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,2
 paper-tray,archive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
 paper-tray,backup,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
-paper-tray,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
+paper-tray,business organization,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
+paper-tray,classification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
+paper-tray,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,2
+paper-tray,desktop accessory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
 paper-tray,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
 paper-tray,directory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
-paper-tray,document holder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
+paper-tray,document holder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,2
+paper-tray,document management,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
+paper-tray,document processing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
+paper-tray,home office,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
 paper-tray,library,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
 paper-tray,management,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
-paper-tray,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
+paper-tray,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
+paper-tray,office work,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
+paper-tray,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,2
 paper-tray,organization tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
-paper-tray,paperwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
+paper-tray,paperwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,2
 paper-tray,record keeping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
-paper-tray,stack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
+paper-tray,sorting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
+paper-tray,stack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,2
+paper-tray,stationery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
+paper-tray,vector,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
 paper-tray,business,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
 paper-tray,office,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1
+paper-tray,rectangular shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
+paper-tray,simple design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_F4bDbbMTtfNP9Z9Q1ieyBO0q,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.990464,,1
 paper-tray,system,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOsoJHogV3CmVUE4efYwx8gW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.099999,,1

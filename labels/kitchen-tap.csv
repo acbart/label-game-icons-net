@@ -1,28 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 kitchen-tap,faucet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
-kitchen-tap,plumbing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
-kitchen-tap,tap,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
+kitchen-tap,kitchen faucet,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0xzbe39tm8VOrRc5sPE7Yaj,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.916696,,1
+kitchen-tap,plumbing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,2
+kitchen-tap,spout,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0xzbe39tm8VOrRc5sPE7Yaj,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.916696,,1
+kitchen-tap,tap,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,2
 kitchen-tap,water drop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
-kitchen-tap,water flow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
+kitchen-tap,water flow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,2
+kitchen-tap,water supply,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0xzbe39tm8VOrRc5sPE7Yaj,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.916696,,1
+kitchen-tap,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0xzbe39tm8VOrRc5sPE7Yaj,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.916696,,1
 kitchen-tap,bathroom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
+kitchen-tap,cleaning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0xzbe39tm8VOrRc5sPE7Yaj,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.916696,,1
 kitchen-tap,cleansing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
 kitchen-tap,conservation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
-kitchen-tap,droplet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
-kitchen-tap,fixture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
+kitchen-tap,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0xzbe39tm8VOrRc5sPE7Yaj,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.916696,,1
+kitchen-tap,domestic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0xzbe39tm8VOrRc5sPE7Yaj,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.916696,,1
+kitchen-tap,droplet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,2
+kitchen-tap,fixture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,2
 kitchen-tap,flow control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
 kitchen-tap,fluid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
+kitchen-tap,handwashing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0xzbe39tm8VOrRc5sPE7Yaj,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.916696,,1
 kitchen-tap,household,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
-kitchen-tap,hydration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
-kitchen-tap,hygiene,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
+kitchen-tap,household utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0xzbe39tm8VOrRc5sPE7Yaj,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.916696,,1
+kitchen-tap,hydration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,2
+kitchen-tap,hygiene,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,2
 kitchen-tap,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
-kitchen-tap,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
+kitchen-tap,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,2
 kitchen-tap,resource,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
-kitchen-tap,sanitation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
-kitchen-tap,sink,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
-kitchen-tap,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
+kitchen-tap,sanitation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,2
+kitchen-tap,sink,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,2
+kitchen-tap,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,2
 kitchen-tap,valve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
+kitchen-tap,water conservation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0xzbe39tm8VOrRc5sPE7Yaj,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.916696,,1
 kitchen-tap,consumption,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
 kitchen-tap,infrastructure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
+kitchen-tap,interior design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0xzbe39tm8VOrRc5sPE7Yaj,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.916696,,1
 kitchen-tap,maintenance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
+kitchen-tap,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0xzbe39tm8VOrRc5sPE7Yaj,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.916696,,1
+kitchen-tap,modernity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0xzbe39tm8VOrRc5sPE7Yaj,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.916696,,1
 kitchen-tap,pipe,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1
 kitchen-tap,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KSq2pvXXSwZi1DCSUqAWFixK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.540881,,1

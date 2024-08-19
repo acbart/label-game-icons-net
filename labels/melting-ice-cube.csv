@@ -1,28 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+melting-ice-cube,abstract,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
 melting-ice-cube,chill,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
-melting-ice-cube,cooling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
+melting-ice-cube,cooling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,2
+melting-ice-cube,fluid,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
 melting-ice-cube,frozen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
-melting-ice-cube,ice cube,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
+melting-ice-cube,ice,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
+melting-ice-cube,ice cube,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,2
+melting-ice-cube,meltdown,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
 melting-ice-cube,state change,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
+melting-ice-cube,water,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
 melting-ice-cube,beverage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
-melting-ice-cube,dissolve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
-melting-ice-cube,drip,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
-melting-ice-cube,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
-melting-ice-cube,melting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
-melting-ice-cube,puddle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
+melting-ice-cube,change of state,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
+melting-ice-cube,cube shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
+melting-ice-cube,dissolve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,2
+melting-ice-cube,drip,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,2
+melting-ice-cube,fluidity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
+melting-ice-cube,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
+melting-ice-cube,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
+melting-ice-cube,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
+melting-ice-cube,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,2
+melting-ice-cube,melting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,2
+melting-ice-cube,puddle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,2
 melting-ice-cube,refreshing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
 melting-ice-cube,refreshment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
+melting-ice-cube,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
 melting-ice-cube,solid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
 melting-ice-cube,surface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
-melting-ice-cube,temperature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
+melting-ice-cube,temperature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,2
 melting-ice-cube,thawing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
+melting-ice-cube,transition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
 melting-ice-cube,transparent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
+melting-ice-cube,climate change,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
 melting-ice-cube,contour,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
+melting-ice-cube,cool,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
 melting-ice-cube,decay,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
-melting-ice-cube,environment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
+melting-ice-cube,defrosting,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
+melting-ice-cube,environment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,2
+melting-ice-cube,evaporation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
 melting-ice-cube,flow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
+melting-ice-cube,loss,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
 melting-ice-cube,overflow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
-melting-ice-cube,smooth edges,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
+melting-ice-cube,smooth edges,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,2
 melting-ice-cube,snack,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
 melting-ice-cube,solidification,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1
+melting-ice-cube,substance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
+melting-ice-cube,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CYt8oIsla3JFJgp3gS9aUxUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.826119,,1
 melting-ice-cube,texture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8fulVW3eSuaDAwpYZBQ5wHup,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.801085,,1

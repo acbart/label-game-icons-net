@@ -1,25 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-spectacles,eyewear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
-spectacles,frames,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
-spectacles,glasses,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.118160,,1
+spectacles,corrective,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_B3ozhOObnwfBBXtedNUEcqUi,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.686650,,1
+spectacles,eyewear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,2
+spectacles,frames,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,2
+spectacles,glasses,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.118160,,2
+spectacles,optical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_B3ozhOObnwfBBXtedNUEcqUi,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.686650,,1
 spectacles,round shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
 spectacles,seeing aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
-spectacles,spectacles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.118160,,1
-spectacles,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.118160,,1
-spectacles,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
-spectacles,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
-spectacles,clarity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
+spectacles,spectacles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.118160,,2
+spectacles,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.118160,,2
+spectacles,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,2
+spectacles,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,3
+spectacles,clarity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,2
+spectacles,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_B3ozhOObnwfBBXtedNUEcqUi,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.686650,,1
+spectacles,detail,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_B3ozhOObnwfBBXtedNUEcqUi,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.686650,,1
 spectacles,eye care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.118160,,1
-spectacles,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
-spectacles,lens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
+spectacles,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,2
+spectacles,health,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_B3ozhOObnwfBBXtedNUEcqUi,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.686650,,1
+spectacles,lens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,2
+spectacles,look,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_B3ozhOObnwfBBXtedNUEcqUi,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.686650,,1
+spectacles,magnify,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_B3ozhOObnwfBBXtedNUEcqUi,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.686650,,1
 spectacles,optics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.118160,,1
+spectacles,pair,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_B3ozhOObnwfBBXtedNUEcqUi,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.686650,,1
 spectacles,perception,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
 spectacles,prescription,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
-spectacles,reading,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
-spectacles,sight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
+spectacles,reading,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,2
+spectacles,round,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_B3ozhOObnwfBBXtedNUEcqUi,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.686650,,1
+spectacles,seeing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_B3ozhOObnwfBBXtedNUEcqUi,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.686650,,1
+spectacles,sight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,2
 spectacles,study,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
 spectacles,classic style,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
 spectacles,detailed,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
-spectacles,fashion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
+spectacles,fashion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,2
+spectacles,hook,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_B3ozhOObnwfBBXtedNUEcqUi,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.686650,,1
 spectacles,intellectual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
+spectacles,loop,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_B3ozhOObnwfBBXtedNUEcqUi,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.686650,,1
 spectacles,old-fashioned,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CpMcAAVtGZYcr9z4ydyi1Kqn,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.119166,,1
+spectacles,symmetry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_B3ozhOObnwfBBXtedNUEcqUi,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.686650,,1
+spectacles,technology,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_B3ozhOObnwfBBXtedNUEcqUi,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.686650,,1

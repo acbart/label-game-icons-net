@@ -2,27 +2,46 @@ icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed
 jerrycan,automobile,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
 jerrycan,flammable,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
 jerrycan,fuel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
+jerrycan,fuel container,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
+jerrycan,fuel reserve,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
 jerrycan,gas can,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
-jerrycan,handle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
-jerrycan,jerrycan,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
-jerrycan,petrol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
-jerrycan,portable,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
+jerrycan,handle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,2
+jerrycan,jerrycan,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,2
+jerrycan,liquid storage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
+jerrycan,petrol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,2
+jerrycan,portable,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,2
+jerrycan,angled spout,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
 jerrycan,backup,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
-jerrycan,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
+jerrycan,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,2
 jerrycan,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
+jerrycan,diesel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
+jerrycan,durability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
 jerrycan,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
+jerrycan,emergency supply,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
 jerrycan,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
+jerrycan,gasoline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
 jerrycan,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
 jerrycan,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
+jerrycan,industrial design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
 jerrycan,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
+jerrycan,liquid handling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
+jerrycan,metal can,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
 jerrycan,motor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
-jerrycan,oil,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
+jerrycan,motor vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
+jerrycan,oil,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,2
+jerrycan,plastic canister,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
+jerrycan,rectangular shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
 jerrycan,reserve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
+jerrycan,risk management,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
+jerrycan,robust design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
 jerrycan,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
 jerrycan,spout,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
 jerrycan,storage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
+jerrycan,storage solution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
 jerrycan,tank,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
-jerrycan,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
-jerrycan,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
+jerrycan,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,2
+jerrycan,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,2
 jerrycan,camping,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
-jerrycan,outdoors,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,1
+jerrycan,filling station,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
+jerrycan,mobility,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_enzw7JJeAdBdxBwlQdDMeF6b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.672358,,1
+jerrycan,outdoors,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZbQpTgZ9C5Y1GBfQVRivSN0e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.465855,,2

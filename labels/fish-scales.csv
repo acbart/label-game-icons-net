@@ -1,25 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-fish-scales,overlapping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
-fish-scales,pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
-fish-scales,repetition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
-fish-scales,scales,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
-fish-scales,texture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
+fish-scales,fish-scales,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
+fish-scales,overlapping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,2
+fish-scales,pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,2
+fish-scales,repetition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,2
+fish-scales,scales,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,2
+fish-scales,texture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,2
+fish-scales,tiled,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
+fish-scales,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
 fish-scales,armor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
+fish-scales,arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
+fish-scales,circular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
+fish-scales,coverage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
 fish-scales,crescent shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
-fish-scales,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
+fish-scales,curve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
+fish-scales,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,2
 fish-scales,fish scales,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
 fish-scales,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
-fish-scales,layered,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
-fish-scales,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
+fish-scales,layered,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,2
+fish-scales,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
+fish-scales,organic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
+fish-scales,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,2
 fish-scales,roof shingles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
 fish-scales,shell,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
-fish-scales,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
-fish-scales,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
+fish-scales,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,2
+fish-scales,surface,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
+fish-scales,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,2
 fish-scales,tiles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
-fish-scales,fish,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
-fish-scales,nature,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
+fish-scales,uniformity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
+fish-scales,wave,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
+fish-scales,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
+fish-scales,fish,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,2
+fish-scales,grid,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
+fish-scales,illustration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yiHO5H6t4I3w45SmTQQnl9t2,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.223384,,1
+fish-scales,nature,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,2
 fish-scales,repetitive design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
-fish-scales,sea,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
+fish-scales,sea,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,2
 fish-scales,seamless,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
 fish-scales,tessellation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1
 fish-scales,water,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aLJwDygAEQNOffaRR7YgVx1s,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.859294,,1

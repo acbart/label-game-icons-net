@@ -1,26 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 moka-pot,Moka pot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
 moka-pot,brew,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
-moka-pot,coffee,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
-moka-pot,coffee maker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
-moka-pot,espresso,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
-moka-pot,kitchen appliance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
+moka-pot,brewing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
+moka-pot,coffee,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,2
+moka-pot,coffee maker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,2
+moka-pot,espresso,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,2
+moka-pot,iconic design,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
+moka-pot,kitchen appliance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,2
+moka-pot,moka-pot,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
+moka-pot,stovetop,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
+moka-pot,Italian,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
 moka-pot,Italian design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
-moka-pot,beverage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
+moka-pot,aroma,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
+moka-pot,artisanal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
+moka-pot,beverage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,2
 moka-pot,cafe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
-moka-pot,caffeine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
+moka-pot,caffeine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,2
+moka-pot,cylinder,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
+moka-pot,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
+moka-pot,funnel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
+moka-pot,handle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
+moka-pot,home,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
 moka-pot,home brewing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
+moka-pot,lid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
 moka-pot,morning ritual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
-moka-pot,percolator,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
+moka-pot,percolator,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,2
+moka-pot,pot,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
 moka-pot,pouring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
+moka-pot,ritual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
+moka-pot,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
 moka-pot,steaming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
-moka-pot,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
+moka-pot,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,2
 moka-pot,upper handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
-moka-pot,classic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
-moka-pot,domestic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
-moka-pot,geometric,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
+moka-pot,warmth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
+moka-pot,classic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,2
+moka-pot,craftsmanship,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
+moka-pot,culture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1
+moka-pot,domestic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,2
+moka-pot,geometric,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,2
 moka-pot,household item,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
 moka-pot,manual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
 moka-pot,metallic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
 moka-pot,retro,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
 moka-pot,sharp angles,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0itPHvVsLByBbF6ba0UTLldt,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.870524,,1
+moka-pot,vintage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iTJVHkwhkgCjqeVndbS62UU3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.033471,,1

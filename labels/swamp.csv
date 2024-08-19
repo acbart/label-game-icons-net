@@ -1,26 +1,36 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-swamp,cattail,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
-swamp,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
+swamp,aquatic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4vOGH3TzAgvfvDo0iDa2Zduj,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.690843,,1
+swamp,cattail,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
+swamp,habitat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4vOGH3TzAgvfvDo0iDa2Zduj,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.690843,,1
+swamp,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
 swamp,plant,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
-swamp,reed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
-swamp,wetland,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
+swamp,reed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
+swamp,wetland,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
+swamp,biodiversity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4vOGH3TzAgvfvDo0iDa2Zduj,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.690843,,1
 swamp,botany,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
 swamp,ecology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
-swamp,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
-swamp,flora,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
-swamp,grass,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
-swamp,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
+swamp,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4vOGH3TzAgvfvDo0iDa2Zduj,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.690843,,1
+swamp,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
+swamp,flora,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
+swamp,grass,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
+swamp,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
 swamp,lake,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
-swamp,marsh,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
-swamp,natural habitat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
+swamp,marsh,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
+swamp,natural habitat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
 swamp,organic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
 swamp,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
-swamp,pond,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
-swamp,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
-swamp,swamp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
-swamp,vegetation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
-swamp,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
+swamp,plant life,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4vOGH3TzAgvfvDo0iDa2Zduj,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.690843,,1
+swamp,pond,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
+swamp,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
+swamp,swamp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
+swamp,vegetation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
+swamp,water plant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4vOGH3TzAgvfvDo0iDa2Zduj,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.690843,,1
+swamp,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,2
+swamp,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4vOGH3TzAgvfvDo0iDa2Zduj,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.690843,,1
+swamp,conservation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4vOGH3TzAgvfvDo0iDa2Zduj,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.690843,,1
+swamp,leaf,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4vOGH3TzAgvfvDo0iDa2Zduj,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.690843,,1
 swamp,peaceful,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
 swamp,serene,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
 swamp,silence,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1
+swamp,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4vOGH3TzAgvfvDo0iDa2Zduj,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.690843,,1
 swamp,tranquility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DllUgxFoFmeEX4MVLVYKq8CJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.154657,,1

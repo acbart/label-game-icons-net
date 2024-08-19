@@ -1,21 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-iraq,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
+iraq,Iraq,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
+iraq,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,2
 iraq,asymmetrical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
+iraq,country shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
 iraq,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
 iraq,irregular shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
+iraq,map outline,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
+iraq,nation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
+iraq,Middle East,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
+iraq,border,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
+iraq,cartography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
 iraq,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
+iraq,geography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
+iraq,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
+iraq,identity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
+iraq,land,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
+iraq,location,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
+iraq,mapping,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
 iraq,modern art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
 iraq,non-representational,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
+iraq,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
+iraq,political map,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
 iraq,polygon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
 iraq,random shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
+iraq,region,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
+iraq,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
+iraq,territory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
 iraq,unpredictable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
 iraq,abstract sculpture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
+iraq,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
 iraq,ambiguity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
 iraq,creative expression,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
+iraq,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
 iraq,dynamic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
 iraq,fragment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
 iraq,freedom,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
+iraq,graphic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
 iraq,randomness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
 iraq,sharp edges,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
-iraq,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1
+iraq,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,2
+iraq,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9yh8UPeHrbvxszPFuBcuTf0w,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.530853,,1
 iraq,visual abstraction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AftooXaHycnCyAdegtuGoooo,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.424809,,1

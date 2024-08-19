@@ -1,31 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 old-microphone,amplification,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,audio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,broadcast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,microphone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,podcast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,recording,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
+old-microphone,audio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
+old-microphone,broadcast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
+old-microphone,microphone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
+old-microphone,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
+old-microphone,old-fashioned,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
+old-microphone,podcast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
+old-microphone,recording,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
+old-microphone,retro,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
+old-microphone,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
 old-microphone,speak,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
+old-microphone,vintage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
 old-microphone,voice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
+old-microphone,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
 old-microphone,amplifier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
+old-microphone,announcer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
+old-microphone,announcing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
+old-microphone,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
+old-microphone,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
 old-microphone,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
 old-microphone,interview,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,media,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,public speaking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
+old-microphone,media,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
+old-microphone,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
+old-microphone,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
+old-microphone,press conference,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
+old-microphone,public speaking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
 old-microphone,radio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,speech,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,studio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
+old-microphone,speech,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
+old-microphone,stage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
+old-microphone,studio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
+old-microphone,talk,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
 old-microphone,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
-old-microphone,broadcasting,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
+old-microphone,transmission,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
+old-microphone,antique,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
+old-microphone,broadcasting,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,2
+old-microphone,classic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
 old-microphone,creative,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.029557,,1
 old-microphone,digital,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.029557,,1
+old-microphone,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
 old-microphone,networking,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.029557,,1
+old-microphone,nostalgia,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
+old-microphone,prop,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
 old-microphone,social media,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.029557,,1
 old-microphone,sound wave,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nxnRfeKff5CnpGxWWJOpGY8d,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.028558,,1
+old-microphone,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1
+old-microphone,vocal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_irA9ihFqL7opLZj4IU6ZzV88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.669428,,1

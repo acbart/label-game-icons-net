@@ -1,29 +1,59 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 spinning-top,antenna,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,balance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
 spinning-top,broadcast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,centrifugal force,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,circular motion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
 spinning-top,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
 spinning-top,dish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,motion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,rotation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
 spinning-top,satellite,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
 spinning-top,signal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,spin,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,spinning top,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
 spinning-top,telecommunication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,top,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,toy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
 spinning-top,transmission,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,angular momentum,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
 spinning-top,beam,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
 spinning-top,broadcasting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,childhood,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,classic toy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
 spinning-top,communication network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
 spinning-top,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
 spinning-top,data,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,equilibrium,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
 spinning-top,frequency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,fun,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,game,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
 spinning-top,global communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,gyration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,kinetic energy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
 spinning-top,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
 spinning-top,orbit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,physics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,pivot,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,play,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
 spinning-top,radio waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
 spinning-top,reception,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
 spinning-top,relay,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
 spinning-top,signal processing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
 spinning-top,space,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
 spinning-top,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
 spinning-top,transmitter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,twirl,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
 spinning-top,vector,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,whirligig,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
 spinning-top,wireless,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
 spinning-top,aerospace,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
 spinning-top,exploration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OlZG0Iw1HtFYOu5D0kKzrhvU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.472394,,1
+spinning-top,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,nostalgia,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1
+spinning-top,old-fashioned,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IjTq8Bi5xjFiQoKpphB9cyE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.244217,,1

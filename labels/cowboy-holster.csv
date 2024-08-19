@@ -1,6 +1,10 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+cowboy-holster,cowboy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
 cowboy-holster,examination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
 cowboy-holster,focus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
+cowboy-holster,gun,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,holder,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,holster,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
 cowboy-holster,instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
 cowboy-holster,laboratory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
 cowboy-holster,lens,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
@@ -8,20 +12,46 @@ cowboy-holster,magnification,high,en,acbart@vt.edu,,,False,False,starter-v1-128,
 cowboy-holster,microscope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
 cowboy-holster,observation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
 cowboy-holster,optics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
+cowboy-holster,pistol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
 cowboy-holster,research,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
 cowboy-holster,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
+cowboy-holster,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,western,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
 cowboy-holster,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
+cowboy-holster,armament,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,belt,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
 cowboy-holster,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
+cowboy-holster,cowboy culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
 cowboy-holster,detail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
 cowboy-holster,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
 cowboy-holster,education,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
 cowboy-holster,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
 cowboy-holster,experimentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
+cowboy-holster,frontier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,gear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,gunslinger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
 cowboy-holster,investigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
+cowboy-holster,outfit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
 cowboy-holster,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
+cowboy-holster,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,quickdraw,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,sheriff,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,shooting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
 cowboy-holster,specimen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
 cowboy-holster,study,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
+cowboy-holster,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
 cowboy-holster,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
 cowboy-holster,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
+cowboy-holster,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,western film,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,wild west,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,badge,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
+cowboy-holster,cowboy boots,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1
 cowboy-holster,innovation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
 cowboy-holster,knowledge,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_25414pYPvUsKBbx2mSVuRWdH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.399717,,1
+cowboy-holster,ranch,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epLzmeXBILuohn2F9v8yGZA3,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.592367,,1

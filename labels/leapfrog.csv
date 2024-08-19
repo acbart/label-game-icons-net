@@ -1,24 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-leapfrog,action,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
-leapfrog,dynamic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
-leapfrog,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
-leapfrog,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
+leapfrog,action,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,2
+leapfrog,dynamic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,2
+leapfrog,frog leap,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
+leapfrog,leapfrog,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
+leapfrog,leaping,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
+leapfrog,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,2
+leapfrog,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,2
 leapfrog,running,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
-leapfrog,activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
+leapfrog,activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,2
+leapfrog,agility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
 leapfrog,athletics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
-leapfrog,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
-leapfrog,exercise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
+leapfrog,bold shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
+leapfrog,children,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
+leapfrog,coordination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
+leapfrog,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,2
+leapfrog,exercise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,2
 leapfrog,fitness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
+leapfrog,fun,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
+leapfrog,game,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
+leapfrog,gesture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
 leapfrog,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
+leapfrog,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
 leapfrog,physical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
+leapfrog,play,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
 leapfrog,pursuit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
+leapfrog,sequence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
 leapfrog,speed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
 leapfrog,sport,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
+leapfrog,sports,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
 leapfrog,stride,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
 leapfrog,training,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
+leapfrog,two figures,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1
 leapfrog,vigorous,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
 leapfrog,workout,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
 leapfrog,endurance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
 leapfrog,flexibility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
-leapfrog,jump,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
+leapfrog,jump,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,2
 leapfrog,motion lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QHjKFpceQq1YhN1eyB8x8CVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.600992,,1
+leapfrog,outdoor,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xuae82gJwbJTZFG9MjJW8Sy1,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.096632,,1

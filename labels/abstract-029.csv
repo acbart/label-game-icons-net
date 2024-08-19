@@ -1,26 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+abstract-029,capsule shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
 abstract-029,circuit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
 abstract-029,components,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
 abstract-029,computing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
 abstract-029,digital,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
+abstract-029,dots,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
 abstract-029,electronics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
 abstract-029,hardware,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
 abstract-029,microchip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
 abstract-029,processor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
-abstract-029,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
-abstract-029,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
+abstract-029,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,2
+abstract-029,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,2
 abstract-029,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
+abstract-029,array,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
+abstract-029,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
 abstract-029,board,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
-abstract-029,circles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
+abstract-029,circles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,2
 abstract-029,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
+abstract-029,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
 abstract-029,data,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
 abstract-029,diagram,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
 abstract-029,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
-abstract-029,grid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
+abstract-029,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
+abstract-029,graphic design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
+abstract-029,grid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,2
+abstract-029,horizontal symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
 abstract-029,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
+abstract-029,modern design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
 abstract-029,modules,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
+abstract-029,organization,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
+abstract-029,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
 abstract-029,rectangular,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
+abstract-029,regularity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
+abstract-029,repetition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
+abstract-029,sequence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
+abstract-029,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
 abstract-029,sockets,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
 abstract-029,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
+abstract-029,symmetrical arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
 abstract-029,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
+abstract-029,vertical lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
+abstract-029,visual art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
+abstract-029,visual order,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
+abstract-029,formal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1
 abstract-029,lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hP7ClTbjeuImn2wwyLtGddrj,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.601218,,1
+abstract-029,process,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MAbuojSBOe7ek8IZzLw2YHbC,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.671018,,1

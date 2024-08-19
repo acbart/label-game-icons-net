@@ -1,22 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-white-tower,castle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
-white-tower,chess rook,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
-white-tower,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
-white-tower,fortress,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
-white-tower,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
-white-tower,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
-white-tower,tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
-white-tower,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
-white-tower,battlements,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
+white-tower,castle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
+white-tower,chess rook,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
+white-tower,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
+white-tower,fortress,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
+white-tower,medieval architecture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
+white-tower,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
+white-tower,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
+white-tower,tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
+white-tower,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
+white-tower,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
+white-tower,battlements,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
+white-tower,building,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
+white-tower,citadel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
 white-tower,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
-white-tower,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
+white-tower,guard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
+white-tower,kingdom,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
+white-tower,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
+white-tower,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
 white-tower,royalty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
 white-tower,strategic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
-white-tower,stronghold,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
-white-tower,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
+white-tower,strategic point,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
+white-tower,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
+white-tower,stronghold,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
+white-tower,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
+white-tower,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
+white-tower,war,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
+white-tower,watchtower,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
 white-tower,emblem,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
-white-tower,heritage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
-white-tower,history,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
-white-tower,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
+white-tower,game piece,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
+white-tower,heritage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
+white-tower,history,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
+white-tower,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,2
 white-tower,knight,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1
+white-tower,monument,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
+white-tower,nobility,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xMT3yJjYkXfITULzoPpTneTb,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.913902,,1
 white-tower,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BEuDtlYXfiL0cBgQ1gdFTnJW,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.757159,,1

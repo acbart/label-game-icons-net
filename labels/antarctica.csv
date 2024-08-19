@@ -1,22 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 antarctica,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
+antarctica,antarctica,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
+antarctica,environment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
+antarctica,geography,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
 antarctica,horn,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
 antarctica,horned,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
+antarctica,ice,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
+antarctica,landmass,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
 antarctica,mammal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
-antarctica,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
+antarctica,shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
+antarctica,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,2
 antarctica,silhouetted shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
+antarctica,symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
+antarctica,territory,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
 antarctica,wildlife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
+antarctica,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
 antarctica,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
+antarctica,cartography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
+antarctica,cold,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
+antarctica,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
 antarctica,fauna,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
+antarctica,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
 antarctica,graphic design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
+antarctica,isolated,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
+antarctica,map,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
 antarctica,natural world,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
-antarctica,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
-antarctica,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
-antarctica,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
+antarctica,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,2
+antarctica,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,2
+antarctica,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
+antarctica,polygons,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
+antarctica,remote,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
+antarctica,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,2
+antarctica,research,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
 antarctica,safari,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
+antarctica,scientific,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
 antarctica,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
+antarctica,vastness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yofCFLpF4OB8oXCTzNcOMB21,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.448416,,1
 antarctica,wilderness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
-antarctica,continent,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
+antarctica,continent,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,2
 antarctica,power,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
 antarctica,rugged,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1
 antarctica,strength,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9mqxnXzHon6w6HwhfLGefplq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.616762,,1

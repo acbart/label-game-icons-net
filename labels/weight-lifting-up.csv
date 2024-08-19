@@ -1,26 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-weight-lifting-up,barbell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
-weight-lifting-up,exercise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
-weight-lifting-up,fitness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
-weight-lifting-up,gym,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
-weight-lifting-up,lifting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
-weight-lifting-up,strength,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
+weight-lifting-up,barbell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
+weight-lifting-up,exercise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
+weight-lifting-up,fitness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
+weight-lifting-up,gym,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
+weight-lifting-up,lifting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
+weight-lifting-up,muscle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1
+weight-lifting-up,strength,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
 weight-lifting-up,strength training,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
-weight-lifting-up,weightlifting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
-weight-lifting-up,workout,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
-weight-lifting-up,athlete,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
-weight-lifting-up,bodybuilding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
-weight-lifting-up,endurance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
+weight-lifting-up,weightlifting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
+weight-lifting-up,workout,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
+weight-lifting-up,athlete,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
+weight-lifting-up,athletic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1
+weight-lifting-up,bodybuilding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
+weight-lifting-up,endurance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
+weight-lifting-up,figurative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1
 weight-lifting-up,figure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
-weight-lifting-up,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
+weight-lifting-up,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
+weight-lifting-up,human figure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1
 weight-lifting-up,muscles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
 weight-lifting-up,physical training,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
-weight-lifting-up,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
+weight-lifting-up,pose,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1
+weight-lifting-up,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
 weight-lifting-up,sports,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
-weight-lifting-up,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
+weight-lifting-up,training,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1
+weight-lifting-up,achievement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1
+weight-lifting-up,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
 weight-lifting-up,body strength,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
 weight-lifting-up,competition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
+weight-lifting-up,competitive,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1
+weight-lifting-up,determination,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1
+weight-lifting-up,discipline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1
+weight-lifting-up,growth,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1
 weight-lifting-up,icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
 weight-lifting-up,manual handling,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
-weight-lifting-up,performance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
+weight-lifting-up,motion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1
+weight-lifting-up,overcoming,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1
+weight-lifting-up,performance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,2
 weight-lifting-up,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QnzXaHmoB2beuO8QJUKW6z2c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.599130,,1
+weight-lifting-up,success,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1
+weight-lifting-up,wellbeing,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iHK9uulWS7eDC6dM6n90W0xF,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.692677,,1

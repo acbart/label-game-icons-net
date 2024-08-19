@@ -1,25 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+sea-star,iconic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
+sea-star,sea-star,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
 sea-star,star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
-sea-star,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
+sea-star,starfish,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
+sea-star,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,2
+sea-star,animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
+sea-star,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
+sea-star,coastal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
+sea-star,creature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
 sea-star,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
-sea-star,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
+sea-star,design element,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
+sea-star,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,2
+sea-star,familiar shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
+sea-star,figure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
 sea-star,five-point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
+sea-star,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
 sea-star,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
 sea-star,highlight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
 sea-star,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
-sea-star,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
+sea-star,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,2
+sea-star,marine life,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
+sea-star,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
+sea-star,nautical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
+sea-star,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
+sea-star,seaside,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
 sea-star,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
+sea-star,simplified,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
 sea-star,stylized,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
-sea-star,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
+sea-star,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,2
+sea-star,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
 sea-star,badge,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
 sea-star,central,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
 sea-star,core,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
-sea-star,decoration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
+sea-star,decoration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,2
 sea-star,direction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
 sea-star,feature,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
+sea-star,flat design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
 sea-star,guide,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
 sea-star,navigate,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
 sea-star,navigation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
-sea-star,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
+sea-star,ornament,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
+sea-star,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,2
 sea-star,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
+sea-star,repetition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1
 sea-star,whimsical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CsnpieaJxcvnxaMRPP4V3AUD,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.687894,,1
+sea-star,whimsy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Cd3FxqnjlHRV9jGvFJaHIYDQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.107898,,1

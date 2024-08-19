@@ -1,25 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-human-pyramid,hierarchy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
-human-pyramid,leadership,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
-human-pyramid,organization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
+human-pyramid,group activity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Xt2Vrg0fSCwxuy7qS8y7BFd,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.233305,,1
+human-pyramid,hierarchy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,2
+human-pyramid,human pyramid,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Xt2Vrg0fSCwxuy7qS8y7BFd,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.233305,,1
+human-pyramid,leadership,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,2
+human-pyramid,organization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,2
 human-pyramid,people,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
 human-pyramid,pyramid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
-human-pyramid,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
-human-pyramid,teamwork,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
+human-pyramid,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,2
+human-pyramid,team spirit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Xt2Vrg0fSCwxuy7qS8y7BFd,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.233305,,1
+human-pyramid,teamwork,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,2
+human-pyramid,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Xt2Vrg0fSCwxuy7qS8y7BFd,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.233305,,1
+human-pyramid,achievement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Xt2Vrg0fSCwxuy7qS8y7BFd,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.233305,,1
 human-pyramid,arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
-human-pyramid,collaboration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
+human-pyramid,collaboration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,2
 human-pyramid,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
-human-pyramid,cooperation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
-human-pyramid,formation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
+human-pyramid,cooperation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,2
+human-pyramid,coordination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Xt2Vrg0fSCwxuy7qS8y7BFd,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.233305,,1
+human-pyramid,formation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,2
+human-pyramid,foundation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Xt2Vrg0fSCwxuy7qS8y7BFd,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.233305,,1
 human-pyramid,group,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
 human-pyramid,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
 human-pyramid,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
 human-pyramid,order,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
-human-pyramid,partnership,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
+human-pyramid,partnership,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,2
 human-pyramid,sequence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
 human-pyramid,social,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
-human-pyramid,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
+human-pyramid,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Xt2Vrg0fSCwxuy7qS8y7BFd,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.233305,,1
+human-pyramid,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,2
 human-pyramid,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
-human-pyramid,unity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
-human-pyramid,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
-human-pyramid,community,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,1
+human-pyramid,triangular form,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Xt2Vrg0fSCwxuy7qS8y7BFd,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.233305,,1
+human-pyramid,unity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,2
+human-pyramid,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,2
+human-pyramid,community,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5MHnKo48sGK6Mv42jsOPNhZF,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.339778,,2
+human-pyramid,exercise,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Xt2Vrg0fSCwxuy7qS8y7BFd,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.233305,,1
+human-pyramid,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Xt2Vrg0fSCwxuy7qS8y7BFd,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.233305,,1
+human-pyramid,shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Xt2Vrg0fSCwxuy7qS8y7BFd,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.233305,,1
+human-pyramid,symbols,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Xt2Vrg0fSCwxuy7qS8y7BFd,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.233305,,1

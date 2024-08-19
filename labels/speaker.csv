@@ -1,26 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-speaker,audio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,1
-speaker,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,1
-speaker,sound waves,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,1
-speaker,speaker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,1
-speaker,volume,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,1
-speaker,acoustics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,1
+speaker,audio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,2
+speaker,audio output,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ye3xO4cCdd2lnkQ1fQx6Tfd8,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.946147,,1
+speaker,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,2
+speaker,sound system,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ye3xO4cCdd2lnkQ1fQx6Tfd8,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.946147,,1
+speaker,sound waves,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,2
+speaker,speaker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,2
+speaker,volume,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,2
+speaker,wave,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ye3xO4cCdd2lnkQ1fQx6Tfd8,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.946147,,1
+speaker,acoustics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,2
 speaker,amplification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,1
-speaker,announcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,1
+speaker,amplifier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ye3xO4cCdd2lnkQ1fQx6Tfd8,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.946147,,1
+speaker,announcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,2
 speaker,audio settings,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,1
-speaker,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,1
-speaker,broadcasting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,1
-speaker,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,1
+speaker,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,2
+speaker,broadcasting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,2
+speaker,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,2
+speaker,emission,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ye3xO4cCdd2lnkQ1fQx6Tfd8,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.946147,,1
+speaker,frequency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ye3xO4cCdd2lnkQ1fQx6Tfd8,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.946147,,1
 speaker,loud,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,1
 speaker,media,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,1
-speaker,music,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,1
+speaker,music,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,2
+speaker,noise,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ye3xO4cCdd2lnkQ1fQx6Tfd8,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.946147,,1
 speaker,output,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,1
+speaker,public address,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ye3xO4cCdd2lnkQ1fQx6Tfd8,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.946147,,1
 speaker,radio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,1
-speaker,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,1
-speaker,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,1
-speaker,transmission,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,1
+speaker,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.955727,,2
+speaker,speakerphone,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ye3xO4cCdd2lnkQ1fQx6Tfd8,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.946147,,1
+speaker,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,2
+speaker,transmission,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,2
 speaker,entertainment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,1
 speaker,feedback,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,1
-speaker,megaphone,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,1
+speaker,megaphone,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,2
 speaker,rhythm,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,1
-speaker,vibration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,1
+speaker,vibration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoYhyMehPCaTFIAxFR5IRov0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.956745,,2

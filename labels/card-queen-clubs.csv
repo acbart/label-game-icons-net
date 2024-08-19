@@ -1,25 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-card-queen-clubs,card game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,1
-card-queen-clubs,clubs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,1
-card-queen-clubs,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,1
-card-queen-clubs,queen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,1
-card-queen-clubs,suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,1
-card-queen-clubs,blackjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
+card-queen-clubs,card game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,2
+card-queen-clubs,clubs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,2
+card-queen-clubs,clubs suit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
+card-queen-clubs,court card,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
+card-queen-clubs,face card,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
+card-queen-clubs,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,2
+card-queen-clubs,queen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,2
+card-queen-clubs,suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,2
+card-queen-clubs,King,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
+card-queen-clubs,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
+card-queen-clubs,blackjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,2
+card-queen-clubs,bridge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
 card-queen-clubs,casino,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
 card-queen-clubs,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
-card-queen-clubs,deck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,1
-card-queen-clubs,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,1
-card-queen-clubs,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,1
-card-queen-clubs,poker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
+card-queen-clubs,deck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,2
+card-queen-clubs,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
+card-queen-clubs,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
+card-queen-clubs,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,2
+card-queen-clubs,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.187797,,2
+card-queen-clubs,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
+card-queen-clubs,poker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,2
 card-queen-clubs,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
-card-queen-clubs,royalty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
+card-queen-clubs,royalty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,2
 card-queen-clubs,set collection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
-card-queen-clubs,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
-card-queen-clubs,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
+card-queen-clubs,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,2
+card-queen-clubs,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,2
 card-queen-clubs,table games,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
 card-queen-clubs,traditional games,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
+card-queen-clubs,Jack,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
 card-queen-clubs,entertainment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
+card-queen-clubs,fortune,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
+card-queen-clubs,graphics,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
+card-queen-clubs,hearts,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
 card-queen-clubs,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
 card-queen-clubs,luck,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
-card-queen-clubs,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1
+card-queen-clubs,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,2
+card-queen-clubs,spade,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
+card-queen-clubs,tarot,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
+card-queen-clubs,visual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CWEBr12F8YW1djR1HQRPY8pW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.629626,,1
 card-queen-clubs,visual motif,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R2ZD0GFO2CpfwPr77mUDaTPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.188768,,1

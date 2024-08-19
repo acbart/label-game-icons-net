@@ -1,31 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+blender,blades,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q78UNxWApbaxYhgvS5Dx0kPA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.796572,,1
 blender,blend,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
-blender,blender,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
-blender,food preparation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
+blender,blender,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,2
+blender,food preparation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,2
 blender,home appliance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
-blender,kitchen appliance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
+blender,kitchen appliance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,2
 blender,machine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
 blender,mixer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
-blender,base,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
+blender,mixing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q78UNxWApbaxYhgvS5Dx0kPA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.796572,,1
+blender,base,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,2
+blender,beverage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q78UNxWApbaxYhgvS5Dx0kPA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.796572,,1
 blender,chop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
-blender,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
-blender,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
-blender,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
+blender,chopping,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q78UNxWApbaxYhgvS5Dx0kPA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.796572,,1
+blender,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,2
+blender,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,2
+blender,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,2
 blender,drink,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
 blender,electric appliance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
+blender,electric device,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q78UNxWApbaxYhgvS5Dx0kPA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.796572,,1
 blender,grind,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
-blender,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
-blender,household,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
+blender,grinding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q78UNxWApbaxYhgvS5Dx0kPA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.796572,,1
+blender,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,2
+blender,household,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,2
+blender,juicing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q78UNxWApbaxYhgvS5Dx0kPA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.796572,,1
 blender,lid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
 blender,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
-blender,puree,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
-blender,smoothie,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
+blender,liquidizer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q78UNxWApbaxYhgvS5Dx0kPA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.796572,,1
+blender,puree,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,2
+blender,smoothie,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,2
 blender,spinning blades,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
+blender,spout,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q78UNxWApbaxYhgvS5Dx0kPA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.796572,,1
 blender,utensil,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
 blender,vessel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
+blender,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q78UNxWApbaxYhgvS5Dx0kPA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.796572,,1
 blender,capsule,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
 blender,countertop,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
+blender,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q78UNxWApbaxYhgvS5Dx0kPA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.796572,,1
 blender,domestic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
 blender,gratify,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
+blender,logo,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q78UNxWApbaxYhgvS5Dx0kPA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.796572,,1
 blender,modern kitchen,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
 blender,recipe,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUSc1WjiWWJeJCUHnkfqF7SO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.225767,,1
+blender,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q78UNxWApbaxYhgvS5Dx0kPA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.796572,,1
+blender,whisking,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q78UNxWApbaxYhgvS5Dx0kPA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.796572,,1

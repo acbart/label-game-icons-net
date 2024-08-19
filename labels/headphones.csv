@@ -1,28 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-headphones,audio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
+headphones,audio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,2
 headphones,audio gear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
-headphones,headphones,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
-headphones,listening,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
-headphones,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
+headphones,earpieces,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
+headphones,headphones,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,2
+headphones,listening,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,2
+headphones,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,2
 headphones,personal audio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
-headphones,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
+headphones,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,2
+headphones,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
+headphones,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
 headphones,acoustics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
 headphones,bass,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
-headphones,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
+headphones,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,2
+headphones,device,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
 headphones,earphones,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
-headphones,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
-headphones,isolation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
+headphones,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
+headphones,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,2
+headphones,interface,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
+headphones,isolation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,2
 headphones,media,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
+headphones,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
 headphones,music player,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
-headphones,over-ear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
+headphones,noise-cancellation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
+headphones,over-ear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,2
 headphones,portable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
-headphones,stereo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
-headphones,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
+headphones,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
+headphones,sound waves,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
+headphones,stereo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,2
+headphones,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,2
 headphones,volume,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
 headphones,wireless,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
+headphones,adaptation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
 headphones,analog,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
+headphones,circular,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
 headphones,concert,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
+headphones,connection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
+headphones,curve,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
 headphones,digital,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
-headphones,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
+headphones,digitization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
+headphones,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,2
+headphones,modern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
+headphones,personal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1
 headphones,sound wave,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
 headphones,studio,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yi3YHknvBn3U2MCkMO5p2n8V,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.206443,,1
+headphones,symmetry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lL0Cui4yDwm2PX59m1jqyrwz,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.664250,,1

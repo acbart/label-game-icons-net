@@ -1,25 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-kidneys,anatomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
-kidneys,biology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
-kidneys,health,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
-kidneys,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
+kidneys,anatomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,2
+kidneys,biology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,2
+kidneys,health,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,2
+kidneys,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,2
 kidneys,human body,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
 kidneys,kidney,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
+kidneys,kidneys,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
 kidneys,medical illustration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
-kidneys,medicine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
-kidneys,organ,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
-kidneys,renal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
-kidneys,excretion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
+kidneys,medicine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,2
+kidneys,organ,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,2
+kidneys,organ system,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
+kidneys,renal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,2
+kidneys,urinary system,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
+kidneys,body,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
+kidneys,cleansing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
+kidneys,excretion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,2
 kidneys,filters,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
+kidneys,filtration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
 kidneys,function,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
-kidneys,nephrology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
+kidneys,functionality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
+kidneys,internal organs,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
+kidneys,medical diagram,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
+kidneys,medical icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
+kidneys,metabolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
+kidneys,nephrology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,2
+kidneys,physiology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
+kidneys,purification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
 kidneys,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
+kidneys,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
 kidneys,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
 kidneys,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
 kidneys,twin organs,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
 kidneys,urine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
 kidneys,vital organs,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
+kidneys,wellbeing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
 kidneys,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
+kidneys,abstraction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ActtUNJEA2HYTekZST8Fv0ji,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.886665,,1
 kidneys,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
 kidneys,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1
 kidneys,pair,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c4PkTIht98l9JGcdZCVTCUnr,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.531877,,1

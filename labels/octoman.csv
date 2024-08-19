@@ -1,31 +1,61 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 octoman,android,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
+octoman,arms,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
 octoman,artificial intelligence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,automation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
+octoman,creature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,human,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
 octoman,humanoid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
+octoman,hybrid,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,octo-man,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,octopus,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
 octoman,robot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
+octoman,tentacles,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
 octoman,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
+octoman,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,alien,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,avatar,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,biology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,bipedal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,character,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
 octoman,circuit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
+octoman,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
 octoman,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
+octoman,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
 octoman,cyborg,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,data,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
+octoman,entity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,fantastical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,fantasy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,fictional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,fusion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
 octoman,futurism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,futuristic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
+octoman,imagination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
 octoman,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,machine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
+octoman,marine life,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
 octoman,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
+octoman,merge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
 octoman,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
+octoman,mythical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,personification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
 octoman,processing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,science fiction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
+octoman,sea creature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
 octoman,symmetric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,complexity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
+octoman,identity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
+octoman,monster,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FzeL3YtYJKS70Iext7OTlsdp,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.762049,,1
 octoman,motion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,network,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1
 octoman,strength,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZcSL62kYFu7QF4bWje3vimSH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.533907,,1

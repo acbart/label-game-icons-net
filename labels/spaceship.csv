@@ -1,26 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+spaceship,aerospace,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
 spaceship,android,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
 spaceship,artificial intelligence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
+spaceship,cosmos,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
 spaceship,cybernetic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
-spaceship,futuristic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
+spaceship,exploration,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
+spaceship,futuristic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,2
 spaceship,humanoid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
+spaceship,interstellar,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
 spaceship,machine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
 spaceship,mechanical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
+spaceship,outer space,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
 spaceship,robot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
 spaceship,robotics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
-spaceship,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
-spaceship,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
+spaceship,science fiction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
+spaceship,spacecraft,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
+spaceship,spaceship,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
+spaceship,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,2
+spaceship,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,2
+spaceship,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
 spaceship,armor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
 spaceship,automation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
 spaceship,chest plate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
 spaceship,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
 spaceship,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
+spaceship,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
 spaceship,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
+spaceship,expedition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
+spaceship,flight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
+spaceship,galactic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
 spaceship,geometric shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
-spaceship,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
+spaceship,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,2
+spaceship,journey,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
+spaceship,launch,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
+spaceship,mission,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
+spaceship,orbital,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
+spaceship,rocket,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
 spaceship,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
 spaceship,technical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
+spaceship,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
+spaceship,travel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
+spaceship,universe,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1
 spaceship,assembly,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
 spaceship,construction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
 spaceship,electronics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
 spaceship,programming,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RodAeVB7CYygES9KRX2mAU4g,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.944219,,1
+spaceship,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p3vlby8iegHyznOMQjtnFjyH,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.917105,,1

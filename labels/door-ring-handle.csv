@@ -1,26 +1,52 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 door-ring-handle,authentication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
+door-ring-handle,door,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
+door-ring-handle,handle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
+door-ring-handle,knocker,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
 door-ring-handle,privacy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
-door-ring-handle,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
+door-ring-handle,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,2
+door-ring-handle,ring,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
 door-ring-handle,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
-door-ring-handle,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
+door-ring-handle,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,2
 door-ring-handle,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
 door-ring-handle,user protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
 door-ring-handle,verification,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
+door-ring-handle,access,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
 door-ring-handle,authority,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
 door-ring-handle,badge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
+door-ring-handle,circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
 door-ring-handle,classification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
 door-ring-handle,cyber defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
 door-ring-handle,cybersecurity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
 door-ring-handle,data,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
 door-ring-handle,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
+door-ring-handle,entrance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
+door-ring-handle,entry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
+door-ring-handle,gate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
 door-ring-handle,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
+door-ring-handle,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
 door-ring-handle,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
+door-ring-handle,lock,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
+door-ring-handle,mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
+door-ring-handle,opening,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
 door-ring-handle,profile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
 door-ring-handle,recognition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
+door-ring-handle,round,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
 door-ring-handle,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
 door-ring-handle,trust,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
 door-ring-handle,user identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
+door-ring-handle,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
 door-ring-handle,badge of honor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
+door-ring-handle,click,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
+door-ring-handle,decor,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
+door-ring-handle,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
+door-ring-handle,function,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
+door-ring-handle,home,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
 door-ring-handle,icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
+door-ring-handle,interaction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
+door-ring-handle,ornament,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
+door-ring-handle,pull,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
+door-ring-handle,push,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
 door-ring-handle,surveillance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_okLWnQiwqIGOquAac9tqo9Ot,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.590576,,1
+door-ring-handle,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1
+door-ring-handle,welcome,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_boDY8Hs5bHT9PQYYiJQvJ3YJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.245167,,1

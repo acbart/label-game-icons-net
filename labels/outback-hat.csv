@@ -1,25 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-outback-hat,country,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
-outback-hat,cowboy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
-outback-hat,hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
+outback-hat,Australian,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
+outback-hat,country,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,2
+outback-hat,cowboy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,2
+outback-hat,hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,2
 outback-hat,headwear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
+outback-hat,outback,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
 outback-hat,western,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
+outback-hat,wide brim,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
 outback-hat,wild west,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
-outback-hat,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
-outback-hat,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
+outback-hat,wilderness,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
+outback-hat,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
+outback-hat,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,2
+outback-hat,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,2
+outback-hat,arid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
+outback-hat,beach,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
 outback-hat,brim,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
+outback-hat,countryside,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
 outback-hat,culture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
+outback-hat,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
+outback-hat,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
 outback-hat,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
+outback-hat,frontier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
+outback-hat,headgear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
 outback-hat,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
-outback-hat,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
-outback-hat,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
+outback-hat,isolated,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
+outback-hat,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
+outback-hat,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,2
+outback-hat,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,2
 outback-hat,ranch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
 outback-hat,rodeo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
+outback-hat,rural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
 outback-hat,rustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
+outback-hat,safari,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
 outback-hat,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
+outback-hat,summer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
+outback-hat,sun protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
+outback-hat,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
 outback-hat,character,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
 outback-hat,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
 outback-hat,heritage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
+outback-hat,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1
 outback-hat,identity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
 outback-hat,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
-outback-hat,travel,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,1
+outback-hat,travel,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6AbXdzDF62FFgQKeF90uIMyR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.058003,,2
+outback-hat,typography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3r5dl44LIXh3LpdtNNSgmuuI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.824322,,1

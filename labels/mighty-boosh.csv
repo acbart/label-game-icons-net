@@ -1,24 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 mighty-boosh,Halloween,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
-mighty-boosh,expression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
-mighty-boosh,eyes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
-mighty-boosh,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
+mighty-boosh,abstract face,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
+mighty-boosh,expression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,2
+mighty-boosh,eyes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,2
+mighty-boosh,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,2
 mighty-boosh,fear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
 mighty-boosh,ghost,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
 mighty-boosh,haunted,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
 mighty-boosh,horror,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
-mighty-boosh,mouth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
+mighty-boosh,mouth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,2
 mighty-boosh,scary,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
+mighty-boosh,skull,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
 mighty-boosh,spooky,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
+mighty-boosh,teeth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
+mighty-boosh,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
 mighty-boosh,boo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
 mighty-boosh,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
-mighty-boosh,character,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
+mighty-boosh,cartoonish,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
+mighty-boosh,character,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,2
+mighty-boosh,circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
+mighty-boosh,creature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
+mighty-boosh,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
+mighty-boosh,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
 mighty-boosh,entity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
+mighty-boosh,expressionism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
+mighty-boosh,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
 mighty-boosh,imaginary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
+mighty-boosh,mask,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
+mighty-boosh,minimalistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
 mighty-boosh,monster,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
-mighty-boosh,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
+mighty-boosh,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,2
+mighty-boosh,nostrils,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
 mighty-boosh,supernatural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
+mighty-boosh,surprise,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
 mighty-boosh,surprised,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
+mighty-boosh,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
 mighty-boosh,unknown,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
 mighty-boosh,vampire teeth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1
+mighty-boosh,emoticon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
+mighty-boosh,humanoid,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_b0nBmAwYt2Mg6Ma40HR2VtMv,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.925952,,1
 mighty-boosh,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q77zWD5QFJd6arwhTzl9cBCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.830087,,1

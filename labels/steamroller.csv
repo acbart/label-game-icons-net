@@ -1,26 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 steamroller,agriculture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
+steamroller,compaction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
+steamroller,construction vehicle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
 steamroller,farming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
+steamroller,flattening,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
+steamroller,heavy machinery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
+steamroller,pavement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
 steamroller,plowing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
+steamroller,road work,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
+steamroller,steamroller,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
 steamroller,tractor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
-steamroller,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
+steamroller,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,2
 steamroller,agricultural process,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
+steamroller,construction site,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
 steamroller,cultivating,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
 steamroller,cultivation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
+steamroller,development,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
+steamroller,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
 steamroller,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
 steamroller,farm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
 steamroller,farming tools,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
 steamroller,fieldwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
 steamroller,harvesting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
+steamroller,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
+steamroller,machine operation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
 steamroller,machinery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
+steamroller,road maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
+steamroller,rolling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
 steamroller,rural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
 steamroller,rural technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
 steamroller,tillage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
+steamroller,utility vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
+steamroller,worksite,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
+steamroller,architecture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
 steamroller,circular element,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
 steamroller,field,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
-steamroller,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
+steamroller,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,2
 steamroller,land,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
 steamroller,landscape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
+steamroller,movement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
 steamroller,outdoors,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
+steamroller,pathway creation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
+steamroller,process,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
 steamroller,soil,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
-steamroller,transport,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,1
+steamroller,symbolic of progress,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1
+steamroller,transport,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K4gBMnpicxWaBwkrtCiQjJaH,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.365022,,2
+steamroller,urban,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zLQCxvllHylIESToYCiEkaV4,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.470255,,1

@@ -1,25 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+diamonds,card suit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.573843,,1
 diamonds,diamond,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
+diamonds,diamond shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.573843,,1
+diamonds,geometric,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.573843,,1
 diamonds,geometry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
+diamonds,playing cards,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.573843,,1
 diamonds,shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
 diamonds,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
-diamonds,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
-diamonds,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
-diamonds,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
+diamonds,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,2
+diamonds,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,2
+diamonds,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.574815,,1
+diamonds,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,2
 diamonds,bold,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
+diamonds,classic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.574815,,1
 diamonds,corners,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
-diamonds,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
+diamonds,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,2
+diamonds,gem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.574815,,1
 diamonds,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
 diamonds,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
+diamonds,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.574815,,1
 diamonds,kite,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
 diamonds,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
+diamonds,minimalistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.573843,,1
+diamonds,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.574815,,1
+diamonds,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.574815,,1
 diamonds,pointed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
-diamonds,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
+diamonds,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,2
 diamonds,rhombus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
-diamonds,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
+diamonds,shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.574815,,1
+diamonds,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,2
 diamonds,simple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
+diamonds,style,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.574815,,1
 diamonds,stylized,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
+diamonds,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.573843,,1
 diamonds,visual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
-diamonds,contemporary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
+diamonds,contemporary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,2
 diamonds,decoration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
+diamonds,decorative,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.574815,,1
+diamonds,economy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.574815,,1
 diamonds,elegance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q3DNjMAauXxKbYExWx02CLGo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.242659,,1
+diamonds,finances,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.574815,,1
+diamonds,luxury,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.574815,,1
+diamonds,wealth,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8xcbcGkh9buKQVH2GzbiBKYL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.574815,,1

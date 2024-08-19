@@ -1,22 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 spider-bot,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
+spider-bot,cybernetic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
 spider-bot,fashion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
 spider-bot,formal wear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
+spider-bot,legs,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
+spider-bot,machine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
+spider-bot,robot,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
+spider-bot,spider,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
 spider-bot,suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
+spider-bot,technology,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
+spider-bot,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
 spider-bot,abstract design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
+spider-bot,arachnid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
+spider-bot,artificial intelligence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
 spider-bot,attire,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
+spider-bot,automation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,2
+spider-bot,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
+spider-bot,digital,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.006220,,1
 spider-bot,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
+spider-bot,futuristic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
+spider-bot,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
 spider-bot,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
+spider-bot,insectoid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
+spider-bot,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
+spider-bot,network,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
+spider-bot,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.006220,,1
 spider-bot,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
 spider-bot,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
+spider-bot,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
+spider-bot,web,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
 spider-bot,accessory,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
 spider-bot,apparel,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
 spider-bot,business,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
+spider-bot,conceptual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
+spider-bot,control,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.006220,,1
+spider-bot,creature,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
+spider-bot,entity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.006220,,1
 spider-bot,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
+spider-bot,interaction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.006220,,1
 spider-bot,male clothing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
 spider-bot,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
 spider-bot,modern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
 spider-bot,sharp edges,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
 spider-bot,sophistication,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
+spider-bot,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9pMih0p31y1YrkMfVPOOw13i,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.005221,,1
 spider-bot,tailoring,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1
 spider-bot,wardrobe,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_i9RIZJjsRW3Ati9DjE52eCFg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.971355,,1

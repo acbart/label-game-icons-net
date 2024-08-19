@@ -1,6 +1,10 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+dango,Japanese cuisine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,abstract representation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,dango,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.857609,,1
 dango,development,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
 dango,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
+dango,dumpling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
 dango,flow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
 dango,growth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
 dango,increase,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
@@ -8,19 +12,39 @@ dango,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbs
 dango,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
 dango,process,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
 dango,progression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
+dango,round shapes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,skewer,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
 dango,stages,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
+dango,three balls,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
 dango,trajectory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
-dango,arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
+dango,triplet,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,2
 dango,ascending,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
 dango,chain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
+dango,circular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,dessert,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
 dango,dots,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
+dango,eating,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,food,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
 dango,line,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
+dango,line and circles,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,minimalism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
 dango,order,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
 dango,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
 dango,path,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
-dango,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
+dango,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,2
 dango,sequence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
 dango,series,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
+dango,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,snack,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,stick,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,sweet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
+dango,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
 dango,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
+dango,balance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WqM1H2t6CbXk4W9m2tzAe33,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.858607,,1
 dango,conveyance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1
 dango,wave,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ASLHbsasCpafOGVLUv2F1l4K,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.474261,,1

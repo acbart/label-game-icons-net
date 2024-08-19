@@ -1,24 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 shambling-zombie,chaos,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
+shambling-zombie,creature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
 shambling-zombie,disruption,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
 shambling-zombie,distraction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
 shambling-zombie,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
+shambling-zombie,horror,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,monster,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,shambling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
 shambling-zombie,surprise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
+shambling-zombie,undead,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
 shambling-zombie,unexpected event,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
+shambling-zombie,zombie,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
 shambling-zombie,abstract figure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
+shambling-zombie,animated,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,apocalypse,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
 shambling-zombie,bewilderment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
 shambling-zombie,burst,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
 shambling-zombie,chaotic moment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
+shambling-zombie,classic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
 shambling-zombie,confusion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
+shambling-zombie,creepy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,fear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,groaning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,halloween,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,infected,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,mindless,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,nightmare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,scary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
 shambling-zombie,shock,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
 shambling-zombie,sudden occurrence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
 shambling-zombie,unexpected,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
 shambling-zombie,unpredictability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
 shambling-zombie,unsettling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
+shambling-zombie,walking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
 shambling-zombie,dynamic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
 shambling-zombie,energetic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
 shambling-zombie,eruption,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
 shambling-zombie,flow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
 shambling-zombie,fragmentation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
+shambling-zombie,ghoul,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,horde,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,infection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,moaning,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
+shambling-zombie,mob,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
 shambling-zombie,movement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1
+shambling-zombie,swarm,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQZqTzXBho38QTOxHAZFxNGU,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.248568,,1
 shambling-zombie,uncontrollable,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HC0bntTOLYk6SFyGFuft6YTq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.744899,,1

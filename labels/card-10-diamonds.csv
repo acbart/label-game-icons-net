@@ -1,27 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+card-10-diamonds,10 of diamonds,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t8Gq5A0AmaLP2alyYmkRfL1A,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.213717,,1
 card-10-diamonds,card game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
+card-10-diamonds,card suit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t8Gq5A0AmaLP2alyYmkRfL1A,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.213717,,1
+card-10-diamonds,deck of cards,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t8Gq5A0AmaLP2alyYmkRfL1A,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.213717,,1
 card-10-diamonds,diamond shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
-card-10-diamonds,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
-card-10-diamonds,number ten,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
-card-10-diamonds,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
+card-10-diamonds,diamond suit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t8Gq5A0AmaLP2alyYmkRfL1A,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.213717,,1
+card-10-diamonds,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,2
+card-10-diamonds,number ten,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,2
+card-10-diamonds,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,2
 card-10-diamonds,suit of diamonds,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
 card-10-diamonds,ten of diamonds,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
+card-10-diamonds,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t8Gq5A0AmaLP2alyYmkRfL1A,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.213717,,1
 card-10-diamonds,blackjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
+card-10-diamonds,casino,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t8Gq5A0AmaLP2alyYmkRfL1A,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.213717,,1
 card-10-diamonds,collection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
 card-10-diamonds,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
 card-10-diamonds,deck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
-card-10-diamonds,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
-card-10-diamonds,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
-card-10-diamonds,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
+card-10-diamonds,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,2
+card-10-diamonds,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,2
+card-10-diamonds,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,2
+card-10-diamonds,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t8Gq5A0AmaLP2alyYmkRfL1A,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.213717,,1
 card-10-diamonds,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
-card-10-diamonds,luck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
+card-10-diamonds,luck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,2
 card-10-diamonds,numeric representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
 card-10-diamonds,pastime,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
+card-10-diamonds,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t8Gq5A0AmaLP2alyYmkRfL1A,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.213717,,1
 card-10-diamonds,poker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
+card-10-diamonds,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t8Gq5A0AmaLP2alyYmkRfL1A,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.213717,,1
 card-10-diamonds,recreational activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
-card-10-diamonds,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
+card-10-diamonds,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,2
+card-10-diamonds,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t8Gq5A0AmaLP2alyYmkRfL1A,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.213717,,1
 card-10-diamonds,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
 card-10-diamonds,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
 card-10-diamonds,value,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
+card-10-diamonds,visual icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t8Gq5A0AmaLP2alyYmkRfL1A,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.213717,,1
 card-10-diamonds,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
+card-10-diamonds,board game,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t8Gq5A0AmaLP2alyYmkRfL1A,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.213717,,1
 card-10-diamonds,predictability,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XsDb0Q2z9IhWYY13GPfz4xXh,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.101703,,1
+card-10-diamonds,repetition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t8Gq5A0AmaLP2alyYmkRfL1A,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.213717,,2

@@ -1,24 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 half-tornado,arcs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
 half-tornado,curves,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
-half-tornado,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
+half-tornado,cyclone,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
+half-tornado,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,2
 half-tornado,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
+half-tornado,rotation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
+half-tornado,spiral,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
+half-tornado,storm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
+half-tornado,swirl,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
+half-tornado,tornado,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
+half-tornado,twister,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
+half-tornado,vortex,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
 half-tornado,waves,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
+half-tornado,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
+half-tornado,air movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
+half-tornado,atmosphere,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
 half-tornado,cascade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
 half-tornado,continuity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
+half-tornado,curve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
+half-tornado,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
 half-tornado,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
 half-tornado,echo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
-half-tornado,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
+half-tornado,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,2
 half-tornado,evolution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
 half-tornado,expansion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
-half-tornado,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
+half-tornado,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,2
+half-tornado,fluid dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
 half-tornado,frequency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
+half-tornado,funnel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
 half-tornado,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
+half-tornado,meteorology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
+half-tornado,natural disaster,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
+half-tornado,natural phenomenon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
+half-tornado,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
 half-tornado,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
 half-tornado,progression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
 half-tornado,repetition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
 half-tornado,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
 half-tornado,sequence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
 half-tornado,sweep,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
+half-tornado,symbolic force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
 half-tornado,vibration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1
+half-tornado,weather,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
+half-tornado,wind,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbmTkfQacEWDEeXyaIq30BP,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.656972,,1
 half-tornado,variation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6oRgp0YTCRCB6oNZkboix9bX,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.957744,,1

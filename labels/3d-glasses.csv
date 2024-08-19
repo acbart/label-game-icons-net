@@ -1,23 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+3d-glasses,3D glasses,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
+3d-glasses,cinema,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
+3d-glasses,dual images,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
+3d-glasses,entertainment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
 3d-glasses,eyesight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
-3d-glasses,glasses,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
-3d-glasses,lens,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
+3d-glasses,film,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
+3d-glasses,glasses,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,2
+3d-glasses,immersive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
+3d-glasses,lens,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,2
+3d-glasses,movie experience,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
 3d-glasses,optics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
 3d-glasses,sight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
-3d-glasses,spectacles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
-3d-glasses,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
+3d-glasses,spectacles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,2
+3d-glasses,technology,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
+3d-glasses,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,2
+3d-glasses,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
 3d-glasses,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
 3d-glasses,clarity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
 3d-glasses,correction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
+3d-glasses,dimensional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
 3d-glasses,eye protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
+3d-glasses,eyewear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
 3d-glasses,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
 3d-glasses,frame,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
+3d-glasses,frames,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
 3d-glasses,magnification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
+3d-glasses,optical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
 3d-glasses,pair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
 3d-glasses,perception,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
+3d-glasses,perspective,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
 3d-glasses,reading,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
+3d-glasses,stereoscopic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
+3d-glasses,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
+3d-glasses,viewing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
 3d-glasses,viewpoint,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
+3d-glasses,virtual reality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
 3d-glasses,education,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
 3d-glasses,fashion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
+3d-glasses,geometric,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
 3d-glasses,intellectual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
+3d-glasses,pointed shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1
 3d-glasses,style,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nc3beRsocnL67F61YPhHsuda,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.528907,,1
+3d-glasses,triangle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4L3IW5kMIOwwCC6HwZ0KHq7M,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.097088,,1

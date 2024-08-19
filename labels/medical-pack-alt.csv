@@ -1,27 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-medical-pack-alt,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,emergency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,first aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,health,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,hospital,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
+medical-pack-alt,aid kit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dh2Qdrl3YM7mgIidPxBnmfVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.961672,,1
+medical-pack-alt,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
+medical-pack-alt,emergency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
+medical-pack-alt,first aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
+medical-pack-alt,health,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
+medical-pack-alt,hospital,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
+medical-pack-alt,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
+medical-pack-alt,medical kit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dh2Qdrl3YM7mgIidPxBnmfVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.961672,,1
 medical-pack-alt,plus sign,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,aid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,clinic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
+medical-pack-alt,aid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
+medical-pack-alt,bandage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dh2Qdrl3YM7mgIidPxBnmfVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.961672,,1
+medical-pack-alt,clinic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
 medical-pack-alt,doctor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,healthcare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,medicine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
+medical-pack-alt,healthcare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
+medical-pack-alt,medicine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
 medical-pack-alt,nurse,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
+medical-pack-alt,paramedic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dh2Qdrl3YM7mgIidPxBnmfVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.961672,,1
 medical-pack-alt,pharmacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,treatment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,wellness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,care,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
+medical-pack-alt,preparedness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dh2Qdrl3YM7mgIidPxBnmfVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.961672,,1
+medical-pack-alt,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dh2Qdrl3YM7mgIidPxBnmfVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.961672,,1
+medical-pack-alt,supplies,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dh2Qdrl3YM7mgIidPxBnmfVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.961672,,1
+medical-pack-alt,treatment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
+medical-pack-alt,well-being,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dh2Qdrl3YM7mgIidPxBnmfVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.961672,,1
+medical-pack-alt,wellness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
+medical-pack-alt,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dh2Qdrl3YM7mgIidPxBnmfVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.961672,,1
+medical-pack-alt,care,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
 medical-pack-alt,certification,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
 medical-pack-alt,clinical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,healing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
+medical-pack-alt,diagnosis,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dh2Qdrl3YM7mgIidPxBnmfVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.961672,,1
+medical-pack-alt,healing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
+medical-pack-alt,icon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dh2Qdrl3YM7mgIidPxBnmfVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.961672,,1
 medical-pack-alt,insurance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
 medical-pack-alt,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
 medical-pack-alt,red cross,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,rescue,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
+medical-pack-alt,rescue,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
 medical-pack-alt,sanitation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
-medical-pack-alt,support,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,1
+medical-pack-alt,support,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uRE2aP8kwn8U2QRasktI0ptl,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.035031,,2
+medical-pack-alt,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dh2Qdrl3YM7mgIidPxBnmfVi,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.961672,,1

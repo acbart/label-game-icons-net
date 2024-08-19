@@ -1,20 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-halberd-shuriken,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
-halberd-shuriken,circular,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
+halberd-shuriken,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,2
+halberd-shuriken,attack,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,blade,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,circular,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,2
+halberd-shuriken,combat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,danger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
 halberd-shuriken,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
+halberd-shuriken,halberd,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,martial arts,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
 halberd-shuriken,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
 halberd-shuriken,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
+halberd-shuriken,ninja star,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,piercing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
 halberd-shuriken,rotation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
+halberd-shuriken,sharp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,shuriken,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
 halberd-shuriken,spin,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
+halberd-shuriken,throwing weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,agility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
 halberd-shuriken,diversion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
 halberd-shuriken,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
 halberd-shuriken,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
 halberd-shuriken,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
+halberd-shuriken,hunt,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,oriental,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,point,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
+halberd-shuriken,precision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
 halberd-shuriken,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
+halberd-shuriken,stealth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
 halberd-shuriken,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
+halberd-shuriken,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Yp3IMQB1YwqfpRsYuREsduyU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.611669,,1
 halberd-shuriken,targeting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
 halberd-shuriken,whirl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
-halberd-shuriken,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
+halberd-shuriken,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,2
 halberd-shuriken,energy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
 halberd-shuriken,exchange,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
 halberd-shuriken,expansion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
@@ -22,5 +45,5 @@ halberd-shuriken,mechanics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,bat
 halberd-shuriken,orbit,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
 halberd-shuriken,positions,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
 halberd-shuriken,spread,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
-halberd-shuriken,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1
+halberd-shuriken,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,2
 halberd-shuriken,trade,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5Op2KdYtmnU4ffVde7PPsZ5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.951742,,1

@@ -1,26 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-player-time,hourglass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
+player-time,hourglass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,2
 player-time,human figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
-player-time,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
+player-time,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,2
+player-time,player,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
 player-time,scheduling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
 player-time,task management,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
+player-time,time,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
 player-time,time management,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
 player-time,timer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
-player-time,activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
+player-time,activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,2
 player-time,clock,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
 player-time,concentration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
+player-time,countdown,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
 player-time,deadline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
-player-time,duration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
+player-time,duration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,2
 player-time,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
 player-time,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
 player-time,future,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
+player-time,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
+player-time,interval,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
+player-time,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
+player-time,monitoring,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
+player-time,participation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
 player-time,past,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
 player-time,patience,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
+player-time,period,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
 player-time,persistence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
+player-time,presence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
 player-time,present,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
 player-time,priority,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
-player-time,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
+player-time,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,2
 player-time,sands of time,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
-player-time,waiting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
+player-time,sequence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
+player-time,temporal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
+player-time,timeline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
+player-time,tracking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
+player-time,waiting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,2
 player-time,work-life balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
+player-time,cycle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
 player-time,life cycle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7b1lcVh6w53UzYf3GLSkIdi6,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.301259,,1
+player-time,management,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
+player-time,observer,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
+player-time,order,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
+player-time,regularity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
+player-time,schedule,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1
+player-time,system,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKzovpHtC3zXqU9vwGSqdlgO,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.691470,,1

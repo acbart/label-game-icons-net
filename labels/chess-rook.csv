@@ -1,25 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 chess-rook,battlements,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
-chess-rook,castle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
+chess-rook,board game,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GFivs97bw58N5rBv19gK4MuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.486224,,1
+chess-rook,castle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,2
+chess-rook,chess,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GFivs97bw58N5rBv19gK4MuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.486224,,1
 chess-rook,chess piece,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
-chess-rook,fortress,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
-chess-rook,rook,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
-chess-rook,tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
+chess-rook,fortress,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,2
+chess-rook,rook,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,2
+chess-rook,tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,2
+chess-rook,architectural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GFivs97bw58N5rBv19gK4MuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.486224,,1
+chess-rook,battle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GFivs97bw58N5rBv19gK4MuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.486224,,1
 chess-rook,block,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
-chess-rook,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
+chess-rook,competition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GFivs97bw58N5rBv19gK4MuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.486224,,1
+chess-rook,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,2
 chess-rook,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
-chess-rook,game piece,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
+chess-rook,game piece,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,2
+chess-rook,horizontally and vertically,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GFivs97bw58N5rBv19gK4MuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.486224,,1
+chess-rook,linear movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GFivs97bw58N5rBv19gK4MuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.486224,,1
+chess-rook,logic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GFivs97bw58N5rBv19gK4MuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.486224,,1
 chess-rook,logical thought,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
 chess-rook,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
-chess-rook,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
-chess-rook,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
+chess-rook,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GFivs97bw58N5rBv19gK4MuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.486224,,1
+chess-rook,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,2
+chess-rook,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,2
 chess-rook,stronghold,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
-chess-rook,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
+chess-rook,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,2
+chess-rook,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GFivs97bw58N5rBv19gK4MuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.486224,,1
+chess-rook,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GFivs97bw58N5rBv19gK4MuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.486224,,1
 chess-rook,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
+chess-rook,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GFivs97bw58N5rBv19gK4MuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.486224,,1
 chess-rook,ancient,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
 chess-rook,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
 chess-rook,blocky,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
 chess-rook,crown,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
-chess-rook,square base,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
+chess-rook,kingdom,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GFivs97bw58N5rBv19gK4MuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.486224,,1
+chess-rook,rectangular blocks,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GFivs97bw58N5rBv19gK4MuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.486224,,1
+chess-rook,square base,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,2
 chess-rook,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1
 chess-rook,wall,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lgMMJwjAdqNxYzbf09IRXQXY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.212086,,1

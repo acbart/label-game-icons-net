@@ -1,25 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 full-motorcycle-helmet,biker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
-full-motorcycle-helmet,head protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
+full-motorcycle-helmet,head protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,2
 full-motorcycle-helmet,headgear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
 full-motorcycle-helmet,helmet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
 full-motorcycle-helmet,motorcycle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
+full-motorcycle-helmet,motorcycle helmet,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
+full-motorcycle-helmet,protective equipment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
 full-motorcycle-helmet,protective gear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
 full-motorcycle-helmet,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
+full-motorcycle-helmet,safety gear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
+full-motorcycle-helmet,aerodynamics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
 full-motorcycle-helmet,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
 full-motorcycle-helmet,hazard protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
-full-motorcycle-helmet,motorsport,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
-full-motorcycle-helmet,racing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
-full-motorcycle-helmet,road safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
-full-motorcycle-helmet,shield,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
+full-motorcycle-helmet,helmet design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
+full-motorcycle-helmet,helmet visor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
+full-motorcycle-helmet,motorcycle culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
+full-motorcycle-helmet,motorsport,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,2
+full-motorcycle-helmet,outer shell,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
+full-motorcycle-helmet,racing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,2
+full-motorcycle-helmet,road safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,2
+full-motorcycle-helmet,shield,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,2
 full-motorcycle-helmet,shielding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
-full-motorcycle-helmet,speed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
+full-motorcycle-helmet,speed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,2
+full-motorcycle-helmet,street riding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
+full-motorcycle-helmet,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
+full-motorcycle-helmet,urban,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
 full-motorcycle-helmet,visor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
+full-motorcycle-helmet,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
 full-motorcycle-helmet,accessory,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
-full-motorcycle-helmet,adventure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
+full-motorcycle-helmet,adventure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,2
+full-motorcycle-helmet,circular element,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
 full-motorcycle-helmet,fashion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
+full-motorcycle-helmet,freedom,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
+full-motorcycle-helmet,journey,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
 full-motorcycle-helmet,outdoor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
 full-motorcycle-helmet,sport,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
+full-motorcycle-helmet,streamlined,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AyrDJIX7nkotgoOKCXXia9gR,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.798705,,1
 full-motorcycle-helmet,transport,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
 full-motorcycle-helmet,travel,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1
 full-motorcycle-helmet,vehicle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GE4vUlQ5rLKFUJ5OTfHQCMsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.014430,,1

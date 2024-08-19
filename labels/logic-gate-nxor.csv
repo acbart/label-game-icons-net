@@ -1,21 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-logic-gate-nxor,AND gate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
-logic-gate-nxor,boolean algebra,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
+logic-gate-nxor,AND gate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,2
+logic-gate-nxor,XNOR,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQCbbOi0G0lFc1z92tHwUbLD,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.387053,,1
+logic-gate-nxor,binary operation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQCbbOi0G0lFc1z92tHwUbLD,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.387053,,1
+logic-gate-nxor,boolean algebra,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,2
+logic-gate-nxor,circuit design,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQCbbOi0G0lFc1z92tHwUbLD,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.387053,,1
+logic-gate-nxor,digital electronics,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQCbbOi0G0lFc1z92tHwUbLD,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.387053,,1
 logic-gate-nxor,digital logic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
 logic-gate-nxor,electronic circuit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
-logic-gate-nxor,input,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
-logic-gate-nxor,logic gate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
-logic-gate-nxor,output,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
+logic-gate-nxor,equal logic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQCbbOi0G0lFc1z92tHwUbLD,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.387053,,1
+logic-gate-nxor,input,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,2
+logic-gate-nxor,logic gate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,2
+logic-gate-nxor,output,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,2
 logic-gate-nxor,circuit diagram,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
 logic-gate-nxor,circuitry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
-logic-gate-nxor,computing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
-logic-gate-nxor,diagram,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
+logic-gate-nxor,computing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,2
+logic-gate-nxor,diagram,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,2
 logic-gate-nxor,electrical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
-logic-gate-nxor,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
-logic-gate-nxor,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
-logic-gate-nxor,schematic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
-logic-gate-nxor,signal processing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
+logic-gate-nxor,electronic symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQCbbOi0G0lFc1z92tHwUbLD,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.387053,,1
+logic-gate-nxor,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,2
+logic-gate-nxor,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,2
+logic-gate-nxor,flowchart,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQCbbOi0G0lFc1z92tHwUbLD,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.387053,,1
+logic-gate-nxor,mathematics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQCbbOi0G0lFc1z92tHwUbLD,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.387053,,1
+logic-gate-nxor,negated,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQCbbOi0G0lFc1z92tHwUbLD,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.387053,,1
+logic-gate-nxor,schematic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,2
+logic-gate-nxor,signal processing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,2
 logic-gate-nxor,symbols,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
-logic-gate-nxor,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
+logic-gate-nxor,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,2
+logic-gate-nxor,truth table,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQCbbOi0G0lFc1z92tHwUbLD,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.387053,,1
+logic-gate-nxor,NOR gate,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQCbbOi0G0lFc1z92tHwUbLD,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.387053,,1
 logic-gate-nxor,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1
+logic-gate-nxor,abstract symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQCbbOi0G0lFc1z92tHwUbLD,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.387053,,1
+logic-gate-nxor,arrowhead,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQCbbOi0G0lFc1z92tHwUbLD,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.387053,,1
+logic-gate-nxor,symmetrical shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tQCbbOi0G0lFc1z92tHwUbLD,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.387053,,1
 logic-gate-nxor,technical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r29nFdKymyKAlZY7wBZkkXoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.683532,,1

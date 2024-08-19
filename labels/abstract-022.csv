@@ -1,16 +1,28 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-abstract-022,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.586282,,1
-abstract-022,building,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.586282,,1
-abstract-022,skyscraper,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.586282,,1
-abstract-022,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.586282,,1
-abstract-022,urban,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.586282,,1
+abstract-022,abstract,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
+abstract-022,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.586282,,2
+abstract-022,building,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.586282,,2
+abstract-022,skyscraper,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.586282,,2
+abstract-022,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.586282,,2
+abstract-022,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
+abstract-022,towers,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
+abstract-022,urban,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.586282,,2
+abstract-022,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
+abstract-022,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
 abstract-022,business center,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1
-abstract-022,cityscape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.586282,,1
-abstract-022,corporate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1
+abstract-022,circles,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
+abstract-022,cityscape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.586282,,2
+abstract-022,construction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
+abstract-022,contemporary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
+abstract-022,corporate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,2
+abstract-022,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
 abstract-022,downtown,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1
+abstract-022,duality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
+abstract-022,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
 abstract-022,high-rise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1
+abstract-022,landmark,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
 abstract-022,metropolis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1
-abstract-022,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1
+abstract-022,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,2
 abstract-022,office building,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1
 abstract-022,real estate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1
 abstract-022,skyline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.586282,,1
@@ -18,8 +30,12 @@ abstract-022,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,ba
 abstract-022,tower,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.586282,,1
 abstract-022,urban planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1
 abstract-022,vertical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1
+abstract-022,vertical lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
 abstract-022,windows,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1
 abstract-022,concrete jungle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1
-abstract-022,facade,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1
+abstract-022,elegance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
+abstract-022,facade,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,2
 abstract-022,metropolitan,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1
+abstract-022,minimalism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
+abstract-022,parallel,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lUCav1p2Vs3T6WcYarUH7AgX,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.616902,,1
 abstract-022,steel,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QFoL0hGrCF0g6ZU9onAJ5z2O,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.587231,,1

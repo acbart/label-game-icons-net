@@ -1,28 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 vibrating-ball,center,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
-vibrating-ball,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
-vibrating-ball,dynamic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
-vibrating-ball,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
-vibrating-ball,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
+vibrating-ball,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,2
+vibrating-ball,dynamic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,2
+vibrating-ball,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,2
+vibrating-ball,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,2
+vibrating-ball,movement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
+vibrating-ball,oscillation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
 vibrating-ball,rotation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
 vibrating-ball,spiral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
+vibrating-ball,vibration,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
 vibrating-ball,vortex,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
-vibrating-ball,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
+vibrating-ball,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,2
+vibrating-ball,action,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
 vibrating-ball,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
 vibrating-ball,black hole,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
+vibrating-ball,bounce,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
 vibrating-ball,centralization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
+vibrating-ball,circular motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
 vibrating-ball,concentration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
 vibrating-ball,cyclone,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
+vibrating-ball,echo,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
 vibrating-ball,expansion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
 vibrating-ball,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
+vibrating-ball,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
+vibrating-ball,frequency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
 vibrating-ball,gravity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
+vibrating-ball,kinetic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
+vibrating-ball,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
+vibrating-ball,pulse,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
+vibrating-ball,resonance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
+vibrating-ball,ripple,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
+vibrating-ball,sound,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
+vibrating-ball,sound waves,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
 vibrating-ball,swirl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
 vibrating-ball,turbulence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
 vibrating-ball,universe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
+vibrating-ball,wave,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
 vibrating-ball,whirl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
 vibrating-ball,ballet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
 vibrating-ball,convergence,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
 vibrating-ball,cosmic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
+vibrating-ball,disturbance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
 vibrating-ball,flow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
 vibrating-ball,hypnosis,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
 vibrating-ball,illusion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aUCWsHtGPvcI6SGOy1wUka8m,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.692788,,1
+vibrating-ball,impact,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
+vibrating-ball,impact waves,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1
+vibrating-ball,stimulus,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RDnUopeOiFa6nxvX2GpS8G37,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.658359,,1

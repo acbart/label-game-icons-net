@@ -1,23 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 apc,armored,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
+apc,armored vehicle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QbRYtHZlXhZkUKRAdHPcFxsh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.307564,,1
 apc,cannon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
-apc,combat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
-apc,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
-apc,military,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
-apc,tank,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
+apc,combat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,2
+apc,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,2
+apc,land vehicle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QbRYtHZlXhZkUKRAdHPcFxsh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.307564,,1
+apc,military,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,2
+apc,military operation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QbRYtHZlXhZkUKRAdHPcFxsh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.307564,,1
+apc,tank,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,2
+apc,tread,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QbRYtHZlXhZkUKRAdHPcFxsh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.307564,,1
 apc,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
-apc,warfare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
+apc,warfare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,2
+apc,armament,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QbRYtHZlXhZkUKRAdHPcFxsh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.307564,,1
 apc,army,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
-apc,machinery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
-apc,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
-apc,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
+apc,attack,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QbRYtHZlXhZkUKRAdHPcFxsh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.307564,,1
+apc,authority,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QbRYtHZlXhZkUKRAdHPcFxsh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.307564,,1
+apc,heavy equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QbRYtHZlXhZkUKRAdHPcFxsh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.307564,,1
+apc,logistics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QbRYtHZlXhZkUKRAdHPcFxsh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.307564,,1
+apc,machinery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,2
+apc,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QbRYtHZlXhZkUKRAdHPcFxsh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.307564,,1
+apc,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,2
+apc,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QbRYtHZlXhZkUKRAdHPcFxsh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.307564,,1
+apc,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,2
 apc,tracks,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
+apc,transport,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QbRYtHZlXhZkUKRAdHPcFxsh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.307564,,1
 apc,weapon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
+apc,weaponry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QbRYtHZlXhZkUKRAdHPcFxsh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.307564,,1
 apc,wheels,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
 apc,aggression,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
 apc,conflict,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
 apc,engineering,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
-apc,force,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
-apc,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
-apc,strategy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
-apc,technology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,1
+apc,force,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,2
+apc,peacekeeping,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QbRYtHZlXhZkUKRAdHPcFxsh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.307564,,1
+apc,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,2
+apc,strategy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,2
+apc,technology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T9qX6BK55NKGZjh0knWlNz0x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.156882,,2

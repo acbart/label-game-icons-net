@@ -1,22 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-palisade,barrier,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
-palisade,boundary,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
+palisade,barrier,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,2
+palisade,border,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
+palisade,boundary,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,2
 palisade,defensive,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
-palisade,fence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
+palisade,fence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,2
+palisade,palisade,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
 palisade,perimeter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
-palisade,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
-palisade,restriction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
-palisade,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
+palisade,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,2
+palisade,restriction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,2
+palisade,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,2
 palisade,sharp points,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
-palisade,spikes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
+palisade,spikes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,2
 palisade,containment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,2
-palisade,division,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
-palisade,enclosure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
+palisade,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
+palisade,division,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,2
+palisade,enclosure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,2
+palisade,fortification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
 palisade,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
 palisade,isolation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
-palisade,partition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
+palisade,partition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,2
+palisade,picket,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
 palisade,security measure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
 palisade,segmentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
-palisade,separation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
-palisade,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
-palisade,vertical lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,1
+palisade,separation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,2
+palisade,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
+palisade,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,2
+palisade,vertical lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_erIIlg1PBZg26aiASdkqY2KV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.085001,,2
+palisade,wooden,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
+palisade,alignment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
+palisade,array,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
+palisade,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
+palisade,order,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
+palisade,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
+palisade,rampart,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
+palisade,repetition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
+palisade,simplification,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
+palisade,symmetrical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1
+palisade,uniformity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hHJROWr3nyJB4fskg7De65MF,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.909334,,1

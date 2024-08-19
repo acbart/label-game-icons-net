@@ -1,22 +1,34 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-long-antennae-bug,bug,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
-long-antennae-bug,insect,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
+long-antennae-bug,antennae,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Fqg9xrOEZxo77zDhZPgm3Je,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.917433,,1
+long-antennae-bug,bug,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,2
+long-antennae-bug,insect,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,2
 long-antennae-bug,roach,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
-long-antennae-bug,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
+long-antennae-bug,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Fqg9xrOEZxo77zDhZPgm3Je,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.917433,,1
+long-antennae-bug,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,2
 long-antennae-bug,antenna,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
+long-antennae-bug,biological,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Fqg9xrOEZxo77zDhZPgm3Je,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.917433,,1
 long-antennae-bug,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
 long-antennae-bug,crawl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
-long-antennae-bug,entomology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
+long-antennae-bug,elongated features,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Fqg9xrOEZxo77zDhZPgm3Je,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.917433,,1
+long-antennae-bug,entomology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,2
 long-antennae-bug,exoskeleton,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
-long-antennae-bug,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
-long-antennae-bug,pest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
+long-antennae-bug,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Fqg9xrOEZxo77zDhZPgm3Je,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.917433,,1
+long-antennae-bug,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,2
+long-antennae-bug,pest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,2
 long-antennae-bug,pest control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
+long-antennae-bug,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Fqg9xrOEZxo77zDhZPgm3Je,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.917433,,1
+long-antennae-bug,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Fqg9xrOEZxo77zDhZPgm3Je,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.917433,,1
 long-antennae-bug,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
-long-antennae-bug,creature,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
+long-antennae-bug,anatomy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Fqg9xrOEZxo77zDhZPgm3Je,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.917433,,1
+long-antennae-bug,creature,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,2
 long-antennae-bug,creepy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
 long-antennae-bug,environment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
 long-antennae-bug,flat design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
 long-antennae-bug,natural,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
-long-antennae-bug,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
+long-antennae-bug,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,2
+long-antennae-bug,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Fqg9xrOEZxo77zDhZPgm3Je,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.917433,,1
+long-antennae-bug,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Fqg9xrOEZxo77zDhZPgm3Je,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.917433,,1
+long-antennae-bug,structure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Fqg9xrOEZxo77zDhZPgm3Je,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.917433,,1
 long-antennae-bug,vector,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
-long-antennae-bug,wildlife,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,1
+long-antennae-bug,visual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9Fqg9xrOEZxo77zDhZPgm3Je,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.917433,,1
+long-antennae-bug,wildlife,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lHAy6a8ihda9bv2mQR3VkN0W,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.316616,,2

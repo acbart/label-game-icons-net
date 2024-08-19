@@ -1,9 +1,20 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 lorc_rock,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
 lorc_rock,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
+lorc_rock,boulder,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.360010,,1
+lorc_rock,earth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.360010,,1
+lorc_rock,geology,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.359009,,1
 lorc_rock,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
+lorc_rock,heavy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.360010,,1
+lorc_rock,jagged,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.359009,,1
+lorc_rock,natural,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.360010,,1
 lorc_rock,origami,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
-lorc_rock,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
+lorc_rock,rock,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.359009,,1
+lorc_rock,rough,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.360010,,1
+lorc_rock,solid,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.359009,,1
+lorc_rock,strong,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.359009,,1
+lorc_rock,uneven,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.360010,,1
+lorc_rock,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,2
 lorc_rock,angles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
 lorc_rock,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
 lorc_rock,creative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
@@ -11,13 +22,25 @@ lorc_rock,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_
 lorc_rock,dynamic motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
 lorc_rock,flapping wings,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
 lorc_rock,folding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
+lorc_rock,foundation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.360010,,1
+lorc_rock,fragment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.359009,,1
+lorc_rock,grounded,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.360010,,1
+lorc_rock,landscape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.360010,,1
+lorc_rock,massive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.360010,,1
 lorc_rock,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
 lorc_rock,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
+lorc_rock,mountain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.359009,,1
+lorc_rock,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.360010,,1
 lorc_rock,paper,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
 lorc_rock,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
+lorc_rock,scatter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.359009,,1
 lorc_rock,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
 lorc_rock,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
+lorc_rock,static,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.360010,,1
+lorc_rock,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.359009,,1
 lorc_rock,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
+lorc_rock,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.360010,,1
+lorc_rock,texture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASG5jet1wVzPMOiHzjPaq5g9,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.360010,,1
 lorc_rock,art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
 lorc_rock,asian influence,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1
 lorc_rock,black and white theme,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AYF3DBJ3fpoeWVpy9ZAhe5yQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.766705,,1

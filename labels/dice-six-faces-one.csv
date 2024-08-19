@@ -1,25 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 dice-six-faces-one,center,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
 dice-six-faces-one,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
-dice-six-faces-one,geometry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
-dice-six-faces-one,point,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
+dice-six-faces-one,cube,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
+dice-six-faces-one,dice,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
+dice-six-faces-one,face,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
+dice-six-faces-one,game,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
+dice-six-faces-one,geometry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,2
+dice-six-faces-one,number,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
+dice-six-faces-one,one,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
+dice-six-faces-one,point,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,2
 dice-six-faces-one,square,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
 dice-six-faces-one,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
+dice-six-faces-one,board game,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
 dice-six-faces-one,boundaries,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
 dice-six-faces-one,central,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
-dice-six-faces-one,dot,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
+dice-six-faces-one,chance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
+dice-six-faces-one,dot,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,2
+dice-six-faces-one,dot symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
 dice-six-faces-one,encapsulation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
-dice-six-faces-one,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
+dice-six-faces-one,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,2
+dice-six-faces-one,gaming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
 dice-six-faces-one,internal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
+dice-six-faces-one,luck,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
 dice-six-faces-one,minimal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
-dice-six-faces-one,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
-dice-six-faces-one,singular,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
-dice-six-faces-one,singularity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
+dice-six-faces-one,probability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
+dice-six-faces-one,random,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
+dice-six-faces-one,rolling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
+dice-six-faces-one,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,2
+dice-six-faces-one,singular,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,2
+dice-six-faces-one,singularity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,2
 dice-six-faces-one,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
 dice-six-faces-one,target,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
+dice-six-faces-one,abstraction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
 dice-six-faces-one,boundary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
 dice-six-faces-one,container,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
+dice-six-faces-one,decision making,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
 dice-six-faces-one,distinct,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
 dice-six-faces-one,exclusive,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
 dice-six-faces-one,isolated,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1
+dice-six-faces-one,minimalism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
+dice-six-faces-one,singular spot,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
+dice-six-faces-one,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uRXv4wuM6NYmFsMsLa3tV0jG,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.007721,,1
 dice-six-faces-one,unit,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qC17jjb5HdkdkcJE0UyJAqXj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.532994,,1

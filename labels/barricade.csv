@@ -1,22 +1,52 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 barricade,audio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
+barricade,barricade,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,barrier,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,construction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
 barricade,harmony,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
 barricade,melody,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
 barricade,microphone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
 barricade,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
 barricade,notes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
+barricade,obstacle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,roadblock,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,safety,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
 barricade,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
 barricade,voice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
+barricade,warning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,access control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
 barricade,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
+barricade,alert,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
 barricade,beat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
+barricade,blockade,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,boundaries,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
 barricade,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
+barricade,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,demarcation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,hazard attention,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
 barricade,karaoke,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
+barricade,limitation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
 barricade,musician,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
 barricade,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
+barricade,preventive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,prohibition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
 barricade,recording,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
+barricade,restricted area,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
 barricade,singer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
+barricade,site work,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,traffic control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
 barricade,tune,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
 barricade,vocal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
 barricade,volume,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
+barricade,work zone,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,disruption,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,intersection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
 barricade,orchestra,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
 barricade,symphony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xz1kAZ8n7rRtPULxQKQwEol6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.778505,,1
+barricade,temporary,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,urban planning,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1
+barricade,zigzag lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bmP1CcUkQddBpoRmNH0VOeAd,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.131886,,1

@@ -1,22 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-contortionist,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
+contortionist,acrobatic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
+contortionist,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,2
+contortionist,body bending,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
+contortionist,contortionist,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
 contortionist,meditation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
-contortionist,pose,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
+contortionist,pose,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,2
 contortionist,posture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
-contortionist,yoga,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
+contortionist,yoga,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,2
+contortionist,abstract human,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
+contortionist,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
 contortionist,body,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
+contortionist,circus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
+contortionist,discipline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
 contortionist,exercise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
-contortionist,flexibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
+contortionist,extreme,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
+contortionist,flexibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,2
+contortionist,gymnastics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
 contortionist,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
 contortionist,mindfulness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
-contortionist,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
+contortionist,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,2
+contortionist,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
+contortionist,performance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
+contortionist,performance art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
+contortionist,physical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
 contortionist,physical fitness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
-contortionist,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
+contortionist,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,2
+contortionist,skill,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
 contortionist,stretch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
-contortionist,stretching,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
+contortionist,stretching,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,2
 contortionist,wellness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
 contortionist,calm,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
+contortionist,creativity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
 contortionist,dance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
+contortionist,expression,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
 contortionist,grace,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
+contortionist,gravity-defying,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
 contortionist,human figure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
+contortionist,intricacy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
+contortionist,nonverbal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1
 contortionist,peace,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_krR0DNauDIWUffKC4a5NlQQz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.347736,,1
+contortionist,strength,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NcTRRfwxe9gyRYaOVSyeuQ1L,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.356023,,1

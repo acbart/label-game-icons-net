@@ -1,26 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 pan-flute,instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,1
-pan-flute,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,1
+pan-flute,instrumental,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
+pan-flute,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,2
+pan-flute,musical instrument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
 pan-flute,pan pipes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,1
-pan-flute,wind instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,1
-pan-flute,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,1
+pan-flute,pan-flute,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
+pan-flute,pipes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
+pan-flute,wind instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,2
+pan-flute,abstract lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
+pan-flute,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,2
 pan-flute,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,1
+pan-flute,artistry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
 pan-flute,bamboo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,1
+pan-flute,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
+pan-flute,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
 pan-flute,culture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,1
+pan-flute,curved,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
+pan-flute,expression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
 pan-flute,flute,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,1
-pan-flute,folk music,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,1
-pan-flute,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,1
-pan-flute,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,1
+pan-flute,folk music,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,2
+pan-flute,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,2
+pan-flute,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
+pan-flute,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,2
 pan-flute,musical notes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,1
+pan-flute,native sounds,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
+pan-flute,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
 pan-flute,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,1
-pan-flute,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,1
-pan-flute,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,1
+pan-flute,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,2
+pan-flute,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,2
+pan-flute,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
+pan-flute,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
 pan-flute,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,1
+pan-flute,traditional music,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
+pan-flute,vertical alignment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
 pan-flute,artistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.087999,,1
+pan-flute,breeze,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
+pan-flute,connection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
 pan-flute,curved lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,1
-pan-flute,entertainment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,1
+pan-flute,entertainment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,2
 pan-flute,notes,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,1
 pan-flute,orchestra,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,1
 pan-flute,percussion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,1
-pan-flute,symphony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,1
+pan-flute,sound waves,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ARHV3Waisc8frkpk9EyW8tfe,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.919481,,1
+pan-flute,symphony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,2
 pan-flute,vertical lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s5A1R8dsRTYFaqeecHfgylWl,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.089000,,1

@@ -1,25 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+broken-bottle,broken bottle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
+broken-bottle,danger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
 broken-bottle,fountain pen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
+broken-bottle,glass,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
 broken-bottle,ink,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
 broken-bottle,pointed nib,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
+broken-bottle,safety hazard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
+broken-bottle,sharp edges,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
 broken-bottle,signature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
 broken-bottle,writing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
+broken-bottle,accident,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
 broken-bottle,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
 broken-bottle,author,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
 broken-bottle,calligraphy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
 broken-bottle,classic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
+broken-bottle,cleanup,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
 broken-bottle,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
 broken-bottle,craft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
 broken-bottle,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
+broken-bottle,damage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
+broken-bottle,debris,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
+broken-bottle,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
 broken-bottle,detailed work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
+broken-bottle,discarded,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
 broken-bottle,document,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
 broken-bottle,drawing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
 broken-bottle,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
+broken-bottle,empty,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
 broken-bottle,formal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
+broken-bottle,fragile,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
+broken-bottle,fragmentation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
+broken-bottle,hazardous materials,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
 broken-bottle,letter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
+broken-bottle,litter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
 broken-bottle,office,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
 broken-bottle,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
+broken-bottle,recycling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
+broken-bottle,shattered,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
+broken-bottle,smashed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
 broken-bottle,stationery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
 broken-bottle,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
 broken-bottle,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
+broken-bottle,waste,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
+broken-bottle,alcohol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
+broken-bottle,liquid container,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
 broken-bottle,reflection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7PD8kbUj7RPLXwwjWMhKh5ko,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.086543,,1
+broken-bottle,spike,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1
+broken-bottle,vandalism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf7rpzgaNd7X9I4ngF4IsIvW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.758549,,1

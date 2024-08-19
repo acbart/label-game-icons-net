@@ -1,26 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-erlenmeyer,chemistry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
-erlenmeyer,experiment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
+erlenmeyer,chemical reactions,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
+erlenmeyer,chemistry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,2
+erlenmeyer,erlenmeyer flask,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
+erlenmeyer,experiment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,2
 erlenmeyer,flask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
-erlenmeyer,laboratory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
-erlenmeyer,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
-erlenmeyer,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
-erlenmeyer,beaker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
-erlenmeyer,bubbles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
+erlenmeyer,glass container,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
+erlenmeyer,lab equipment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
+erlenmeyer,laboratory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,2
+erlenmeyer,liquid container,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
+erlenmeyer,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,2
+erlenmeyer,volumetric flask,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
+erlenmeyer,academic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
+erlenmeyer,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,2
+erlenmeyer,beaker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,2
+erlenmeyer,bubbles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,2
+erlenmeyer,container,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
 erlenmeyer,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
 erlenmeyer,formula,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
-erlenmeyer,glassware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.616781,,1
+erlenmeyer,glassware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.616781,,2
 erlenmeyer,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
-erlenmeyer,mixing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
-erlenmeyer,reaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
-erlenmeyer,research,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
+erlenmeyer,mixing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,2
+erlenmeyer,reaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,2
+erlenmeyer,research,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,2
 erlenmeyer,scientific,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
+erlenmeyer,scientific study,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
 erlenmeyer,solution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
+erlenmeyer,symbol of science,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
+erlenmeyer,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
 erlenmeyer,test,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
+erlenmeyer,testing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
+erlenmeyer,triangle shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
 erlenmeyer,alchemy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
-erlenmeyer,education,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
-erlenmeyer,measurement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
+erlenmeyer,education,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,2
+erlenmeyer,measurement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,2
 erlenmeyer,medical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
-erlenmeyer,potion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1
+erlenmeyer,meniscus,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
+erlenmeyer,potion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,2
+erlenmeyer,precision,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
+erlenmeyer,stealth,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2KUYcfgQfCp0avJDeK1ydABR,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.064842,,1
 erlenmeyer,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.616781,,1
 erlenmeyer,technology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6rF4B0LI7cC9XKNtmWUTQvY0,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.615772,,1

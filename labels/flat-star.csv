@@ -1,27 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+flat-star,geometric,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
 flat-star,ninja,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
-flat-star,sharp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
+flat-star,sharp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,2
 flat-star,shuriken,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
+flat-star,star,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.795307,,1
 flat-star,star shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
 flat-star,throwing star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
 flat-star,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
-flat-star,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
+flat-star,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,2
 flat-star,angles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
+flat-star,angular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
+flat-star,asymmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
+flat-star,award,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
+flat-star,badge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
 flat-star,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
+flat-star,celestial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
+flat-star,compass,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
 flat-star,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
+flat-star,direction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
 flat-star,japanese,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.767183,,1
 flat-star,martial arts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
+flat-star,modern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
+flat-star,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
 flat-star,pointed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
+flat-star,points,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
 flat-star,polygon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
 flat-star,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
 flat-star,stealth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
+flat-star,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
 flat-star,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
+flat-star,visual focus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
 flat-star,circular motif,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.767183,,1
 flat-star,decorative,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
-flat-star,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
+flat-star,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,2
+flat-star,distorted,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
+flat-star,dynamic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
+flat-star,emphasis,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
+flat-star,flare,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
 flat-star,geometry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
+flat-star,highlight,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
 flat-star,historical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.767183,,1
 flat-star,motion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
 flat-star,precision,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
+flat-star,spiky,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
+flat-star,stellar,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dg0WhD2oQfTTnD0uioZSlllB,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.796308,,1
 flat-star,tactical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1
 flat-star,tool,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cV4HxPiOztAWkWo5hp8LX5Rp,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.766185,,1

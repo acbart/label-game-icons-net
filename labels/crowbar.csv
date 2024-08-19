@@ -1,24 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+crowbar,bar,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
+crowbar,crowbar,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
+crowbar,curved end,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
 crowbar,handwriting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
+crowbar,leverage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
+crowbar,manual work,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
 crowbar,pen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
+crowbar,prying,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
 crowbar,stationery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
 crowbar,writing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
 crowbar,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
+crowbar,bending,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
+crowbar,break-in,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
 crowbar,calligraphy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
 crowbar,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
+crowbar,construction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
 crowbar,craft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
 crowbar,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
 crowbar,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
 crowbar,drawing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
 crowbar,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
+crowbar,extract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
+crowbar,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
+crowbar,fulcrum,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
+crowbar,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
+crowbar,heavy duty,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
+crowbar,hooked,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
+crowbar,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
 crowbar,ink,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
 crowbar,letter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
+crowbar,mechanics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
+crowbar,metal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
 crowbar,office,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
+crowbar,opening,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
 crowbar,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
+crowbar,push-pull,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
 crowbar,script,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
+crowbar,separation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
+crowbar,shaft,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
 crowbar,signature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
 crowbar,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
-crowbar,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
+crowbar,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,2
+crowbar,versatility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aVoWxNwLGyqv6UElNkV2dUtJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.728269,,1
 crowbar,education,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
 crowbar,formal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1
 crowbar,metal tip,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiqzYwiH5WLnHv3wygKXwNt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.433726,,1

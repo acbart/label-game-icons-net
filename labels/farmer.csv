@@ -1,23 +1,33 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-farmer,farmer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
-farmer,farming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
-farmer,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
-farmer,pitchfork,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
-farmer,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
-farmer,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
-farmer,worker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
-farmer,agriculture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
-farmer,cultivation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
+farmer,farmer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,2
+farmer,farming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,2
+farmer,field,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k7gfLGFdqB8hmGvyNTmHtFhE,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.999770,,1
+farmer,food production,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k7gfLGFdqB8hmGvyNTmHtFhE,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.999770,,1
+farmer,land,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k7gfLGFdqB8hmGvyNTmHtFhE,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.999770,,1
+farmer,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,2
+farmer,pitchfork,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,2
+farmer,profession,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k7gfLGFdqB8hmGvyNTmHtFhE,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.999770,,1
+farmer,rural,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k7gfLGFdqB8hmGvyNTmHtFhE,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.999770,,1
+farmer,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,2
+farmer,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,2
+farmer,worker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,2
+farmer,agriculture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,2
+farmer,crop,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k7gfLGFdqB8hmGvyNTmHtFhE,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.999770,,1
+farmer,cultivation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,2
 farmer,field work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
 farmer,figure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
-farmer,harvest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
+farmer,gardening,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k7gfLGFdqB8hmGvyNTmHtFhE,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.999770,,1
+farmer,harvest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,2
+farmer,hat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k7gfLGFdqB8hmGvyNTmHtFhE,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.999770,,1
 farmer,human,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
-farmer,labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
-farmer,manual labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
+farmer,human figure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k7gfLGFdqB8hmGvyNTmHtFhE,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.999770,,1
+farmer,labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,2
+farmer,manual labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,2
 farmer,occupation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
 farmer,pose,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
 farmer,standing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
 farmer,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
+farmer,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k7gfLGFdqB8hmGvyNTmHtFhE,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.999770,,1
 farmer,vocation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
 farmer,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1
 farmer,icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FdphegXnSaJW3gKNfWfwFufb,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.793341,,1

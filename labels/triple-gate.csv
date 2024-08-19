@@ -1,25 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 triple-gate,arcade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
-triple-gate,arches,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
-triple-gate,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
+triple-gate,arches,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,2
+triple-gate,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,2
+triple-gate,archway,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_imdjSoRUa8MjaPIY64nuTW2o,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.688411,,1
 triple-gate,building,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
-triple-gate,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
+triple-gate,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,2
 triple-gate,three pillars,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
+triple-gate,triple-arch,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_imdjSoRUa8MjaPIY64nuTW2o,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.688411,,1
 triple-gate,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
+triple-gate,column,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_imdjSoRUa8MjaPIY64nuTW2o,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.688411,,1
 triple-gate,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
-triple-gate,entrance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
+triple-gate,entrance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,2
+triple-gate,entranceway,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_imdjSoRUa8MjaPIY64nuTW2o,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.688411,,1
 triple-gate,facade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
-triple-gate,gateway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
+triple-gate,gateway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,2
 triple-gate,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
 triple-gate,historical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
 triple-gate,historical site,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
 triple-gate,institutional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
-triple-gate,monument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
+triple-gate,monument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,2
+triple-gate,passage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_imdjSoRUa8MjaPIY64nuTW2o,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.688411,,1
+triple-gate,passageway,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_imdjSoRUa8MjaPIY64nuTW2o,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.688411,,1
+triple-gate,portal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_imdjSoRUa8MjaPIY64nuTW2o,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.688411,,1
 triple-gate,public space,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
-triple-gate,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
+triple-gate,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_imdjSoRUa8MjaPIY64nuTW2o,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.688411,,1
+triple-gate,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,2
+triple-gate,threshold,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_imdjSoRUa8MjaPIY64nuTW2o,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.688411,,1
+triple-gate,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_imdjSoRUa8MjaPIY64nuTW2o,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.688411,,1
 triple-gate,art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
-triple-gate,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
+triple-gate,barrier,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_imdjSoRUa8MjaPIY64nuTW2o,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.688411,,1
+triple-gate,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,2
+triple-gate,division,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_imdjSoRUa8MjaPIY64nuTW2o,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.688411,,2
 triple-gate,geometry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
+triple-gate,median,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_imdjSoRUa8MjaPIY64nuTW2o,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.688411,,1
+triple-gate,pathway,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_imdjSoRUa8MjaPIY64nuTW2o,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.688411,,1
 triple-gate,perspective,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
 triple-gate,rectangle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1
 triple-gate,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9xIR9G88l3y4PbMfTxwyIMFi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.385819,,1

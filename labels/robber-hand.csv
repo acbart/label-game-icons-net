@@ -1,26 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 robber-hand,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
 robber-hand,circular economy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
+robber-hand,crime,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
 robber-hand,cycle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
 robber-hand,earth care,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
-robber-hand,hand,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
+robber-hand,grab,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
+robber-hand,hand,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,2
 robber-hand,recycling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
 robber-hand,reduce,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
 robber-hand,renewal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
 robber-hand,reuse,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
+robber-hand,robbery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
+robber-hand,stealing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
 robber-hand,sustainability,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
+robber-hand,theft,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
 robber-hand,upcycle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
+robber-hand,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
+robber-hand,burglar,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
+robber-hand,capture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
 robber-hand,care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
+robber-hand,caution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
 robber-hand,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
+robber-hand,concealment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
 robber-hand,conservation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
 robber-hand,conserve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
+robber-hand,dark deed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
+robber-hand,deception,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
 robber-hand,ecology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
 robber-hand,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
 robber-hand,gesture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
 robber-hand,hand gesture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
+robber-hand,illegal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
+robber-hand,misdeed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
 robber-hand,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
+robber-hand,pickpocket,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
 robber-hand,protect,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
 robber-hand,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
 robber-hand,refuse,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
 robber-hand,responsibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
+robber-hand,sleight of hand,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
+robber-hand,snatch,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
 robber-hand,waste management,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_otbuUHJ0MADlNGYK9Wu4u239,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.507790,,1
+robber-hand,danger,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
+robber-hand,evade,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
+robber-hand,hand motion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
+robber-hand,prohibition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
+robber-hand,risk,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
+robber-hand,shadowy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1
+robber-hand,sleek,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8LrY7gk6JnEqsfa8xsEFwvGI,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.010941,,1

@@ -1,24 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-steering-wheel,automobile,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
-steering-wheel,driving,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
+steering-wheel,automobile,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,2
+steering-wheel,driving,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,2
 steering-wheel,steering wheel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
-steering-wheel,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
-steering-wheel,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
+steering-wheel,turn,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1
+steering-wheel,wheel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1
+steering-wheel,axis,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1
+steering-wheel,center,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1
+steering-wheel,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,2
+steering-wheel,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,2
+steering-wheel,directional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1
 steering-wheel,driver,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
 steering-wheel,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
+steering-wheel,guide,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1
 steering-wheel,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
-steering-wheel,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
-steering-wheel,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
-steering-wheel,steering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
-steering-wheel,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
-steering-wheel,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
-steering-wheel,vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
+steering-wheel,hub,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1
+steering-wheel,manual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1
+steering-wheel,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1
+steering-wheel,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,2
+steering-wheel,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,2
+steering-wheel,ring,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1
+steering-wheel,road,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1
+steering-wheel,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1
+steering-wheel,rounded,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1
+steering-wheel,steering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,2
+steering-wheel,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,2
+steering-wheel,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,2
+steering-wheel,vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,2
 steering-wheel,vehicle control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
 steering-wheel,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
-steering-wheel,circle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
+steering-wheel,circle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,2
 steering-wheel,circular shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
+steering-wheel,focus,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1
 steering-wheel,inner circle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
-steering-wheel,mechanism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
+steering-wheel,mechanism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,2
 steering-wheel,outer rim,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
 steering-wheel,road trip,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
 steering-wheel,round,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NExDiRbD3eLzWvuRiVRUGZIF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.064137,,1
+steering-wheel,speed,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jf5IWtLkLJdF5TfTHjxbwXm1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.332101,,1

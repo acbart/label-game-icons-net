@@ -1,25 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-eel,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,1
-eel,curved lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,1
-eel,dynamic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,1
+eel,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,2
+eel,aquatic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
+eel,curved lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,2
+eel,dynamic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,2
+eel,eel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
 eel,flow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,1
 eel,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,1
+eel,s-shaped,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
+eel,sea creature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
+eel,streamlined,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
 eel,stylized S,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,1
+eel,swimming,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
 eel,swoosh,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,1
 eel,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,1
 eel,branding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671893,,1
 eel,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671893,,1
 eel,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,1
 eel,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,1
-eel,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,1
+eel,fluidity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
+eel,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,2
 eel,logo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,1
+eel,marine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
 eel,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671893,,1
-eel,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,1
+eel,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,2
+eel,ocean life,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
 eel,path,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671893,,1
 eel,route,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671893,,1
+eel,serpent,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
 eel,sleek,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671893,,1
+eel,slippery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
 eel,speed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671348,,1
 eel,trajectory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671893,,1
+eel,wave,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
 eel,waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671893,,1
+eel,flexibility,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
+eel,mystery,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
 eel,navigation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671893,,1
+eel,smooth,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
+eel,stream,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
+eel,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
 eel,travel,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BUdDNHuMxqpd5GMY0SH8ifxv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.671893,,1
+eel,undulating,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1
+eel,waterway,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ifLykh4WYZEsTWSUm9Tirgrl,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.513713,,1

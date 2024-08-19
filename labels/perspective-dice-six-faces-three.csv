@@ -1,25 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-perspective-dice-six-faces-three,chance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
-perspective-dice-six-faces-three,cube,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
-perspective-dice-six-faces-three,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
+perspective-dice-six-faces-three,3D perspective,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1
+perspective-dice-six-faces-three,chance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,2
+perspective-dice-six-faces-three,cube,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,2
+perspective-dice-six-faces-three,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,2
 perspective-dice-six-faces-three,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
-perspective-dice-six-faces-three,luck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
+perspective-dice-six-faces-three,luck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,2
+perspective-dice-six-faces-three,odds,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1
 perspective-dice-six-faces-three,pips,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
-perspective-dice-six-faces-three,probability,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
+perspective-dice-six-faces-three,probability,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,2
 perspective-dice-six-faces-three,random,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
+perspective-dice-six-faces-three,randomness,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1
 perspective-dice-six-faces-three,roll,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
+perspective-dice-six-faces-three,six faces,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1
 perspective-dice-six-faces-three,board game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
+perspective-dice-six-faces-three,board games,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1
 perspective-dice-six-faces-three,calculation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
 perspective-dice-six-faces-three,decision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
+perspective-dice-six-faces-three,edge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1
 perspective-dice-six-faces-three,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
 perspective-dice-six-faces-three,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
-perspective-dice-six-faces-three,gaming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
+perspective-dice-six-faces-three,games,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1
+perspective-dice-six-faces-three,gaming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,2
+perspective-dice-six-faces-three,gaming tools,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1
+perspective-dice-six-faces-three,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1
 perspective-dice-six-faces-three,number,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
+perspective-dice-six-faces-three,numbers,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1
+perspective-dice-six-faces-three,rolling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1
 perspective-dice-six-faces-three,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
 perspective-dice-six-faces-three,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
+perspective-dice-six-faces-three,three dots,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1
+perspective-dice-six-faces-three,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1
 perspective-dice-six-faces-three,adventure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
 perspective-dice-six-faces-three,collection of outcomes,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
 perspective-dice-six-faces-three,fun,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
 perspective-dice-six-faces-three,interactive,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
 perspective-dice-six-faces-three,mathematics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
+perspective-dice-six-faces-three,symbols,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1
 perspective-dice-six-faces-three,toy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFjUKkSdOoAPHQYO6GGQFYYQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.183731,,1
+perspective-dice-six-faces-three,vertex,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kz0076GogBqq0tT1fzlMwUrc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.229703,,1

@@ -1,21 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+flash-grenade,burst,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,danger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,detonation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
 flash-grenade,emergency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
+flash-grenade,explosive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
 flash-grenade,fire extinguisher,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
 flash-grenade,fire safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
-flash-grenade,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
-flash-grenade,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
-flash-grenade,cylinder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
+flash-grenade,flashbang,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,grenade,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,impact,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,military,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,2
+flash-grenade,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,2
+flash-grenade,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,assault,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,circular rings,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,cylinder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,2
+flash-grenade,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,disorientation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
 flash-grenade,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
 flash-grenade,extinguish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.761228,,1
 flash-grenade,fire prevention,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
 flash-grenade,firefighting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.761228,,1
-flash-grenade,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
+flash-grenade,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,2
 flash-grenade,hazard control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
 flash-grenade,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
 flash-grenade,nozzle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
 flash-grenade,pressurization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
+flash-grenade,safety pin,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,stun,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,tactic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
+flash-grenade,temporary blindness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
 flash-grenade,trigger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
 flash-grenade,chemical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
+flash-grenade,circle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ALT3m2guhS6YzLLApHTP2Fot,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.769302,,1
 flash-grenade,control,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.761228,,1
 flash-grenade,disconnection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1
 flash-grenade,foam,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1BduzYVXtrVoVl1EHwznjw8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.760198,,1

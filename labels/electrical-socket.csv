@@ -1,25 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+electrical-socket,charging,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
 electrical-socket,charging point,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
-electrical-socket,electricity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
+electrical-socket,electrical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
+electrical-socket,electricity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,2
+electrical-socket,energy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.620268,,1
 electrical-socket,energy supply,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
-electrical-socket,plug-in,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
+electrical-socket,plug,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
+electrical-socket,plug-in,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,2
+electrical-socket,power,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
 electrical-socket,power outlet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
-electrical-socket,power source,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
-electrical-socket,socket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
-electrical-socket,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
+electrical-socket,power source,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,2
+electrical-socket,socket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,2
+electrical-socket,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,2
+electrical-socket,wall socket,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
+electrical-socket,adapter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
 electrical-socket,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
+electrical-socket,circuit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
+electrical-socket,circular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
 electrical-socket,compatibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
-electrical-socket,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
+electrical-socket,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,2
+electrical-socket,current,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.620268,,1
+electrical-socket,device,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
 electrical-socket,electric circuit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
 electrical-socket,grounding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
 electrical-socket,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
 electrical-socket,hardware component,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
 electrical-socket,home appliance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
-electrical-socket,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
-electrical-socket,input,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
-electrical-socket,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
+electrical-socket,home appliances,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
+electrical-socket,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,2
+electrical-socket,input,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,2
+electrical-socket,interconnection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.620268,,1
+electrical-socket,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,2
+electrical-socket,interface point,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.620268,,1
 electrical-socket,international,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
+electrical-socket,output,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
+electrical-socket,port,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
+electrical-socket,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.620268,,1
 electrical-socket,standard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
+electrical-socket,supply,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
 electrical-socket,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
+electrical-socket,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
+electrical-socket,access point,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1
 electrical-socket,circular pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
 electrical-socket,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ojAzT6fL68vgv1oRnh7x4ckw,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.700428,,1
+electrical-socket,grid,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dxAHivWHEBJiKFnMEzEwiMca,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.619226,,1

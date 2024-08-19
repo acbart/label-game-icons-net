@@ -1,23 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-abstract-019,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
+abstract-019,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,2
 abstract-019,ancient symbolism,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
-abstract-019,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
+abstract-019,eyes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
+abstract-019,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,2
+abstract-019,mask,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
 abstract-019,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
 abstract-019,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
+abstract-019,tribal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
 abstract-019,tribal mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
+abstract-019,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
 abstract-019,artistic expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
+abstract-019,ceremonial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
 abstract-019,ceremony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
+abstract-019,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
+abstract-019,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
 abstract-019,culture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
-abstract-019,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
-abstract-019,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.581164,,1
-abstract-019,ethnic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.581164,,1
-abstract-019,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.581164,,1
+abstract-019,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,2
+abstract-019,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.581164,,2
+abstract-019,enigmatic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
+abstract-019,ethnic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.581164,,2
+abstract-019,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.581164,,2
+abstract-019,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
 abstract-019,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
-abstract-019,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
-abstract-019,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.581164,,1
+abstract-019,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,2
+abstract-019,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.581164,,2
+abstract-019,mysterious,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
+abstract-019,ornamental,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
 abstract-019,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
 abstract-019,primitive art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.581164,,1
 abstract-019,ritual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
 abstract-019,spiritual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.581164,,1
+abstract-019,stylized,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
+abstract-019,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
+abstract-019,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
 abstract-019,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.580217,,1
 abstract-019,visual art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gkIZfVDjDlrYSFoe75mXP4DQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.581164,,1
+abstract-019,ancient,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
+abstract-019,bold,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1
+abstract-019,visual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_h62J547kZJITWwEAI3GNnalp,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.602787,,1

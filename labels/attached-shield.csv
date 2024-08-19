@@ -1,24 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+attached-shield,attached,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
 attached-shield,data protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
-attached-shield,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
+attached-shield,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,2
 attached-shield,locked,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
 attached-shield,privacy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
 attached-shield,privacy protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
 attached-shield,privacy shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
-attached-shield,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
-attached-shield,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
+attached-shield,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,2
+attached-shield,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,2
+attached-shield,secure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
 attached-shield,secure data,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
-attached-shield,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
-attached-shield,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
+attached-shield,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,2
+attached-shield,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,2
+attached-shield,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
+attached-shield,attachment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
+attached-shield,badge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
+attached-shield,binding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
+attached-shield,combined,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
 attached-shield,confidential,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
+attached-shield,connection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
 attached-shield,cybersecurity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
+attached-shield,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
 attached-shield,encryption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
 attached-shield,firewall,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
-attached-shield,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
+attached-shield,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,2
 attached-shield,hidden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
+attached-shield,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
 attached-shield,identity protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
 attached-shield,info security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
+attached-shield,integration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
+attached-shield,link,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
+attached-shield,lock,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
 attached-shield,padlock,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
 attached-shield,privacy policy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
 attached-shield,private,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
+attached-shield,sign,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
+attached-shield,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
 attached-shield,undisclosed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4mfSWHLTKJOHmEZ5CBvYxINW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.693256,,1
+attached-shield,conceptual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
+attached-shield,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
+attached-shield,graphic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
+attached-shield,illustration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1
+attached-shield,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZSl3mXjKH3ZENpe6LkxGdsNP,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.793229,,1

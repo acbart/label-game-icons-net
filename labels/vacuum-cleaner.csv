@@ -1,29 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-vacuum-cleaner,appliance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
-vacuum-cleaner,cleaning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.473486,,1
+vacuum-cleaner,appliance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,2
+vacuum-cleaner,clean,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BWGTJ8t8lO8NlWfrwslwcqQv,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.177707,,1
+vacuum-cleaner,cleaning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.473486,,2
 vacuum-cleaner,floor cleaning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
-vacuum-cleaner,home,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
-vacuum-cleaner,household,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
-vacuum-cleaner,suction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
+vacuum-cleaner,home,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,2
+vacuum-cleaner,household,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,2
+vacuum-cleaner,suction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,2
+vacuum-cleaner,tidy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BWGTJ8t8lO8NlWfrwslwcqQv,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.177707,,1
 vacuum-cleaner,vacuum cleaner,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.473486,,1
+vacuum-cleaner,vacuum-cleaner,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BWGTJ8t8lO8NlWfrwslwcqQv,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.177707,,1
+vacuum-cleaner,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BWGTJ8t8lO8NlWfrwslwcqQv,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.177707,,1
 vacuum-cleaner,cord,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
-vacuum-cleaner,domestic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
+vacuum-cleaner,domestic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,2
+vacuum-cleaner,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BWGTJ8t8lO8NlWfrwslwcqQv,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.177707,,1
 vacuum-cleaner,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
-vacuum-cleaner,hygiene,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
-vacuum-cleaner,maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
-vacuum-cleaner,nozzle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
+vacuum-cleaner,floorcare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BWGTJ8t8lO8NlWfrwslwcqQv,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.177707,,1
+vacuum-cleaner,hose,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BWGTJ8t8lO8NlWfrwslwcqQv,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.177707,,1
+vacuum-cleaner,hygiene,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,2
+vacuum-cleaner,maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,2
+vacuum-cleaner,nozzle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,2
 vacuum-cleaner,sanitation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
+vacuum-cleaner,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BWGTJ8t8lO8NlWfrwslwcqQv,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.177707,,1
+vacuum-cleaner,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BWGTJ8t8lO8NlWfrwslwcqQv,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.177707,,1
 vacuum-cleaner,tube,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
+vacuum-cleaner,utilitarian,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BWGTJ8t8lO8NlWfrwslwcqQv,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.177707,,1
 vacuum-cleaner,carpet cleaning,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
 vacuum-cleaner,chore,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
 vacuum-cleaner,cleanliness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
 vacuum-cleaner,device,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
 vacuum-cleaner,dirt removal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
-vacuum-cleaner,dust,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
-vacuum-cleaner,electric,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
+vacuum-cleaner,dust,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,2
+vacuum-cleaner,electric,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,2
+vacuum-cleaner,geometric,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BWGTJ8t8lO8NlWfrwslwcqQv,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.177707,,1
 vacuum-cleaner,home care,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
-vacuum-cleaner,machine,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
+vacuum-cleaner,machine,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,2
+vacuum-cleaner,modern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BWGTJ8t8lO8NlWfrwslwcqQv,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.177707,,1
 vacuum-cleaner,modern convenience,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
+vacuum-cleaner,organization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BWGTJ8t8lO8NlWfrwslwcqQv,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.177707,,1
 vacuum-cleaner,portable,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
 vacuum-cleaner,sweeping,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1
 vacuum-cleaner,utility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oIU0kC8qEprcbnMYanHuTsFe,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.474467,,1

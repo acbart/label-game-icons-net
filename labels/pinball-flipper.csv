@@ -1,22 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+pinball-flipper,arcade,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,ball,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
 pinball-flipper,eighth note,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
+pinball-flipper,entertainment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,flipper,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,game,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,gaming,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,leisure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
 pinball-flipper,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
 pinball-flipper,musical note,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
-pinball-flipper,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
+pinball-flipper,pinball,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,play,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,2
+pinball-flipper,action,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
 pinball-flipper,beat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
+pinball-flipper,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
 pinball-flipper,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
+pinball-flipper,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,fun,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
 pinball-flipper,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
+pinball-flipper,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,kinetics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,lever,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,machine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
 pinball-flipper,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
+pinball-flipper,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
 pinball-flipper,music sheet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
 pinball-flipper,music theory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
 pinball-flipper,notation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
 pinball-flipper,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
+pinball-flipper,physics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
 pinball-flipper,pitch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
 pinball-flipper,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
 pinball-flipper,song,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
 pinball-flipper,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
 pinball-flipper,tempo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
 pinball-flipper,tune,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
+pinball-flipper,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
+pinball-flipper,aim,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1
 pinball-flipper,choir,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
 pinball-flipper,concert,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
 pinball-flipper,crescendo,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
@@ -24,3 +48,4 @@ pinball-flipper,instrument,low,en,acbart@vt.edu,,,False,False,starter-v1-128,bat
 pinball-flipper,jazz,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
 pinball-flipper,orchestra,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
 pinball-flipper,scale,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WzF63bWg3OlQIyN9pGqHLjCr,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.231733,,1
+pinball-flipper,target,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BF64yKgHSA38y2P6LRU4G6gt,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.376549,,1

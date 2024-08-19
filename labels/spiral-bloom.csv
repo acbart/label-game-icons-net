@@ -1,27 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 spiral-bloom,analytics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
+spiral-bloom,bloom,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
 spiral-bloom,chart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
+spiral-bloom,curve,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
 spiral-bloom,data visualization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
 spiral-bloom,diagram,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
+spiral-bloom,expansion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
+spiral-bloom,floral,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
+spiral-bloom,flower,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
 spiral-bloom,graph,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
 spiral-bloom,information,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
 spiral-bloom,pie chart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
 spiral-bloom,segment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
+spiral-bloom,spiral,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
 spiral-bloom,statistics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
-spiral-bloom,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
+spiral-bloom,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,2
+spiral-bloom,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
 spiral-bloom,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
+spiral-bloom,change,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
+spiral-bloom,circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
 spiral-bloom,circular,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
+spiral-bloom,creative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
+spiral-bloom,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
+spiral-bloom,development,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
 spiral-bloom,division,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
+spiral-bloom,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
+spiral-bloom,evolution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
+spiral-bloom,growth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
+spiral-bloom,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
+spiral-bloom,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
+spiral-bloom,natural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
+spiral-bloom,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
+spiral-bloom,organic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
 spiral-bloom,overview,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
 spiral-bloom,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
 spiral-bloom,round,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
 spiral-bloom,slice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
 spiral-bloom,statistical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
+spiral-bloom,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
+spiral-bloom,unfolding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0H1l8DGxqKNadpDQKu9I7b8Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.916802,,1
 spiral-bloom,business,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
 spiral-bloom,monitoring,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
-spiral-bloom,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
+spiral-bloom,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,2
 spiral-bloom,representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
 spiral-bloom,strategy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
 spiral-bloom,summary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
-spiral-bloom,swirl,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1
+spiral-bloom,swirl,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,2
 spiral-bloom,visual aid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k9NxQepWX9l0Nr7ISgcZ46qt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.173230,,1

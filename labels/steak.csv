@@ -1,25 +1,54 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+steak,beef,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
+steak,cut,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
 steak,eye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,food,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
+steak,meat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
 steak,ocular,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
 steak,perception,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
 steak,seeing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
 steak,sight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,slice,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
+steak,steak,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
 steak,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
 steak,animal eye,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
 steak,attention,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
 steak,awareness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,barbecue,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
+steak,butcher,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
 steak,clarity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
+steak,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
+steak,dining,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
 steak,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,gourmet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
+steak,grilling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
 steak,insight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,juicy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
+steak,meal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
+steak,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
 steak,monitoring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,nutrition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.287370,,1
 steak,observation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
+steak,protein,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
 steak,recognition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.287370,,1
+steak,restaurant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
+steak,savory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.287370,,1
 steak,seeing through,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,succulent,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.287370,,1
 steak,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
 steak,watching,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
 steak,awareness expansion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
 steak,guardian,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.287370,,1
 steak,inner vision,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
 steak,intuition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,kitchen,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
+steak,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.286387,,1
 steak,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
 steak,realm,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_v3aM4uoCEEonLt3GXME43m3B,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.052137,,1
+steak,texture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G77td1xiHZDFcr3Ko0jhc8Ie,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.287370,,1

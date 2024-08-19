@@ -1,26 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+alarm-clock,alarm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
 alarm-clock,alarm clock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
+alarm-clock,clock,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
 alarm-clock,clock face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
 alarm-clock,early,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
 alarm-clock,hour,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
 alarm-clock,minute,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
-alarm-clock,morning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
-alarm-clock,reminder,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
-alarm-clock,time,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
-alarm-clock,timer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
+alarm-clock,morning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,2
+alarm-clock,reminder,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,2
+alarm-clock,time,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,2
+alarm-clock,timer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,2
 alarm-clock,wake up,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
+alarm-clock,wake-up,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
 alarm-clock,accuracy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
-alarm-clock,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
+alarm-clock,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,2
 alarm-clock,bell,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
-alarm-clock,countdown,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
-alarm-clock,deadline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
+alarm-clock,classic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
+alarm-clock,countdown,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,2
+alarm-clock,deadline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,2
+alarm-clock,notification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
 alarm-clock,prompt,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
-alarm-clock,punctuality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
-alarm-clock,ring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
+alarm-clock,punctuality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,2
+alarm-clock,ring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,2
 alarm-clock,ringing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
-alarm-clock,routine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
-alarm-clock,schedule,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
+alarm-clock,routine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,2
+alarm-clock,schedule,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,2
 alarm-clock,second,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
-alarm-clock,snooze,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
+alarm-clock,snooze,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,2
 alarm-clock,timeliness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
 alarm-clock,wakefulness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_24UGNOE0ctN9uqtATfmZRu1W,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.561566,,1
+alarm-clock,analog,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
+alarm-clock,circle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
+alarm-clock,dial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
+alarm-clock,dormouse ears,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
+alarm-clock,gear,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
+alarm-clock,hands,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
+alarm-clock,instrument,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
+alarm-clock,measurement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
+alarm-clock,mechanical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
+alarm-clock,precision,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
+alarm-clock,retro,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
+alarm-clock,tick,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1
+alarm-clock,watchface,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v0nX2qlYfUgIEkHDmzDbxGci,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.263125,,1

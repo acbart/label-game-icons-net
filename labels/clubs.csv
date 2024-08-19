@@ -1,30 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+clubs,card games,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUmNEdbLiEGy8Dl7NnLzH5EC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.497095,,1
 clubs,club,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
-clubs,deck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
-clubs,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
-clubs,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
-clubs,poker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
-clubs,suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
-clubs,blackjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
+clubs,clubs,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUmNEdbLiEGy8Dl7NnLzH5EC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.497095,,1
+clubs,deck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,2
+clubs,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,2
+clubs,icon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUmNEdbLiEGy8Dl7NnLzH5EC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.497095,,1
+clubs,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,2
+clubs,poker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,2
+clubs,suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,2
+clubs,blackjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,2
 clubs,bridge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
-clubs,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
+clubs,competition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUmNEdbLiEGy8Dl7NnLzH5EC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.497095,,1
+clubs,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,2
 clubs,diamonds,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
 clubs,fortune,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
 clubs,four-leaf,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
+clubs,fourth suit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUmNEdbLiEGy8Dl7NnLzH5EC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.497095,,1
+clubs,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUmNEdbLiEGy8Dl7NnLzH5EC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.497095,,1
 clubs,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
+clubs,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUmNEdbLiEGy8Dl7NnLzH5EC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.497095,,1
 clubs,hearts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
-clubs,luck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
+clubs,identity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUmNEdbLiEGy8Dl7NnLzH5EC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.497095,,1
+clubs,luck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,2
 clubs,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
 clubs,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
-clubs,round shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
+clubs,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUmNEdbLiEGy8Dl7NnLzH5EC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.497095,,1
+clubs,round shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,2
 clubs,spades,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
-clubs,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
+clubs,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUmNEdbLiEGy8Dl7NnLzH5EC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.497095,,1
+clubs,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,2
 clubs,three circles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
+clubs,tournament,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUmNEdbLiEGy8Dl7NnLzH5EC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.497095,,1
 clubs,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
-clubs,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
+clubs,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUmNEdbLiEGy8Dl7NnLzH5EC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.497095,,1
+clubs,trefoil,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUmNEdbLiEGy8Dl7NnLzH5EC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.497095,,1
+clubs,tri-leaf,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qUmNEdbLiEGy8Dl7NnLzH5EC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.497095,,1
+clubs,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,2
 clubs,cohesion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
 clubs,compatibility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
-clubs,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
+clubs,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,2
 clubs,resemblance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
 clubs,simplistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1
 clubs,theme,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YM0oCo9OurMUUEl2kDvDbURw,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.218107,,1

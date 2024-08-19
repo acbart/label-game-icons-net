@@ -1,29 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-magnet,attraction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.358150,,1
+magnet,U-shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fC6UvqEyoc8LZ16ba8BoxX17,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.057260,,1
+magnet,attraction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.358150,,2
 magnet,field lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
-magnet,magnet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.358150,,1
-magnet,magnetic field,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
+magnet,magnet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.358150,,2
+magnet,magnetic field,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,2
 magnet,magnetism,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.358150,,1
-magnet,pull,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
+magnet,pull,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,2
 magnet,push,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
 magnet,repulsion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.358150,,1
-magnet,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
+magnet,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,2
 magnet,charge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
-magnet,curves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
+magnet,connection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fC6UvqEyoc8LZ16ba8BoxX17,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.057260,,1
+magnet,curves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,2
 magnet,electricity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
-magnet,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
-magnet,field,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.358150,,1
-magnet,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.358150,,1
+magnet,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,2
+magnet,field,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.358150,,2
+magnet,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.358150,,2
 magnet,horseshoe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
-magnet,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
-magnet,metal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.358150,,1
+magnet,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,2
+magnet,lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fC6UvqEyoc8LZ16ba8BoxX17,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.057260,,1
+magnet,metal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.358150,,2
 magnet,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
-magnet,physics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.358150,,1
-magnet,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
+magnet,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fC6UvqEyoc8LZ16ba8BoxX17,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.057260,,1
+magnet,orientation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fC6UvqEyoc8LZ16ba8BoxX17,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.057260,,1
+magnet,physics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.358150,,2
+magnet,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fC6UvqEyoc8LZ16ba8BoxX17,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.057260,,1
+magnet,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,2
+magnet,science icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fC6UvqEyoc8LZ16ba8BoxX17,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.057260,,1
 magnet,scientific,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
-magnet,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
-magnet,waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
-magnet,alignment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
+magnet,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fC6UvqEyoc8LZ16ba8BoxX17,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.057260,,1
+magnet,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,2
+magnet,waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,2
+magnet,alignment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,2
 magnet,dynamics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
 magnet,objects,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
+magnet,opposites,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fC6UvqEyoc8LZ16ba8BoxX17,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.057260,,1
 magnet,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JTpmGVa7Ryk8QHxRAafsosON,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.359150,,1
+magnet,tool,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fC6UvqEyoc8LZ16ba8BoxX17,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.057260,,1

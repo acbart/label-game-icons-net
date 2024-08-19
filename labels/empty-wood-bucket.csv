@@ -1,5 +1,6 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 empty-wood-bucket,bin,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
+empty-wood-bucket,bucket,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
 empty-wood-bucket,discard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
 empty-wood-bucket,disposal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
 empty-wood-bucket,garbage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
@@ -9,18 +10,36 @@ empty-wood-bucket,rubbish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,bat
 empty-wood-bucket,trash,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
 empty-wood-bucket,waste,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
 empty-wood-bucket,waste management,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
+empty-wood-bucket,wood,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
+empty-wood-bucket,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
 empty-wood-bucket,basket,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
 empty-wood-bucket,can,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
+empty-wood-bucket,circular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
 empty-wood-bucket,cleaning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
+empty-wood-bucket,collecting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
 empty-wood-bucket,collection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
-empty-wood-bucket,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
+empty-wood-bucket,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,2
 empty-wood-bucket,debris,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
-empty-wood-bucket,empty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
+empty-wood-bucket,empty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,2
 empty-wood-bucket,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
 empty-wood-bucket,hygiene,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
+empty-wood-bucket,open,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
 empty-wood-bucket,public space,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
 empty-wood-bucket,refuse,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
 empty-wood-bucket,sanitation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
+empty-wood-bucket,storage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
+empty-wood-bucket,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
+empty-wood-bucket,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
+empty-wood-bucket,vessel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
+empty-wood-bucket,archaic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
+empty-wood-bucket,farm,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
+empty-wood-bucket,holding,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
+empty-wood-bucket,hollow,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
+empty-wood-bucket,household,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
 empty-wood-bucket,housekeeping,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
+empty-wood-bucket,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
+empty-wood-bucket,primitive,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
+empty-wood-bucket,rustic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
+empty-wood-bucket,simple,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k168PBfubH1A1WzJfKutMkH1,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.727041,,1
 empty-wood-bucket,tidy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1
 empty-wood-bucket,urban,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_szovk1OmBUBqBPQCqGdGiMyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.722481,,1

@@ -1,23 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-eyelashes,eye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.760396,,1
+eyelashes,eye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.760396,,2
 eyelashes,eyelash,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
+eyelashes,eyelashes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888006,,1
 eyelashes,seeing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
 eyelashes,sight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
 eyelashes,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
-eyelashes,beauty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
+eyelashes,beauty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,2
 eyelashes,closed eye,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
-eyelashes,cosmetics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
-eyelashes,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
-eyelashes,eyebrow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
+eyelashes,cosmetic application,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
+eyelashes,cosmetics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,2
+eyelashes,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,2
+eyelashes,eyebrow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,2
 eyelashes,facial feature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
+eyelashes,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
+eyelashes,feminine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
 eyelashes,gaze,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
-eyelashes,makeup,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
+eyelashes,glamour,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
+eyelashes,makeup,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,2
+eyelashes,mascara,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
 eyelashes,rest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
+eyelashes,style,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
+eyelashes,visual appeal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
+eyelashes,arc,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
+eyelashes,artificial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
 eyelashes,attention,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
+eyelashes,bold,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
+eyelashes,cartoon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
+eyelashes,curved,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
 eyelashes,delicacy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
-eyelashes,elegance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
+eyelashes,elegance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,2
+eyelashes,enhancement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
 eyelashes,female,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
+eyelashes,flick,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
+eyelashes,graphic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
+eyelashes,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
 eyelashes,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
 eyelashes,relaxation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
+eyelashes,simplified,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bY5s3e3V1RrM9n6OhPqUQrDh,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.888994,,1
 eyelashes,sleeping,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1
 eyelashes,symmetry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UHc9qfSnzwa3GH9zTi286piD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.761422,,1

@@ -1,26 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+card-discard,abandon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
+card-discard,action,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
 card-discard,ballot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,cancel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
+card-discard,card,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
 card-discard,casting vote,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,cross,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
 card-discard,democracy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,discard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
+card-discard,dispose,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
 card-discard,election,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
-card-discard,hand,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,eliminate,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
+card-discard,hand,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,2
 card-discard,political process,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,remove,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
 card-discard,vote,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
 card-discard,voting box,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
 card-discard,abstain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
-card-discard,choice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
+card-discard,choice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,2
 card-discard,civic duty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
 card-discard,cross mark,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
-card-discard,decision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,decision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,2
+card-discard,delete,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
 card-discard,drop box,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,gesture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
+card-discard,handling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
+card-discard,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
 card-discard,manual process,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,negation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.097394,,1
 card-discard,participation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,process,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.097394,,1
 card-discard,registration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
 card-discard,selection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
 card-discard,submission,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
+card-discard,transaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
+card-discard,unwanted,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
+card-discard,waste,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.096385,,1
 card-discard,withdrawal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,abstraction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.097394,,1
 card-discard,approval,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,conceptual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.097394,,1
 card-discard,disqualification,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,icons,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.097394,,1
 card-discard,invalid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,option,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.097394,,1
 card-discard,perforated card,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
-card-discard,reject,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,1
+card-discard,reject,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WfnGoOhMJudEirFX3taq5lRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.710765,,2
+card-discard,shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hnnL2tYQwHKMQFKEqeODjFir,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.097394,,1

@@ -1,25 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 ultrasound,acoustics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
 ultrasound,breaking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
+ultrasound,diagnostic tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
 ultrasound,fragile,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
 ultrasound,glass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
+ultrasound,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
+ultrasound,medical imaging,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
+ultrasound,non-invasive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
+ultrasound,radiology,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
 ultrasound,resonance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
 ultrasound,shattering,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
+ultrasound,sonography,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
 ultrasound,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
-ultrasound,sound waves,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
-ultrasound,vibration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
+ultrasound,sound waves,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,2
+ultrasound,ultrasound,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
+ultrasound,vibration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,2
 ultrasound,waves,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
+ultrasound,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
 ultrasound,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
+ultrasound,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
 ultrasound,audio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
 ultrasound,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
+ultrasound,detection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
 ultrasound,disruption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.666785,,1
 ultrasound,distortion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.666785,,1
 ultrasound,disturbance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
-ultrasound,frequency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
+ultrasound,echo,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
+ultrasound,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
+ultrasound,frequency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,2
 ultrasound,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
 ultrasound,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
+ultrasound,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
+ultrasound,monitor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
+ultrasound,monitoring,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
 ultrasound,oscillation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
 ultrasound,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
+ultrasound,screening,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
 ultrasound,sensitivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
+ultrasound,signal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
+ultrasound,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
+ultrasound,test,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
+ultrasound,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
 ultrasound,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.665879,,1
+ultrasound,wave pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
+ultrasound,curved lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
+ultrasound,graphic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5UgLGsJCoqMYde1WHGm274zF,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.559991,,1
 ultrasound,tremor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EtGVCfbfRBCwjc0q5xw32YSy,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.666785,,1

@@ -1,27 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-finger-print,authentication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
-finger-print,biometrics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
-finger-print,fingerprint,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
+finger-print,access control,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
+finger-print,authentication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,2
+finger-print,biometrics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,2
+finger-print,fingerprint,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,2
 finger-print,identification,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
-finger-print,identity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
-finger-print,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
-finger-print,uniqueness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
+finger-print,identity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,2
+finger-print,identity verification,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
+finger-print,personal identification,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
+finger-print,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,2
+finger-print,uniqueness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,2
 finger-print,verification,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
-finger-print,access,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
-finger-print,data,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
+finger-print,access,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,2
+finger-print,biometric scan,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
+finger-print,criminal identification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
+finger-print,cybersecurity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
+finger-print,data,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,2
 finger-print,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
+finger-print,digital signature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
 finger-print,forensic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
+finger-print,forensics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
+finger-print,identity theft,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
+finger-print,imprint,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
 finger-print,key,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
 finger-print,lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
 finger-print,lock,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
-finger-print,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
+finger-print,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,2
 finger-print,personal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
 finger-print,personalization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
+finger-print,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
+finger-print,recognition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
 finger-print,scan,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
 finger-print,spiral,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
-finger-print,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
+finger-print,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
+finger-print,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,2
+finger-print,traceability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
 finger-print,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
+finger-print,documentation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
+finger-print,footprint,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
 finger-print,intricate,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
+finger-print,marking,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OuRz6BbNSjcoXEL3AEmWH7IT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.118801,,1
 finger-print,maze,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
 finger-print,swirl,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
-finger-print,trace,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,1
+finger-print,trace,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DW2mw4ELAJAC6NB3dD6TfgTL,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.829753,,2

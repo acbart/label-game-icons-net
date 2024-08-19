@@ -1,30 +1,53 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+lockpicks,access,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
+lockpicks,bypassing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
 lockpicks,hand tools,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
+lockpicks,hook,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
+lockpicks,intrusion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
+lockpicks,lockpicks,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
 lockpicks,pliers,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
+lockpicks,rake,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
 lockpicks,screwdriver,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
+lockpicks,stealth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
+lockpicks,tension wrench,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
 lockpicks,toolkit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
-lockpicks,tools,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
+lockpicks,tools,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,2
+lockpicks,unlocking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
 lockpicks,wrench,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
 lockpicks,DIY,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
 lockpicks,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
 lockpicks,craft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
-lockpicks,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,1
+lockpicks,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
+lockpicks,device,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
+lockpicks,dexterity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
+lockpicks,efficacy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
+lockpicks,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,2
+lockpicks,entry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
 lockpicks,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,1
 lockpicks,fix,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,1
 lockpicks,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
 lockpicks,home improvement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
 lockpicks,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
 lockpicks,instruments,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,1
+lockpicks,intricacy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
 lockpicks,maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
-lockpicks,mechanics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
-lockpicks,metalwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,1
+lockpicks,manipulation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
+lockpicks,mechanics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,2
+lockpicks,metalwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,2
+lockpicks,precision instrument,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
+lockpicks,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
 lockpicks,repair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
+lockpicks,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
 lockpicks,set,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,1
+lockpicks,skill,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
+lockpicks,universal key,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
 lockpicks,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.671514,,1
 lockpicks,workshop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,1
 lockpicks,bends,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,1
+lockpicks,dismantling,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1
 lockpicks,efficiency,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,1
 lockpicks,functionality,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,1
 lockpicks,gear,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,1
 lockpicks,manual work,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,1
-lockpicks,precision,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,1
+lockpicks,precision,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4S4CXGAWn1qcwzBhfdiXHOW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.672537,,2
+lockpicks,puzzle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DAmy35iX3RCfwxBQbM0QlInK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.353305,,1

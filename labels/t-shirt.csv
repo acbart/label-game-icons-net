@@ -1,25 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-t-shirt,apparel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
-t-shirt,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
+t-shirt,apparel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,2
+t-shirt,basic garment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
+t-shirt,casual wear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
+t-shirt,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,2
+t-shirt,everyday clothing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
 t-shirt,shirt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
-t-shirt,t-shirt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
+t-shirt,t-shirt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,2
+t-shirt,topwear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
+t-shirt,branding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
 t-shirt,casual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
+t-shirt,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
 t-shirt,everyday wear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
-t-shirt,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
-t-shirt,garment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
-t-shirt,plain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
+t-shirt,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,2
+t-shirt,garment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,2
+t-shirt,graphic tee,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
+t-shirt,merchandise,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
+t-shirt,outfit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
+t-shirt,plain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,2
 t-shirt,short sleeves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
-t-shirt,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
-t-shirt,simple design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
+t-shirt,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,2
+t-shirt,simple design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,2
+t-shirt,summer wear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
+t-shirt,textile,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
 t-shirt,top,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
-t-shirt,wearable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
+t-shirt,uniform,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
+t-shirt,wearable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,2
+t-shirt,advertisement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
 t-shirt,basic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
 t-shirt,brandless,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
 t-shirt,cotton,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
 t-shirt,cutout,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
-t-shirt,icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
+t-shirt,design template,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
+t-shirt,fashion industry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IhKelRElBn3nLnMcWFgIuP5g,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.785220,,1
+t-shirt,icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,2
 t-shirt,illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
 t-shirt,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
 t-shirt,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
-t-shirt,unisex,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
-t-shirt,wardrobe,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,1
+t-shirt,unisex,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,2
+t-shirt,wardrobe,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a5uwfLCYh7Ars2adU9cbnYjv,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.181675,,2

@@ -1,21 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-triorb,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
+triorb,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,2
 triorb,circles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
-triorb,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
+triorb,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,2
+triorb,orb,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
+triorb,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
 triorb,symbolic shapes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
-triorb,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
+triorb,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,2
+triorb,three,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
+triorb,triad,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
 triorb,triangles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
+triorb,triangular,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
+triorb,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
 triorb,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
-triorb,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,2
-triorb,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
+triorb,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,3
+triorb,centralized,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
+triorb,circular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
+triorb,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,2
+triorb,connectivity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
 triorb,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
 triorb,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,2
-triorb,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
-triorb,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
+triorb,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,2
+triorb,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,2
+triorb,intersection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
 triorb,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
+triorb,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
 triorb,patterns,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
+triorb,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
+triorb,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
 triorb,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
 triorb,unity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
+triorb,visual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
 triorb,visual art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
+triorb,diagram,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
 triorb,formation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
 triorb,illusion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nJvCbEzctLBvYyJfaqVZaHs1,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.598255,,1
+triorb,perspective,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1
+triorb,tessellation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4dNAEBq7Udp2NiIZGBBULwhS,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.335518,,1

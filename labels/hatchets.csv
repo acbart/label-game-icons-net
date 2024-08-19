@@ -1,28 +1,57 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 hatchets,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
 hatchets,arrows,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,axe,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
+hatchets,blades,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
+hatchets,chopping,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
 hatchets,curved lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,cutting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
 hatchets,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
 hatchets,flow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,hatchet,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.733954,,1
 hatchets,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
 hatchets,shapes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,survival,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
+hatchets,tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
+hatchets,woodworking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
 hatchets,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
 hatchets,abstract expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
 hatchets,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,camping,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
+hatchets,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
 hatchets,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
+hatchets,crossed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
 hatchets,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,emblematic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
+hatchets,forest,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
 hatchets,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,handle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
 hatchets,intersection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,labor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
+hatchets,manual tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
+hatchets,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
 hatchets,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
 hatchets,path,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
 hatchets,progression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
-hatchets,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
+hatchets,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,2
+hatchets,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
 hatchets,transformation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
 hatchets,transition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
 hatchets,visual metaphor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
 hatchets,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
 hatchets,creativity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
 hatchets,energy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
 hatchets,flux,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
+hatchets,industrial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
 hatchets,journey,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,masculine,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
 hatchets,modern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WeuwImohAsO07L5513nVVQ5v,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.983867,,1
+hatchets,primitive,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
+hatchets,vintage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1
+hatchets,violence,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzVWU0Gl7lJFbuzmi7AoKg8U,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.734903,,1

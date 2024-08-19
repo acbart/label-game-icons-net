@@ -1,23 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+falling-blob,action,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,blob,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
 falling-blob,comet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
+falling-blob,descent,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,dynamics,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,falling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
 falling-blob,falling object,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
 falling-blob,fireball,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
-falling-blob,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
+falling-blob,fluidity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,2
+falling-blob,kinetics,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
 falling-blob,meteor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
-falling-blob,speed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
+falling-blob,movement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,speed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,2
+falling-blob,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
 falling-blob,astronomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
 falling-blob,celestial event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
+falling-blob,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
 falling-blob,cosmos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
-falling-blob,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
+falling-blob,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,2
 falling-blob,event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
 falling-blob,explosion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
-falling-blob,gravity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
-falling-blob,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
+falling-blob,expressive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,gravity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,2
+falling-blob,momentum,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,2
 falling-blob,natural phenomenon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
 falling-blob,night sky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
 falling-blob,orbital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
 falling-blob,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
+falling-blob,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
 falling-blob,space,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
-falling-blob,trajectory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
+falling-blob,streamline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,trajectory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,2
 falling-blob,universe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
+falling-blob,creative,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
 falling-blob,disaster,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CTrvY2rppEB3MxTqaWc4bBZK,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.661353,,1
+falling-blob,edge,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,funky,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,illustration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1
+falling-blob,visual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ROL76GGPhIcIyy126fXmOHPY,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.300664,,1

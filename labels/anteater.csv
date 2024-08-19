@@ -1,23 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-anteater,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
+anteater,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,2
+anteater,anteater,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
 anteater,aquatic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
 anteater,dolphin,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
 anteater,fin,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
+anteater,mammal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
 anteater,marine life,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
 anteater,sea creature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
+anteater,snout,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
 anteater,tail,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
+anteater,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
 anteater,curve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
+anteater,curved shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
+anteater,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
 anteater,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
-anteater,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
+anteater,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,2
+anteater,foraging,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
 anteater,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
+anteater,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
+anteater,insectivore,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
 anteater,intelligence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
 anteater,jump,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
+anteater,minimal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
+anteater,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
 anteater,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
-anteater,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
+anteater,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,2
+anteater,nose,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
 anteater,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
 anteater,playful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
-anteater,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
+anteater,profile,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
+anteater,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
+anteater,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,2
 anteater,swimming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
+anteater,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
 anteater,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
+anteater,tongue,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
 anteater,wave,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
-anteater,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,1
+anteater,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Fwr9yUvG4wtV1w1V4TcahFXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.207769,,2
+anteater,biodiversity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
+anteater,hunt,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
+anteater,movement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1
+anteater,pest control,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jLWaUj6G3HdujJziKBbpuNJ0,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.698155,,1

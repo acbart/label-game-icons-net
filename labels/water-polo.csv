@@ -1,22 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+water-polo,ball,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hYckYjWpcT9WbPRWXZhoHDBz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.606751,,1
+water-polo,figure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hYckYjWpcT9WbPRWXZhoHDBz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.606751,,1
+water-polo,game,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hYckYjWpcT9WbPRWXZhoHDBz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.606751,,1
+water-polo,physical activity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hYckYjWpcT9WbPRWXZhoHDBz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.606751,,1
+water-polo,play,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hYckYjWpcT9WbPRWXZhoHDBz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.606751,,1
 water-polo,pool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
 water-polo,sport,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
-water-polo,swimming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
+water-polo,sports,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hYckYjWpcT9WbPRWXZhoHDBz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.606751,,1
+water-polo,swimming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,2
+water-polo,team,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hYckYjWpcT9WbPRWXZhoHDBz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.606751,,1
 water-polo,water activity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
-water-polo,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
-water-polo,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
-water-polo,athlete,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
+water-polo,water-polo,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hYckYjWpcT9WbPRWXZhoHDBz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.606751,,1
+water-polo,Olympics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hYckYjWpcT9WbPRWXZhoHDBz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.606751,,1
+water-polo,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,2
+water-polo,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,2
+water-polo,athlete,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,2
 water-polo,body,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
-water-polo,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
+water-polo,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,2
+water-polo,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hYckYjWpcT9WbPRWXZhoHDBz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.606751,,1
 water-polo,exercise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
-water-polo,fitness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
+water-polo,fitness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,2
+water-polo,flow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hYckYjWpcT9WbPRWXZhoHDBz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.606751,,1
 water-polo,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
-water-polo,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
-water-polo,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
-water-polo,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
-water-polo,skill,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
-water-polo,waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
-water-polo,challenge,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
+water-polo,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,2
+water-polo,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,2
+water-polo,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,2
+water-polo,skill,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,2
+water-polo,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hYckYjWpcT9WbPRWXZhoHDBz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.606751,,1
+water-polo,throwing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hYckYjWpcT9WbPRWXZhoHDBz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.606751,,1
+water-polo,waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,2
+water-polo,challenge,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,2
 water-polo,health,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
 water-polo,outdoors,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1
 water-polo,physical training,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_d6p4APQLuqoN20GGMPQzM38P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.578178,,1

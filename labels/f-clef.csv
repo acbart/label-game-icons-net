@@ -1,23 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-f-clef,bass clef,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
+f-clef,F clef,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
+f-clef,bass clef,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,2
+f-clef,bass instruments,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
 f-clef,clef,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
+f-clef,low pitch,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
+f-clef,music education,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
+f-clef,music notation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
+f-clef,music reading,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
 f-clef,music symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
 f-clef,musical notation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
+f-clef,musical symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
+f-clef,musical theory,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
 f-clef,cello,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
+f-clef,classical music,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
 f-clef,composer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
 f-clef,double bass,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
+f-clef,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
 f-clef,instrumental,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
 f-clef,lower pitch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
-f-clef,music theory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
+f-clef,music composition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
+f-clef,music theory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,2
 f-clef,musical instrument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
+f-clef,musical instruments,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
+f-clef,musical lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
+f-clef,musical staff,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
+f-clef,musicians,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
 f-clef,notation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
+f-clef,notation system,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
+f-clef,orchestration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
 f-clef,piano,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
-f-clef,sheet music,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
+f-clef,sheet music,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,2
+f-clef,sound,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
 f-clef,staff,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
+f-clef,staff line,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
 f-clef,treble counterpart,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
 f-clef,trombone,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
+f-clef,abstract shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
 f-clef,baritone,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
 f-clef,concerto,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
+f-clef,curve,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
+f-clef,dots,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
+f-clef,melody,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
 f-clef,orchestra,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
 f-clef,symphony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1
+f-clef,treble contrast,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TjaVdMdM4JGbHYmgpXHbjEjL,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.901998,,1
 f-clef,tuba,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FqdGcvUlwruoady8bh00yuhP,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.764289,,1

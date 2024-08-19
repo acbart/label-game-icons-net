@@ -1,26 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-sing,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
+sing,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,2
+sing,mouth open,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
 sing,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
+sing,music note,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
+sing,musical expression,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
 sing,musical note,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
-sing,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
+sing,note,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
+sing,singing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
+sing,song,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
+sing,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,2
+sing,vocal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
 sing,audio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
 sing,calm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
+sing,choir,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
+sing,concert,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
+sing,creative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
 sing,dream,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
-sing,emotion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
-sing,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
+sing,emotion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,2
+sing,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
+sing,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,2
+sing,expressionism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
 sing,face music,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
-sing,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
-sing,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
+sing,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,2
+sing,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,2
+sing,opera,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
 sing,peace,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
+sing,performance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
+sing,pitch,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
 sing,quiet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
 sing,relaxation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
 sing,rest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
 sing,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
 sing,serenity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
 sing,sleeping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
+sing,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t3t8c0vsOWL0GtFHE2lfxzLb,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.161163,,1
 sing,tranquility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
-sing,tune,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
-sing,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
-sing,artistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
+sing,tune,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,2
+sing,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,2
+sing,artistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,2
 sing,night,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1
 sing,vibe,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5oXhzeSGUIAHI1BZTUEm1BCm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.004406,,1

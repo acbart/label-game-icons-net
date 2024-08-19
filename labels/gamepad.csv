@@ -1,24 +1,36 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+gamepad,control,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_spet7gJHPuWKT6m0r4ab6ZBG,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.904703,,1
 gamepad,control pad,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
+gamepad,controller,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_spet7gJHPuWKT6m0r4ab6ZBG,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.904703,,1
+gamepad,device,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_spet7gJHPuWKT6m0r4ab6ZBG,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.904703,,1
 gamepad,game controller,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
-gamepad,gamepad,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
-gamepad,gaming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
-gamepad,joystick,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
-gamepad,video games,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
-gamepad,buttons,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
-gamepad,console,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
-gamepad,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
-gamepad,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
-gamepad,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
-gamepad,fun,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
+gamepad,gamepad,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,2
+gamepad,gaming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,2
+gamepad,joystick,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,2
+gamepad,video games,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,2
+gamepad,action,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_spet7gJHPuWKT6m0r4ab6ZBG,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.904703,,1
+gamepad,buttons,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,2
+gamepad,console,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,2
+gamepad,cross-shaped,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_spet7gJHPuWKT6m0r4ab6ZBG,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.904703,,1
+gamepad,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,2
+gamepad,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,2
+gamepad,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,2
+gamepad,fun,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,2
 gamepad,gaming accessory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
-gamepad,input device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
-gamepad,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
+gamepad,handheld,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_spet7gJHPuWKT6m0r4ab6ZBG,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.904703,,1
+gamepad,handle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_spet7gJHPuWKT6m0r4ab6ZBG,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.904703,,1
+gamepad,input device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,2
+gamepad,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,3
 gamepad,interactive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
+gamepad,interface,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_spet7gJHPuWKT6m0r4ab6ZBG,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.904703,,1
 gamepad,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
-gamepad,play,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
+gamepad,operation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_spet7gJHPuWKT6m0r4ab6ZBG,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.904703,,1
+gamepad,play,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,2
 gamepad,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
-gamepad,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
+gamepad,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_spet7gJHPuWKT6m0r4ab6ZBG,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.904703,,1
+gamepad,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,2
+gamepad,communication,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_spet7gJHPuWKT6m0r4ab6ZBG,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.904703,,1
 gamepad,competition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
 gamepad,configuration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1
+gamepad,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_spet7gJHPuWKT6m0r4ab6ZBG,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.904703,,1
 gamepad,wireless,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0TZMbpdztVe3AeJl5gxA7MHx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.037475,,1

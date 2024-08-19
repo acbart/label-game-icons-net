@@ -1,26 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-cpu-shot,attack,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
+cpu-shot,CPU,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
+cpu-shot,attack,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,2
 cpu-shot,chip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
 cpu-shot,computer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
 cpu-shot,computer virus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
 cpu-shot,cybersecurity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
-cpu-shot,data breach,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
+cpu-shot,damage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
+cpu-shot,data breach,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,2
+cpu-shot,explosion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
+cpu-shot,malfunction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
 cpu-shot,malware,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
+cpu-shot,microchip,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
 cpu-shot,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
-cpu-shot,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
+cpu-shot,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,2
 cpu-shot,virus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
+cpu-shot,breakdown,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
+cpu-shot,bug,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
+cpu-shot,burst,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
 cpu-shot,circuit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
+cpu-shot,circuitry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
 cpu-shot,contamination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
 cpu-shot,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
 cpu-shot,digital attack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
 cpu-shot,electronic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
+cpu-shot,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
+cpu-shot,failure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
 cpu-shot,hacking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
-cpu-shot,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
+cpu-shot,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,2
 cpu-shot,hardware vulnerability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
 cpu-shot,infiltration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
+cpu-shot,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
+cpu-shot,processing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
 cpu-shot,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
 cpu-shot,software threat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
+cpu-shot,system crash,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
 cpu-shot,system threat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
 cpu-shot,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
-cpu-shot,disruption,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
+cpu-shot,alert,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
+cpu-shot,chaos,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
+cpu-shot,disruption,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,2
+cpu-shot,fuse,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
+cpu-shot,impact,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1
 cpu-shot,informatics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LI9JP6gvOoTJ0NWImnXRd2Hn,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.284709,,1
+cpu-shot,ripple effect,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kp1qPLDCkz9SqikeOnUXpfP7,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.744863,,1

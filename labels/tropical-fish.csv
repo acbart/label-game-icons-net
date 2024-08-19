@@ -1,23 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 tropical-fish,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
-tropical-fish,aquatic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
-tropical-fish,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
+tropical-fish,aquatic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,2
+tropical-fish,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,2
+tropical-fish,marine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.751711,,1
 tropical-fish,marine life,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
 tropical-fish,sea creature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
-tropical-fish,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
-tropical-fish,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
+tropical-fish,sea life,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.751711,,1
+tropical-fish,tropical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.751711,,1
+tropical-fish,aquarium,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.751711,,1
+tropical-fish,biodiversity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.751711,,1
+tropical-fish,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.751711,,1
+tropical-fish,ecology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.752589,,1
+tropical-fish,fluid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.751711,,1
+tropical-fish,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.751711,,1
+tropical-fish,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.752589,,1
+tropical-fish,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,2
+tropical-fish,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,2
 tropical-fish,sea,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
+tropical-fish,swimming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.751711,,1
 tropical-fish,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
-tropical-fish,underwater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
-tropical-fish,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
-tropical-fish,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
+tropical-fish,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.751711,,1
+tropical-fish,underwater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,2
+tropical-fish,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,2
+tropical-fish,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,2
 tropical-fish,artistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
-tropical-fish,decorative,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
+tropical-fish,decorative,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,2
 tropical-fish,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
 tropical-fish,emblem,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
+tropical-fish,graceful,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.752589,,1
+tropical-fish,habitual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.752589,,1
 tropical-fish,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
+tropical-fish,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.752589,,1
+tropical-fish,minimalism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.752589,,1
 tropical-fish,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
 tropical-fish,nautical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
 tropical-fish,sailing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
 tropical-fish,shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
+tropical-fish,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.752589,,1
 tropical-fish,stylized,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yuzk8vPNthpAgE2e5knE46lC,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.399767,,1
+tropical-fish,visual design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HlEmEC0ThJd2cg06QtLF8DR2,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.752589,,1

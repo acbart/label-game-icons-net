@@ -1,24 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-gecko,gecko,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
-gecko,lizard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
-gecko,reptile,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
-gecko,tail,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
-gecko,agility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
-gecko,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
+gecko,gecko,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,2
+gecko,icon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
+gecko,lizard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,2
+gecko,reptile,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,2
+gecko,symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
+gecko,tail,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,2
+gecko,adaptation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
+gecko,agility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,2
+gecko,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,2
+gecko,camouflage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
 gecko,climbing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
-gecko,crawl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
+gecko,crawl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,2
 gecko,creature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
 gecko,curved,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
+gecko,curved shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
+gecko,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
+gecko,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
 gecko,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
+gecko,environment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
+gecko,flexibility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
+gecko,herpetology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
 gecko,limbs,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
+gecko,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
+gecko,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
 gecko,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
-gecko,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
-gecko,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
+gecko,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,2
+gecko,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,2
 gecko,profile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
-gecko,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
+gecko,salamander,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
+gecko,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,2
 gecko,silhouetted figure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
-gecko,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
-gecko,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
+gecko,simple lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
+gecko,small creature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
+gecko,tropical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
+gecko,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,2
+gecko,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,2
+gecko,biome,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
+gecko,eco-friendly,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2knubGiUJMVYcx5SuOY996N6,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.219725,,1
 gecko,form,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
 gecko,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1
 gecko,identity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_STqLkaWGlVAjOq7gTgkuKqQx,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.859780,,1

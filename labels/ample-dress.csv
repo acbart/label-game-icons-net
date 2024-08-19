@@ -1,27 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-ample-dress,apparel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
-ample-dress,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
-ample-dress,dress,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
-ample-dress,fashion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
+ample-dress,apparel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,2
+ample-dress,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,2
+ample-dress,dress,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,2
+ample-dress,fashion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,2
 ample-dress,gown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
-ample-dress,attire,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
+ample-dress,attire,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,2
+ample-dress,ballgown,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
 ample-dress,boutique,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
 ample-dress,ceremony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
-ample-dress,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
-ample-dress,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
+ample-dress,costume,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
+ample-dress,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,2
+ample-dress,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,2
+ample-dress,evening gown,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
+ample-dress,feminine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
 ample-dress,fit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
+ample-dress,flared,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
 ample-dress,formal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
+ample-dress,formal wear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
 ample-dress,gala,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
-ample-dress,garment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
+ample-dress,garment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,2
+ample-dress,outfit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
 ample-dress,sewing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
-ample-dress,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
+ample-dress,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,2
 ample-dress,skirt,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
-ample-dress,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
+ample-dress,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,2
 ample-dress,tailor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
-ample-dress,wardrobe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
+ample-dress,wardrobe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,2
 ample-dress,wearable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
+ample-dress,aesthetic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
 ample-dress,closet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
-ample-dress,couture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
+ample-dress,consumer,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
+ample-dress,couture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,2
+ample-dress,draping,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
+ample-dress,fashion industry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
 ample-dress,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
-ample-dress,runway,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
+ample-dress,retail,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
+ample-dress,runway,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,2
+ample-dress,shop,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
+ample-dress,shopping,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
+ample-dress,tailoring,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
 ample-dress,textile,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qJs7J2jv9Xw1VtsIeIqgCL6p,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.596742,,1
+ample-dress,textiles,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1
+ample-dress,wardrobe choice,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tr3RdsZWVOjAor6dM4bO9dWx,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.354202,,1

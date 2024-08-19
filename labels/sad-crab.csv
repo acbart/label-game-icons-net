@@ -1,26 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 sad-crab,arthropod,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
 sad-crab,claws,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
-sad-crab,crab,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
+sad-crab,crab,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,2
+sad-crab,emotion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
+sad-crab,melancholy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
+sad-crab,mood,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
+sad-crab,negative emotion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
 sad-crab,pincers,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
+sad-crab,sadness,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
 sad-crab,Cancer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
-sad-crab,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
+sad-crab,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
+sad-crab,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,2
 sad-crab,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
 sad-crab,beach,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
 sad-crab,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
+sad-crab,body structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
+sad-crab,crustacean,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
+sad-crab,downturned mouth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
 sad-crab,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
-sad-crab,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
-sad-crab,marine life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
+sad-crab,expression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
+sad-crab,expressive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
+sad-crab,eyes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
+sad-crab,face,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
+sad-crab,graphical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
+sad-crab,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,2
+sad-crab,legs,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
+sad-crab,marine life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,2
 sad-crab,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
 sad-crab,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
+sad-crab,pinchers,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
 sad-crab,sea creature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
 sad-crab,shell,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
 sad-crab,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
+sad-crab,simplified,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
 sad-crab,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
+sad-crab,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
 sad-crab,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
 sad-crab,fishing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
-sad-crab,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
+sad-crab,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,2
 sad-crab,predator,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
 sad-crab,seafood,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
 sad-crab,seafood symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1
+sad-crab,symmetry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rmnIuSX3U1mARIZNHWtZxpvN,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.664688,,1
 sad-crab,zodiac,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eiCSXLJtIF0qnITsuPRdrSyB,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.857183,,1

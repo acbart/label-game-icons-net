@@ -1,24 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+sverd-i-fjell,Viking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
 sverd-i-fjell,immunization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
 sverd-i-fjell,injection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
+sverd-i-fjell,landmark,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
+sverd-i-fjell,monument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
 sverd-i-fjell,needle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
+sverd-i-fjell,sword,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
 sverd-i-fjell,syringe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
+sverd-i-fjell,three swords,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
 sverd-i-fjell,vaccination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
 sverd-i-fjell,Covid-19,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
+sverd-i-fjell,Nordic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
+sverd-i-fjell,Scandinavia,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
+sverd-i-fjell,battle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
+sverd-i-fjell,blade,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
 sverd-i-fjell,clinical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
+sverd-i-fjell,commemoration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
+sverd-i-fjell,culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
 sverd-i-fjell,dose,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
 sverd-i-fjell,flu shot,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
 sverd-i-fjell,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
 sverd-i-fjell,healthcare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
+sverd-i-fjell,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
+sverd-i-fjell,history,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
+sverd-i-fjell,honor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
 sverd-i-fjell,hospital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
 sverd-i-fjell,medical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
 sverd-i-fjell,medicine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
+sverd-i-fjell,peace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
 sverd-i-fjell,pharmacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
 sverd-i-fjell,preventative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
 sverd-i-fjell,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
 sverd-i-fjell,public health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
+sverd-i-fjell,rock,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
 sverd-i-fjell,sterile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
+sverd-i-fjell,stone,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
+sverd-i-fjell,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
 sverd-i-fjell,treatment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
+sverd-i-fjell,triumph,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
+sverd-i-fjell,unity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
 sverd-i-fjell,vaccinate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
 sverd-i-fjell,virus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
+sverd-i-fjell,archaeology,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
 sverd-i-fjell,doctor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vPR9zMMYG2pX66c2QjfleiX1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.145139,,1
+sverd-i-fjell,metal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1
+sverd-i-fjell,shaft,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oO4hzgwbtBNQPpuYP20Qn2qT,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.648959,,1

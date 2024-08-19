@@ -1,26 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 health-normal,addition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
-health-normal,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
-health-normal,first aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
-health-normal,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
-health-normal,plus sign,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
+health-normal,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,2
+health-normal,first aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,2
+health-normal,health,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
+health-normal,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,2
+health-normal,plus sign,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,2
+health-normal,wellness,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
+health-normal,aid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
 health-normal,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
-health-normal,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
+health-normal,assistance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
+health-normal,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,2
 health-normal,calculation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
-health-normal,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
+health-normal,care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
+health-normal,doctor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
+health-normal,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,2
 health-normal,equal arms,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
 health-normal,equation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
-health-normal,healthcare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
+health-normal,health check,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
+health-normal,healthcare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,2
+health-normal,help,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
+health-normal,hospital,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
 health-normal,intersection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,2
 health-normal,mathematics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
-health-normal,positive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
+health-normal,normal state,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
+health-normal,pharmacy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
+health-normal,positive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,2
+health-normal,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
+health-normal,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
 health-normal,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
 health-normal,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
+health-normal,treatment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
 health-normal,basic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
+health-normal,equilibrium,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
 health-normal,four-way,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
 health-normal,geometry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
 health-normal,grid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
 health-normal,marks,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
 health-normal,neutral,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
+health-normal,protection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
+health-normal,stability,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JzoG3CR1GLjIeywZjFpWKOLY,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.789958,,1
 health-normal,template,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1
 health-normal,uniformity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5s3oFEdGTjjyOQDKNU725Q4w,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.001031,,1

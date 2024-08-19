@@ -1,25 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 lost-limb,action,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
+lost-limb,amputation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
+lost-limb,assistive device,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
 lost-limb,boot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
-lost-limb,foot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
+lost-limb,disability,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
+lost-limb,foot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,2
+lost-limb,health,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
 lost-limb,kick,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
+lost-limb,leg,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
+lost-limb,limb loss,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
+lost-limb,lost limb,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
+lost-limb,medical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
 lost-limb,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
 lost-limb,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
+lost-limb,orthopedic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
+lost-limb,prosthetics,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
 lost-limb,activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
+lost-limb,anatomy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
 lost-limb,athletics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
+lost-limb,care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
 lost-limb,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
 lost-limb,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
 lost-limb,exercise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
 lost-limb,footwear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
 lost-limb,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
+lost-limb,healing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
+lost-limb,healthcare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
 lost-limb,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
+lost-limb,injury,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
+lost-limb,injury prevention,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
 lost-limb,jump,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
+lost-limb,mobility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
+lost-limb,physical therapy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
 lost-limb,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
+lost-limb,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
 lost-limb,push,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
+lost-limb,recovery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
+lost-limb,rehabilitation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
+lost-limb,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
+lost-limb,self-care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
 lost-limb,sneaker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
 lost-limb,speed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
 lost-limb,sport,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
 lost-limb,stride,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
+lost-limb,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
+lost-limb,trauma,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
+lost-limb,abstract symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ea8DnnZkpGxH9Osx0kWTnm1N,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.513861,,1
 lost-limb,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
 lost-limb,martial arts,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1
 lost-limb,sportswear,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pogIOm9chFjwdEL3AYiJkqni,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.917872,,1

@@ -1,26 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-coffee-pot,beverage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
+coffee-pot,beverage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,2
 coffee-pot,beverage container,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
 coffee-pot,brew,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
-coffee-pot,coffee pot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
-coffee-pot,drink,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
-coffee-pot,handle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
-coffee-pot,barista,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
-coffee-pot,breakfast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
-coffee-pot,cafe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
-coffee-pot,caffeine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
+coffee-pot,coffee maker,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
+coffee-pot,coffee pot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,2
+coffee-pot,drink,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,2
+coffee-pot,handle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,2
+coffee-pot,appliance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
+coffee-pot,aroma,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
+coffee-pot,barista,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,2
+coffee-pot,breakfast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,2
+coffee-pot,brewing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.226341,,1
+coffee-pot,cafe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,2
+coffee-pot,caffeine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,2
 coffee-pot,carafe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
+coffee-pot,container,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
 coffee-pot,domestic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
-coffee-pot,home,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
+coffee-pot,heat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
+coffee-pot,home,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,2
 coffee-pot,household,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
+coffee-pot,java,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
 coffee-pot,kettle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
+coffee-pot,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
 coffee-pot,kitchen appliances,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
-coffee-pot,lid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
+coffee-pot,kitchenware,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.226341,,1
+coffee-pot,lid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,2
+coffee-pot,morning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
 coffee-pot,morning routine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
-coffee-pot,pouring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
+coffee-pot,pouring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,2
+coffee-pot,refill,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
+coffee-pot,restaurant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
+coffee-pot,service,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
 coffee-pot,serving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
-coffee-pot,hospitality,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
+coffee-pot,spout,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
+coffee-pot,americano,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
+coffee-pot,espresso,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
+coffee-pot,hospitality,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,2
 coffee-pot,hospitality industry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
+coffee-pot,office,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
 coffee-pot,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
 coffee-pot,simplified illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1
+coffee-pot,simplistic design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KQxgy3OnpxS8JhVXaLaSW4rZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.227343,,1
 coffee-pot,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKvlM8nbcPMtEfDWZQjXVZMB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.312163,,1

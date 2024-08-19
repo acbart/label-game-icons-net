@@ -1,16 +1,32 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-lorc_wolverine-claws,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
+lorc_wolverine-claws,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,2
+lorc_wolverine-claws,animal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
+lorc_wolverine-claws,attack,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
+lorc_wolverine-claws,claws,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
+lorc_wolverine-claws,crossed,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
 lorc_wolverine-claws,crossing lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
+lorc_wolverine-claws,ferocity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
+lorc_wolverine-claws,fierce,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
 lorc_wolverine-claws,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
 lorc_wolverine-claws,interwoven,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
-lorc_wolverine-claws,pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
+lorc_wolverine-claws,pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,2
+lorc_wolverine-claws,scratch,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
+lorc_wolverine-claws,sharp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
+lorc_wolverine-claws,symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
 lorc_wolverine-claws,symmetrical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
+lorc_wolverine-claws,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
+lorc_wolverine-claws,wolverine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
 lorc_wolverine-claws,woven,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
+lorc_wolverine-claws,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
 lorc_wolverine-claws,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
 lorc_wolverine-claws,complexity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
 lorc_wolverine-claws,cross,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
+lorc_wolverine-claws,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
+lorc_wolverine-claws,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
 lorc_wolverine-claws,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
 lorc_wolverine-claws,diamond shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
+lorc_wolverine-claws,fangs,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
+lorc_wolverine-claws,feral,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
 lorc_wolverine-claws,fusion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
 lorc_wolverine-claws,grid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
 lorc_wolverine-claws,interconnection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
@@ -20,9 +36,18 @@ lorc_wolverine-claws,lattice,medium,en,acbart@vt.edu,,,False,False,starter-v1-12
 lorc_wolverine-claws,mesh,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
 lorc_wolverine-claws,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
 lorc_wolverine-claws,overlapping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
+lorc_wolverine-claws,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
+lorc_wolverine-claws,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
+lorc_wolverine-claws,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
 lorc_wolverine-claws,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
+lorc_wolverine-claws,survival,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
 lorc_wolverine-claws,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
 lorc_wolverine-claws,visual art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
+lorc_wolverine-claws,wild,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
+lorc_wolverine-claws,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
+lorc_wolverine-claws,barrier,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
 lorc_wolverine-claws,decoration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
 lorc_wolverine-claws,fabrication,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1
+lorc_wolverine-claws,instinct,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
+lorc_wolverine-claws,mythology,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4LfmEpE8NfGB5DiFPRISZBMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.894844,,1
 lorc_wolverine-claws,order,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zAFqr25YgNabqMOD6CzoSpRF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.647174,,1

@@ -1,23 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 winter-hat,birthday,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.635142,,1
 winter-hat,celebration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.635142,,1
+winter-hat,clothing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,cold,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
 winter-hat,cone shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.635142,,1
 winter-hat,decoration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.635142,,1
 winter-hat,festivity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.635142,,1
 winter-hat,fun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.635142,,1
-winter-hat,hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.635142,,1
+winter-hat,hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.635142,,2
+winter-hat,headwear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
 winter-hat,party,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.635142,,1
-winter-hat,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.635142,,1
+winter-hat,pom-pom,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,warmth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,winter,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.635142,,2
 winter-hat,ball shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.635142,,1
 winter-hat,celebrant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.636146,,1
 winter-hat,cheer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.636146,,1
 winter-hat,costume,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.636146,,1
+winter-hat,cozy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
 winter-hat,event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.636146,,1
+winter-hat,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
 winter-hat,fun item,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.636146,,1
 winter-hat,gathering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.636146,,1
 winter-hat,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.636146,,1
+winter-hat,knitted,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
 winter-hat,novelty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.636146,,1
+winter-hat,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
 winter-hat,party popper,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.636146,,1
-winter-hat,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.636146,,1
+winter-hat,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,seasonal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.636146,,2
 winter-hat,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.636146,,1
 winter-hat,triangle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ruKOS3jIJrS6H7VsdLmZ2mOk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.636146,,1
+winter-hat,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,cartoonish,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,graphic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,illustration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1
+winter-hat,simplified,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wzlr35KUoTqeCaU2CyEzFbra,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.835830,,1

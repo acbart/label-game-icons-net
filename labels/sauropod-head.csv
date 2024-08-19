@@ -1,23 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-sauropod-head,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.648893,,1
+sauropod-head,Jurassic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.936762,,1
+sauropod-head,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.648893,,2
+sauropod-head,curved neck,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.936762,,1
+sauropod-head,dinosaur,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.935760,,1
 sauropod-head,head,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.648893,,1
 sauropod-head,horse,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.648893,,1
-sauropod-head,profile,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.648893,,1
-sauropod-head,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
-sauropod-head,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
+sauropod-head,long neck,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.935760,,1
+sauropod-head,profile,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.648893,,2
+sauropod-head,sauropod,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.935760,,1
+sauropod-head,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,2
+sauropod-head,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,2
 sauropod-head,chess,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
 sauropod-head,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
+sauropod-head,extinct,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.935760,,1
 sauropod-head,figure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
+sauropod-head,head shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.935760,,1
+sauropod-head,herbivore,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.935760,,1
 sauropod-head,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
-sauropod-head,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
+sauropod-head,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.935760,,1
+sauropod-head,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.936762,,1
+sauropod-head,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,2
 sauropod-head,knight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
-sauropod-head,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
-sauropod-head,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
+sauropod-head,museum,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.936762,,1
+sauropod-head,natural history,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.936762,,1
+sauropod-head,paleontology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.935760,,1
+sauropod-head,prehistoric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.935760,,1
+sauropod-head,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,2
+sauropod-head,reptile,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.936762,,1
+sauropod-head,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,2
+sauropod-head,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.935760,,1
 sauropod-head,breeze,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
 sauropod-head,cartoon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
+sauropod-head,educational,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.936762,,1
 sauropod-head,equestrian,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
+sauropod-head,fantasy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.936762,,1
 sauropod-head,game,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
 sauropod-head,mane,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
 sauropod-head,piece,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
 sauropod-head,sign,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
 sauropod-head,strategy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pE4PjfAuQiO0WgGED6mIj5c1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.649893,,1
+sauropod-head,zoological,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xPQNBj1oBpr2D4zdXK5iFbiQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.936762,,1

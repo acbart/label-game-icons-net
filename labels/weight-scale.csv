@@ -1,26 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-weight-scale,dial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,gauge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,measurement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
+weight-scale,dial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
+weight-scale,gauge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
+weight-scale,health,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3q0kxxvQMd97xzTCab1poueX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.698259,,1
+weight-scale,health tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3q0kxxvQMd97xzTCab1poueX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.698259,,1
+weight-scale,measurement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
 weight-scale,measurement device,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,measurement tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,mechanical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
+weight-scale,measurement tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
+weight-scale,mechanical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
 weight-scale,meter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,pointer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,scale,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,analog,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
+weight-scale,pointer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
+weight-scale,scale,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
+weight-scale,weight-scale,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3q0kxxvQMd97xzTCab1poueX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.698259,,1
+weight-scale,accuracy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3q0kxxvQMd97xzTCab1poueX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.698259,,1
+weight-scale,analog,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
 weight-scale,analog display,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,calibration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,indicator,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
+weight-scale,assessment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3q0kxxvQMd97xzTCab1poueX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.698259,,1
+weight-scale,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
+weight-scale,bathroom scale,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3q0kxxvQMd97xzTCab1poueX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.698259,,1
+weight-scale,calibration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
+weight-scale,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3q0kxxvQMd97xzTCab1poueX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.698259,,1
+weight-scale,fitness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3q0kxxvQMd97xzTCab1poueX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.698259,,1
+weight-scale,indicator,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
 weight-scale,instrument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,monitoring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,numeric display,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
+weight-scale,monitoring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
+weight-scale,numeric display,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
+weight-scale,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
 weight-scale,pressure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,quantitative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
+weight-scale,quantitative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
 weight-scale,reading,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
 weight-scale,speed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,tracking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
+weight-scale,tracking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
 weight-scale,velocity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
-weight-scale,weight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,1
+weight-scale,weight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mvE1m4vnunz3l0yDPfpeGEfZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.601233,,2
+weight-scale,balance sheet,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3q0kxxvQMd97xzTCab1poueX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.698259,,1
+weight-scale,counterweight,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3q0kxxvQMd97xzTCab1poueX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.698259,,1
+weight-scale,equilibrium,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3q0kxxvQMd97xzTCab1poueX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.698259,,1
+weight-scale,load,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3q0kxxvQMd97xzTCab1poueX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.698259,,1
+weight-scale,somber,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3q0kxxvQMd97xzTCab1poueX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.698259,,1

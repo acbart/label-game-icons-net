@@ -1,20 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-condylura-skull,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
-condylura-skull,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
+condylura-skull,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,2
+condylura-skull,anatomy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
+condylura-skull,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,2
+condylura-skull,condylura,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
 condylura-skull,elephant,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
-condylura-skull,icon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
+condylura-skull,head,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
+condylura-skull,icon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,2
+condylura-skull,skeleton,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
+condylura-skull,skull,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
 condylura-skull,trunk,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
 condylura-skull,tusk,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
+condylura-skull,biology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
+condylura-skull,bones,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
 condylura-skull,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
-condylura-skull,mammal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
-condylura-skull,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
+condylura-skull,facial features,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
+condylura-skull,mammal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,2
+condylura-skull,mole,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
+condylura-skull,natural history,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
+condylura-skull,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,2
+condylura-skull,nostrils,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
 condylura-skull,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
 condylura-skull,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
+condylura-skull,science,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
 condylura-skull,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
 condylura-skull,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
+condylura-skull,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
+condylura-skull,study,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
 condylura-skull,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
+condylura-skull,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
+condylura-skull,talpidae,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
 condylura-skull,tribal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
-condylura-skull,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
+condylura-skull,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,2
+condylura-skull,zoology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
+condylura-skull,artistic representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
+condylura-skull,characterization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
 condylura-skull,endurance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
 condylura-skull,graphic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
 condylura-skull,heritage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
@@ -23,4 +42,5 @@ condylura-skull,illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,b
 condylura-skull,mask,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
 condylura-skull,mythology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
 condylura-skull,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1
+condylura-skull,recognition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aJeX7xssHYwIS1prWIqhFKp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.691461,,1
 condylura-skull,savanna,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EUpcqb3XkVMC9frtoQzGVe3,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.273707,,1

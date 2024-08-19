@@ -1,24 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-river,landscape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
+river,flow,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
+river,landscape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,2
 river,mountains,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
-river,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
+river,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,2
 river,path,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
-river,river,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
+river,river,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,2
 river,scenery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
+river,water,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
 river,abstract terrain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
 river,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
+river,current,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
+river,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
 river,curved path,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
-river,destination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
+river,destination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,2
+river,direction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
+river,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
+river,environment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
 river,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
+river,fluidity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
+river,geography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
 river,horizon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
-river,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
+river,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,2
+river,meander,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
+river,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
+river,natural resource,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
+river,pathway,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
 river,scenic route,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
-river,stream,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
+river,sinuous,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
+river,stream,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,2
+river,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
 river,symbolic journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
-river,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
-river,valley,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
+river,terrain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
+river,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,2
+river,valley,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,2
+river,wave,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
 river,z-shaped curve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
 river,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
 river,abstract mountainscape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
+river,contour,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
 river,meandering,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1
+river,ripple,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yLb9PfV4Khpx77ED55TOXGeF,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.418179,,1
 river,wilderness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VFfj5hstMqVr3iPIZ9DBjkaq,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.523810,,1

@@ -1,24 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+topaz,crystal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
 topaz,drop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
+topaz,drop shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
+topaz,gemstone,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
 topaz,liquid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
+topaz,precious stone,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
 topaz,water,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
+topaz,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
 topaz,essence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
 topaz,fluid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
+topaz,gem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
 topaz,hydration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
+topaz,jewel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
+topaz,mineral,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
 topaz,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
 topaz,oil,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
-topaz,purity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
+topaz,purity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,2
 topaz,rain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
+topaz,shine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
 topaz,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
-topaz,teardrop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
-topaz,clarity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
+topaz,teardrop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,2
+topaz,clarity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,2
 topaz,conservation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
+topaz,decorative art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
 topaz,eco-friendly,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
 topaz,element,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
 topaz,emblem,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
+topaz,fashion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
+topaz,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
 topaz,inner shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
+topaz,luxury,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
 topaz,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
+topaz,ornament,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
 topaz,outer lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
-topaz,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
+topaz,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,2
+topaz,polish,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
 topaz,renewal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
-topaz,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,1
+topaz,rhinestone,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1
+topaz,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oUZMw2q7IjgbJRPm8gVjBl31,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.510628,,2
+topaz,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oeueuM5jB9toMjLnsIpqRLSv,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.386009,,1

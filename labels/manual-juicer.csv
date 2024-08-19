@@ -1,27 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 manual-juicer,beach,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
+manual-juicer,citrus juicer,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
+manual-juicer,fruit processing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
+manual-juicer,juice extraction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
+manual-juicer,juicing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
+manual-juicer,liquid collection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
+manual-juicer,manual juicer,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
+manual-juicer,manual operation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
 manual-juicer,parasol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
 manual-juicer,shade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
+manual-juicer,squeezing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
 manual-juicer,sun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
 manual-juicer,sun umbrella,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
+manual-juicer,bowl,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
+manual-juicer,citrus fruit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
 manual-juicer,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
+manual-juicer,cone shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
+manual-juicer,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
+manual-juicer,domed top,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
+manual-juicer,food preparation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
 manual-juicer,getaway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
+manual-juicer,half fruit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
+manual-juicer,hands-on,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
 manual-juicer,holiday,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
+manual-juicer,kitchen tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
+manual-juicer,kitchenware,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
 manual-juicer,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
 manual-juicer,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
 manual-juicer,peaceful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
+manual-juicer,pressure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
 manual-juicer,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
 manual-juicer,relaxation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
 manual-juicer,resort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
 manual-juicer,rest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
+manual-juicer,segments,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
 manual-juicer,semi-circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
 manual-juicer,shelter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
 manual-juicer,tourism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
 manual-juicer,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
 manual-juicer,vacation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
 manual-juicer,curve,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
+manual-juicer,effort,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
+manual-juicer,home appliance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
 manual-juicer,horizontal lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
 manual-juicer,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
 manual-juicer,scenic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
+manual-juicer,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
 manual-juicer,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1
+manual-juicer,traditional,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sf6HZ11cJl1NApsug6BVRN6j,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.612453,,1
 manual-juicer,tropical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uaoYJLzfzYGjRqsD6SEquaNk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.739587,,1

@@ -1,26 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-wood-axe,axe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
-wood-axe,blade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
-wood-axe,cutting tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
-wood-axe,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
+wood-axe,axe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,2
+wood-axe,blade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,2
+wood-axe,cutting tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,2
+wood-axe,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,2
+wood-axe,carpentry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BbNsKRwa6FqmcnI4dVB6lnVJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.113816,,1
 wood-axe,chop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
-wood-axe,chopping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
+wood-axe,chopping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,2
 wood-axe,dual symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
-wood-axe,forestry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
-wood-axe,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
-wood-axe,lumberjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
-wood-axe,manual labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
+wood-axe,firewood,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BbNsKRwa6FqmcnI4dVB6lnVJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.113816,,1
+wood-axe,forestry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,2
+wood-axe,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,2
+wood-axe,impact,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BbNsKRwa6FqmcnI4dVB6lnVJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.113816,,1
+wood-axe,logging,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BbNsKRwa6FqmcnI4dVB6lnVJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.113816,,1
+wood-axe,lumberjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,2
+wood-axe,manual labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,2
 wood-axe,manual tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
-wood-axe,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
-wood-axe,split,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
-wood-axe,survival,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
-wood-axe,timber,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
+wood-axe,outdoor tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BbNsKRwa6FqmcnI4dVB6lnVJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.113816,,1
+wood-axe,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,2
+wood-axe,split,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,2
+wood-axe,survival,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,2
+wood-axe,swing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BbNsKRwa6FqmcnI4dVB6lnVJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.113816,,1
+wood-axe,timber,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,2
 wood-axe,weapon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
-wood-axe,woodcutting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
+wood-axe,wedge shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BbNsKRwa6FqmcnI4dVB6lnVJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.113816,,1
+wood-axe,woodcutting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,2
 wood-axe,woodworking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
 wood-axe,ancient tool,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
 wood-axe,construction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
+wood-axe,craftsmanship,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BbNsKRwa6FqmcnI4dVB6lnVJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.113816,,1
+wood-axe,hardware,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BbNsKRwa6FqmcnI4dVB6lnVJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.113816,,1
+wood-axe,instrument,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BbNsKRwa6FqmcnI4dVB6lnVJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.113816,,1
 wood-axe,legendary weapon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
 wood-axe,outdoor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
 wood-axe,simplistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
 wood-axe,strength,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aSboqy72b7TEldBhyQKh5STt,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.799156,,1
+wood-axe,woodwork,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BbNsKRwa6FqmcnI4dVB6lnVJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.113816,,1

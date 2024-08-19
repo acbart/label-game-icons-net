@@ -1,26 +1,31 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-meditation,focus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,lotus position,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,meditation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,mindfulness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,peace,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,relaxation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,yoga,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,zen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
+meditation,focus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,lotus position,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,meditation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,mindfulness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,peace,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,relaxation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,yoga,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,zen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
 meditation,body awareness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.406193,,1
-meditation,calm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,concentration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.406193,,1
+meditation,calm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,concentration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.406193,,2
+meditation,contemplation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sBslLFnlbduGkFfvarveTv4Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.286446,,1
 meditation,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,inner peace,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,mental clarity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
+meditation,inner peace,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,mental clarity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
 meditation,posture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
 meditation,self-care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.406193,,1
-meditation,serenity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,spirituality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,tranquility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,wellness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
+meditation,serenity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,spirituality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,tranquility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,wellness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,abstract figure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sBslLFnlbduGkFfvarveTv4Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.286446,,1
 meditation,discipline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.406193,,1
 meditation,exercise,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.406193,,1
+meditation,figure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sBslLFnlbduGkFfvarveTv4Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.286446,,1
 meditation,fitness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
-meditation,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,1
+meditation,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wlpoyczAi5HCOzOjoPojerqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.405198,,2
+meditation,human form,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sBslLFnlbduGkFfvarveTv4Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.286446,,1
+meditation,pose,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sBslLFnlbduGkFfvarveTv4Y,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.286446,,1

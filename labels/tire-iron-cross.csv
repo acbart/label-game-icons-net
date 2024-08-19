@@ -1,12 +1,21 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+tire-iron-cross,X pattern,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
+tire-iron-cross,automotive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
 tire-iron-cross,choice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
 tire-iron-cross,connection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
+tire-iron-cross,cross shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
 tire-iron-cross,crossroads,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
 tire-iron-cross,decision making,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
 tire-iron-cross,directions,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
+tire-iron-cross,lug wrench,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
+tire-iron-cross,mechanic tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
 tire-iron-cross,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
 tire-iron-cross,orientation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
+tire-iron-cross,tire tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
+tire-iron-cross,DIY,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
 tire-iron-cross,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
+tire-iron-cross,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
+tire-iron-cross,assembly,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
 tire-iron-cross,axis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
 tire-iron-cross,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
 tire-iron-cross,central hub,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
@@ -15,15 +24,25 @@ tire-iron-cross,compass,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,bat
 tire-iron-cross,coordinates,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
 tire-iron-cross,focus point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
 tire-iron-cross,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
+tire-iron-cross,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
+tire-iron-cross,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
 tire-iron-cross,intersection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
-tire-iron-cross,junction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
+tire-iron-cross,junction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,2
 tire-iron-cross,lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
 tire-iron-cross,mapping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
 tire-iron-cross,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
 tire-iron-cross,pathway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
+tire-iron-cross,practical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
+tire-iron-cross,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
 tire-iron-cross,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
-tire-iron-cross,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
+tire-iron-cross,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,2
 tire-iron-cross,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
+tire-iron-cross,vehicle maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
+tire-iron-cross,wheel repair,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
 tire-iron-cross,diagram,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
+tire-iron-cross,gear,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
 tire-iron-cross,grid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
 tire-iron-cross,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGgDR3l7ceEAxhdTgtPGhglD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.288251,,1
+tire-iron-cross,screwdriver,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
+tire-iron-cross,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1
+tire-iron-cross,support,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7dm0teOrth4FWcoPv1sKxU9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.320995,,1

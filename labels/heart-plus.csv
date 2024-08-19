@@ -1,26 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-heart-plus,aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
-heart-plus,care,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
-heart-plus,health,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
-heart-plus,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
-heart-plus,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
+heart-plus,addition,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yw1VUs6ENTULduqJA7e3OTLC,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.501330,,1
+heart-plus,aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,2
+heart-plus,care,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,2
+heart-plus,health,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,2
+heart-plus,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,2
+heart-plus,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,2
+heart-plus,plus,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yw1VUs6ENTULduqJA7e3OTLC,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.501330,,1
 heart-plus,plus sign,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
-heart-plus,support,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
+heart-plus,support,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,2
+heart-plus,well-being,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yw1VUs6ENTULduqJA7e3OTLC,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.501330,,1
 heart-plus,wellness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
 heart-plus,assistance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
 heart-plus,clinic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
 heart-plus,doctor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
-heart-plus,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
+heart-plus,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,2
 heart-plus,emergency services,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
-heart-plus,first aid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
+heart-plus,enhancement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yw1VUs6ENTULduqJA7e3OTLC,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.501330,,1
+heart-plus,first aid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,2
+heart-plus,growth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yw1VUs6ENTULduqJA7e3OTLC,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.501330,,1
 heart-plus,healing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
-heart-plus,hospital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
-heart-plus,love,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
-heart-plus,medicine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
+heart-plus,hospital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,2
+heart-plus,increase,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yw1VUs6ENTULduqJA7e3OTLC,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.501330,,1
+heart-plus,love,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,2
+heart-plus,medicine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,2
 heart-plus,nurse,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
+heart-plus,positive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yw1VUs6ENTULduqJA7e3OTLC,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.501330,,1
+heart-plus,progress,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yw1VUs6ENTULduqJA7e3OTLC,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.501330,,1
 heart-plus,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
+heart-plus,rescue,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yw1VUs6ENTULduqJA7e3OTLC,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.501330,,1
 heart-plus,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
+heart-plus,sanctuary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yw1VUs6ENTULduqJA7e3OTLC,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.501330,,1
+heart-plus,sympathy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yw1VUs6ENTULduqJA7e3OTLC,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.501330,,1
 heart-plus,charity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
-heart-plus,compassion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
+heart-plus,compassion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,2
 heart-plus,empathy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1
+heart-plus,partnership,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yw1VUs6ENTULduqJA7e3OTLC,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.501330,,1
+heart-plus,relationship,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yw1VUs6ENTULduqJA7e3OTLC,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.501330,,1
 heart-plus,supportive,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iZJJRu9C4c3hzk3pUSFGw2Is,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.875834,,1

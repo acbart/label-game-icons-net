@@ -1,26 +1,54 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 m3-grease-gun,assault rifle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,engineering,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
 m3-grease-gun,firearm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,grease gun,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
 m3-grease-gun,gun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,industrial use,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
+m3-grease-gun,industry,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
+m3-grease-gun,lubrication,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
+m3-grease-gun,machinery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
+m3-grease-gun,maintenance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
+m3-grease-gun,mechanical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
+m3-grease-gun,nozzle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
 m3-grease-gun,rifle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
 m3-grease-gun,shooting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,technical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
 m3-grease-gun,threat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
 m3-grease-gun,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
 m3-grease-gun,battleground,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
 m3-grease-gun,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
 m3-grease-gun,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,cylinder,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
 m3-grease-gun,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
 m3-grease-gun,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
+m3-grease-gun,functional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
+m3-grease-gun,functionality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
 m3-grease-gun,gun control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,handle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
+m3-grease-gun,injection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
 m3-grease-gun,law enforcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,manual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
 m3-grease-gun,military,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,operation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
+m3-grease-gun,pistol shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
+m3-grease-gun,pressure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
 m3-grease-gun,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
 m3-grease-gun,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
 m3-grease-gun,self-defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
+m3-grease-gun,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
 m3-grease-gun,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,usage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
+m3-grease-gun,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
 m3-grease-gun,violence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
 m3-grease-gun,ammunition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
-m3-grease-gun,equipment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,cleaning,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
+m3-grease-gun,equipment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,2
+m3-grease-gun,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fLmobai90NN61u2ec21It6gQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.872521,,1
 m3-grease-gun,mechanism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
-m3-grease-gun,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1
+m3-grease-gun,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,2
 m3-grease-gun,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CxKd8c69weH2Q76437xbfdPJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.361701,,1

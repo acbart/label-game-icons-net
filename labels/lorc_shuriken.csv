@@ -1,25 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-lorc_shuriken,martial arts,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
-lorc_shuriken,ninja star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
+lorc_shuriken,attack,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
+lorc_shuriken,circle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
+lorc_shuriken,martial arts,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,2
+lorc_shuriken,ninja star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,2
+lorc_shuriken,points,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
 lorc_shuriken,sharp edges,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
-lorc_shuriken,shuriken,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
+lorc_shuriken,shuriken,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,2
+lorc_shuriken,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
+lorc_shuriken,throwing star,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
 lorc_shuriken,throwing weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
-lorc_shuriken,blades,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
+lorc_shuriken,Japanese culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
+lorc_shuriken,blades,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,2
 lorc_shuriken,circle center,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
-lorc_shuriken,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
-lorc_shuriken,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
+lorc_shuriken,circle with spikes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
+lorc_shuriken,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,2
+lorc_shuriken,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
+lorc_shuriken,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,2
+lorc_shuriken,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
 lorc_shuriken,japanese,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
 lorc_shuriken,pointed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
+lorc_shuriken,precision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
+lorc_shuriken,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
+lorc_shuriken,silent,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
 lorc_shuriken,spin,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
 lorc_shuriken,star shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
-lorc_shuriken,stealth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
-lorc_shuriken,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
-lorc_shuriken,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
-lorc_shuriken,weapon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
+lorc_shuriken,stealth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,2
+lorc_shuriken,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,2
+lorc_shuriken,tactics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
+lorc_shuriken,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,2
+lorc_shuriken,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
+lorc_shuriken,weapon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,2
+lorc_shuriken,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
 lorc_shuriken,art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
-lorc_shuriken,cutting,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
+lorc_shuriken,cutting,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,2
 lorc_shuriken,decorative,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
+lorc_shuriken,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1
 lorc_shuriken,geometric,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
-lorc_shuriken,historical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
+lorc_shuriken,historical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,2
 lorc_shuriken,piercing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
 lorc_shuriken,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RkO3NSCWOc7pudtw7NC4DpXC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.516852,,1
+lorc_shuriken,spinner,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1z5RixatM32lewLLpNtpfsoM,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.039369,,1

@@ -1,27 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-paper-bomb,collision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
+paper-bomb,broken planet,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1
+paper-bomb,collision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,2
+paper-bomb,crack,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1
+paper-bomb,detonation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1
 paper-bomb,earth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
-paper-bomb,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
+paper-bomb,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,2
 paper-bomb,globe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
-paper-bomb,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
-paper-bomb,world,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
-paper-bomb,burst,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
-paper-bomb,catastrophe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
-paper-bomb,crisis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
+paper-bomb,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,2
+paper-bomb,threat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1
+paper-bomb,world,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,2
+paper-bomb,bomb,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1
+paper-bomb,burst,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,2
+paper-bomb,catastrophe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,2
+paper-bomb,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1
+paper-bomb,crisis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,2
 paper-bomb,damage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
-paper-bomb,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
-paper-bomb,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
+paper-bomb,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,2
+paper-bomb,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,2
 paper-bomb,disaster,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
 paper-bomb,global,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
-paper-bomb,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
+paper-bomb,global impact,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1
+paper-bomb,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,2
 paper-bomb,planet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
 paper-bomb,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
+paper-bomb,shatter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1
 paper-bomb,strike,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
-paper-bomb,alarm,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
+paper-bomb,abstract threat,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1
+paper-bomb,alarm,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,2
 paper-bomb,alert,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
+paper-bomb,conceptual damage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1
 paper-bomb,event,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
+paper-bomb,fission,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1
 paper-bomb,geography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
 paper-bomb,map,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
+paper-bomb,rupture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1
 paper-bomb,sign,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
+paper-bomb,sphere,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1
 paper-bomb,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
+paper-bomb,symbolic warfare,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1
 paper-bomb,universe,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_edcNHQbnZNCQTUz0SoKuHT3D,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.581570,,1
+paper-bomb,warning,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EOc1IdLsQz4OsP3GT54cSX4M,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.895411,,1

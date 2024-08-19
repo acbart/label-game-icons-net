@@ -1,26 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-lorc_tombstone,death,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,1
-lorc_tombstone,grave,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,1
+lorc_tombstone,death,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,2
+lorc_tombstone,finality,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aHUxE0ECNsHPaA4pFw2a2kmJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.107034,,1
+lorc_tombstone,grave,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,2
 lorc_tombstone,gravestone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,1
-lorc_tombstone,headstone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,1
-lorc_tombstone,memorial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,1
+lorc_tombstone,headstone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,2
+lorc_tombstone,loss,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aHUxE0ECNsHPaA4pFw2a2kmJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.107034,,1
+lorc_tombstone,memorial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,2
 lorc_tombstone,rip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,1
+lorc_tombstone,symbol of mortality,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aHUxE0ECNsHPaA4pFw2a2kmJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.107034,,1
 lorc_tombstone,tombstone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,1
-lorc_tombstone,cemetery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,1
+lorc_tombstone,afterlife,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aHUxE0ECNsHPaA4pFw2a2kmJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.107034,,1
+lorc_tombstone,cemetery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,2
 lorc_tombstone,commemoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,1
-lorc_tombstone,engraving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,1
+lorc_tombstone,engraving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,2
+lorc_tombstone,epitaph,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aHUxE0ECNsHPaA4pFw2a2kmJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.107034,,1
 lorc_tombstone,final resting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,1
-lorc_tombstone,legacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,1
-lorc_tombstone,marker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,1
+lorc_tombstone,history,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aHUxE0ECNsHPaA4pFw2a2kmJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.107034,,1
+lorc_tombstone,legacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,2
+lorc_tombstone,marker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,2
 lorc_tombstone,memory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,1
-lorc_tombstone,mourning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,1
+lorc_tombstone,monument,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aHUxE0ECNsHPaA4pFw2a2kmJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.107034,,1
+lorc_tombstone,mourning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,2
 lorc_tombstone,passed away,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,1
-lorc_tombstone,remembrance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,1
-lorc_tombstone,resting place,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,1
+lorc_tombstone,reflection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aHUxE0ECNsHPaA4pFw2a2kmJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.107034,,1
+lorc_tombstone,remembrance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,2
+lorc_tombstone,respect,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aHUxE0ECNsHPaA4pFw2a2kmJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.107034,,1
+lorc_tombstone,resting place,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,2
+lorc_tombstone,spirituality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aHUxE0ECNsHPaA4pFw2a2kmJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.107034,,1
 lorc_tombstone,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.546732,,1
+lorc_tombstone,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aHUxE0ECNsHPaA4pFw2a2kmJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.107034,,1
 lorc_tombstone,tribute,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,1
 lorc_tombstone,ancestors,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,1
-lorc_tombstone,eternity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,1
-lorc_tombstone,heritage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,1
+lorc_tombstone,eternity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,2
+lorc_tombstone,heritage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,3
 lorc_tombstone,sacred,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,1
 lorc_tombstone,spiritual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IQ2t4iV5WcAquxEDsymfR5kT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.547686,,1

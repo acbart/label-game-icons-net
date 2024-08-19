@@ -1,26 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+logic-gate-and,AND,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
 logic-gate-and,adapter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.675533,,1
+logic-gate-and,boolean algebra,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
 logic-gate-and,charge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,1
 logic-gate-and,charging,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.675533,,1
+logic-gate-and,circuit design,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
+logic-gate-and,digital logic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
 logic-gate-and,electrical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,1
+logic-gate-and,electrical engineering,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
 logic-gate-and,electricity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.675533,,1
 logic-gate-and,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.675533,,1
+logic-gate-and,logic gate,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
 logic-gate-and,plug-in,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.675533,,1
 logic-gate-and,power plug,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.675533,,1
 logic-gate-and,power source,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,1
 logic-gate-and,socket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.675533,,1
 logic-gate-and,appliance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,1
+logic-gate-and,binary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
 logic-gate-and,circuit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,1
-logic-gate-and,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.675533,,1
+logic-gate-and,computing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
+logic-gate-and,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.675533,,2
 logic-gate-and,connection point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,1
 logic-gate-and,current,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,1
-logic-gate-and,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.675533,,1
+logic-gate-and,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.675533,,2
 logic-gate-and,energy flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,1
-logic-gate-and,input,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,1
+logic-gate-and,input,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,2
 logic-gate-and,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.675533,,1
 logic-gate-and,interface device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,1
 logic-gate-and,interface symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,1
-logic-gate-and,output,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,1
-logic-gate-and,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.675533,,1
+logic-gate-and,output,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,2
+logic-gate-and,processing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
+logic-gate-and,semiconductor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
+logic-gate-and,synthesis,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
+logic-gate-and,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.675533,,2
 logic-gate-and,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,1
 logic-gate-and,utility connector,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NJswWkK1xVoQPdzEeHN3yKwl,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.676535,,1
+logic-gate-and,abstraction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
+logic-gate-and,arithmetic operations,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
+logic-gate-and,diagram,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
+logic-gate-and,rectangular shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
+logic-gate-and,rounded edge,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
+logic-gate-and,schematic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
+logic-gate-and,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1
+logic-gate-and,technical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NYboa0hVtWzXioqJCa3pxNKg,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.364296,,1

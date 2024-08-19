@@ -1,27 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-ninja-head,espionage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,martial arts,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,ninja,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,stealth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,warrior,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,disguise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,samurai,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,secretive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
+ninja-head,espionage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
+ninja-head,head,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KF5ePuGfhgtxnacu9cq9PvLK,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.928621,,1
+ninja-head,hidden,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KF5ePuGfhgtxnacu9cq9PvLK,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.928621,,1
+ninja-head,martial arts,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
+ninja-head,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
+ninja-head,ninja,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
+ninja-head,stealth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
+ninja-head,warrior,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
+ninja-head,Japanese culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KF5ePuGfhgtxnacu9cq9PvLK,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.928621,,1
+ninja-head,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
+ninja-head,covert,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KF5ePuGfhgtxnacu9cq9PvLK,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.928621,,1
+ninja-head,disguise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
+ninja-head,graphic design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KF5ePuGfhgtxnacu9cq9PvLK,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.928621,,1
+ninja-head,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
+ninja-head,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KF5ePuGfhgtxnacu9cq9PvLK,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.928621,,1
+ninja-head,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
+ninja-head,samurai,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
+ninja-head,secretive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
 ninja-head,shadow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
+ninja-head,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
 ninja-head,sneak,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
+ninja-head,swift,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KF5ePuGfhgtxnacu9cq9PvLK,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.928621,,1
 ninja-head,sword,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
+ninja-head,vigilante,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KF5ePuGfhgtxnacu9cq9PvLK,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.928621,,1
 ninja-head,action,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
 ninja-head,character,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,cunning,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
+ninja-head,cunning,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
+ninja-head,expressionless,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KF5ePuGfhgtxnacu9cq9PvLK,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.928621,,1
+ninja-head,generic avatar,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KF5ePuGfhgtxnacu9cq9PvLK,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.928621,,1
 ninja-head,guardian,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
 ninja-head,identity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
 ninja-head,legendary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
 ninja-head,mythical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
+ninja-head,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2
 ninja-head,skill,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
-ninja-head,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,1
+ninja-head,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7JqdEljKrQSmZXaGTDSWCovW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.490949,,2

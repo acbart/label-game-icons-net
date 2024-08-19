@@ -1,25 +1,53 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-lantern,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
+lantern,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,2
 lantern,building,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
 lantern,church,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
+lantern,clarity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
 lantern,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
+lantern,guiding light,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,illumination,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,lantern,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,light source,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
 lantern,religion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
 lantern,steeple,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
+lantern,symbolic light,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
 lantern,window,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
 lantern,Christianity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
+lantern,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,beacon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
 lantern,bell tower,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
 lantern,cathedral,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
+lantern,central,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,circular design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,classic design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
 lantern,community,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
+lantern,cross shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,direction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
 lantern,faith,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
+lantern,framework,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
 lantern,holy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
 lantern,house of prayer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
 lantern,iconic structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
+lantern,lamp,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,orientation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
 lantern,place of worship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
 lantern,sacred,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
+lantern,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
 lantern,spirituality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
+lantern,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,window pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
 lantern,worship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
 lantern,congregation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
 lantern,heritage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
 lantern,historical building,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
+lantern,home,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
 lantern,landmark,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
 lantern,place of gathering,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2sBG7gR9no0daOzlndm3JJlO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.199685,,1
+lantern,public space,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,strong base,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1
+lantern,tradition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0QThwn6TXoEucWOl4bAIvRqO,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.544053,,1

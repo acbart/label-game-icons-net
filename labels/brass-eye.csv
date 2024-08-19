@@ -1,26 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 brass-eye,circular motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
-brass-eye,spiral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
-brass-eye,swirl,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
-brass-eye,vortex,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
+brass-eye,insight,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
+brass-eye,mind's eye,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
+brass-eye,observation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
+brass-eye,perception,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
+brass-eye,spiral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,2
+brass-eye,swirl,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,2
+brass-eye,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
+brass-eye,vision,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
+brass-eye,vortex,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,2
+brass-eye,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
 brass-eye,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
+brass-eye,awareness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
 brass-eye,center,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
+brass-eye,centralized,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
 brass-eye,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
+brass-eye,circular shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
+brass-eye,concentric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
+brass-eye,curvature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
 brass-eye,cyclone,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
 brass-eye,cyclonic pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
 brass-eye,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
 brass-eye,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
-brass-eye,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
+brass-eye,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,2
 brass-eye,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
-brass-eye,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
+brass-eye,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
+brass-eye,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
+brass-eye,perspective,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
+brass-eye,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,2
+brass-eye,spiral pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
+brass-eye,target,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
 brass-eye,tornado,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
 brass-eye,whirl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
 brass-eye,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
 brass-eye,design element,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
 brass-eye,energy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
-brass-eye,eye,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
+brass-eye,eye,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,2
 brass-eye,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
 brass-eye,helix,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
 brass-eye,round shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
+brass-eye,roundness,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
 brass-eye,symbolic eye,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1
+brass-eye,universe,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qgvvITbAoXRSVCqfEBFSqbE3,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.694885,,1
 brass-eye,wave,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mAsUHNfZhnkvQ5Y6CVAI1i0L,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.067536,,1

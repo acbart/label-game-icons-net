@@ -1,24 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-card-7-spades,card game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
-card-7-spades,deck of cards,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
+card-7-spades,card game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,2
+card-7-spades,deck of cards,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,2
 card-7-spades,gambling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
-card-7-spades,number seven,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
-card-7-spades,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
+card-7-spades,number seven,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,2
+card-7-spades,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,2
 card-7-spades,poker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
 card-7-spades,spade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
+card-7-spades,spades suit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
 card-7-spades,suits,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
+card-7-spades,abstract design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
 card-7-spades,blackjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
 card-7-spades,bridge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
+card-7-spades,card collection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
+card-7-spades,card ranking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
 card-7-spades,card trick,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
 card-7-spades,casino,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
+card-7-spades,classic game,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
 card-7-spades,deck shuffle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
+card-7-spades,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
 card-7-spades,game night,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
 card-7-spades,game rules,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
+card-7-spades,game symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
+card-7-spades,graphic representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
+card-7-spades,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
 card-7-spades,luck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
+card-7-spades,numeric symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
 card-7-spades,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
+card-7-spades,strategy game,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
+card-7-spades,symbolic meaning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
+card-7-spades,visual pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
 card-7-spades,ace high,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
+card-7-spades,card counting,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
 card-7-spades,clubs,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
 card-7-spades,diamonds,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
 card-7-spades,full house,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
 card-7-spades,hearts,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1
+card-7-spades,leisure activity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
+card-7-spades,lucky number,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
+card-7-spades,minimalist artwork,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
+card-7-spades,random chance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNssU702SsVeFQKd6f7QSyZV,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.448500,,1
 card-7-spades,ranking,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PZSi70qCL8GfIoIucELOrJIw,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.150767,,1

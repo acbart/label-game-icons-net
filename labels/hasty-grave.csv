@@ -1,25 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+hasty-grave,abstract,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.758478,,1
 hasty-grave,asymmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
-hasty-grave,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.307100,,1
+hasty-grave,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.307100,,2
+hasty-grave,cross,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.757617,,1
+hasty-grave,death,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.757617,,1
+hasty-grave,ending,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.758478,,1
+hasty-grave,final resting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.757617,,1
+hasty-grave,grave,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.757617,,1
+hasty-grave,hasty,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.757617,,1
 hasty-grave,instability,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
 hasty-grave,leaning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
+hasty-grave,loss,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.758478,,1
 hasty-grave,position,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
 hasty-grave,posture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
-hasty-grave,stability,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
+hasty-grave,stability,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,2
 hasty-grave,tilted,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
+hasty-grave,tombstone,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.757617,,1
 hasty-grave,toppling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
 hasty-grave,abstract person,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
+hasty-grave,anguish,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.758478,,1
+hasty-grave,burial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.757617,,1
 hasty-grave,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
 hasty-grave,curve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
 hasty-grave,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
 hasty-grave,figure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
 hasty-grave,form,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
+hasty-grave,funeral,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.757617,,1
 hasty-grave,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
+hasty-grave,immediate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.757617,,1
+hasty-grave,impermanence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.758478,,1
+hasty-grave,life cycle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.758478,,1
+hasty-grave,memorial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.757617,,1
+hasty-grave,minimalism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.758478,,1
 hasty-grave,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
 hasty-grave,modern art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
 hasty-grave,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
 hasty-grave,oblique,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
+hasty-grave,quick,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.757617,,1
+hasty-grave,resting place,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.757617,,1
+hasty-grave,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.758478,,1
 hasty-grave,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
-hasty-grave,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
+hasty-grave,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,2
+hasty-grave,temporary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.758478,,1
+hasty-grave,urgency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_J8bGZpFhQwOGG5pa2kShQxj1,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.757617,,1
 hasty-grave,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1
 hasty-grave,balance beam,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u9fHeZckeafflxEOieY9aq5t,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.308098,,1

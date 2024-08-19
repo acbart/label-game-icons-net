@@ -1,27 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-moon-orbit,astronomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
-moon-orbit,orbit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
-moon-orbit,planet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
+moon-orbit,astronomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,2
+moon-orbit,celestial body,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
+moon-orbit,moon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.116111,,1
+moon-orbit,orbit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,2
+moon-orbit,orbit ring,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
+moon-orbit,planet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,2
 moon-orbit,ring,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
-moon-orbit,space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
+moon-orbit,space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,2
 moon-orbit,spherical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
+moon-orbit,astral,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
 moon-orbit,astronautics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
 moon-orbit,astrophysics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
 moon-orbit,celestial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
+moon-orbit,celestial mechanics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
+moon-orbit,circular trajectory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
 moon-orbit,cosmic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
-moon-orbit,cosmos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
+moon-orbit,cosmos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,2
 moon-orbit,galaxy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
 moon-orbit,gravitational,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
+moon-orbit,gravitational pull,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
 moon-orbit,heavenly body,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
+moon-orbit,lunar cycle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
 moon-orbit,orb,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
 moon-orbit,orbital path,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
 moon-orbit,planetary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
+moon-orbit,planetary motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
 moon-orbit,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
-moon-orbit,satellite,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
+moon-orbit,rotational path,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
+moon-orbit,satellite,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,2
 moon-orbit,saturn,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
-moon-orbit,solar system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
+moon-orbit,solar system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,2
+moon-orbit,space exploration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
+moon-orbit,spherical shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
 moon-orbit,stellar,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
 moon-orbit,trajectory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
-moon-orbit,universe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
+moon-orbit,universe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,2
+moon-orbit,abstract shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
+moon-orbit,astro-navigation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
+moon-orbit,icon design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
 moon-orbit,navigation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
 moon-orbit,sidereal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J4615wQyFhvsEQMmOO7jjpWP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.894525,,1
+moon-orbit,spacial dynamics,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1
+moon-orbit,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_78vOjKIkWJhPjZdnCIK0HTo3,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.117149,,1

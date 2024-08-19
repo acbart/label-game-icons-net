@@ -1,25 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 sofa,armrest,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
-sofa,furniture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
+sofa,couch,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
+sofa,furniture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,2
 sofa,seat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
-sofa,seating,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
-sofa,sofa,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
+sofa,seating,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,2
+sofa,sofa,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,2
 sofa,armchair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
-sofa,backrest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
-sofa,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
-sofa,cushion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
-sofa,decor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
-sofa,home,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
+sofa,arms,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
+sofa,backrest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,2
+sofa,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,2
+sofa,cushion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,2
+sofa,decor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,2
+sofa,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
+sofa,furnishings,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
+sofa,gathering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
+sofa,home,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,2
 sofa,home essentials,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
+sofa,hospitality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
 sofa,household,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
+sofa,interior,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
 sofa,interior design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
-sofa,living room,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
-sofa,lounge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
+sofa,living room,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,2
+sofa,lounge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,2
 sofa,relax,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
+sofa,relaxation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
 sofa,rest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
+sofa,social,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
+sofa,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
 sofa,two-seater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
-sofa,upholstery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
+sofa,upholstery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,2
+sofa,arrangement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
 sofa,casual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
 sofa,comfort zone,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
-sofa,domestic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
-sofa,leisure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,1
+sofa,domestic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,2
+sofa,environment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
+sofa,family,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
+sofa,hosting,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
+sofa,layout,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
+sofa,leisure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Sw4zS4uKYDLTnELQGyxwFnuX,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.914446,,2
+sofa,room,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1
+sofa,space,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZwRPxLFhae3JZGgQmxlWV0tq,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.807984,,1

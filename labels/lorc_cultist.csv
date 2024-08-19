@@ -1,24 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 lorc_cultist,anonymity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
 lorc_cultist,cloak,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
-lorc_cultist,hidden identity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
-lorc_cultist,hooded figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
-lorc_cultist,mystery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
-lorc_cultist,secrecy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
+lorc_cultist,cultist,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,dark arts,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,esoteric,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,hidden identity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,2
+lorc_cultist,hooded figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,2
+lorc_cultist,mystery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,2
+lorc_cultist,occult,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,ritual,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,secrecy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,2
 lorc_cultist,unknown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
+lorc_cultist,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,arcane,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,ceremony,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,cloaked,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
 lorc_cultist,concealment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
 lorc_cultist,enigma,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
+lorc_cultist,enigmatic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
 lorc_cultist,faceless,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
+lorc_cultist,follower,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,gathering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,inscrutable,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
 lorc_cultist,intimidation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
+lorc_cultist,masked,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,mysterious,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
 lorc_cultist,obscure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
-lorc_cultist,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
+lorc_cultist,organization,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,paranormal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,secretive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,2
 lorc_cultist,specter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
 lorc_cultist,stealth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
+lorc_cultist,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,consciousness,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
+lorc_cultist,countenance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
 lorc_cultist,gaunt,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
 lorc_cultist,gothic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
 lorc_cultist,guarded,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
+lorc_cultist,invisible,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
 lorc_cultist,ominous,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
 lorc_cultist,ominous figure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
 lorc_cultist,shadowy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
 lorc_cultist,sinister,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1
+lorc_cultist,unseen,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Y4lzrJMZF7HXCFYOkTnlnpEF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.095015,,1
 lorc_cultist,vigilant,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vhnJPkJPkFxChp3Gnl66YvOt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.394411,,1

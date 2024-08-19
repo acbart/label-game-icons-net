@@ -1,25 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-polo-shirt,apparel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
+polo-shirt,apparel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,2
 polo-shirt,clothes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
-polo-shirt,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
-polo-shirt,collar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
-polo-shirt,garment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
+polo-shirt,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,2
+polo-shirt,collar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,2
+polo-shirt,garment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,2
+polo-shirt,neckline,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
 polo-shirt,polo,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
-polo-shirt,shirt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
-polo-shirt,short sleeves,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
+polo-shirt,polo-shirt,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
+polo-shirt,shirt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,2
+polo-shirt,short sleeves,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,2
 polo-shirt,top,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
 polo-shirt,upper garment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
+polo-shirt,attire,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
+polo-shirt,button,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
+polo-shirt,casual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
 polo-shirt,casual wear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
 polo-shirt,daywear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
-polo-shirt,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
-polo-shirt,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
+polo-shirt,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,2
+polo-shirt,dress code,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
+polo-shirt,dress shirt,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
+polo-shirt,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,2
+polo-shirt,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
 polo-shirt,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
 polo-shirt,outfit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
+polo-shirt,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
 polo-shirt,simple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
+polo-shirt,sportswear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
 polo-shirt,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
 polo-shirt,summer clothing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
-polo-shirt,wardrobe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
+polo-shirt,topwear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
+polo-shirt,uniform,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
+polo-shirt,wardrobe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,2
 polo-shirt,wardrobe item,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
+polo-shirt,aesthetic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
+polo-shirt,brand logo,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
 polo-shirt,decor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
-polo-shirt,icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
+polo-shirt,icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,2
 polo-shirt,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JItSSnbXuiq9gjubOPnHANBg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.331260,,1
+polo-shirt,illustration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
+polo-shirt,minimalistic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
+polo-shirt,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
+polo-shirt,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1
+polo-shirt,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TVUKVIpdbcR8Y6ZAIWHMWHmD,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.785617,,1

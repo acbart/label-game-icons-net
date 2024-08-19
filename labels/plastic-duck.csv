@@ -1,21 +1,33 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 plastic-duck,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,1
 plastic-duck,bath toy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,1
-plastic-duck,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,1
-plastic-duck,duck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,1
+plastic-duck,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,2
+plastic-duck,duck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,2
 plastic-duck,icon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.294257,,1
-plastic-duck,rubber duck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,1
-plastic-duck,toy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.294257,,1
+plastic-duck,rubber duck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,2
+plastic-duck,toy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.294257,,2
 plastic-duck,waterfowl,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,1
+plastic-duck,abstract animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNJU6CLeQhQkEQeYF8iS56Ir,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.640663,,1
 plastic-duck,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,1
-plastic-duck,childhood,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.294257,,1
+plastic-duck,bathroom,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNJU6CLeQhQkEQeYF8iS56Ir,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.640663,,1
+plastic-duck,bathtime,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNJU6CLeQhQkEQeYF8iS56Ir,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.640663,,1
+plastic-duck,childhood,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.294257,,2
+plastic-duck,classic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNJU6CLeQhQkEQeYF8iS56Ir,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.640663,,1
+plastic-duck,contour,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNJU6CLeQhQkEQeYF8iS56Ir,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.640663,,1
+plastic-duck,curve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNJU6CLeQhQkEQeYF8iS56Ir,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.640663,,1
+plastic-duck,cute,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNJU6CLeQhQkEQeYF8iS56Ir,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.640663,,1
 plastic-duck,feathered,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,1
+plastic-duck,float,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNJU6CLeQhQkEQeYF8iS56Ir,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.640663,,1
 plastic-duck,floating,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,1
-plastic-duck,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.294257,,1
+plastic-duck,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNJU6CLeQhQkEQeYF8iS56Ir,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.640663,,1
+plastic-duck,lighthearted,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNJU6CLeQhQkEQeYF8iS56Ir,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.640663,,1
+plastic-duck,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.294257,,2
 plastic-duck,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.294257,,1
-plastic-duck,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.294257,,1
-plastic-duck,playful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,1
+plastic-duck,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.294257,,2
+plastic-duck,playful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,2
 plastic-duck,pond,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.294257,,1
 plastic-duck,quack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.294257,,1
-plastic-duck,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,1
-plastic-duck,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.294257,,1
+plastic-duck,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.293257,,2
+plastic-duck,simple shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNJU6CLeQhQkEQeYF8iS56Ir,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.640663,,1
+plastic-duck,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5JR9Ej7kaFKdh8AGmK4vesgz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.294257,,2
+plastic-duck,whimsical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNJU6CLeQhQkEQeYF8iS56Ir,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.640663,,1

@@ -1,24 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 poland,area,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
+poland,border,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
 poland,borders,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
 poland,boundary,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
 poland,country,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
+poland,country shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
+poland,geographic representation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
 poland,geography,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
-poland,location,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
+poland,location,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,2
 poland,map,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
-poland,outline,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
+poland,map outline,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
+poland,national boundary,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
+poland,outline,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,2
 poland,region,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
 poland,state,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
-poland,territory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
+poland,territorial outline,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
+poland,territory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,2
 poland,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
+poland,cartographic icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
 poland,cartography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
+poland,contour,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
 poland,demarcation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
 poland,district,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
+poland,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
 poland,land,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
+poland,landmass,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
+poland,national identity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
+poland,political map,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
 poland,provinces,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
+poland,regional symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
+poland,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
 poland,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
-poland,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
+poland,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,2
+poland,abstract depiction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
+poland,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
 poland,continent,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
+poland,figure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfjXVxdkd9ww3qbp4cqypOmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.761723,,1
 poland,identity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
 poland,nation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1
 poland,political,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UACWodcLegbhzxZaaUr1HX11,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.322259,,1

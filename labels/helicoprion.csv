@@ -1,24 +1,52 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+helicoprion,ancient marine life,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
 helicoprion,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
+helicoprion,extinct species,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
+helicoprion,fossil,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
+helicoprion,helicoprion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
 helicoprion,mouth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
 helicoprion,predator,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
-helicoprion,shark,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
+helicoprion,prehistoric,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
+helicoprion,saw-like,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
+helicoprion,shark,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,2
+helicoprion,spiral jaw,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
 helicoprion,teeth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
 helicoprion,threat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
+helicoprion,toothwhorl,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
+helicoprion,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
 helicoprion,aggression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
 helicoprion,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
+helicoprion,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
 helicoprion,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
+helicoprion,evolutionary biology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
 helicoprion,fear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
 helicoprion,fish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
+helicoprion,geometric design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
+helicoprion,iconic jaw,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
 helicoprion,jaw,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
+helicoprion,jaw design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
 helicoprion,marine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
+helicoprion,marine symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
+helicoprion,natural history,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
 helicoprion,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
 helicoprion,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
+helicoprion,paleontological symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
+helicoprion,paleontology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
+helicoprion,prehistoric predator,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
 helicoprion,sea creature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
+helicoprion,sea predator,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
+helicoprion,spiral motif,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
+helicoprion,spiral shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
+helicoprion,symbolic shark,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
+helicoprion,tooth pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
 helicoprion,triangle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
 helicoprion,water,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
 helicoprion,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
+helicoprion,abstract marine,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
 helicoprion,adventure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
+helicoprion,artistic interpretation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
+helicoprion,historical illustration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
 helicoprion,icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
+helicoprion,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GnKVfXcNYnEtIvCPgl1GtL9g,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.794008,,1
 helicoprion,safety,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1
 helicoprion,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WKDVfOAa9iL2CnLMYNaLWm9t,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.247725,,1

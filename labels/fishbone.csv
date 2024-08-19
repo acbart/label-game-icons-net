@@ -1,26 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-fishbone,fishbone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
+fishbone,fishbone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,2
 fishbone,remains,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
-fishbone,skeleton,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
-fishbone,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
-fishbone,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
-fishbone,anatomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
+fishbone,skeleton,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,2
+fishbone,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,2
+fishbone,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,2
+fishbone,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
+fishbone,anatomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,2
 fishbone,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
 fishbone,bare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
-fishbone,bones,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
+fishbone,bones,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,2
 fishbone,bony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
+fishbone,cause and effect,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
+fishbone,chart,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
+fishbone,concept,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
+fishbone,debugging,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
 fishbone,decomposition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
+fishbone,diagram,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
 fishbone,fish anatomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
+fishbone,framework,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
 fishbone,marine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
+fishbone,metaphor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
+fishbone,minimalism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
 fishbone,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
 fishbone,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
+fishbone,organization,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
+fishbone,problem solving,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
+fishbone,process,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
 fishbone,skeletal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
 fishbone,spine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
-fishbone,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
+fishbone,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,2
+fishbone,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
 fishbone,diet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
 fishbone,essence,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
 fishbone,exoskeleton,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
-fishbone,line art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
-fishbone,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
+fishbone,flowchart,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
+fishbone,line art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,2
+fishbone,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,2
+fishbone,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1
 fishbone,seafood,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
 fishbone,simplistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c6ynUIDxHnsqMld1Fw5ly3jA,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.726837,,1
+fishbone,visualization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oLyGMGvcHIqVUghe8oMkiEN5,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.584299,,1

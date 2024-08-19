@@ -1,24 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-imprisoned,chains,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118579,,1
+imprisoned,chains,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118579,,2
 imprisoned,childhood,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118501,,1
+imprisoned,detention,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
+imprisoned,imprisonment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
+imprisoned,incarceration,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
 imprisoned,park,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118640,,1
 imprisoned,playground,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118501,,1
+imprisoned,restraint,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
 imprisoned,swing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118501,,1
 imprisoned,youth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118640,,1
+imprisoned,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
 imprisoned,activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118640,,1
 imprisoned,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118579,,1
+imprisoned,ball and chain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
+imprisoned,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
+imprisoned,captivity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
+imprisoned,confinement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
+imprisoned,constraint,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
+imprisoned,containment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
 imprisoned,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118640,,1
 imprisoned,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118640,,1
 imprisoned,fun,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118579,,1
 imprisoned,gravity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118640,,1
 imprisoned,hanging,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118579,,1
+imprisoned,justice system,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
 imprisoned,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118640,,1
+imprisoned,limitation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
+imprisoned,lockdown,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
 imprisoned,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118579,,1
+imprisoned,oppression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
 imprisoned,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118579,,1
+imprisoned,punishment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
 imprisoned,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118579,,1
+imprisoned,restriction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
 imprisoned,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118579,,1
 imprisoned,seat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118579,,1
+imprisoned,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
 imprisoned,suspension,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118579,,1
+imprisoned,symbolic imprisonment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
+imprisoned,trapped,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
 imprisoned,amusement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118640,,1
+imprisoned,authority,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
+imprisoned,boundary,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
 imprisoned,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118640,,1
 imprisoned,pendulum,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FMs0FuIErHj5FOj9WO9wNDHj,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.118640,,1
+imprisoned,power,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1
+imprisoned,protection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zFZ0CsWHfR2dIzymKDoZxgrd,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.266737,,1

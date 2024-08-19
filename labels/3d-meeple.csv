@@ -1,26 +1,55 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+3d-meeple,3D,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,board game,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,figurine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
+3d-meeple,game piece,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,guidance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,meeple,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
 3d-meeple,path,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,player piece,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,route,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
+3d-meeple,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,abstract person,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
 3d-meeple,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,character,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,choice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
 3d-meeple,decision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,destination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
 3d-meeple,explorer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
 3d-meeple,forward,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,game night,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
+3d-meeple,gaming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,goal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
+3d-meeple,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,initiative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
 3d-meeple,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
 3d-meeple,leader,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
 3d-meeple,movement forward,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
 3d-meeple,opportunity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
+3d-meeple,pawn,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
+3d-meeple,play,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
+3d-meeple,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
+3d-meeple,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,symbolic figure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,token,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
 3d-meeple,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
 3d-meeple,wayfinding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cEEYk2uEn94sHDjLVtDyOO3l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.532966,,1
+3d-meeple,depiction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
+3d-meeple,figure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
+3d-meeple,hobby,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
+3d-meeple,model,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
+3d-meeple,playtime,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1
+3d-meeple,recreation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yuS6NtptDYO2RWaQKRlSG35S,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.118089,,1

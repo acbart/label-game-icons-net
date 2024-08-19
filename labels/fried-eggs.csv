@@ -1,25 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-fried-eggs,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
+fried-eggs,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,2
 fried-eggs,blobs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
+fried-eggs,breakfast,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,cooking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
 fried-eggs,creature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
+fried-eggs,egg whites,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,egg yolk,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
 fried-eggs,eyes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
 fried-eggs,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
 fried-eggs,fluid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
+fried-eggs,food,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,fried eggs,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
 fried-eggs,organic shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
 fried-eggs,spots,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
 fried-eggs,alien,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
 fried-eggs,amorphous,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
 fried-eggs,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
+fried-eggs,circular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
 fried-eggs,curved,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
 fried-eggs,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
 fried-eggs,holes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
 fried-eggs,imaginative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
-fried-eggs,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
+fried-eggs,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,meal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,2
 fried-eggs,mysterious,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
+fried-eggs,organic shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,protein,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
 fried-eggs,pseudo-biological,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
+fried-eggs,round,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
 fried-eggs,rounded,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
+fried-eggs,simple shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,skillet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
 fried-eggs,splotches,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
 fried-eggs,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
 fried-eggs,unique,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
+fried-eggs,whites,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,bubble,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,dining,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,gourmet,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,morning,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,nutrition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,pan,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,savory,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
 fried-eggs,simple,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1
+fried-eggs,sizzling,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
+fried-eggs,snack,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S9HeQZpLSVzQjXnWIIoL5cIT,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.686785,,1
 fried-eggs,unconventional,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bQdTG9TN2iDgmYipJQ8rgxRo,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.990413,,1

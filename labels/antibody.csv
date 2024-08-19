@@ -1,23 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 antibody,Y shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
-antibody,antibody,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
-antibody,binding,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
-antibody,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
-antibody,immune system,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
-antibody,immunology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
-antibody,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
+antibody,Y-shaped,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
+antibody,antibody,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,2
+antibody,antigen,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
+antibody,binding,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,2
+antibody,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,2
+antibody,disease,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
+antibody,immune system,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,2
+antibody,immunology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,2
+antibody,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,2
 antibody,protein,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
-antibody,biological,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
+antibody,protein structure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
+antibody,specificity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
+antibody,biochemistry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
+antibody,biological,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,2
 antibody,bioscience,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
 antibody,cell,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
 antibody,chemistry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
+antibody,clinical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
+antibody,cure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
+antibody,diagnosis,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
 antibody,diagnostics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
-antibody,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
-antibody,laboratory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
+antibody,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,2
+antibody,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
+antibody,laboratory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,2
 antibody,medical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
-antibody,medicine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
+antibody,medicine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,2
 antibody,molecular biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
-antibody,molecule,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
-antibody,recognition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
-antibody,research,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
-antibody,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,1
+antibody,molecule,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,2
+antibody,pathogen,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
+antibody,recognition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,2
+antibody,research,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,2
+antibody,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bTEpySuGkVFBBEF39DvhtAiB,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.618762,,2
+antibody,therapeutic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
+antibody,virus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
+antibody,epitope,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
+antibody,leverage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1
+antibody,serum,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_T7XRy2MxkiVF8M6Yfr8CANdC,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.457416,,1

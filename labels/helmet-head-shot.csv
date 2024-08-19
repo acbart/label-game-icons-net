@@ -1,31 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-helmet-head-shot,burst,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
-helmet-head-shot,collision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
+helmet-head-shot,burst,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,2
+helmet-head-shot,collision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,2
 helmet-head-shot,crash,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
-helmet-head-shot,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
-helmet-head-shot,force,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
-helmet-head-shot,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
+helmet-head-shot,damage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
+helmet-head-shot,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,2
+helmet-head-shot,force,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,2
+helmet-head-shot,headshot,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
+helmet-head-shot,helmet,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
+helmet-head-shot,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,2
+helmet-head-shot,injury,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
 helmet-head-shot,smash,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
+helmet-head-shot,threat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
+helmet-head-shot,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
 helmet-head-shot,accident,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
-helmet-head-shot,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
+helmet-head-shot,action,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
+helmet-head-shot,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,2
+helmet-head-shot,attack,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
 helmet-head-shot,break,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
 helmet-head-shot,catastrophe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
-helmet-head-shot,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
+helmet-head-shot,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
+helmet-head-shot,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,2
+helmet-head-shot,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
 helmet-head-shot,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
 helmet-head-shot,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
 helmet-head-shot,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
 helmet-head-shot,potential hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
 helmet-head-shot,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
+helmet-head-shot,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
 helmet-head-shot,radial lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
+helmet-head-shot,safety gear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
+helmet-head-shot,spike,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
 helmet-head-shot,stress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
+helmet-head-shot,strike,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
 helmet-head-shot,unexpected event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
-helmet-head-shot,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
-helmet-head-shot,aggression,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
+helmet-head-shot,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,2
+helmet-head-shot,aggression,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,2
 helmet-head-shot,chaos,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
 helmet-head-shot,impact resistance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
+helmet-head-shot,reaction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
 helmet-head-shot,risk,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
 helmet-head-shot,shock,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
 helmet-head-shot,sudden change,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
+helmet-head-shot,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_exUVAZ3Gve6jWwr9uV6gTiIs,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.909255,,1
 helmet-head-shot,transformation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
 helmet-head-shot,turbulence,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1
 helmet-head-shot,unpredictable,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lAzL2fHpJufKI7uzjTurRv2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.024911,,1

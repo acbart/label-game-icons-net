@@ -1,25 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 ushanka,authority,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
 ushanka,badge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
+ushanka,cold,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
+ushanka,headwear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
 ushanka,law enforcement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
 ushanka,officer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
 ushanka,police,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
 ushanka,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
 ushanka,service,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
+ushanka,ushanka,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
+ushanka,winter,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
+ushanka,Russian,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
 ushanka,community,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
+ushanka,culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
 ushanka,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
-ushanka,hat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
-ushanka,headgear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
-ushanka,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
+ushanka,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
+ushanka,fur,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
+ushanka,hat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,2
+ushanka,headgear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,2
+ushanka,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
+ushanka,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
+ushanka,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,2
 ushanka,insignia,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
+ushanka,military,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
+ushanka,national,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
 ushanka,official,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
 ushanka,order,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
 ushanka,profession,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
-ushanka,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
+ushanka,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,2
 ushanka,rank,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
-ushanka,star,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
+ushanka,star,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,2
 ushanka,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
+ushanka,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
+ushanka,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
 ushanka,uniform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
+ushanka,warmth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
+ushanka,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
+ushanka,formal wear,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
+ushanka,historical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
 ushanka,leadership,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
 ushanka,organization,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
-ushanka,representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,1
+ushanka,protection from cold,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1
+ushanka,representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OzNUbOyTSDAOR6ZXKvExc8Lb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.469414,,2
+ushanka,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_llYVLNx71VIgrn0buco4JDHy,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.158690,,1

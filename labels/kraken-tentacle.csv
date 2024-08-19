@@ -1,26 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-kraken-tentacle,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
+kraken-tentacle,attack,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
+kraken-tentacle,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,2
 kraken-tentacle,disaster,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
+kraken-tentacle,fantasy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
+kraken-tentacle,kraken,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
 kraken-tentacle,marine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
 kraken-tentacle,mast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
-kraken-tentacle,nautical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
-kraken-tentacle,ocean,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
+kraken-tentacle,mythical creature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
+kraken-tentacle,nautical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,2
+kraken-tentacle,ocean,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,2
 kraken-tentacle,peril,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
-kraken-tentacle,sea,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
+kraken-tentacle,sea,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,2
+kraken-tentacle,sea monster,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
 kraken-tentacle,shipwreck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
+kraken-tentacle,tentacle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
+kraken-tentacle,tentacle grasp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
 kraken-tentacle,wreck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
-kraken-tentacle,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
+kraken-tentacle,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,2
 kraken-tentacle,drama,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
 kraken-tentacle,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
-kraken-tentacle,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
+kraken-tentacle,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,2
+kraken-tentacle,fear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
+kraken-tentacle,giant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
+kraken-tentacle,grip,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
 kraken-tentacle,history,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
-kraken-tentacle,legend,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
-kraken-tentacle,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
-kraken-tentacle,sailing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
+kraken-tentacle,horror,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
+kraken-tentacle,legend,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,2
+kraken-tentacle,marine life,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
+kraken-tentacle,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,2
+kraken-tentacle,pirate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
+kraken-tentacle,sailing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,2
+kraken-tentacle,ship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
 kraken-tentacle,story,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
+kraken-tentacle,suction cups,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
+kraken-tentacle,unknown,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
+kraken-tentacle,voyage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
 kraken-tentacle,wave,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
-kraken-tentacle,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
+kraken-tentacle,waves,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
+kraken-tentacle,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,2
 kraken-tentacle,artistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
+kraken-tentacle,curved lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
 kraken-tentacle,curves,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
+kraken-tentacle,fable,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RaWEBWIcF047qyKv75SoxM9h,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.994472,,1
 kraken-tentacle,oceanography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1
 kraken-tentacle,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aW7JkksvrK43WUnRNptxYPUL,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.567995,,1

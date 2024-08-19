@@ -1,26 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+marble-tap,aim,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
 marble-tap,clicking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
-marble-tap,control,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
-marble-tap,fingers,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
+marble-tap,control,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,2
+marble-tap,fingers,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,2
+marble-tap,game,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
 marble-tap,gesture control,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
+marble-tap,hand,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
 marble-tap,hand gesture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
-marble-tap,interaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
+marble-tap,interaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,2
+marble-tap,marble,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
+marble-tap,play,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
 marble-tap,pointing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
-marble-tap,precision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
+marble-tap,precision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,2
 marble-tap,selection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
 marble-tap,accessibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
-marble-tap,dexterity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
+marble-tap,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
+marble-tap,circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
+marble-tap,competition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
+marble-tap,coordination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
+marble-tap,dexterity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,2
 marble-tap,digital action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
-marble-tap,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
+marble-tap,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,2
+marble-tap,gesture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
 marble-tap,hand motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
 marble-tap,indicator,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
 marble-tap,input method,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
 marble-tap,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
+marble-tap,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
 marble-tap,operation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
 marble-tap,point and click,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
+marble-tap,skill,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
+marble-tap,target,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
+marble-tap,throw,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
 marble-tap,touch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
 marble-tap,user action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
 marble-tap,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
+marble-tap,action,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
+marble-tap,angle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
 marble-tap,interactive,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
+marble-tap,object,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
+marble-tap,sphere,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YL89JUrO2BYH5ffTE3YjZRNz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.629382,,1
 marble-tap,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1
 marble-tap,virtual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCphmWtdd4WuptXD1f0Cvvi4,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.744573,,1

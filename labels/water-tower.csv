@@ -1,27 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-water-tower,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
+water-tower,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,2
 water-tower,building,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
 water-tower,foundation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
-water-tower,framework,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
+water-tower,framework,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,2
+water-tower,infrastructure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
 water-tower,organization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
+water-tower,public service,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,reservoir,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
 water-tower,stability,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
-water-tower,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
-water-tower,support,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
+water-tower,storage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,storage-tank,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,2
+water-tower,support,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,2
 water-tower,support beams,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
+water-tower,tower,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,urban,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,water supply,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,water-tower,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
 water-tower,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
 water-tower,classical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
 water-tower,columns,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
 water-tower,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
 water-tower,crossbars,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
-water-tower,elevation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
+water-tower,cylindrical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,distribution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,elevated,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,elevation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,2
+water-tower,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
 water-tower,formality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
 water-tower,government,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
+water-tower,height,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
 water-tower,institution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
 water-tower,pedestal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
-water-tower,platform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
+water-tower,platform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,2
+water-tower,rural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,supply,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
 water-tower,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
+water-tower,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
 water-tower,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
 water-tower,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
 water-tower,temple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
 water-tower,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1
+water-tower,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,utility services,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
+water-tower,maintenance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_H7CUeJofAu51QW49oalgtLWX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.624624,,1
 water-tower,order,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5iIJAHLbT0Yas1koUnkadaLH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.584127,,1

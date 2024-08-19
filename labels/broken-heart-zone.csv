@@ -1,26 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-broken-heart-zone,emotion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
+broken-heart-zone,broken heart,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.764552,,1
+broken-heart-zone,caution,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
+broken-heart-zone,crack,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
+broken-heart-zone,danger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
+broken-heart-zone,danger area,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
+broken-heart-zone,emotion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,2
+broken-heart-zone,emotional zone,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
 broken-heart-zone,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
 broken-heart-zone,heartbeat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
+broken-heart-zone,heartbreak,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
 broken-heart-zone,lightning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
 broken-heart-zone,love,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
+broken-heart-zone,pain,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
+broken-heart-zone,separation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
+broken-heart-zone,split,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
+broken-heart-zone,warning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
+broken-heart-zone,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
+broken-heart-zone,adversity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
+broken-heart-zone,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
 broken-heart-zone,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
+broken-heart-zone,distress,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
+broken-heart-zone,divergence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
 broken-heart-zone,electricity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
 broken-heart-zone,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
+broken-heart-zone,fragility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
 broken-heart-zone,healing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
 broken-heart-zone,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
-broken-heart-zone,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
+broken-heart-zone,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,2
 broken-heart-zone,intensity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
 broken-heart-zone,life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
 broken-heart-zone,life force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
 broken-heart-zone,pulse,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
-broken-heart-zone,ripple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
+broken-heart-zone,relationship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
+broken-heart-zone,ripple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,2
 broken-heart-zone,romance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
+broken-heart-zone,sensitivity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
 broken-heart-zone,shock,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
+broken-heart-zone,sign,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
 broken-heart-zone,vibration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
+broken-heart-zone,vulnerability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
+broken-heart-zone,zone,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I1kQ8afCD7gxuGSUJurBPc2R,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.765549,,1
 broken-heart-zone,bold,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
 broken-heart-zone,burst,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
 broken-heart-zone,circle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
 broken-heart-zone,cycle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
 broken-heart-zone,dramatic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
-broken-heart-zone,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,1
+broken-heart-zone,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xHTUZ8gTZHWXBd0KdoDs320q,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.088546,,2

@@ -1,18 +1,32 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 target-dummy,abstract figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
 target-dummy,action,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
+target-dummy,aim,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
 target-dummy,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
+target-dummy,bullseye,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
+target-dummy,center point,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
+target-dummy,dummy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
 target-dummy,dynamic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
-target-dummy,figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
+target-dummy,figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,2
+target-dummy,focus,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
 target-dummy,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
 target-dummy,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
+target-dummy,practice,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
+target-dummy,shooting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
 target-dummy,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
+target-dummy,target,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
+target-dummy,training,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
 target-dummy,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
+target-dummy,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
+target-dummy,accuracy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
 target-dummy,animation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
 target-dummy,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
+target-dummy,circular pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
+target-dummy,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
 target-dummy,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
 target-dummy,dance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
 target-dummy,energetic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
+target-dummy,exercise,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
 target-dummy,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
 target-dummy,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
 target-dummy,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
@@ -20,8 +34,15 @@ target-dummy,human form,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,bat
 target-dummy,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
 target-dummy,joy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
 target-dummy,life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
-target-dummy,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
+target-dummy,object,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
+target-dummy,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,2
+target-dummy,physical training,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
 target-dummy,playful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
+target-dummy,precision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
 target-dummy,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
-target-dummy,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
+target-dummy,simulation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
+target-dummy,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,2
+target-dummy,form,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
 target-dummy,gestural,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fEGWe6cOyAa9c9XUTrBuIOnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.411478,,1
+target-dummy,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1
+target-dummy,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mYFj79NaNoGNJ8EU2AuZ3nIl,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.806601,,1

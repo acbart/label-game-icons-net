@@ -1,22 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 overmind,bloom,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
 overmind,blossom,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
+overmind,brain,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,central control,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,collective,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,consciousness,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,core,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
 overmind,floral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
 overmind,flower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
+overmind,hive mind,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,intelligence,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,mental connection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,mind,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
 overmind,petals,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
-overmind,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
-overmind,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
+overmind,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,2
+overmind,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,2
 overmind,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
 overmind,botanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
 overmind,center,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
+overmind,central node,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
 overmind,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
 overmind,garden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
 overmind,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
-overmind,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
+overmind,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,2
 overmind,life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
 overmind,natural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
 overmind,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
+overmind,network,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
 overmind,organic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
+overmind,organization,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,overseer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
 overmind,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
+overmind,planning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,psychic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,signals,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
 overmind,spring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
+overmind,strategic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,thought,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,vision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,architecture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
 overmind,decoration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aRhaKD2ykaMlf8Eil9PTldDy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.045043,,1
+overmind,flow,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,nodes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,organic shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1
+overmind,patterns,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7IpjUnhfOLKnDgK4qv1zSITn,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.005688,,1

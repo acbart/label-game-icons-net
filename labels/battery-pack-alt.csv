@@ -1,26 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-battery-pack-alt,battery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
-battery-pack-alt,charge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
-battery-pack-alt,electricity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
-battery-pack-alt,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
-battery-pack-alt,lightning bolt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
-battery-pack-alt,power,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
+battery-pack-alt,battery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,2
+battery-pack-alt,battery pack,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
+battery-pack-alt,charge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,2
+battery-pack-alt,electricity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,2
+battery-pack-alt,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,2
+battery-pack-alt,lightning bolt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,2
+battery-pack-alt,power,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,2
 battery-pack-alt,battery life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
-battery-pack-alt,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
+battery-pack-alt,capacity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
+battery-pack-alt,charger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
+battery-pack-alt,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,2
+battery-pack-alt,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
 battery-pack-alt,electric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
+battery-pack-alt,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
 battery-pack-alt,energy storage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
-battery-pack-alt,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
-battery-pack-alt,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
+battery-pack-alt,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,2
+battery-pack-alt,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,2
+battery-pack-alt,portable power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
+battery-pack-alt,power backup,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
 battery-pack-alt,power source,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
 battery-pack-alt,rechargeable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
 battery-pack-alt,sign,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
-battery-pack-alt,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
-battery-pack-alt,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
+battery-pack-alt,storage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
+battery-pack-alt,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,2
+battery-pack-alt,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,2
 battery-pack-alt,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
-battery-pack-alt,current,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
+battery-pack-alt,blackout prevention,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
+battery-pack-alt,current,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,2
+battery-pack-alt,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
+battery-pack-alt,emergency power,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
 battery-pack-alt,flow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
+battery-pack-alt,gadget,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
 battery-pack-alt,indicator,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
+battery-pack-alt,renewable energy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
+battery-pack-alt,sustainability,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
 battery-pack-alt,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
 battery-pack-alt,utility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
-battery-pack-alt,voltage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1
+battery-pack-alt,voltage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,2
+battery-pack-alt,widget,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dhCMXWA8qSFbmAoYks4od03O,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.584618,,1
 battery-pack-alt,zap,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WuFyNTddH5SoNJOfeYHD7oVT,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.944015,,1

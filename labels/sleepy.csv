@@ -1,21 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+sleepy,closed eyes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
 sleepy,emoticon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
-sleepy,emotion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
-sleepy,expression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
-sleepy,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
+sleepy,emotion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,2
+sleepy,exhaustion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
+sleepy,expression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,2
+sleepy,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,2
+sleepy,fatigue,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
 sleepy,mood,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
+sleepy,rest,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
 sleepy,sad,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
+sleepy,sleepy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
+sleepy,tired,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
 sleepy,unhappy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
-sleepy,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
+sleepy,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,2
+sleepy,calm,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
 sleepy,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
 sleepy,downcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
+sleepy,dozing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
+sleepy,dream,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
+sleepy,eyelids,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
 sleepy,eyes closed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
 sleepy,feeling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
 sleepy,frown,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
 sleepy,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
-sleepy,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
+sleepy,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,2
 sleepy,mouth open,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
-sleepy,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
+sleepy,nap,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
+sleepy,peaceful,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
+sleepy,quiet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
+sleepy,relaxation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
+sleepy,restful,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
+sleepy,serenity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
+sleepy,slumber,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
+sleepy,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,2
+sleepy,tranquil,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
+sleepy,unconscious,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bHMBcIkbbuUYqNox6FW9BZY,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.302301,,1
 sleepy,visual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
 sleepy,artistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1
 sleepy,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KgzE55ZoosuhKS4C7cUjdzdl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.039632,,1

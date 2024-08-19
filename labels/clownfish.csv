@@ -1,26 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+clownfish,aquatic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
 clownfish,bones,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
+clownfish,clownfish,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
 clownfish,death,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
 clownfish,decay,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
-clownfish,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
+clownfish,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,2
 clownfish,fishbone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
+clownfish,marine life,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
 clownfish,remains,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
 clownfish,remnant,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
 clownfish,skeleton,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
 clownfish,anatomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
+clownfish,animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
+clownfish,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
 clownfish,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
 clownfish,bony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
+clownfish,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
 clownfish,diagram,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
+clownfish,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
 clownfish,marine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
-clownfish,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
-clownfish,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
-clownfish,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
-clownfish,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
+clownfish,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,2
+clownfish,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,2
+clownfish,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,2
+clownfish,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,2
+clownfish,sea,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
 clownfish,sea life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
+clownfish,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
 clownfish,skeletal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
 clownfish,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
-clownfish,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
+clownfish,swimming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
+clownfish,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,2
 clownfish,vertebrate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
-clownfish,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
+clownfish,water,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
+clownfish,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
+clownfish,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,2
+clownfish,cartoonish,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
+clownfish,characteristic patterns,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
 clownfish,diet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
+clownfish,distinctive shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
 clownfish,eating,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R5txJGZWMOKMexn5m2UCApYS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.294166,,1
+clownfish,graphic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
+clownfish,navigation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
+clownfish,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1
+clownfish,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aBHzek0lPVdlGIvGsHnWR1Wx,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.125478,,1

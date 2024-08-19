@@ -1,25 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-gems,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
+gems,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,2
 gems,angles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
-gems,crystal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
+gems,crystal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,2
 gems,design,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
 gems,faceted,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
-gems,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
+gems,facets,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,gems,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,2
 gems,irregular shapes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
+gems,jewel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
 gems,multifaceted,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
 gems,polyhedron,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
+gems,precious,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,sparkle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
 gems,three-dimensional,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
 gems,arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
 gems,blocky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
 gems,broken,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
+gems,clarity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,cutting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
 gems,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
 gems,fragmented,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
 gems,gemstone,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
-gems,minerals,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
+gems,luxury,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,minerals,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,2
 gems,modern art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
+gems,ornament,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
 gems,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
+gems,polygon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,riches,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
 gems,scattered,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
 gems,shards,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
 gems,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
+gems,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,sharpness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,shine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
 gems,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
+gems,treasure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,value,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,wealth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,clustering,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,collector,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
 gems,cubism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u1QxwTAUgJqFBmQmYoA9J1Qb,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.866781,,1
+gems,quartz,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,refraction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,sharp outlines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1
+gems,visualize,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G1WTWklFGwyERdXAbu9QKMe5,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.239730,,1

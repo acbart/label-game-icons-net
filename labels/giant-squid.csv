@@ -1,26 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-giant-squid,cephalopod,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
+giant-squid,abstract,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
+giant-squid,cephalopod,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,2
+giant-squid,design,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
+giant-squid,giant squid,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
+giant-squid,marine life,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
+giant-squid,ocean creature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
+giant-squid,sea animal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
 giant-squid,sea creature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
+giant-squid,shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
 giant-squid,squid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
-giant-squid,tentacles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
+giant-squid,tentacles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,2
 giant-squid,Kraken,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
 giant-squid,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
-giant-squid,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
-giant-squid,deep sea,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
+giant-squid,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,2
+giant-squid,deep sea,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,2
+giant-squid,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
 giant-squid,fins,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
 giant-squid,head,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
-giant-squid,ink,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
+giant-squid,ink,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,2
+giant-squid,legendary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
 giant-squid,marine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
+giant-squid,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
+giant-squid,mysterious,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
+giant-squid,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
+giant-squid,nautical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
 giant-squid,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
 giant-squid,octopus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
+giant-squid,predator,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
 giant-squid,sea life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
+giant-squid,survival,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
+giant-squid,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
 giant-squid,tentacled,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
-giant-squid,underwater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
-giant-squid,artistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
-giant-squid,biology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
+giant-squid,underwater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,2
+giant-squid,adventure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
+giant-squid,alien,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
+giant-squid,artistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,2
+giant-squid,biology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,2
 giant-squid,biology study,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
+giant-squid,camouflage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
 giant-squid,cartoonish,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
+giant-squid,curiosity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DiWRQpbhzcBNsNqrU7dQqyw9,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.011589,,1
 giant-squid,illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
-giant-squid,mythical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
+giant-squid,mythical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,2
 giant-squid,nature,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1
 giant-squid,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CcZ1VEFpJkglwPdK6a5YIpKb,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.060868,,1

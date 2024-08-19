@@ -1,26 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 american-shield,aim,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
+american-shield,american,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
 american-shield,bullseye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
-american-shield,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
-american-shield,star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
-american-shield,target,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
+american-shield,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,2
+american-shield,defense,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
+american-shield,protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
+american-shield,security,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
+american-shield,shield,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
+american-shield,star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,2
+american-shield,target,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,2
+american-shield,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
 american-shield,accuracy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
 american-shield,achievement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
+american-shield,badge of honor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
 american-shield,center,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
 american-shield,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
-american-shield,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
+american-shield,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,2
 american-shield,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
 american-shield,goal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
-american-shield,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
+american-shield,guardian,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
+american-shield,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,2
+american-shield,insignia,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
 american-shield,mark,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
 american-shield,mission,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
 american-shield,objective,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
+american-shield,patriotism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
 american-shield,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
 american-shield,ring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
 american-shield,sign,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
 american-shield,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
-american-shield,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
-american-shield,badge,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
+american-shield,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
+american-shield,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,2
+american-shield,badge,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,2
+american-shield,central focus,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
+american-shield,circular,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
+american-shield,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
+american-shield,five-point star,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
 american-shield,guide,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
 american-shield,identification,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
+american-shield,identity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
+american-shield,line art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
 american-shield,navigation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z3GAi4S5fZ61m3mGq4FT47vj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.593765,,1
+american-shield,power,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1
+american-shield,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_p7sQo3hi2LHcsbAi1Yiv6F9F,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.344202,,1

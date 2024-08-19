@@ -1,24 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+milk-carton,beverage container,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.538645,,1
 milk-carton,cow symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
-milk-carton,dairy product,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
+milk-carton,dairy product,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,2
 milk-carton,food icon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
+milk-carton,food packaging,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.538645,,1
 milk-carton,liquid spout,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
-milk-carton,milk carton,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
-milk-carton,nutrition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
+milk-carton,liquid storage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.538645,,1
+milk-carton,milk carton,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,2
+milk-carton,nutrition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,3
 milk-carton,beverage packaging,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
 milk-carton,boxed packaging,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
-milk-carton,breakfast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
+milk-carton,branding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.539586,,1
+milk-carton,breakfast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,2
 milk-carton,carton opening,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
+milk-carton,cattle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.538645,,1
+milk-carton,consumable,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.538645,,1
 milk-carton,consumption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
 milk-carton,cow silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
+milk-carton,daily consumption,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.539586,,1
+milk-carton,daily use,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.538645,,1
 milk-carton,diet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
+milk-carton,drink,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.539586,,1
 milk-carton,drink box,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
+milk-carton,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.538645,,1
+milk-carton,grocery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.538645,,1
 milk-carton,grocery item,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
+milk-carton,grocery shopping,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.539586,,1
+milk-carton,household item,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.538645,,1
+milk-carton,icon design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.539586,,1
+milk-carton,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.539586,,1
+milk-carton,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.539586,,1
 milk-carton,kitchen staple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
 milk-carton,liquid container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
+milk-carton,minimalist design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.539586,,1
+milk-carton,polygonal design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.538645,,1
 milk-carton,poured liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
+milk-carton,product label,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.539586,,1
 milk-carton,product packaging,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
+milk-carton,shopping,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.538645,,1
+milk-carton,symbolic illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.538645,,1
 milk-carton,symbolic representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
 milk-carton,triangle top,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
-milk-carton,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
+milk-carton,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,2
 milk-carton,food storage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QCPBBi1TTzkLtZkjjX3LHYT0,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.929820,,1
+milk-carton,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.538645,,1
+milk-carton,packaging industry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.539586,,1
+milk-carton,recycling,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PGopLLvlObwfN7JKBBrtlyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.538645,,1

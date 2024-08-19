@@ -1,23 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-plate-claw,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
-plate-claw,curved lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
-plate-claw,dynamic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
-plate-claw,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
+plate-claw,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,2
+plate-claw,claw,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
+plate-claw,curved lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,2
+plate-claw,dynamic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,2
+plate-claw,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,2
 plate-claw,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
+plate-claw,plate,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
+plate-claw,spike,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
 plate-claw,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
 plate-claw,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
+plate-claw,aggression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
+plate-claw,animalistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
 plate-claw,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
+plate-claw,crescent shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
+plate-claw,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
+plate-claw,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
 plate-claw,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
-plate-claw,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
+plate-claw,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,2
 plate-claw,fan,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
+plate-claw,fang,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
 plate-claw,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
 plate-claw,futuristic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
 plate-claw,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
+plate-claw,layers,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
 plate-claw,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
+plate-claw,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
 plate-claw,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
-plate-claw,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
+plate-claw,predator,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
+plate-claw,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
+plate-claw,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,2
+plate-claw,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
 plate-claw,stylized,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
 plate-claw,swirl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
 plate-claw,vortex,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
 plate-claw,waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1
+plate-claw,balance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
+plate-claw,growth,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
+plate-claw,harmony,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3P3Laq9O7wIMaM2fPjBnThch,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.112592,,1
 plate-claw,turbulence,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fgc05o27ShofOWYBc9SFu9eU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.658886,,1

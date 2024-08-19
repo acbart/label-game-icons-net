@@ -1,26 +1,52 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+cork-hat,Australian culture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.467265,,1
+cork-hat,accessory,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
 cork-hat,bug,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
+cork-hat,cork,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
+cork-hat,cork hat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.467265,,1
 cork-hat,crawling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
+cork-hat,cultural symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
 cork-hat,cybersecurity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
 cork-hat,fedora,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
 cork-hat,hacker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
-cork-hat,hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
+cork-hat,hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,2
+cork-hat,headwear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.467265,,1
 cork-hat,insect,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
 cork-hat,intrusion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
 cork-hat,pest,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
+cork-hat,sun protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
+cork-hat,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
 cork-hat,agent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
 cork-hat,clandestine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
+cork-hat,dangling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
 cork-hat,detective,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
 cork-hat,discreet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
+cork-hat,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.467265,,1
 cork-hat,hidden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
+cork-hat,holiday,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
+cork-hat,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
 cork-hat,intrigue,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
 cork-hat,investigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
+cork-hat,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.467265,,1
 cork-hat,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
 cork-hat,noir,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
+cork-hat,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.467265,,1
+cork-hat,outdoorsman,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
 cork-hat,private,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
+cork-hat,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.467265,,1
 cork-hat,secretive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
+cork-hat,shade,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.467265,,1
 cork-hat,sneak,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
 cork-hat,sneaky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
 cork-hat,spy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
+cork-hat,string,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
+cork-hat,summer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.467265,,1
+cork-hat,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
+cork-hat,tourism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
+cork-hat,travel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.467265,,1
 cork-hat,undercover,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
+cork-hat,vacation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
 cork-hat,cloak,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RhgGlkxccz2TCXNiEBMHkA1j,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.373717,,1
+cork-hat,fashion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
+cork-hat,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1
+cork-hat,stylized,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFYh3Ov6hhCiePxadnsP3V1J,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.468263,,1

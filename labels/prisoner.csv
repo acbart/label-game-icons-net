@@ -1,27 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-prisoner,bars,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,confinement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,imprisonment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,incarceration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,inmate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,jail,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
+prisoner,bars,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
+prisoner,confinement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
+prisoner,imprisonment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
+prisoner,incarceration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
+prisoner,inmate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
+prisoner,jail,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
+prisoner,prison,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WpXBt1dAQyzN2kqIJVk29Lj,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.967666,,1
 prisoner,prisoner,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
 prisoner,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
 prisoner,arrest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
 prisoner,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,containment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
+prisoner,captivity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WpXBt1dAQyzN2kqIJVk29Lj,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.967666,,1
+prisoner,cell,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WpXBt1dAQyzN2kqIJVk29Lj,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.967666,,1
+prisoner,containment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
 prisoner,correctional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,crime,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,custody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,detention,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,justice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
+prisoner,corrections,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WpXBt1dAQyzN2kqIJVk29Lj,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.967666,,1
+prisoner,crime,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
+prisoner,custody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
+prisoner,detention,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
+prisoner,isolation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WpXBt1dAQyzN2kqIJVk29Lj,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.967666,,1
+prisoner,justice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
 prisoner,justice facility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
 prisoner,justice system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,law,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
+prisoner,law,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
 prisoner,penal system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,punishment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,restriction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,guard,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,law enforcement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
+prisoner,punishment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
+prisoner,restraint,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WpXBt1dAQyzN2kqIJVk29Lj,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.967666,,1
+prisoner,restriction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
+prisoner,authority,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WpXBt1dAQyzN2kqIJVk29Lj,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.967666,,1
+prisoner,control,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3WpXBt1dAQyzN2kqIJVk29Lj,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.967666,,1
+prisoner,guard,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
+prisoner,law enforcement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2
 prisoner,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
-prisoner,security,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,1
+prisoner,security,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e5R3yxztjJ80wuzIU743KP9v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.404247,,2

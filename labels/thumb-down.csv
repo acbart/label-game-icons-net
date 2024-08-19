@@ -1,24 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-thumb-down,denial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
-thumb-down,disapproval,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
-thumb-down,dislike,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
-thumb-down,negative,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
+thumb-down,denial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,2
+thumb-down,disapproval,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,2
+thumb-down,dislike,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,2
+thumb-down,downvote,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
+thumb-down,negative,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,2
 thumb-down,no,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
+thumb-down,not recommended,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
 thumb-down,refusal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
-thumb-down,rejection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
+thumb-down,rejection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,2
+thumb-down,thumb symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
 thumb-down,thumbs down,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
+thumb-down,unlike,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
+thumb-down,alert,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
 thumb-down,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.264250,,1
-thumb-down,criticism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
+thumb-down,criticism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,2
+thumb-down,critique,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
+thumb-down,decline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
+thumb-down,discouragement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
+thumb-down,dissent,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
 thumb-down,downward,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.264250,,1
 thumb-down,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.264250,,1
-thumb-down,feedback,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
+thumb-down,failure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
+thumb-down,feedback,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,2
 thumb-down,gesture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
 thumb-down,hand,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
-thumb-down,opposition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
+thumb-down,hand gesture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
+thumb-down,opposition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,2
+thumb-down,pessimism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
 thumb-down,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
 thumb-down,social,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.264250,,1
 thumb-down,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
+thumb-down,symbolic gesture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
 thumb-down,vote,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.263251,,1
+thumb-down,warning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
+thumb-down,caution,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cKifGzxGuZQWpzW14RtOgtat,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.182930,,1
 thumb-down,digital,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.264250,,1
 thumb-down,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.264250,,1
 thumb-down,indicator,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8csNL9WnrVxsxJM0mPACuePZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.264250,,1

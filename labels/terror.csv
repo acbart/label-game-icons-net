@@ -1,22 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-terror,emotion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
+terror,abstract,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
+terror,emotion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,2
+terror,emotion representation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
 terror,eyes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
-terror,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
+terror,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,2
+terror,fear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
 terror,mouth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
+terror,open mouth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
+terror,shock,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
 terror,shocked,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
-terror,surprise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
+terror,surprise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,2
+terror,wide eyes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
 terror,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
+terror,art style,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
+terror,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
 terror,avatar,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
 terror,bizarre,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
-terror,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
-terror,character,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
-terror,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
+terror,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,2
+terror,character,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,2
+terror,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
+terror,distress,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
+terror,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,2
 terror,funny,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
 terror,gasp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
+terror,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
 terror,head,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
 terror,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
+terror,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
+terror,impression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
 terror,mask,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
 terror,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
+terror,mood,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
+terror,reaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
+terror,reactionary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
+terror,simple shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
+terror,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
+terror,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
+terror,visualization,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lrfyw7AHD4ZR11Daqz5o6eKK,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.952350,,1
 terror,alien,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
 terror,expressionless,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1
 terror,gesture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E2q2Z0HxWqR4Xjc9GAW8L9xC,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.463577,,1

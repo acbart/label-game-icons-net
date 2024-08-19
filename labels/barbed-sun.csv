@@ -1,31 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+barbed-sun,barbed wire,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
 barbed-sun,brightness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
 barbed-sun,central,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
-barbed-sun,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
-barbed-sun,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
+barbed-sun,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,2
+barbed-sun,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,2
 barbed-sun,radiance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
 barbed-sun,rays,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
-barbed-sun,solar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
-barbed-sun,sun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
+barbed-sun,solar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,2
+barbed-sun,spikes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
+barbed-sun,sun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,2
 barbed-sun,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
+barbed-sun,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
 barbed-sun,astronomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
+barbed-sun,boundary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
 barbed-sun,celestial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
 barbed-sun,concentric circles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
 barbed-sun,cosmos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
+barbed-sun,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
+barbed-sun,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
 barbed-sun,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
 barbed-sun,emission,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
 barbed-sun,expansion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
 barbed-sun,flare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
 barbed-sun,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
 barbed-sun,galaxy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
+barbed-sun,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
 barbed-sun,hub,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
 barbed-sun,orbit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
+barbed-sun,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
+barbed-sun,radiating lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
 barbed-sun,radiation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
-barbed-sun,star,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
+barbed-sun,shield,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
+barbed-sun,star,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,2
+barbed-sun,sunburst,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
+barbed-sun,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
 barbed-sun,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
+barbed-sun,artistic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
 barbed-sun,continuum,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
+barbed-sun,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
 barbed-sun,eclipse,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
 barbed-sun,explosion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
 barbed-sun,harmonics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
+barbed-sun,inner circle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
+barbed-sun,metaphorical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
+barbed-sun,outer circle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
+barbed-sun,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
+barbed-sun,round,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
+barbed-sun,sharpness,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eoEherBATLY12c7yxM3vIyez,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.039744,,1
 barbed-sun,target,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1
 barbed-sun,vortex,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7tlly29iYVF5ge19VQo0BD5c,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.908368,,1

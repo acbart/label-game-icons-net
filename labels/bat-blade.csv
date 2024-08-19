@@ -1,26 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 bat-blade,arrows,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
+bat-blade,bat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,blade,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
 bat-blade,crossed silhouettes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
 bat-blade,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
 bat-blade,dual elements,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
 bat-blade,forces,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
 bat-blade,intersection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
-bat-blade,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
+bat-blade,pointed,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,sharp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,2
 bat-blade,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
-bat-blade,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
-bat-blade,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
+bat-blade,wing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,attack,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,2
+bat-blade,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,2
 bat-blade,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
 bat-blade,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
-bat-blade,duality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
+bat-blade,cutting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,duality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,2
 bat-blade,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
+bat-blade,edge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,fantasy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
 bat-blade,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
+bat-blade,flying,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
 bat-blade,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
 bat-blade,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
-bat-blade,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
+bat-blade,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,2
+bat-blade,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,night,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
 bat-blade,opposition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
 bat-blade,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
+bat-blade,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,stealth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,sword,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
 bat-blade,tension,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
+bat-blade,weapon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
 bat-blade,yin yang,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
 bat-blade,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
+bat-blade,creature,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,fear,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
 bat-blade,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
-bat-blade,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,1
+bat-blade,nighttime,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1
+bat-blade,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7jHsCkDWAOQSLG1A1P8wAKG,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.916330,,2
+bat-blade,tool,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eaae2LbqvSrLRB3ep35KHuNB,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.069835,,1

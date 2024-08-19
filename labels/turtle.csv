@@ -1,27 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-turtle,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
+turtle,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
 turtle,hexagon pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
-turtle,reptile,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
-turtle,shell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
-turtle,turtle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
+turtle,marine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9PL5I109sitkp1yFbiAdcuEv,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.485414,,1
+turtle,ocean,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9PL5I109sitkp1yFbiAdcuEv,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.485414,,1
+turtle,reptile,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
+turtle,shell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
+turtle,turtle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
+turtle,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9PL5I109sitkp1yFbiAdcuEv,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.485414,,1
 turtle,adaptation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
 turtle,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
-turtle,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
+turtle,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9PL5I109sitkp1yFbiAdcuEv,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.485414,,1
+turtle,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
+turtle,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9PL5I109sitkp1yFbiAdcuEv,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.485414,,1
+turtle,endangered,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9PL5I109sitkp1yFbiAdcuEv,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.485414,,1
 turtle,endangered species,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
-turtle,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
-turtle,longevity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
+turtle,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
+turtle,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9PL5I109sitkp1yFbiAdcuEv,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.485414,,1
+turtle,hexagon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9PL5I109sitkp1yFbiAdcuEv,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.485414,,1
+turtle,longevity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
 turtle,marine life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
-turtle,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
-turtle,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
-turtle,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
-turtle,sea,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
+turtle,mythical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9PL5I109sitkp1yFbiAdcuEv,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.485414,,1
+turtle,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
+turtle,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
+turtle,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
+turtle,reflection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9PL5I109sitkp1yFbiAdcuEv,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.485414,,1
+turtle,sea,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
+turtle,slow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9PL5I109sitkp1yFbiAdcuEv,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.485414,,1
 turtle,slow movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
 turtle,stability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
-turtle,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
+turtle,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
 turtle,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
-turtle,tranquility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
-turtle,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
-turtle,wisdom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
+turtle,tranquility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
+turtle,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
+turtle,wisdom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,2
 turtle,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
+turtle,meditation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9PL5I109sitkp1yFbiAdcuEv,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.485414,,1
 turtle,mythology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1
 turtle,peace,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_q1hC7Mn1uEAENbmQ2PKvtOUU,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.646258,,1

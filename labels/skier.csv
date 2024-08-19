@@ -1,26 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+skier,action,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8fiJfUEosX2dbbEgaVWmHHuR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.556818,,1
 skier,activity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
-skier,downhill,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
-skier,skiing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.839423,,1
+skier,downhill,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,2
+skier,skiing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.839423,,2
 skier,sports,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
-skier,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
-skier,athlete,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
+skier,sports icon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8fiJfUEosX2dbbEgaVWmHHuR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.556818,,1
+skier,winter sports,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8fiJfUEosX2dbbEgaVWmHHuR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.556818,,1
+skier,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,2
+skier,alpine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8fiJfUEosX2dbbEgaVWmHHuR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.556818,,1
+skier,athlete,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,2
 skier,athletic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
-skier,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
+skier,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,2
+skier,body posture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8fiJfUEosX2dbbEgaVWmHHuR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.556818,,1
 skier,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
-skier,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
-skier,exercise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
+skier,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,2
+skier,exercise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,2
+skier,human figure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8fiJfUEosX2dbbEgaVWmHHuR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.556818,,1
 skier,incline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
-skier,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
+skier,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,2
 skier,mountain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
-skier,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
+skier,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,2
 skier,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
-skier,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
+skier,outdoor activity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8fiJfUEosX2dbbEgaVWmHHuR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.556818,,1
+skier,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,2
 skier,slalom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
 skier,slide,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
-skier,snow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
-skier,speed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
+skier,slope,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8fiJfUEosX2dbbEgaVWmHHuR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.556818,,1
+skier,snow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,2
+skier,speed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,2
+skier,sporting event,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8fiJfUEosX2dbbEgaVWmHHuR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.556818,,1
+skier,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8fiJfUEosX2dbbEgaVWmHHuR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.556818,,1
 skier,winter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
-skier,equipment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
+skier,equipment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,2
+skier,fitness,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8fiJfUEosX2dbbEgaVWmHHuR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.556818,,1
+skier,gesture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8fiJfUEosX2dbbEgaVWmHHuR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.556818,,1
 skier,leaning,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1
 skier,tilt,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9om6fnuXfSv1mmPVjqNUv5xg,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.840420,,1

@@ -1,25 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-palette,art,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,1
+palette,art,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,2
 palette,artist,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,1
+palette,artist tools,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
 palette,brush,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,1
-palette,creativity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,1
-palette,painting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,1
-palette,palette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,1
+palette,creativity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,2
+palette,paintbrush,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
+palette,painting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,2
+palette,painting supplies,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
+palette,palette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,2
 palette,visual arts,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,1
+palette,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
 palette,aesthetics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,1
 palette,canvas,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,1
 palette,color mixing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,1
+palette,colors,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
 palette,craft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,1
-palette,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,1
-palette,drawing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,1
-palette,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,1
-palette,hobby,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,1
-palette,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,1
-palette,imagination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,1
+palette,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
+palette,creativity flow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
+palette,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,2
+palette,drawing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,2
+palette,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,2
+palette,fine arts,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
+palette,hobby,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,2
+palette,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,2
+palette,imagination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,2
+palette,inspiration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
+palette,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
+palette,shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
 palette,skill,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,1
+palette,skills,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
 palette,stroke,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.082000,,1
-palette,studio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,1
+palette,studio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,2
+palette,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
+palette,tools,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
+palette,visual art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
+palette,aesthetic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
+palette,culture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
 palette,decor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,1
+palette,decoration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_t7ZswRUlqBg4lllDZh8WZj2l,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.903442,,1
 palette,freedom,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,1
-palette,handcraft,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,1
-palette,workshop,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,1
+palette,handcraft,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,2
+palette,workshop,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_s6CMI2D1DbQ9RvPVzLhQF1C1,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.083000,,2

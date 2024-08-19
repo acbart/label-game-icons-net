@@ -1,29 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 egg-pod,cup,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
-egg-pod,egg,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,egg,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,2
 egg-pod,egg holder,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,holder,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
+egg-pod,life,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
+egg-pod,pod,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
+egg-pod,protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
 egg-pod,stand,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
-egg-pod,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
-egg-pod,base,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
+egg-pod,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,2
+egg-pod,base,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,2
+egg-pod,beginning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
+egg-pod,birth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
 egg-pod,breakfast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
-egg-pod,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,2
+egg-pod,cradle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
 egg-pod,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,curved,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
 egg-pod,dining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
 egg-pod,dishware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,embrace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
+egg-pod,fertility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
 egg-pod,functional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,growth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
 egg-pod,household,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,incubation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
 egg-pod,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
 egg-pod,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,nurture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
+egg-pod,origin,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
 egg-pod,oval shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,round,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
 egg-pod,serving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,shell,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
+egg-pod,smooth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
 egg-pod,solid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
-egg-pod,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,stability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
+egg-pod,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,2
 egg-pod,supportive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
-egg-pod,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
+egg-pod,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,2
 egg-pod,tableware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
 egg-pod,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,vessel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
 egg-pod,consumer goods,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
 egg-pod,curved lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
 egg-pod,object,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
+egg-pod,root,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nzeVayub1xiW5K6xHsCew1xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.713417,,1
 egg-pod,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1
 egg-pod,utensil,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AcAuTMgyCbdRMj18KQZW9aNI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.975033,,1

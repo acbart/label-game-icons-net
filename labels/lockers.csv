@@ -1,11 +1,15 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 lockers,cabinet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
+lockers,compartments,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
 lockers,documents,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
 lockers,files,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
 lockers,folders,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.669545,,1
+lockers,lockers,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
 lockers,office,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.669545,,1
-lockers,organization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
-lockers,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
+lockers,organization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,2
+lockers,security,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
+lockers,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,2
+lockers,access,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
 lockers,administration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
 lockers,archive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
 lockers,arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
@@ -15,12 +19,26 @@ lockers,business,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_
 lockers,catalog,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
 lockers,data,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
 lockers,documentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
+lockers,enclosure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
+lockers,gym,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
 lockers,index,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
 lockers,information,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
 lockers,management,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
 lockers,paperwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
+lockers,personal items,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
+lockers,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
 lockers,records,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
 lockers,reference,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
+lockers,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
+lockers,school,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
 lockers,workspace,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
+lockers,industrial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
+lockers,institutional,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
 lockers,library,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
+lockers,metal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
+lockers,public spaces,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
+lockers,rectangular shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
+lockers,shelving,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
+lockers,stacked,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1
 lockers,system,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_48BbIA7Cao54v2SDNz96pdt7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.670537,,1
+lockers,vertical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzbR5TS8ga2C7h4QB2Pf3tds,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.348298,,1

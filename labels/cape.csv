@@ -1,4 +1,6 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+cape,cape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
+cape,clothing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
 cape,curves,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
 cape,design,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
 cape,dynamics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
@@ -6,23 +8,39 @@ cape,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sC
 cape,flow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
 cape,fluidity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
 cape,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
-cape,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
+cape,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,2
+cape,outerwear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
 cape,ribbon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
+cape,superhero,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
 cape,wave,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
 cape,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
+cape,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
 cape,aesthetic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
+cape,costume,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
 cape,creative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
 cape,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
-cape,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
+cape,drapery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
+cape,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,2
+cape,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
 cape,flexibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
+cape,flowing fabric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
 cape,form,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
 cape,grace,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
 cape,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
+cape,hero,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
+cape,identity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
 cape,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
 cape,motion lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
+cape,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
+cape,presence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
+cape,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
 cape,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
+cape,style,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
 cape,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
+cape,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
 cape,twist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
-cape,wind,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
+cape,wind,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,2
+cape,gesture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
 cape,illusion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1
+cape,speed,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3VkXQiciiUutLYuXmMOu7CZM,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.344160,,1
 cape,texture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WSNR8sCUbt9gue1buXYKo43J,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.108916,,1

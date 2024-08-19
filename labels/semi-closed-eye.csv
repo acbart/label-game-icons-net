@@ -1,26 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-semi-closed-eye,awareness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
-semi-closed-eye,eye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
+semi-closed-eye,awareness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,2
+semi-closed-eye,dream state,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
+semi-closed-eye,eye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,2
 semi-closed-eye,eye motif,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
-semi-closed-eye,perception,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
+semi-closed-eye,half-open,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
+semi-closed-eye,observation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
+semi-closed-eye,partially open,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
+semi-closed-eye,perception,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,2
+semi-closed-eye,semi-closed,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
 semi-closed-eye,sight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
-semi-closed-eye,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
+semi-closed-eye,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,2
+semi-closed-eye,alertness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
+semi-closed-eye,awareness vs. sleep,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
 semi-closed-eye,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
 semi-closed-eye,clarity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
 semi-closed-eye,concentric circles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
+semi-closed-eye,consciousness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
 semi-closed-eye,detection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
 semi-closed-eye,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
-semi-closed-eye,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
-semi-closed-eye,insight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
+semi-closed-eye,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,2
+semi-closed-eye,guarding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
+semi-closed-eye,imagination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
+semi-closed-eye,inner vision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
+semi-closed-eye,insight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,2
+semi-closed-eye,intuition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
 semi-closed-eye,lens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
+semi-closed-eye,mindfulness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
 semi-closed-eye,observance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
 semi-closed-eye,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
+semi-closed-eye,spiritual sight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
+semi-closed-eye,subtlety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
 semi-closed-eye,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
 semi-closed-eye,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
 semi-closed-eye,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
+semi-closed-eye,symbolic sight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
 semi-closed-eye,understanding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
 semi-closed-eye,view,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
-semi-closed-eye,watchfulness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
+semi-closed-eye,watchfulness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,2
+semi-closed-eye,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
 semi-closed-eye,aspirations,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
+semi-closed-eye,calmness,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SL2mSBt3KzDvCfJcTrfpfQpL,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.883820,,1
 semi-closed-eye,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1
 semi-closed-eye,geometry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vP23gsrYMVrPFTSfhlbdEtg4,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.919241,,1

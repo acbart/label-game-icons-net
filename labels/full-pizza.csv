@@ -1,23 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 full-pizza,circular,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
-full-pizza,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
-full-pizza,pepperoni,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
-full-pizza,pizza,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
-full-pizza,slices,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
+full-pizza,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,2
+full-pizza,pepperoni,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,2
+full-pizza,pepperoni spots,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ldnEO7LJxxYXFzV3hRWM6vE7,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.803685,,1
+full-pizza,pizza,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,2
+full-pizza,slices,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,2
 full-pizza,Italian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
-full-pizza,cheese,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
+full-pizza,cheese,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,2
+full-pizza,circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ldnEO7LJxxYXFzV3hRWM6vE7,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.803685,,1
+full-pizza,circular segments,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ldnEO7LJxxYXFzV3hRWM6vE7,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.803685,,1
 full-pizza,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
 full-pizza,crust,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
+full-pizza,cut,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ldnEO7LJxxYXFzV3hRWM6vE7,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.803685,,1
 full-pizza,dining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
-full-pizza,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
-full-pizza,party,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
-full-pizza,pizzeria,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
-full-pizza,sharing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
+full-pizza,dinner,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ldnEO7LJxxYXFzV3hRWM6vE7,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.803685,,1
+full-pizza,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,2
+full-pizza,party,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,2
+full-pizza,pizzeria,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,2
+full-pizza,sharing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,2
 full-pizza,snack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
+full-pizza,takeout,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ldnEO7LJxxYXFzV3hRWM6vE7,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.803685,,1
 full-pizza,toppings,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
-full-pizza,baking,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
-full-pizza,fast food,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
+full-pizza,appetizer,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ldnEO7LJxxYXFzV3hRWM6vE7,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.803685,,1
+full-pizza,baking,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,2
+full-pizza,casual dining,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ldnEO7LJxxYXFzV3hRWM6vE7,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.803685,,1
+full-pizza,cuisine,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ldnEO7LJxxYXFzV3hRWM6vE7,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.803685,,1
+full-pizza,culinary,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ldnEO7LJxxYXFzV3hRWM6vE7,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.803685,,1
+full-pizza,dish,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ldnEO7LJxxYXFzV3hRWM6vE7,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.803685,,1
+full-pizza,fast food,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,2
 full-pizza,gourmet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
+full-pizza,graphic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ldnEO7LJxxYXFzV3hRWM6vE7,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.803685,,1
+full-pizza,pie chart,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ldnEO7LJxxYXFzV3hRWM6vE7,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.803685,,1
 full-pizza,serving,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
 full-pizza,slices across circle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1
+full-pizza,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ldnEO7LJxxYXFzV3hRWM6vE7,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.803685,,1
 full-pizza,tomato,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRmRHA8OjZ0c0YpDOrhxkMQv,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.016434,,1

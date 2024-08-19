@@ -1,25 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-think,pondering,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
+think,mental effort,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
+think,pondering,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,2
+think,problem solving,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
 think,question,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
-think,thinking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
-think,confusion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
-think,contemplation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
-think,curiosity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
+think,questioning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
+think,thinking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,2
+think,thought process,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
+think,brainstorming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
+think,cognitive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
+think,confusion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,2
+think,consideration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
+think,contemplation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,2
+think,curiosity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,2
+think,decision making,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
 think,decision-making,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
 think,doubt,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
-think,inquiry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
+think,idea,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
+think,imagination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
+think,inquiry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,2
+think,mindfulness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
+think,perspective,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
 think,problem-solving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
-think,reflection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
-think,uncertainty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
+think,reasoning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
+think,reflection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,2
+think,speculation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
+think,uncertainty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,2
 think,wonder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
-think,analysis,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
-think,exploration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
+think,analysis,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,2
+think,cogitation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1
+think,exploration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,2
 think,expression,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
 think,facial expression,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
 think,ideas,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
-think,introspection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
+think,introspection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,2
 think,mental process,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
 think,mindset,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
-think,philosophy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
+think,philosophy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,2
 think,searching,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
 think,strategy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sWbfjtr0Vc4FJz34XDsxIJEW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.252232,,1
+think,vision,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CR9AOc3Dp72PQ8RLtCvnxJOn,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.110628,,1

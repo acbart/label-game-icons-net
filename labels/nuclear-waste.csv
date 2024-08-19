@@ -1,27 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 nuclear-waste,backup,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
+nuclear-waste,barrel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
+nuclear-waste,caution,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
 nuclear-waste,cloud storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
+nuclear-waste,contamination,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
+nuclear-waste,danger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
 nuclear-waste,data center,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
 nuclear-waste,data management,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
 nuclear-waste,database,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
 nuclear-waste,digital,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
+nuclear-waste,environmental hazard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
+nuclear-waste,hazard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
 nuclear-waste,information,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
+nuclear-waste,nuclear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
+nuclear-waste,radiation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
+nuclear-waste,radioactive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
 nuclear-waste,repository,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
-nuclear-waste,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
+nuclear-waste,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,2
 nuclear-waste,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
+nuclear-waste,toxic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
+nuclear-waste,warning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
+nuclear-waste,waste,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
+nuclear-waste,alert,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
 nuclear-waste,archive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
+nuclear-waste,atomic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
 nuclear-waste,catalog,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
 nuclear-waste,cluster,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
 nuclear-waste,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
 nuclear-waste,cylindrical shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
+nuclear-waste,disposal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
+nuclear-waste,energy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
 nuclear-waste,enterprise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
 nuclear-waste,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
 nuclear-waste,hub,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
+nuclear-waste,industry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
 nuclear-waste,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
 nuclear-waste,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
+nuclear-waste,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
 nuclear-waste,processing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
 nuclear-waste,resource,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
+nuclear-waste,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
 nuclear-waste,server,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
+nuclear-waste,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
 nuclear-waste,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
+nuclear-waste,icon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oCItpFh5YrRIloDucAAmT57A,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.487698,,1
 nuclear-waste,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1
 nuclear-waste,scheme,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7SfDpPzZckEkI6VfELF47SFS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.995559,,1

@@ -1,31 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-paint-bucket,container,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
-paint-bucket,fill,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
+paint-bucket,bucket,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
+paint-bucket,container,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,2
+paint-bucket,digital tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
+paint-bucket,fill,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,2
+paint-bucket,graphic design,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
+paint-bucket,image editing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
+paint-bucket,paint,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
 paint-bucket,paint bucket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
 paint-bucket,painting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
-paint-bucket,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
-paint-bucket,application,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
-paint-bucket,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
+paint-bucket,pattern fill,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
+paint-bucket,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,2
+paint-bucket,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
+paint-bucket,application,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,2
+paint-bucket,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,2
+paint-bucket,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
 paint-bucket,craft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
-paint-bucket,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
+paint-bucket,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,2
+paint-bucket,decorate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
 paint-bucket,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
 paint-bucket,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
 paint-bucket,digital art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
-paint-bucket,drawing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
+paint-bucket,drawing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,2
+paint-bucket,drip,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
 paint-bucket,editor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
 paint-bucket,filling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
 paint-bucket,graphics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
 paint-bucket,home improvement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
 paint-bucket,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
-paint-bucket,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
+paint-bucket,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
+paint-bucket,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,2
 paint-bucket,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
-paint-bucket,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
+paint-bucket,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,2
+paint-bucket,pour,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
 paint-bucket,software,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
-paint-bucket,splash,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
-paint-bucket,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
+paint-bucket,spill,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
+paint-bucket,splash,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,2
+paint-bucket,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,2
 paint-bucket,toolbox,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
+paint-bucket,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
 paint-bucket,visual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
 paint-bucket,control,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
+paint-bucket,crafts,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
 paint-bucket,effects,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
+paint-bucket,emblem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
+paint-bucket,interior design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zdKbBBHdNECt64HosJyy0qp4,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.884851,,1
 paint-bucket,maintenance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1
 paint-bucket,renovation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1kpjUc0t0S0Bzrjvj4ZDecED,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.076999,,1

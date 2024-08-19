@@ -1,25 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-nested-hearts,affection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
-nested-hearts,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
-nested-hearts,love,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
-nested-hearts,relationship,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
-nested-hearts,romance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
+nested-hearts,affection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,2
+nested-hearts,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,2
+nested-hearts,love,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,2
+nested-hearts,nested hearts,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
+nested-hearts,relationship,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,2
+nested-hearts,romance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,2
+nested-hearts,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
+nested-hearts,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
+nested-hearts,affinity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
+nested-hearts,bond,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
 nested-hearts,bonding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
-nested-hearts,care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
+nested-hearts,care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,2
+nested-hearts,closeness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
+nested-hearts,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
 nested-hearts,compassion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
-nested-hearts,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
+nested-hearts,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,2
+nested-hearts,embrace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
 nested-hearts,emotion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
 nested-hearts,empathy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
+nested-hearts,family,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
 nested-hearts,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
 nested-hearts,inner feeling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
 nested-hearts,inner heart,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
+nested-hearts,inside,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
 nested-hearts,intimacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
-nested-hearts,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
+nested-hearts,layers,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
+nested-hearts,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
+nested-hearts,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,2
 nested-hearts,tenderness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
+nested-hearts,togetherness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
+nested-hearts,unity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
 nested-hearts,center,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
-nested-hearts,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
+nested-hearts,community,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
+nested-hearts,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,2
 nested-hearts,gesture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
 nested-hearts,health,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
 nested-hearts,healthcare,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
 nested-hearts,heart center,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1
+nested-hearts,multiplicity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
+nested-hearts,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KgkMV32YHrISO0QBQdp1VTJ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.334912,,1
 nested-hearts,soul,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_goVlh3El5eMddonELuD0Oj6e,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.962558,,1

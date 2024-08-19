@@ -1,24 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-suspension-bridge,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
-suspension-bridge,bridge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
-suspension-bridge,connection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
-suspension-bridge,crossing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
-suspension-bridge,infrastructure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
+suspension-bridge,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,2
+suspension-bridge,bridge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,2
+suspension-bridge,civil engineering,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
+suspension-bridge,connection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,2
+suspension-bridge,construction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
+suspension-bridge,crossing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,2
+suspension-bridge,infrastructure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,2
 suspension-bridge,span,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
 suspension-bridge,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
 suspension-bridge,suspension,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
-suspension-bridge,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
+suspension-bridge,suspension bridge,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
+suspension-bridge,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,2
+suspension-bridge,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
 suspension-bridge,cable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
+suspension-bridge,cables,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
 suspension-bridge,cityscape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
-suspension-bridge,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
-suspension-bridge,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
+suspension-bridge,communication,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
+suspension-bridge,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,2
+suspension-bridge,elevated,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
+suspension-bridge,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,2
+suspension-bridge,geometric shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
 suspension-bridge,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
-suspension-bridge,landmark,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
-suspension-bridge,pathway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
+suspension-bridge,iconic structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
+suspension-bridge,landmark,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,2
+suspension-bridge,pathway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,2
 suspension-bridge,pillar,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
 suspension-bridge,road,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
+suspension-bridge,spans,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
+suspension-bridge,structural support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
 suspension-bridge,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
-suspension-bridge,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
+suspension-bridge,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
+suspension-bridge,towers,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
+suspension-bridge,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,2
 suspension-bridge,urban,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
+suspension-bridge,urban planning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
+suspension-bridge,aesthetics,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
+suspension-bridge,framework,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
 suspension-bridge,horizontal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1
+suspension-bridge,landscape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
+suspension-bridge,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JpjAtN0BqIDYoBCct12FuMQ1,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.637874,,1
 suspension-bridge,vertical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0OrZkP6qQWY8GI7A7dCUFQ7P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.143139,,1

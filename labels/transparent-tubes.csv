@@ -1,23 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 transparent-tubes,chemical reactions,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
-transparent-tubes,chemistry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
-transparent-tubes,experimentation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
-transparent-tubes,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
-transparent-tubes,test tubes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
-transparent-tubes,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
+transparent-tubes,chemistry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,2
+transparent-tubes,experiment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
+transparent-tubes,experimentation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,2
+transparent-tubes,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,2
+transparent-tubes,test tubes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,2
+transparent-tubes,tube,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
+transparent-tubes,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
+transparent-tubes,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,2
+transparent-tubes,apparatus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
+transparent-tubes,biochemistry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
 transparent-tubes,biotechnology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
 transparent-tubes,clinical trials,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
+transparent-tubes,container,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
+transparent-tubes,cross,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
 transparent-tubes,crossed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
+transparent-tubes,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
 transparent-tubes,experiments,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
-transparent-tubes,glassware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
-transparent-tubes,laboratory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
-transparent-tubes,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
-transparent-tubes,mixing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
-transparent-tubes,research,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
+transparent-tubes,glassware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,2
+transparent-tubes,intersection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
+transparent-tubes,laboratory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,2
+transparent-tubes,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,2
+transparent-tubes,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
+transparent-tubes,medical testing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
+transparent-tubes,mixing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,2
+transparent-tubes,research,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,2
 transparent-tubes,scientific study,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
 transparent-tubes,solution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
+transparent-tubes,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
+transparent-tubes,synthesis,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
 transparent-tubes,testing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
+transparent-tubes,transparent,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
+transparent-tubes,vessel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mo0RL4stTh8SQP0xCrAVv4pY,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.201887,,1
 transparent-tubes,education,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
-transparent-tubes,innovation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
+transparent-tubes,innovation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,2
 transparent-tubes,safety,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1
 transparent-tubes,substance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gtl0MGBQ9tqLLZ5OCdgy8H4x,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.572313,,1

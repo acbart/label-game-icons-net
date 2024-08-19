@@ -1,26 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+spiked-armor,armor plating,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.704825,,1
 spiked-armor,barrier,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,body armor,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
 spiked-armor,cybersecurity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
-spiked-armor,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,2
 spiked-armor,digital security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
 spiked-armor,guard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
-spiked-armor,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,2
+spiked-armor,protection symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
 spiked-armor,protection system,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
 spiked-armor,safeguard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
-spiked-armor,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,2
 spiked-armor,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,spiked,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
+spiked-armor,aggressive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
 spiked-armor,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
 spiked-armor,antivirus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
-spiked-armor,armor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,armor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,2
 spiked-armor,attack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,battle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
 spiked-armor,breach,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
+spiked-armor,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
+spiked-armor,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
 spiked-armor,firewall,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,fortification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.704825,,1
+spiked-armor,guardian,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.704825,,1
+spiked-armor,intimidation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
+spiked-armor,knight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
 spiked-armor,malware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
-spiked-armor,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
+spiked-armor,military,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.704825,,1
+spiked-armor,offense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
+spiked-armor,resilience,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.704825,,1
+spiked-armor,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,2
 spiked-armor,security breach,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
 spiked-armor,software,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
-spiked-armor,spikes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,spikes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,2
+spiked-armor,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
 spiked-armor,threat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,toughness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
 spiked-armor,virus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
 spiked-armor,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,warrior,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
+spiked-armor,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
+spiked-armor,heraldry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1
 spiked-armor,scanning,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R6PxSTKBmyhWZ6eeVcQfEhDm,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.126155,,1
+spiked-armor,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9kXvD094oSSg8hczLybhDpvS,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.703706,,1

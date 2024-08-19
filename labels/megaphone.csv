@@ -1,31 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 megaphone,alert,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
-megaphone,announcement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
-megaphone,broadcast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
-megaphone,megaphone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
-megaphone,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
-megaphone,speaker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
+megaphone,announcement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,2
+megaphone,broadcast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,2
+megaphone,megaphone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,2
+megaphone,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,2
+megaphone,speaker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,2
+megaphone,advertisement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
 megaphone,alarm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
-megaphone,amplification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
+megaphone,alerts,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
+megaphone,amplification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,2
 megaphone,announcement system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
+megaphone,attention,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
 megaphone,audio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
 megaphone,audio signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
 megaphone,broadcasting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
-megaphone,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
+megaphone,call to action,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
+megaphone,campaign,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
+megaphone,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,2
 megaphone,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
+megaphone,directive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
 megaphone,frequency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
-megaphone,notification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
+megaphone,information,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
+megaphone,instruction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
+megaphone,news,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
+megaphone,noise,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
+megaphone,notification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,2
+megaphone,outreach,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
+megaphone,proclamation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
 megaphone,projection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
-megaphone,public address,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
+megaphone,promotion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
+megaphone,public address,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,2
+megaphone,sound waves,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
 megaphone,speakerphone,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
 megaphone,transmission,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
-megaphone,voice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
-megaphone,volume,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
+megaphone,voice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,2
+megaphone,volume,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,2
 megaphone,wave,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
 megaphone,auditory,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
+megaphone,demand,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
 megaphone,echo,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
 megaphone,loud,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
 megaphone,media,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
+megaphone,music,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
 megaphone,noisy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
 megaphone,presentation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
+megaphone,propaganda,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
 megaphone,public speaking,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JiJgyDLAcs2r3Px68mO9aqGe,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.799085,,1
+megaphone,shouting,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1
+megaphone,wave pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RxPDTOJIoy9Tltuw2MX7CVRC,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.821072,,1

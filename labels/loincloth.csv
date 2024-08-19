@@ -1,25 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 loincloth,beverage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
+loincloth,clothing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
+loincloth,covering,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
 loincloth,cup,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
+loincloth,garment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
+loincloth,loincloth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
+loincloth,modesty,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
 loincloth,soda,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
 loincloth,soft drink,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
+loincloth,ancient clothing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
+loincloth,basic apparel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
 loincloth,caffeine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
 loincloth,carbonated,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
 loincloth,casual dining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
 loincloth,convenience,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
+loincloth,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
 loincloth,disposable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
 loincloth,drink container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
+loincloth,fabric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
 loincloth,fast food,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
+loincloth,historical wear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
 loincloth,iconic shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
+loincloth,indigenous,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
+loincloth,minimal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
 loincloth,on-the-go,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
 loincloth,pop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
+loincloth,primitive attire,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
 loincloth,refreshment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
 loincloth,restaurant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
+loincloth,simple dress,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
+loincloth,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
 loincloth,takeaway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
+loincloth,textile,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
+loincloth,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
+loincloth,tribal wear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
+loincloth,undergarment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
+loincloth,waist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
+loincloth,belt,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
 loincloth,branding,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
 loincloth,cup holder,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
+loincloth,hem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
 loincloth,juice,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
 loincloth,kiosk,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
 loincloth,leisure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
 loincloth,party drink,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
+loincloth,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
+loincloth,protection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1
 loincloth,snack,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wb1FONC1KzFQTv0tkj9ktZrm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.689537,,1
+loincloth,strap,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fy8co2k9FaAh0Khhx0MmjOhZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.404039,,1

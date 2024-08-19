@@ -1,25 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+arm-bandage,arm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
+arm-bandage,bandage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
 arm-bandage,broken,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,crack,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,damage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
+arm-bandage,first aid,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
 arm-bandage,fracture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
+arm-bandage,healing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
+arm-bandage,injury,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
+arm-bandage,medical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
+arm-bandage,protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
 arm-bandage,shattered,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,split,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,split open,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,structural failure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
+arm-bandage,treatment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
 arm-bandage,accident,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
+arm-bandage,aid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
+arm-bandage,brace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
 arm-bandage,breach,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,brittle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,burst,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
+arm-bandage,care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
 arm-bandage,collapse,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,disruption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,fix,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,fragility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,gap,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
+arm-bandage,healthcare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
 arm-bandage,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,imperfection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
+arm-bandage,medical equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
+arm-bandage,recovery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
 arm-bandage,repair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,rupture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
+arm-bandage,safet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
+arm-bandage,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
 arm-bandage,tear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
 arm-bandage,weakness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_h89QbDsF0sf2qH2Pz3ydDi5o,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.649275,,1
+arm-bandage,wrapping,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
+arm-bandage,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
+arm-bandage,clinic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
+arm-bandage,emergency,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
+arm-bandage,hospital,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
+arm-bandage,nursing,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1
+arm-bandage,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N0VUb2bjF5dQx7LNf1zCzOZS,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.593597,,1

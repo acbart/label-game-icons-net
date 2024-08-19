@@ -1,31 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-popcorn,cinema,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
-popcorn,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
-popcorn,movie,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
+popcorn,cinema,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,2
+popcorn,film,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
+popcorn,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,2
+popcorn,movie,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,2
 popcorn,movie night,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
-popcorn,popcorn,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
+popcorn,movies,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
+popcorn,popcorn,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,2
 popcorn,popcorn kernel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
-popcorn,snack,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
+popcorn,snack,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,2
 popcorn,snack food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
 popcorn,theater,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
-popcorn,bucket,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
+popcorn,theatre,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
+popcorn,break,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
+popcorn,bucket,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,2
 popcorn,bucket design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
 popcorn,buttered,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
 popcorn,casual eating,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
 popcorn,cinematic experience,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
-popcorn,concession,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
+popcorn,concession,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,2
+popcorn,corn,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
 popcorn,crunchy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
-popcorn,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
-popcorn,event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
-popcorn,festival,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
-popcorn,fun,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
+popcorn,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,2
+popcorn,event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,2
+popcorn,festival,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,2
+popcorn,fun,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,2
+popcorn,gathering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
+popcorn,kernel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
 popcorn,kettle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
-popcorn,party,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
+popcorn,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
+popcorn,party,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,2
 popcorn,party snack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
+popcorn,pop,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
+popcorn,puff,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
 popcorn,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
+popcorn,relaxation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
 popcorn,salt,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
-popcorn,treat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
+popcorn,sharing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
+popcorn,snacking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
+popcorn,texture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
+popcorn,treat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,2
 popcorn,appetizer,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
-popcorn,casual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
+popcorn,casual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,2
 popcorn,cracker,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1
+popcorn,crunch,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fVApSueHP87LFIRrKShmSj6z,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.810356,,1
 popcorn,fast food,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AHWSAiNykcPrLO4RULsV0I5e,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.357244,,1

@@ -1,26 +1,55 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 lock-picking,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
 lock-picking,envelope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.658534,,1
+lock-picking,intrusion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,key,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
 lock-picking,letter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
+lock-picking,lock,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,lock-picking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
 lock-picking,mail,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
 lock-picking,message,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
+lock-picking,protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,security,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,security breach,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,unlock,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,access,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,breaking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,bypass,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
 lock-picking,communication tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
 lock-picking,correspondence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
+lock-picking,covert,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,curiosity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
 lock-picking,delivery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
+lock-picking,dexterity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
 lock-picking,document,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
+lock-picking,entry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
 lock-picking,exchange,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
+lock-picking,forbidden,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
 lock-picking,information,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
+lock-picking,manipulation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
 lock-picking,post,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
 lock-picking,postal service,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
 lock-picking,read,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
 lock-picking,receive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
 lock-picking,seal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
 lock-picking,send,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
+lock-picking,skill,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
 lock-picking,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
+lock-picking,technic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
+lock-picking,trespass,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
 lock-picking,write,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
+lock-picking,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
 lock-picking,abstract representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
 lock-picking,carrier,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
+lock-picking,challenge,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
 lock-picking,folded,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
 lock-picking,graphic representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
+lock-picking,hard lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FiNX1rfqivZhhYp8DxextZtV,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.321184,,1
 lock-picking,package,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1
 lock-picking,paper,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2DWvTdYe8islYFKNGKw5MVDk,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.659516,,1

@@ -1,24 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+hand-ok,acceptance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
+hand-ok,agreement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
+hand-ok,all is well,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
+hand-ok,approval,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
+hand-ok,confirmation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
 hand-ok,finger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
-hand-ok,gesture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
-hand-ok,interaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
+hand-ok,gesture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,2
+hand-ok,hand signal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
+hand-ok,interaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,2
+hand-ok,ok sign,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
 hand-ok,pointing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
+hand-ok,positive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
 hand-ok,select,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
+hand-ok,sign,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
 hand-ok,touch,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
 hand-ok,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
 hand-ok,attention,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
+hand-ok,body language,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
 hand-ok,choice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
 hand-ok,click,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
 hand-ok,command,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
+hand-ok,communication,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
+hand-ok,consent,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
 hand-ok,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
 hand-ok,decision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
 hand-ok,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
 hand-ok,engagement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
+hand-ok,expression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
 hand-ok,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
+hand-ok,gesture icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
 hand-ok,hand,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
+hand-ok,hand icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
+hand-ok,hand shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
 hand-ok,indent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
+hand-ok,indicator,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
 hand-ok,initiation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
 hand-ok,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
 hand-ok,manipulation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
 hand-ok,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
+hand-ok,nonverbal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
+hand-ok,satisfaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
+hand-ok,signal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
+hand-ok,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
+hand-ok,thumb and forefinger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1
 hand-ok,trigger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QoUrJIdCqReF7H0tSnrSqmTK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.179536,,1
+hand-ok,emblem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YjxMzMyWZn02rjutSyMuROa8,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.567408,,1

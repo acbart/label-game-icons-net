@@ -1,24 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 magnet-man,abstract face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
-magnet-man,emblem,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
+magnet-man,attraction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
+magnet-man,character,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
+magnet-man,emblem,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,2
+magnet-man,energy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
+magnet-man,force,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
 magnet-man,helmet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
+magnet-man,magnet,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
+magnet-man,magnetic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
+magnet-man,man,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
 magnet-man,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
+magnet-man,power,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
 magnet-man,stylized eyes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
 magnet-man,symbolic character,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
 magnet-man,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
+magnet-man,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
 magnet-man,archetype,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
 magnet-man,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
+magnet-man,avatar,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
 magnet-man,costume,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
 magnet-man,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
 magnet-man,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
 magnet-man,disguise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
+magnet-man,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
 magnet-man,faceplate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
+magnet-man,figure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
 magnet-man,futuristic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
 magnet-man,guardian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
-magnet-man,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
+magnet-man,hero,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
+magnet-man,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
+magnet-man,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,2
 magnet-man,line art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
+magnet-man,mascot,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
 magnet-man,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
 magnet-man,mythical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
+magnet-man,personification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
+magnet-man,polarity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
 magnet-man,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
+magnet-man,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
+magnet-man,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
+magnet-man,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
+magnet-man,stylized,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
+magnet-man,superhero,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
+magnet-man,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8W1tevv47m4GwgK5h4o4Z0hb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.581879,,1
 magnet-man,tribal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1
 magnet-man,ornate,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JCtOH36ER8hxMIDChWLbQH9h,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.729532,,1

@@ -1,23 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+bird-house,avian,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1
 bird-house,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
-bird-house,birdhouse,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
-bird-house,home,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
+bird-house,birdhouse,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,2
+bird-house,home,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,2
+bird-house,nesting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1
+bird-house,abstract house,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1
 bird-house,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
-bird-house,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
+bird-house,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,2
 bird-house,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
+bird-house,entrance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1
+bird-house,environment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1
 bird-house,garden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
 bird-house,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
-bird-house,habitat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
-bird-house,hexagon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
+bird-house,geometric shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1
+bird-house,habitat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,2
+bird-house,hexagon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,2
 bird-house,housing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
 bird-house,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
 bird-house,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
-bird-house,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
+bird-house,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,2
 bird-house,nest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
-bird-house,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
-bird-house,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
-bird-house,shelter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
+bird-house,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,2
+bird-house,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,2
+bird-house,rooftop,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1
+bird-house,shelter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,2
+bird-house,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1
 bird-house,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
-bird-house,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
+bird-house,symbolic house,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1
+bird-house,symbolic safe space,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1
+bird-house,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,2
+bird-house,circle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1
+bird-house,iconic shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1
+bird-house,minimalist design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1
 bird-house,ornithology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
+bird-house,triangle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1
 bird-house,woodwork,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5698RgwWXr8xkzm8RsZw47KW,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.864993,,1
+bird-house,woodworking,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sQ1u9PvET1JGqGAGmFaseRNn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.402973,,1

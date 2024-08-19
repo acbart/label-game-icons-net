@@ -1,26 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 card-3-clubs,clubs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.114651,,1
-card-3-clubs,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.114651,,1
+card-3-clubs,clubs suit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
+card-3-clubs,deck of cards,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
+card-3-clubs,number three,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
+card-3-clubs,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.114651,,2
 card-3-clubs,suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.114651,,1
-card-3-clubs,three,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.114651,,1
+card-3-clubs,three,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.114651,,2
+card-3-clubs,three of clubs,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
+card-3-clubs,abstract shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
 card-3-clubs,blackjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.114651,,1
 card-3-clubs,bridge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
-card-3-clubs,card game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
+card-3-clubs,card game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,2
+card-3-clubs,card number,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
 card-3-clubs,deck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.114651,,1
-card-3-clubs,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
+card-3-clubs,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,2
 card-3-clubs,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
-card-3-clubs,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.114651,,1
+card-3-clubs,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.114651,,2
+card-3-clubs,gaming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
 card-3-clubs,hand,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
-card-3-clubs,poker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
+card-3-clubs,iconic shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
+card-3-clubs,poker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,2
+card-3-clubs,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
+card-3-clubs,suit symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
 card-3-clubs,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
+card-3-clubs,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
+card-3-clubs,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
+card-3-clubs,traditional games,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
+card-3-clubs,abstract representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
 card-3-clubs,deal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
 card-3-clubs,divination,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
-card-3-clubs,luck,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
+card-3-clubs,graphic design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
+card-3-clubs,luck,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,2
 card-3-clubs,match,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
+card-3-clubs,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
 card-3-clubs,pattern recognition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
 card-3-clubs,randomness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
 card-3-clubs,sequence,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
+card-3-clubs,set collection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qU9476oblQ0NJNX9M7mhUArW,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.283665,,1
 card-3-clubs,shuffling,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
-card-3-clubs,strategy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
+card-3-clubs,strategy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,2
 card-3-clubs,tabletop,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1
 card-3-clubs,trick-taking,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LvvtmdAlIN0km2Xdd9mCLqIQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.115651,,1

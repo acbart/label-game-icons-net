@@ -1,25 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-path-tile,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
+path-tile,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,2
+path-tile,abstract design,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
+path-tile,arrangement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,2
 path-tile,chaos,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
 path-tile,clutter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
 path-tile,confusion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
 path-tile,disarray,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
 path-tile,disorganization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
+path-tile,layout,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
 path-tile,noise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
-path-tile,randomness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
+path-tile,paths,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
+path-tile,pathway,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
+path-tile,randomness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,2
 path-tile,scatter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
+path-tile,tile,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
 path-tile,visual static,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.122001,,1
 path-tile,asymmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.122001,,1
+path-tile,block,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
 path-tile,breakup,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
+path-tile,connections,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
 path-tile,decomposition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.122001,,1
+path-tile,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
+path-tile,direction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
 path-tile,dispersion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
-path-tile,dots,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
+path-tile,dots,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,2
 path-tile,entropy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
 path-tile,fragmentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
+path-tile,fragmented,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
+path-tile,grid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
 path-tile,irregular,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
+path-tile,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
+path-tile,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
+path-tile,network,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
 path-tile,nonuniform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.122001,,1
-path-tile,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
+path-tile,orientation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
+path-tile,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,2
 path-tile,pixelated,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
+path-tile,spatial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
 path-tile,spatial distribution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
+path-tile,steps,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
+path-tile,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
+path-tile,tile map,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1
 path-tile,uneven,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.121001,,1
 path-tile,unstructured,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BTtknsrCTHJOMdk1Ezsfojeh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.122001,,1
+path-tile,pieces,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NWNzwt8wPImMmgkaR5TMqupR,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.070507,,1

@@ -1,25 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-cold-heart,crystal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
+cold-heart,aloofness,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1
+cold-heart,cool heart,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1
+cold-heart,crystal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,2
+cold-heart,emotional distance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1
+cold-heart,emotionless,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1
 cold-heart,flake,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
 cold-heart,freeze,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
-cold-heart,frozen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
-cold-heart,snowflake,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
+cold-heart,frozen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,2
+cold-heart,heart,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1
+cold-heart,ice cold,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1
+cold-heart,lack of warmth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1
+cold-heart,snowflake,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,2
+cold-heart,stoic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1
 cold-heart,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
-cold-heart,winter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
-cold-heart,cold,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
+cold-heart,unfeeling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1
+cold-heart,winter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,2
+cold-heart,chill,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1
+cold-heart,cold,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,2
 cold-heart,cooling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
+cold-heart,coolness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1
 cold-heart,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
+cold-heart,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1
 cold-heart,fragile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
 cold-heart,frost,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
-cold-heart,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
+cold-heart,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,2
 cold-heart,hexagon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
-cold-heart,ice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
+cold-heart,ice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,2
 cold-heart,natural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
 cold-heart,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
-cold-heart,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
+cold-heart,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,2
 cold-heart,seasonal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
 cold-heart,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
+cold-heart,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1
 cold-heart,spiky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
+cold-heart,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1
 cold-heart,unique,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
 cold-heart,weather,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
-cold-heart,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,1
+cold-heart,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cdqXa1jhh0TCpuUPlghdWLbO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.257775,,2
+cold-heart,darkness,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YU99yqVe5KCPU2KYwqN3Qfyi,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.626999,,1

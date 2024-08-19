@@ -1,24 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 balkenkreuz,addition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
-balkenkreuz,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
+balkenkreuz,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,2
+balkenkreuz,historical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1
 balkenkreuz,intersect,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
-balkenkreuz,intersection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,2
-balkenkreuz,plus sign,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
-balkenkreuz,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
+balkenkreuz,intersection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,3
+balkenkreuz,military insignia,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1
+balkenkreuz,plus sign,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,2
+balkenkreuz,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,2
+balkenkreuz,symmetrical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1
 balkenkreuz,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
-balkenkreuz,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
+balkenkreuz,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,2
+balkenkreuz,authority,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1
 balkenkreuz,axis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
-balkenkreuz,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
+balkenkreuz,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,2
 balkenkreuz,central,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
-balkenkreuz,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
+balkenkreuz,centrality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1
+balkenkreuz,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,2
+balkenkreuz,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1
 balkenkreuz,equation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
 balkenkreuz,equilibrium,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
-balkenkreuz,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
+balkenkreuz,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,2
 balkenkreuz,healthcare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
 balkenkreuz,hospital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
+balkenkreuz,identification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1
 balkenkreuz,mathematics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
+balkenkreuz,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1
+balkenkreuz,order,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1
 balkenkreuz,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
-balkenkreuz,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
+balkenkreuz,square edges,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1
+balkenkreuz,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,2
 balkenkreuz,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
+balkenkreuz,uniformity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1
 balkenkreuz,compass,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
-balkenkreuz,grid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,1
+balkenkreuz,decorative,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1
+balkenkreuz,grid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jENrZlZnX7zDHCLshRb89pCo,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.164083,,2
+balkenkreuz,marking,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1
+balkenkreuz,organization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1
+balkenkreuz,precision,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s5MYi8LwFXsVq2NoG38jx8xx,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.340073,,1

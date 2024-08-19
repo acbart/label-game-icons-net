@@ -1,26 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 hearing-disabled,audio off,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
-hearing-disabled,deaf,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
+hearing-disabled,deaf,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,2
+hearing-disabled,disability,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
 hearing-disabled,disabled audio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
-hearing-disabled,ear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
+hearing-disabled,ear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,2
 hearing-disabled,hearing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
-hearing-disabled,mute,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
+hearing-disabled,hearing impairment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
+hearing-disabled,hearing-disabled,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
+hearing-disabled,mute,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,2
 hearing-disabled,no hearing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
-hearing-disabled,no sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
+hearing-disabled,no sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,2
 hearing-disabled,silence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
 hearing-disabled,sound off,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
-hearing-disabled,accessibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
+hearing-disabled,ADA compliant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
+hearing-disabled,accessibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,2
+hearing-disabled,aid required,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
 hearing-disabled,audio settings,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
 hearing-disabled,blocked sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
+hearing-disabled,cancelled,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
 hearing-disabled,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
-hearing-disabled,crossed out,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
+hearing-disabled,communication barrier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
+hearing-disabled,crossed out,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,2
+hearing-disabled,health services,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
+hearing-disabled,line through,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
+hearing-disabled,medical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
 hearing-disabled,noise cancellation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
-hearing-disabled,prohibition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
+hearing-disabled,prohibition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,2
 hearing-disabled,quiet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
+hearing-disabled,restricted,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
 hearing-disabled,restriction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
-hearing-disabled,sound barrier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
+hearing-disabled,sensory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
+hearing-disabled,sound barrier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,2
+hearing-disabled,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
 hearing-disabled,volume control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
 hearing-disabled,alert,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
+hearing-disabled,auscultation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
+hearing-disabled,hearing aid,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
+hearing-disabled,no listening,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
 hearing-disabled,security,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
+hearing-disabled,silent,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MhO1N0pnD0JlE8t2MNUBbfB8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.763605,,1
 hearing-disabled,technology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1
 hearing-disabled,warning,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EkystOhdY5a6O9WS42WYqc6x,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.311101,,1

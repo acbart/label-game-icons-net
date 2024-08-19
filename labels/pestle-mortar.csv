@@ -1,25 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-pestle-mortar,crushing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
-pestle-mortar,grinding,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
+pestle-mortar,cooking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
+pestle-mortar,crushing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,2
+pestle-mortar,grinding,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,2
 pestle-mortar,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
 pestle-mortar,manual process,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
 pestle-mortar,medicine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
+pestle-mortar,mortar,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
 pestle-mortar,mortar and pestle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
+pestle-mortar,pestle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
 pestle-mortar,pharmacy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
-pestle-mortar,alchemy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
+pestle-mortar,alchemy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,2
+pestle-mortar,ancient tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
+pestle-mortar,apothecary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
 pestle-mortar,blend,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
 pestle-mortar,chemistry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
-pestle-mortar,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
-pestle-mortar,herbs,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
+pestle-mortar,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,2
+pestle-mortar,herbs,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,2
+pestle-mortar,homemade,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
+pestle-mortar,iconic representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
 pestle-mortar,iconic tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
 pestle-mortar,ingredient,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
-pestle-mortar,kitchen tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
+pestle-mortar,ingredients,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
+pestle-mortar,kitchen tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,2
+pestle-mortar,laboratory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
+pestle-mortar,manual tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
+pestle-mortar,medicine preparation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
+pestle-mortar,mixing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
 pestle-mortar,mixture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
+pestle-mortar,pounding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
 pestle-mortar,powder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
 pestle-mortar,preparation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
-pestle-mortar,spices,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
-pestle-mortar,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
+pestle-mortar,spices,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,2
+pestle-mortar,substance breaking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
+pestle-mortar,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,2
 pestle-mortar,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
+pestle-mortar,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
+pestle-mortar,ceremonial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
+pestle-mortar,circular shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
 pestle-mortar,ritual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
+pestle-mortar,rituals,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
 pestle-mortar,shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1
+pestle-mortar,textured,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_89yMDM75d63n0w3QlpCqWtVk,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.008557,,1
 pestle-mortar,vintage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iUQNexTTqqZlvySKl0FqQvA1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.405423,,1

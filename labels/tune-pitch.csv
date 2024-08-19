@@ -1,31 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-tune-pitch,melody,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.639254,,1
-tune-pitch,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.639254,,1
-tune-pitch,notation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
+tune-pitch,frequency,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
+tune-pitch,melody,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.639254,,2
+tune-pitch,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.639254,,2
+tune-pitch,musical note,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
+tune-pitch,notation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,2
 tune-pitch,note,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.639254,,1
 tune-pitch,sheet music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
 tune-pitch,song,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
+tune-pitch,sound wave,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
 tune-pitch,staff,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
 tune-pitch,treble clef,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.639254,,1
+tune-pitch,tuning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
 tune-pitch,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
+tune-pitch,acoustics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
 tune-pitch,audio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
+tune-pitch,audio settings,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
 tune-pitch,chord,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
 tune-pitch,clef,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
-tune-pitch,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
+tune-pitch,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,2
 tune-pitch,concert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
 tune-pitch,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
-tune-pitch,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.639254,,1
-tune-pitch,instrument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
+tune-pitch,equalizer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
+tune-pitch,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.639254,,2
+tune-pitch,instrument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,2
+tune-pitch,intonation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
 tune-pitch,musical score,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.639254,,1
 tune-pitch,musicality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
 tune-pitch,musician,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
 tune-pitch,orchestra,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
 tune-pitch,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
-tune-pitch,pitch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
-tune-pitch,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.639254,,1
+tune-pitch,pitch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,2
+tune-pitch,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.639254,,2
+tune-pitch,signal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
 tune-pitch,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.639254,,1
-tune-pitch,symphony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
+tune-pitch,sound adjustment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
+tune-pitch,symphony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,2
 tune-pitch,tone,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
 tune-pitch,tune,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
+tune-pitch,waveform,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
 tune-pitch,bass,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
+tune-pitch,crescendo,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
+tune-pitch,modulation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
 tune-pitch,musical education,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y0QbKe0548hhXvKTQHoiEu1L,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.640252,,1
+tune-pitch,octave,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
+tune-pitch,scale,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
+tune-pitch,tonality,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1
+tune-pitch,vibration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dp5ELnUjvZBv3GNqQVtQBi4j,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.454318,,1

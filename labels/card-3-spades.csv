@@ -1,26 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-card-3-spades,blackjack,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
+card-3-spades,blackjack,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,2
 card-3-spades,card suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
 card-3-spades,number 3,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
-card-3-spades,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
-card-3-spades,poker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
+card-3-spades,number three,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
+card-3-spades,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,2
+card-3-spades,poker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,2
 card-3-spades,spade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
+card-3-spades,spade symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
+card-3-spades,suit of spades,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
 card-3-spades,three,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
+card-3-spades,three of spades,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
+card-3-spades,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
 card-3-spades,bridge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
-card-3-spades,card game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
+card-3-spades,card counting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
+card-3-spades,card game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,2
 card-3-spades,chance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
 card-3-spades,deal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
-card-3-spades,deck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
-card-3-spades,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
+card-3-spades,deck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,2
+card-3-spades,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
+card-3-spades,fortune,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
+card-3-spades,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,2
 card-3-spades,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
-card-3-spades,luck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
+card-3-spades,game strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
+card-3-spades,luck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,2
 card-3-spades,magic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
+card-3-spades,standard deck,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
 card-3-spades,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
 card-3-spades,suit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
 card-3-spades,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
+card-3-spades,symbolic representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
+card-3-spades,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
 card-3-spades,tabletop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
 card-3-spades,trick-taking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
+card-3-spades,abstract design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
+card-3-spades,classic games,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
 card-3-spades,clubs,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
 card-3-spades,diamonds,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
+card-3-spades,graphic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
 card-3-spades,hearts,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
+card-3-spades,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
 card-3-spades,tarot,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c27JeZzF5u6KZrPjOo569SVM,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.120653,,1
+card-3-spades,timeless,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1
+card-3-spades,traditional,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rVTs2ycXBsIgZOfCY8KLgwfK,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.310766,,1

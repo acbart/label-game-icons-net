@@ -1,24 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+air-zigzag,air flow,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
 air-zigzag,blades,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
 air-zigzag,cutting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
 air-zigzag,pointed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
 air-zigzag,sharp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
 air-zigzag,slash,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
+air-zigzag,wind,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
+air-zigzag,zigzag,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
 air-zigzag,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
+air-zigzag,abstract lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
 air-zigzag,aggression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
 air-zigzag,attack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
+air-zigzag,breeze,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
 air-zigzag,claws,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
+air-zigzag,curvature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
+air-zigzag,curve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
 air-zigzag,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
-air-zigzag,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
-air-zigzag,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
+air-zigzag,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,2
+air-zigzag,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,2
 air-zigzag,fierce,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
-air-zigzag,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
+air-zigzag,flow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
+air-zigzag,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
+air-zigzag,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,2
 air-zigzag,piercing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
+air-zigzag,speed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
 air-zigzag,spikes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
+air-zigzag,streamlined,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
 air-zigzag,swift,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
 air-zigzag,swing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
+air-zigzag,symbolic direction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
 air-zigzag,violence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
+air-zigzag,wave,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
 air-zigzag,weapon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
 air-zigzag,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
+air-zigzag,aerodynamics,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
+air-zigzag,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
 air-zigzag,fangs,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1
+air-zigzag,flexibility,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
+air-zigzag,freedom,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
+air-zigzag,patterns,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
+air-zigzag,sharp edges,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
+air-zigzag,stylized,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LLl10dVCyEgKnpwmdtGFGiJW,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.482688,,1
 air-zigzag,tension,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bxOTB5PKI2q9zmPtEDcVUwVq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.792613,,1

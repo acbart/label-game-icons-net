@@ -1,21 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-police-officer-head,authority,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
-police-officer-head,law enforcement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
-police-officer-head,officer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
-police-officer-head,police,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
-police-officer-head,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
-police-officer-head,badge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
+police-officer-head,authority,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,2
+police-officer-head,guard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,head,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,law enforcement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,2
+police-officer-head,officer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,2
+police-officer-head,police,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,2
+police-officer-head,public safety,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,2
+police-officer-head,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,badge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,2
+police-officer-head,command,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,duty,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
 police-officer-head,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
+police-officer-head,facial hair,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,figure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
 police-officer-head,guardian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
-police-officer-head,hat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
-police-officer-head,mustache,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
-police-officer-head,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
+police-officer-head,hat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,2
+police-officer-head,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,identity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,image,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,mustache,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,2
+police-officer-head,order,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,persona,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,personnel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,2
+police-officer-head,public servant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
 police-officer-head,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
 police-officer-head,sergeant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
-police-officer-head,uniform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
+police-officer-head,service,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvGAknQJxIkS2bN2HVe47VTa,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.776499,,1
+police-officer-head,uniform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,2
 police-officer-head,watchman,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
 police-officer-head,chief,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
 police-officer-head,detective,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
 police-officer-head,inspector,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
-police-officer-head,patrol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1
+police-officer-head,patrol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,2
 police-officer-head,sheriff,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c0DQfjJfa2iPfLAAiMeWdOeM,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.327257,,1

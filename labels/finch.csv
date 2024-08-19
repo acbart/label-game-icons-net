@@ -1,24 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-finch,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
-finch,avian,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
-finch,beak,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
-finch,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
-finch,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
+finch,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,2
+finch,avian,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,2
+finch,beak,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,2
+finch,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,2
+finch,finch,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FMj3xb0Cjc3qTHhJ1bV8LQF6,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.105939,,1
+finch,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,2
 finch,perched,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
 finch,small bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
-finch,feather,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
-finch,flight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
-finch,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
+finch,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FMj3xb0Cjc3qTHhJ1bV8LQF6,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.105939,,1
+finch,feather,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,2
+finch,flight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,2
+finch,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,2
+finch,grace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FMj3xb0Cjc3qTHhJ1bV8LQF6,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.105939,,1
 finch,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
-finch,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
+finch,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,2
+finch,nature icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FMj3xb0Cjc3qTHhJ1bV8LQF6,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.105939,,1
 finch,ornithology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
 finch,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
-finch,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
+finch,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FMj3xb0Cjc3qTHhJ1bV8LQF6,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.105939,,1
+finch,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,2
 finch,simple design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
-finch,songbird,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
+finch,songbird,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,2
 finch,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
-finch,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
+finch,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FMj3xb0Cjc3qTHhJ1bV8LQF6,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.105939,,1
+finch,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,2
+finch,wing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FMj3xb0Cjc3qTHhJ1bV8LQF6,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.105939,,1
 finch,winged,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
+finch,birdwatching,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FMj3xb0Cjc3qTHhJ1bV8LQF6,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.105939,,1
+finch,branch,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FMj3xb0Cjc3qTHhJ1bV8LQF6,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.105939,,1
 finch,distinct shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
 finch,dove,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
+finch,ecosystem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FMj3xb0Cjc3qTHhJ1bV8LQF6,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.105939,,1
+finch,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FMj3xb0Cjc3qTHhJ1bV8LQF6,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.105939,,1
 finch,peace,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0nloBRIv2qQ9pXkMTfrS26u,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.827774,,1
+finch,perch,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FMj3xb0Cjc3qTHhJ1bV8LQF6,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.105939,,1
+finch,wildlife conservation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FMj3xb0Cjc3qTHhJ1bV8LQF6,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.105939,,1

@@ -1,13 +1,21 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-discobolus,action,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
+discobolus,Greek culture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1
+discobolus,Olympics,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1
+discobolus,abstract human figure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1
+discobolus,action,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,2
 discobolus,agility,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
 discobolus,athlete,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
-discobolus,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
-discobolus,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
-discobolus,pose,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
-discobolus,sports,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
-discobolus,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
-discobolus,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
+discobolus,athletics,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1
+discobolus,discus throw,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1
+discobolus,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,2
+discobolus,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,2
+discobolus,pose,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,2
+discobolus,sports,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,2
+discobolus,sports icon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1
+discobolus,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,2
+discobolus,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,2
+discobolus,discipline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1
+discobolus,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1
 discobolus,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
 discobolus,endurance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
 discobolus,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
@@ -15,11 +23,18 @@ discobolus,exercise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_r
 discobolus,figure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
 discobolus,fitness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
 discobolus,flexibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
+discobolus,fluidity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1
 discobolus,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
+discobolus,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1
 discobolus,physical activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
-discobolus,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
+discobolus,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1
+discobolus,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,2
 discobolus,sportsman,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
-discobolus,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
-discobolus,training,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
+discobolus,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,2
+discobolus,training,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,2
+discobolus,artistic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1
+discobolus,history,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1
 discobolus,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
 discobolus,muscles,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r3EGAd9Sv7RmCVIlyjdlCJQR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.562610,,1
+discobolus,musculature,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1
+discobolus,tradition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WzMBNW20ACvuGMggNmbxJLgf,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.117658,,1

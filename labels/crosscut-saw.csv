@@ -1,26 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-crosscut-saw,blade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
-crosscut-saw,cutting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
+crosscut-saw,blade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,2
+crosscut-saw,cutting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,2
 crosscut-saw,cutting tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
 crosscut-saw,edge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
-crosscut-saw,saw,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
+crosscut-saw,handle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
+crosscut-saw,manual,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
+crosscut-saw,saw,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,2
 crosscut-saw,serrated,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
-crosscut-saw,teeth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
-crosscut-saw,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
-crosscut-saw,carpentry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
-crosscut-saw,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
-crosscut-saw,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
+crosscut-saw,serrated edge,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
+crosscut-saw,teeth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,2
+crosscut-saw,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,2
+crosscut-saw,woodworking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
+crosscut-saw,DIY,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
+crosscut-saw,carpentry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,2
+crosscut-saw,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,2
+crosscut-saw,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,2
+crosscut-saw,divide,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
 crosscut-saw,diy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
-crosscut-saw,hand tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
-crosscut-saw,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
+crosscut-saw,fabrication,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
+crosscut-saw,function,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
+crosscut-saw,hand tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,2
+crosscut-saw,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,2
 crosscut-saw,jagged,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
 crosscut-saw,manual labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
+crosscut-saw,mechanics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
 crosscut-saw,metalwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
-crosscut-saw,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
+crosscut-saw,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
+crosscut-saw,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,2
+crosscut-saw,process,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
 crosscut-saw,sawing motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
+crosscut-saw,section,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
 crosscut-saw,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
 crosscut-saw,woodwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
-crosscut-saw,zigzag,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
+crosscut-saw,zigzag,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,2
 crosscut-saw,angular,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
-crosscut-saw,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
+crosscut-saw,engineer,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
+crosscut-saw,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
+crosscut-saw,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,2
+crosscut-saw,line,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
 crosscut-saw,mechanical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QqUxxHLmDW5sTP7vCUu5kxex,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.425742,,1
+crosscut-saw,rhythm,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
+crosscut-saw,texture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1
+crosscut-saw,utility,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WigLickb139nKeDiEu2kmNPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.704348,,1

@@ -1,27 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 fission,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
-fission,burst,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
+fission,atomic process,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
+fission,burst,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,2
+fission,chain reaction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
+fission,division,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
 fission,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
+fission,energy release,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
+fission,fission,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
 fission,force,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
 fission,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
 fission,intensity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
-fission,power,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
+fission,nuclear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
+fission,power,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,2
 fission,sharp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
 fission,spikes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
 fission,star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
 fission,starburst,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
+fission,breakapart,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
 fission,central,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
 fission,chaos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
 fission,core,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
 fission,crash,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
+fission,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
+fission,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
 fission,detonation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
+fission,disintegration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
 fission,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
-fission,explosion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
+fission,explosion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,2
 fission,fractured,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
 fission,irregular,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
 fission,jagged,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
-fission,radiation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
+fission,radiation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,2
+fission,reaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
 fission,scatter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
+fission,science,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
+fission,split,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
+fission,starburst pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
 fission,surge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
+fission,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
 fission,unpredictable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
 fission,wild,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_uN3JaNnfoA2nYdsZI7ntGw4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.734832,,1
+fission,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
+fission,complexity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
+fission,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1
+fission,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZJE67wMAUyTv5lcddyEA4JaH,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.634711,,1

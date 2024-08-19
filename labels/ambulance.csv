@@ -1,24 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-ambulance,aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
-ambulance,ambulance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
-ambulance,emergency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
+ambulance,aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,2
+ambulance,ambulance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,2
+ambulance,cross,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
+ambulance,emergency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,2
+ambulance,emergency response,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
 ambulance,fast response,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
-ambulance,first aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
-ambulance,health,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
-ambulance,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
-ambulance,hospital,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
-ambulance,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
+ambulance,first aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,2
+ambulance,health,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,2
+ambulance,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,2
+ambulance,hospital,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,2
+ambulance,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,2
 ambulance,plus sign,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
-ambulance,rescue,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
+ambulance,rescue,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,2
 ambulance,response vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
-ambulance,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
-ambulance,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
+ambulance,sirens,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
+ambulance,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,2
+ambulance,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,2
+ambulance,care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
 ambulance,caretaking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
-ambulance,crisis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
+ambulance,crisis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,2
 ambulance,delivery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
-ambulance,paramedic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
+ambulance,emergency call,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
+ambulance,help,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
+ambulance,immediate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
+ambulance,lifeline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
+ambulance,operation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
+ambulance,paramedic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,2
 ambulance,public services,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
+ambulance,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
 ambulance,service,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
+ambulance,services,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
 ambulance,speed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
+ambulance,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
+ambulance,treatment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
+ambulance,urgency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
 ambulance,urgent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
-ambulance,vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,1
+ambulance,vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fCMnpy981XQ3xuahC6qB2L2b,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.585742,,2
+ambulance,situation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1
+ambulance,support team,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5bkzudYodTaPC74wAyHMAmcJ,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.323300,,1

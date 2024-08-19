@@ -1,23 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 ocarina,art,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
-ocarina,creativity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,2
-ocarina,design,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
+ocarina,creativity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,3
+ocarina,design,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,2
+ocarina,holes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
 ocarina,imagination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
+ocarina,music,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
+ocarina,musical instrument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
+ocarina,ocarina,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
 ocarina,paintbrush,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
 ocarina,painting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
 ocarina,palette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
+ocarina,sound,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
+ocarina,wind instrument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
+ocarina,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
+ocarina,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
 ocarina,artist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
+ocarina,blowing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
 ocarina,color,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
 ocarina,craft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
+ocarina,curved shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
 ocarina,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
 ocarina,drawing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
-ocarina,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
+ocarina,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,2
+ocarina,folk music,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
+ocarina,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
 ocarina,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
+ocarina,melody,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
+ocarina,note,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
+ocarina,performance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
+ocarina,play,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
 ocarina,tools,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
+ocarina,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
+ocarina,tuning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
 ocarina,visual arts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
 ocarina,aesthetic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
+ocarina,artistic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
 ocarina,canvas,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
+ocarina,craftsmanship,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
+ocarina,culture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
 ocarina,hobby,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
+ocarina,orchestra,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
+ocarina,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
 ocarina,shade,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
+ocarina,soundwave,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
 ocarina,studio,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1
+ocarina,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlK6lcDCHf4WVbsZZ8aZAqQY,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.595668,,1
 ocarina,tint,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WBIzvzWxeZfvBFhcvibKz9G7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.012558,,1

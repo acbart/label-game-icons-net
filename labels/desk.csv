@@ -1,25 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-desk,computer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
-desk,desk,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
-desk,monitor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
-desk,office,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
+desk,computer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,2
+desk,desk,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,2
+desk,drawers,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
+desk,monitor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,2
+desk,office,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,2
+desk,professional,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
 desk,work,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
-desk,workspace,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
+desk,working,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
+desk,workspace,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,2
+desk,arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
 desk,business,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
+desk,cabinet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
 desk,cubicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
-desk,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
-desk,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
-desk,furniture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
-desk,home office,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
+desk,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,2
+desk,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
+desk,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,2
+desk,focus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
+desk,furniture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,2
+desk,home office,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,2
 desk,job,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
 desk,office supplies,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
-desk,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
-desk,productivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
+desk,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,2
+desk,productivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,2
 desk,station,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
+desk,stationary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
+desk,storage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
+desk,structured,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
+desk,study,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
+desk,table,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
 desk,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
+desk,writing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
+desk,clean,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
 desk,ergonomics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
 desk,formal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
-desk,modern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
+desk,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WW0BYRV5MF4eKZ2ghFcG54UG,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.932704,,1
+desk,modern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,2
 desk,setup,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
 desk,task,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1
 desk,task management,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oeNMG8MdIVpsa5JVw9uGTo0T,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.499253,,1

@@ -1,30 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 bulldozer,bucket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
-bulldozer,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
+bulldozer,bulldozer,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
+bulldozer,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,2
 bulldozer,construction site,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
-bulldozer,demolition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
+bulldozer,demolition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,2
+bulldozer,equipment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
 bulldozer,excavator,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
 bulldozer,heavy equipment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
-bulldozer,machine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
+bulldozer,heavy machinery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
+bulldozer,industrial vehicle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
+bulldozer,machine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,2
+bulldozer,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
 bulldozer,wrecking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
 bulldozer,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
-bulldozer,building,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
+bulldozer,building,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,2
+bulldozer,clearance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
 bulldozer,crane,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
-bulldozer,development,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
-bulldozer,digging,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
-bulldozer,earthmoving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
-bulldozer,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
-bulldozer,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
+bulldozer,development,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,2
+bulldozer,digging,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,2
+bulldozer,earthmoving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,2
+bulldozer,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,2
+bulldozer,excavation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
+bulldozer,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,2
 bulldozer,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
 bulldozer,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
+bulldozer,job site,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
+bulldozer,landscaping,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
 bulldozer,machine parts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
+bulldozer,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
 bulldozer,mechanical arm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
 bulldozer,mechanization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
 bulldozer,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
 bulldozer,site work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
-bulldozer,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
+bulldozer,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,2
+bulldozer,tread,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
 bulldozer,urban,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
+bulldozer,control,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
 bulldozer,modernization,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
-bulldozer,power,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
+bulldozer,operator,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
+bulldozer,power,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,2
 bulldozer,progress,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1
+bulldozer,project,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
+bulldozer,structure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MN8AnXoDfnFF0CQ6MP01E8vn,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.956257,,1
 bulldozer,transport,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hbJieaZwc9XvkcucDnVmOQji,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.020816,,1

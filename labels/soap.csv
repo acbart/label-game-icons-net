@@ -1,26 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-soap,bubbles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
+soap,bar of soap,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
+soap,bubbles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,2
 soap,clean,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
 soap,cleaning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
-soap,hygiene,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
-soap,sanitation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
-soap,soap,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
+soap,cleanliness,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
+soap,hygiene,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,2
+soap,sanitation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,2
+soap,soap,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,2
 soap,sponge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
-soap,washing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
+soap,washing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,2
+soap,bath,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
+soap,cleaning product,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
 soap,cleansing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.904454,,1
 soap,detergent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
 soap,dishwashing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
+soap,disinfect,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
 soap,domestic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
-soap,foam,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
+soap,foam,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,2
 soap,freshness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
+soap,germ-free,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
+soap,health,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
 soap,household,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
 soap,housekeeping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
 soap,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
+soap,lather,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
 soap,maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
+soap,personal care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
 soap,scrubbing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
 soap,spotless,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.904454,,1
 soap,suds,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.904454,,1
+soap,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
 soap,bubble bath,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.904454,,1
-soap,purity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
+soap,essentials,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
+soap,fresh,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
+soap,liquid or solid,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
+soap,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
+soap,non-slip,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
+soap,protection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
+soap,purity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,2
 soap,rinse,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.904454,,1
+soap,routine,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
+soap,self-care,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
 soap,sparkle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kwgiBcQk5pvRlAV280qK1H3S,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.903934,,1
+soap,sustainability,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1
+soap,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa3q3gMmcjm7m1W0rwuMeuw,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.776607,,1

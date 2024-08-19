@@ -1,25 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 hot-dog,American cuisine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
-hot-dog,bun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
-hot-dog,fast food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
-hot-dog,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
+hot-dog,bun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,2
+hot-dog,fast food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,2
+hot-dog,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,2
 hot-dog,hot dog,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
-hot-dog,sausage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
-hot-dog,barbecue,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
+hot-dog,hot-dog,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1
+hot-dog,sausage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,2
+hot-dog,barbecue,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,2
 hot-dog,classic dish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
 hot-dog,comfort food,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
+hot-dog,grill,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1
 hot-dog,grilled,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
-hot-dog,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
-hot-dog,picnic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
-hot-dog,sandwich,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
-hot-dog,simple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
-hot-dog,snack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
-hot-dog,street food,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
+hot-dog,luncheon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1
+hot-dog,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,2
+hot-dog,picnic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,2
+hot-dog,restaurant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1
+hot-dog,sandwich,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,2
+hot-dog,simple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,2
+hot-dog,snack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,2
+hot-dog,street food,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,2
+hot-dog,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1
 hot-dog,carnival,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
-hot-dog,casual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
-hot-dog,cuisine,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
+hot-dog,casual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,2
+hot-dog,conceptual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1
+hot-dog,cuisine,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,2
 hot-dog,cultural icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
+hot-dog,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1
 hot-dog,festival,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
 hot-dog,gastronomy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
+hot-dog,graphic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1
 hot-dog,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
+hot-dog,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1
+hot-dog,illustration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1
+hot-dog,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1
+hot-dog,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1
 hot-dog,party,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gSuDR3KMpZZ3jNroP6GNvzeI,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.328747,,1
+hot-dog,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1
+hot-dog,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1
+hot-dog,visual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q8KObM3X7HQ7oQYCMFYQgdH2,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.168444,,1

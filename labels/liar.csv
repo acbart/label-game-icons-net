@@ -1,19 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+liar,deception,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.162638,,1
+liar,dishonesty,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.162638,,1
 liar,emoji,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.619975,,1
-liar,emotion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.619975,,1
-liar,expression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.619975,,1
-liar,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
+liar,emotion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.619975,,2
+liar,expression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.619975,,2
+liar,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,2
+liar,icon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.162638,,1
+liar,liar,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.162638,,1
+liar,long nose,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.162638,,1
+liar,metaphor,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.162638,,1
 liar,reaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
 liar,shock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.619975,,1
+liar,skepticism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.163637,,1
 liar,surprise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.619975,,1
-liar,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
+liar,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.162638,,1
+liar,Pinocchio,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.162638,,1
+liar,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,2
+liar,abstract face,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.163637,,1
 liar,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
 liar,anxiety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.619975,,1
-liar,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
+liar,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,2
+liar,character,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.162638,,1
 liar,fear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
+liar,folk tale,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.162638,,1
 liar,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
 liar,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
+liar,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.162638,,1
 liar,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
+liar,myth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.162638,,1
+liar,nose growth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.163637,,1
+liar,overemphasis,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.163637,,1
 liar,pictogram,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
 liar,stress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
 liar,sweat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
@@ -24,4 +40,5 @@ liar,worry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2
 liar,comic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
 liar,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
 liar,gesture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1
+liar,humor,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PYobWemqYUTSjfTAeLSwLygt,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.163637,,1
 liar,visual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ryL5w2aVE2rzw2ea1RANzvIG,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.620974,,1

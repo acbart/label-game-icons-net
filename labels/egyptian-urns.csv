@@ -1,25 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+egyptian-urns,ancient artifacts,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
+egyptian-urns,ancient egypt,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
+egyptian-urns,ancient symbols,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
 egyptian-urns,beat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
+egyptian-urns,burial customs,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
+egyptian-urns,canopic jars,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
+egyptian-urns,egyptian,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
+egyptian-urns,funerary,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
 egyptian-urns,instruments,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
 egyptian-urns,maracas,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690062,,1
 egyptian-urns,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
 egyptian-urns,percussion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
 egyptian-urns,rhythm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
 egyptian-urns,shake,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690700,,1
+egyptian-urns,urns,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
+egyptian-urns,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
+egyptian-urns,antiquity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
+egyptian-urns,art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
 egyptian-urns,celebration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
 egyptian-urns,ceremony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
+egyptian-urns,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
 egyptian-urns,culture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
 egyptian-urns,dance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
+egyptian-urns,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
 egyptian-urns,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690700,,1
 egyptian-urns,duo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690700,,1
 egyptian-urns,festivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
+egyptian-urns,hieroglyphics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
+egyptian-urns,historical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
+egyptian-urns,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
 egyptian-urns,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
+egyptian-urns,museums,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
 egyptian-urns,musician,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690700,,1
+egyptian-urns,mythology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
 egyptian-urns,ornamentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
 egyptian-urns,pair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
 egyptian-urns,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
+egyptian-urns,preservation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
+egyptian-urns,ritual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
+egyptian-urns,sacred,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
 egyptian-urns,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
+egyptian-urns,symbols,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
 egyptian-urns,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
+egyptian-urns,abstract design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1
 egyptian-urns,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690700,,1
 egyptian-urns,party,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690599,,1
 egyptian-urns,sound waves,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_97w0qz8EPOdJcBaObaO9dQHR,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.690700,,1
+egyptian-urns,vases,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4csfMcxFd32P9oEkzBclvXfu,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.590027,,1

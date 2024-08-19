@@ -1,25 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-pool-dive,dive,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
+pool-dive,dive,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,2
+pool-dive,diver,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
 pool-dive,diving,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
-pool-dive,jump,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
+pool-dive,jump,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,2
 pool-dive,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
-pool-dive,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
+pool-dive,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,2
+pool-dive,plunge,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
+pool-dive,pool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
+pool-dive,swimming,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
 pool-dive,swimming pool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
-pool-dive,water,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
-pool-dive,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
+pool-dive,water,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,2
+pool-dive,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,2
 pool-dive,activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
-pool-dive,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
+pool-dive,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,2
+pool-dive,athlete,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
 pool-dive,athleticism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
+pool-dive,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
 pool-dive,body in motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
+pool-dive,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
+pool-dive,coordination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
 pool-dive,drop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
 pool-dive,element of challenge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
-pool-dive,excitement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
-pool-dive,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
+pool-dive,excitement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,2
+pool-dive,falling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
+pool-dive,fitness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
+pool-dive,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,2
+pool-dive,fun,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
 pool-dive,leap,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
-pool-dive,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
-pool-dive,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
+pool-dive,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
+pool-dive,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
+pool-dive,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,2
+pool-dive,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,2
 pool-dive,skill,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
+pool-dive,skills,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
+pool-dive,splash,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
+pool-dive,sports,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
+pool-dive,summer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
+pool-dive,training,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
+pool-dive,wave,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
 pool-dive,waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
+pool-dive,cooling off,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kg2vYkPtLjxAjO5BGTrMaJkf,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.795348,,1
 pool-dive,danger,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
 pool-dive,outdoors,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1
 pool-dive,vertical lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oQPQxHj0m8NHfesiYYLRtT7Z,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.335267,,1

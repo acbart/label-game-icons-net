@@ -1,27 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 war-axe,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
+war-axe,axe head,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
+war-axe,blade,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
+war-axe,combat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
 war-axe,design,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
 war-axe,dual meaning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
+war-axe,handle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
 war-axe,paintbrush,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
 war-axe,painting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
+war-axe,sharp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
 war-axe,spear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
 war-axe,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
-war-axe,symbolism,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
+war-axe,symbolism,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,2
+war-axe,war-axe,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
+war-axe,warrior,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
+war-axe,abstract design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
+war-axe,aggression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
+war-axe,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
 war-axe,art versus war,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
 war-axe,artistic expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
-war-axe,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
+war-axe,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,2
+war-axe,chopping,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
 war-axe,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
-war-axe,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
+war-axe,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,2
 war-axe,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
 war-axe,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
 war-axe,creativity versus aggression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
+war-axe,cutting tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
+war-axe,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
+war-axe,dual usage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
+war-axe,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
 war-axe,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
 war-axe,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
 war-axe,juxtaposition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
+war-axe,knight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
+war-axe,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
 war-axe,motif,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
+war-axe,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
+war-axe,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
+war-axe,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
+war-axe,tribal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
+war-axe,viking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
 war-axe,visual art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
-war-axe,weapon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
+war-axe,weapon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,2
 war-axe,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
 war-axe,cultural,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
+war-axe,decorative,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
 war-axe,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1
+war-axe,ornate,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fUb80JGG0F4dhAxmf2iFmebr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.489317,,1
 war-axe,philosophy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_r9IfFp46MsTi7KiIVbwDDnCE,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.548114,,1

@@ -1,23 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-wall-light,lantern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
+wall-light,lamp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
+wall-light,lantern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,2
 wall-light,light fixture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
-wall-light,outdoor lighting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
+wall-light,light source,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
+wall-light,lighting fixture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
+wall-light,outdoor lighting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,2
 wall-light,street light,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
+wall-light,wall-light,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
+wall-light,ambient light,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
 wall-light,antique,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
 wall-light,classic style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
+wall-light,decor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
 wall-light,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
+wall-light,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
 wall-light,entrance lighting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
+wall-light,exterior light,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
+wall-light,fixture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
+wall-light,fixture design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
 wall-light,garden light,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
-wall-light,illumination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
+wall-light,home decoration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
+wall-light,illumination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,2
+wall-light,illumination device,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
+wall-light,interior light,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
 wall-light,lamp post,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
+wall-light,modern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
 wall-light,night light,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
-wall-light,ornamental,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
+wall-light,ornamental,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,2
 wall-light,patio illumination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
-wall-light,sconce,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
+wall-light,retro,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
+wall-light,sconce,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,2
+wall-light,vintage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
 wall-light,vintage design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
-wall-light,wall-mounted,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
-wall-light,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
-wall-light,electricity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
+wall-light,wall-mounted,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,2
+wall-light,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,2
+wall-light,electricity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,2
 wall-light,guidance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
 wall-light,public spaces,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1
+wall-light,shadow,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7fLZADC4OZjQsXMqvNtZiYVx,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.456417,,1
 wall-light,urban aesthetic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NiYTP3xyS27obFaF75qy9u3H,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.540596,,1

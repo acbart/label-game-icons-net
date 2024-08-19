@@ -1,31 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-cassowary-head,beak,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
-cassowary-head,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
+cassowary-head,avian,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RR6u721NrfT0xyGSvgy5puaZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.500852,,1
+cassowary-head,beak,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,2
+cassowary-head,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,2
+cassowary-head,cassowary,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RR6u721NrfT0xyGSvgy5puaZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.500852,,1
+cassowary-head,crest,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RR6u721NrfT0xyGSvgy5puaZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.500852,,1
+cassowary-head,head,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RR6u721NrfT0xyGSvgy5puaZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.500852,,1
 cassowary-head,minimalist,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
-cassowary-head,stylized,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
+cassowary-head,stylized,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,2
 cassowary-head,woodpecker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
-cassowary-head,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
+cassowary-head,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,2
 cassowary-head,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
+cassowary-head,animal representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RR6u721NrfT0xyGSvgy5puaZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.500852,,1
 cassowary-head,avifauna,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
 cassowary-head,distinct,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
+cassowary-head,endangered species,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RR6u721NrfT0xyGSvgy5puaZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.500852,,1
 cassowary-head,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
 cassowary-head,feather,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
 cassowary-head,forest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
-cassowary-head,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
-cassowary-head,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
+cassowary-head,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,2
+cassowary-head,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,2
 cassowary-head,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
-cassowary-head,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
-cassowary-head,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
-cassowary-head,ornithology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
+cassowary-head,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,2
+cassowary-head,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,2
+cassowary-head,ornithology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,2
 cassowary-head,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
 cassowary-head,pecking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
+cassowary-head,profile,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RR6u721NrfT0xyGSvgy5puaZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.500852,,1
 cassowary-head,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
-cassowary-head,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
+cassowary-head,sharp features,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RR6u721NrfT0xyGSvgy5puaZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.500852,,1
+cassowary-head,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,2
 cassowary-head,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
+cassowary-head,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RR6u721NrfT0xyGSvgy5puaZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.500852,,1
 cassowary-head,tree,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
-cassowary-head,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
+cassowary-head,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,2
 cassowary-head,wing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
+cassowary-head,zoology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RR6u721NrfT0xyGSvgy5puaZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.500852,,1
 cassowary-head,biome,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
 cassowary-head,ecosystem,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
+cassowary-head,emblem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RR6u721NrfT0xyGSvgy5puaZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.500852,,1
 cassowary-head,harbor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
 cassowary-head,pico,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aoZyRLZ4zP0BXFdTX2Ii1RRO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.152010,,1
+cassowary-head,pictogram,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RR6u721NrfT0xyGSvgy5puaZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.500852,,1
+cassowary-head,recognition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RR6u721NrfT0xyGSvgy5puaZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.500852,,1
+cassowary-head,visual identity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RR6u721NrfT0xyGSvgy5puaZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.500852,,1

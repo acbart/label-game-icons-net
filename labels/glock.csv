@@ -1,26 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 glock,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,firearm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,gun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,handgun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,pistol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,self-defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,shooting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,trigger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,violence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
+glock,firearm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
+glock,gun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
+glock,handgun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
+glock,pistol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
+glock,self-defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
+glock,shooting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
+glock,trigger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
+glock,violence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
+glock,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
 glock,ammo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
+glock,ammunition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1
+glock,barrel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1
 glock,bullet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
+glock,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1
+glock,crime,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1
 glock,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
 glock,equalizer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
+glock,firepower,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1
+glock,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
+glock,handle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1
 glock,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,law enforcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
+glock,law enforcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
+glock,lethal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1
 glock,mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,military,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
+glock,military,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
 glock,offense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
 glock,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
-glock,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
+glock,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
+glock,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
+glock,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,2
+glock,sidearm,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1
+glock,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1
+glock,target practice,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1
+glock,threat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1
 glock,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bBcwaSRzNG7JDq4jyy9SMvGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.295851,,1
+glock,concealed carry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1
+glock,deterrence,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1
+glock,gun control,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1
+glock,hunting,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7WaSKJyO8sitbDn5OOusC3Vl,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.733927,,1

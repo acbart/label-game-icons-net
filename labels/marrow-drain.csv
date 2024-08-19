@@ -1,26 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+marrow-drain,biopsy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
+marrow-drain,bone,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
+marrow-drain,bone marrow,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
 marrow-drain,bones,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
 marrow-drain,crossbones,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
 marrow-drain,crossed bones,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
 marrow-drain,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
+marrow-drain,drain,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
+marrow-drain,extraction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
 marrow-drain,forbidden,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
+marrow-drain,marrow,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
 marrow-drain,skull,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
 marrow-drain,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
 marrow-drain,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
-marrow-drain,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
+marrow-drain,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,2
 marrow-drain,aggression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
+marrow-drain,diagnosis,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
 marrow-drain,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
 marrow-drain,fear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
+marrow-drain,fluid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
+marrow-drain,health,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
+marrow-drain,healthcare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
 marrow-drain,horror,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
+marrow-drain,human body,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
 marrow-drain,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
+marrow-drain,medical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
+marrow-drain,medical symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
 marrow-drain,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
 marrow-drain,ominous,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
 marrow-drain,pirate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
 marrow-drain,pointed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
+marrow-drain,procedure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
 marrow-drain,rebellion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
 marrow-drain,scary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
 marrow-drain,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
+marrow-drain,skeletal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
+marrow-drain,spinal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
+marrow-drain,surgery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
+marrow-drain,therapy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
 marrow-drain,threat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
+marrow-drain,treatment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
 marrow-drain,adventure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
+marrow-drain,anatomy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
 marrow-drain,bad luck,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
+marrow-drain,illustration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1
 marrow-drain,strength,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_NCJamT6DqizDCT3btiiDYtfL,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.374154,,1
+marrow-drain,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n7DxlBvxBqHCOLDr1I80zsoD,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.120023,,1

@@ -1,15 +1,22 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 earth-crack,alert,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
+earth-crack,crack,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
 earth-crack,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
+earth-crack,deep crack,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,earthquake,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
 earth-crack,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
-earth-crack,hazard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
+earth-crack,fault line,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,fissure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,hazard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,2
 earth-crack,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
+earth-crack,breakage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
 earth-crack,breakdown,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.560717,,1
 earth-crack,burst,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
-earth-crack,chaos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
+earth-crack,chaos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,2
 earth-crack,collision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
 earth-crack,combustion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.560717,,1
-earth-crack,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
+earth-crack,damage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,2
 earth-crack,detonation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
 earth-crack,disaster,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
 earth-crack,electricity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
@@ -17,11 +24,26 @@ earth-crack,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_re
 earth-crack,eruption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
 earth-crack,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
 earth-crack,frenzy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.560717,,1
-earth-crack,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
+earth-crack,geology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,2
+earth-crack,instability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,jagged lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
 earth-crack,jolt,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
+earth-crack,natural disaster,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
 earth-crack,outburst,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.560717,,1
-earth-crack,rupture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.560717,,1
-earth-crack,shockwave,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,1
+earth-crack,rupture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.560717,,2
+earth-crack,seismic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,shockwave,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.559722,,2
+earth-crack,split,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,tectonic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,terrain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
 earth-crack,unstable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.560717,,1
 earth-crack,violence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.560717,,1
-earth-crack,fracture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.560717,,1
+earth-crack,vulnerability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,abstract pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,cleavage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,collapse,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,fracture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YwKqq55NmW5funr3MLrgId5f,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.560717,,2
+earth-crack,pressure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,stress,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1
+earth-crack,structure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zcfPx6XTwILhVQlnz0ifnrWs,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.883594,,1

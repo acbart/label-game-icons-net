@@ -1,27 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-enlightenment,book,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
-enlightenment,education,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
-enlightenment,knowledge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
-enlightenment,learning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
-enlightenment,open book,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
+enlightenment,awakening,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
+enlightenment,book,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,2
+enlightenment,education,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,2
+enlightenment,enlightenment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
+enlightenment,illumination,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
+enlightenment,insight,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
+enlightenment,knowledge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,2
+enlightenment,learning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,2
+enlightenment,open book,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,2
 enlightenment,reading,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
 enlightenment,study,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
+enlightenment,understanding,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
 enlightenment,academic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
 enlightenment,curriculum,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
+enlightenment,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
+enlightenment,epiphany,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
+enlightenment,future,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
+enlightenment,growth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
+enlightenment,idea,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
 enlightenment,information,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
 enlightenment,instruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
+enlightenment,intellect,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
 enlightenment,learning material,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
 enlightenment,library,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
+enlightenment,light,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
 enlightenment,literature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
+enlightenment,mind,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
 enlightenment,pages,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
 enlightenment,publishing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
-enlightenment,scholarship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
+enlightenment,radiance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
+enlightenment,rays,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
+enlightenment,scholarship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,2
+enlightenment,spirituality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
 enlightenment,text,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
-enlightenment,wisdom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
+enlightenment,transcendence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
+enlightenment,wisdom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,2
+enlightenment,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
 enlightenment,crest,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
 enlightenment,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
+enlightenment,education system,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
 enlightenment,flame,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
 enlightenment,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
+enlightenment,journey,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4IX7ILFdDmO3B5NlupeclH3,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.035846,,1
 enlightenment,motif,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
 enlightenment,spike,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1
 enlightenment,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TzmNAR31pnA5sZi5Khq0FADV,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.608782,,1

@@ -1,25 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-samus-helmet,armor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
+samus-helmet,armor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,2
 samus-helmet,cyber,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
 samus-helmet,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
 samus-helmet,faceplate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
-samus-helmet,futuristic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
-samus-helmet,headgear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
-samus-helmet,helmet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
-samus-helmet,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
+samus-helmet,facial protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1
+samus-helmet,futuristic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,2
+samus-helmet,headgear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,2
+samus-helmet,helmet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,2
+samus-helmet,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,2
 samus-helmet,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
+samus-helmet,protective gear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1
+samus-helmet,sci-fi,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1
+samus-helmet,video game,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1
 samus-helmet,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
-samus-helmet,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
+samus-helmet,character,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1
+samus-helmet,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,2
 samus-helmet,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
+samus-helmet,gaming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1
+samus-helmet,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1
 samus-helmet,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
+samus-helmet,head protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1
+samus-helmet,helmet design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1
+samus-helmet,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1
+samus-helmet,identity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1
 samus-helmet,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
+samus-helmet,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1
 samus-helmet,robot,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
 samus-helmet,science fiction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
 samus-helmet,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
-samus-helmet,space,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
-samus-helmet,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
-samus-helmet,visor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
+samus-helmet,space,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,2
+samus-helmet,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1
+samus-helmet,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,2
+samus-helmet,visor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,2
 samus-helmet,warrior,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
-samus-helmet,adventure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
+samus-helmet,abstraction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1
+samus-helmet,adventure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,2
 samus-helmet,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
 samus-helmet,innovation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PRlExrGxVmJWvvsl1dwmm9rL,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.630417,,1
+samus-helmet,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k468Bafi5FYUjU2AnSlIWbJt,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.841522,,1

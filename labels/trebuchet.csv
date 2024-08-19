@@ -1,4 +1,7 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+trebuchet,arm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,catapult,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.594379,,1
+trebuchet,counterweight,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
 trebuchet,crude oil,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
 trebuchet,drilling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
 trebuchet,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
@@ -6,20 +9,45 @@ trebuchet,energy production,high,en,acbart@vt.edu,,,False,False,starter-v1-128,b
 trebuchet,extraction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
 trebuchet,fossil fuels,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
 trebuchet,fuel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
+trebuchet,fulcrum,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,lever,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,mechanism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,medieval,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.594379,,1
 trebuchet,oil extraction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
 trebuchet,oil industry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
 trebuchet,oil rig,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
 trebuchet,petroleum,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
+trebuchet,projectile launcher,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
 trebuchet,pumpjack,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
 trebuchet,resource extraction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
+trebuchet,siege weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,swing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,trebuchet,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.594379,,1
+trebuchet,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,battle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,construction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
 trebuchet,drill,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
 trebuchet,energy resources,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
 trebuchet,energy sector,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
-trebuchet,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
+trebuchet,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,2
+trebuchet,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,gravity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,history,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
 trebuchet,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
 trebuchet,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
 trebuchet,machinery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
 trebuchet,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
+trebuchet,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
 trebuchet,oil well,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
+trebuchet,physics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
 trebuchet,power generation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
 trebuchet,resources,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R60jqiUpdlnvo91aOKa8xXsy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.357766,,1
+trebuchet,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,2
+trebuchet,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,warfare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1
+trebuchet,weaponry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R2IA7pgkNJduhr0yjb103bUM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.595387,,1

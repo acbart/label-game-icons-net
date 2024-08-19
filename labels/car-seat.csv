@@ -1,21 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 car-seat,airplane seat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
+car-seat,automobile,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
+car-seat,car interior,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
+car-seat,car-seat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
 car-seat,flight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
+car-seat,seat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
 car-seat,seating arrangement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
+car-seat,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
 car-seat,adjustment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
 car-seat,aviation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
-car-seat,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
-car-seat,ergonomics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
+car-seat,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,2
+car-seat,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
+car-seat,diagram,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
+car-seat,ergonomics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,2
+car-seat,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
+car-seat,journey,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
 car-seat,passenger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
 car-seat,positioning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
 car-seat,reclining position,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
 car-seat,relaxation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
 car-seat,rest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
-car-seat,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
-car-seat,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
-car-seat,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
+car-seat,restraint,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
+car-seat,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,2
+car-seat,sitting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
+car-seat,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
+car-seat,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
+car-seat,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,2
+car-seat,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,2
+car-seat,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
+car-seat,angle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
 car-seat,car seat,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
 car-seat,cushion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
+car-seat,framework,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
+car-seat,lever,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
 car-seat,lounge,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
+car-seat,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
 car-seat,movement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
+car-seat,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
+car-seat,pictogram,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1
 car-seat,seatbelt,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rK5CGFW8x9BaHDxgfPOxzXly,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.119895,,1
+car-seat,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o6Jm1tkDxcA8dcbBTBOp0pYu,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.383795,,1

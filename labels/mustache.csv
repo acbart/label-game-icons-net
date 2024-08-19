@@ -1,24 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-mustache,character,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
+mustache,character,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,2
 mustache,detective,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
-mustache,gentleman,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
-mustache,hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
+mustache,facial hair,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R7raE0llvFvMYtTpNjsJ1gmc,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.259509,,1
+mustache,gentleman,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,2
+mustache,hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,2
 mustache,incognito,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
-mustache,mustache,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
+mustache,masculinity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R7raE0llvFvMYtTpNjsJ1gmc,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.259509,,1
+mustache,mustache,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,2
+mustache,symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R7raE0llvFvMYtTpNjsJ1gmc,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.259509,,1
+mustache,upper lip,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R7raE0llvFvMYtTpNjsJ1gmc,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.259509,,1
+mustache,abstract face,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R7raE0llvFvMYtTpNjsJ1gmc,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.259509,,1
 mustache,anonymous,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
+mustache,art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R7raE0llvFvMYtTpNjsJ1gmc,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.259509,,1
 mustache,avatar,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
-mustache,classic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
-mustache,disguise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
-mustache,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
-mustache,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
-mustache,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
+mustache,classic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,2
+mustache,culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R7raE0llvFvMYtTpNjsJ1gmc,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.259509,,1
+mustache,disguise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,2
+mustache,expression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R7raE0llvFvMYtTpNjsJ1gmc,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.259509,,1
+mustache,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,2
+mustache,gentle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R7raE0llvFvMYtTpNjsJ1gmc,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.259509,,1
+mustache,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,2
+mustache,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R7raE0llvFvMYtTpNjsJ1gmc,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.259509,,1
+mustache,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,2
+mustache,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R7raE0llvFvMYtTpNjsJ1gmc,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.259509,,1
 mustache,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
-mustache,persona,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
+mustache,persona,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,2
 mustache,profile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
-mustache,retro,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
+mustache,retro,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,2
+mustache,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R7raE0llvFvMYtTpNjsJ1gmc,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.259509,,1
 mustache,sophisticated,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
-mustache,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
-mustache,vintage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
+mustache,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,2
+mustache,vintage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,2
+mustache,cartoon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R7raE0llvFvMYtTpNjsJ1gmc,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.259509,,1
+mustache,curved lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_R7raE0llvFvMYtTpNjsJ1gmc,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.259509,,1
 mustache,mascot,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
 mustache,portrait,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1
 mustache,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eo1NHYVWEP7Kmh9Z7EUWBd6r,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.941530,,1

@@ -1,31 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-fertilizer-bag,agriculture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
-fertilizer-bag,bag,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
-fertilizer-bag,farming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
-fertilizer-bag,fertilizer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
+fertilizer-bag,agriculture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,2
+fertilizer-bag,bag,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,2
+fertilizer-bag,farming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,2
+fertilizer-bag,fertilizer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,2
 fertilizer-bag,leaf,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
+fertilizer-bag,leaf symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
 fertilizer-bag,plant nutrition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
 fertilizer-bag,soil,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
-fertilizer-bag,agronomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
+fertilizer-bag,soil enrichment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
+fertilizer-bag,agribusiness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
+fertilizer-bag,agronomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,2
 fertilizer-bag,chemical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
 fertilizer-bag,compost,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
 fertilizer-bag,crop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
+fertilizer-bag,crop yield,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
 fertilizer-bag,cultivate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
 fertilizer-bag,cultivation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
 fertilizer-bag,eco,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
-fertilizer-bag,eco-friendly,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
+fertilizer-bag,eco-friendly,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,2
 fertilizer-bag,environmental,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
 fertilizer-bag,farming equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
-fertilizer-bag,gardening,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
+fertilizer-bag,gardening,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,2
 fertilizer-bag,green,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
 fertilizer-bag,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
+fertilizer-bag,harvest,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
+fertilizer-bag,landscaping,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
 fertilizer-bag,mineral,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
 fertilizer-bag,natural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
+fertilizer-bag,nutrients,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
 fertilizer-bag,nutrition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
-fertilizer-bag,organic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
+fertilizer-bag,organic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,2
+fertilizer-bag,packaging,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
+fertilizer-bag,plant growth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
+fertilizer-bag,product icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
 fertilizer-bag,resource,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
-fertilizer-bag,sack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
+fertilizer-bag,sack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,2
 fertilizer-bag,supplement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
-fertilizer-bag,sustainability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
+fertilizer-bag,supplements,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
+fertilizer-bag,sustainability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,2
+fertilizer-bag,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
+fertilizer-bag,abstract shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
 fertilizer-bag,biodegradable,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
+fertilizer-bag,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
 fertilizer-bag,farming tools,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wTw3HLYAfhs4JqGqjVAIYlFT,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.814807,,1
+fertilizer-bag,feed,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
+fertilizer-bag,tools,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1
+fertilizer-bag,triangle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dOKSakLemOAqn0fSgICtuFlf,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.062772,,1

@@ -1,27 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-circling-fish,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
+circling-fish,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,2
+circling-fish,cyclical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NmUyOJVVlQLbi6jAUPfLMe1r,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.948055,,1
 circling-fish,duality,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
-circling-fish,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
+circling-fish,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,2
 circling-fish,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
 circling-fish,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
-circling-fish,yin yang,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
-circling-fish,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
+circling-fish,yin yang,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,2
+circling-fish,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NmUyOJVVlQLbi6jAUPfLMe1r,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.948055,,1
+circling-fish,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,2
+circling-fish,coexistence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NmUyOJVVlQLbi6jAUPfLMe1r,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.948055,,1
 circling-fish,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
-circling-fish,cycle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
+circling-fish,curve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NmUyOJVVlQLbi6jAUPfLMe1r,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.948055,,1
+circling-fish,cycle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,2
 circling-fish,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
 circling-fish,eastern philosophy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
-circling-fish,equilibrium,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
-circling-fish,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
-circling-fish,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
-circling-fish,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
+circling-fish,equilibrium,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,2
+circling-fish,flow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NmUyOJVVlQLbi6jAUPfLMe1r,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.948055,,1
+circling-fish,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,2
+circling-fish,infinity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NmUyOJVVlQLbi6jAUPfLMe1r,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.948055,,1
+circling-fish,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,2
+circling-fish,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,2
 circling-fish,natural world,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
-circling-fish,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
+circling-fish,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,2
+circling-fish,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NmUyOJVVlQLbi6jAUPfLMe1r,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.948055,,1
 circling-fish,peace,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
 circling-fish,philosophy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
-circling-fish,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
+circling-fish,repetition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NmUyOJVVlQLbi6jAUPfLMe1r,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.948055,,1
+circling-fish,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,2
 circling-fish,spirituality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
+circling-fish,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NmUyOJVVlQLbi6jAUPfLMe1r,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.948055,,1
+circling-fish,synchronization,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NmUyOJVVlQLbi6jAUPfLMe1r,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.948055,,1
 circling-fish,zen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
+circling-fish,component,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NmUyOJVVlQLbi6jAUPfLMe1r,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.948055,,1
 circling-fish,connection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
-circling-fish,continuity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
+circling-fish,continuity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,2
+circling-fish,dance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NmUyOJVVlQLbi6jAUPfLMe1r,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.948055,,1
+circling-fish,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NmUyOJVVlQLbi6jAUPfLMe1r,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.948055,,1
 circling-fish,fluidity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1
 circling-fish,recurrence,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5tLzHK4cJDPnvEIyJhTA7hkE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.256164,,1

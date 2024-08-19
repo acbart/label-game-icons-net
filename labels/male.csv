@@ -1,21 +1,32 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-male,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
-male,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
-male,gender,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
-male,male,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
-male,masculine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
-male,masculinity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
-male,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
+male,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,2
+male,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,2
+male,gender,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,2
+male,identity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SqeuNK6OwNtGlGNNgxE7A2R7,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.592348,,1
+male,male,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,2
+male,masculine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,2
+male,masculinity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,2
+male,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,2
 male,Mars,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
+male,Mars symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SqeuNK6OwNtGlGNNgxE7A2R7,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.592348,,1
 male,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
 male,alchemical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
-male,astrology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
-male,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
+male,association,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SqeuNK6OwNtGlGNNgxE7A2R7,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.592348,,1
+male,astrology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,2
+male,astronomy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SqeuNK6OwNtGlGNNgxE7A2R7,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.592348,,1
+male,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,2
 male,chemistry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
-male,gender identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
+male,connection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SqeuNK6OwNtGlGNNgxE7A2R7,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.592348,,1
+male,direction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SqeuNK6OwNtGlGNNgxE7A2R7,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.592348,,1
+male,gender identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,2
+male,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SqeuNK6OwNtGlGNNgxE7A2R7,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.592348,,1
+male,indicator,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SqeuNK6OwNtGlGNNgxE7A2R7,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.592348,,1
 male,planet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
-male,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
+male,pointer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SqeuNK6OwNtGlGNNgxE7A2R7,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.592348,,1
+male,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SqeuNK6OwNtGlGNNgxE7A2R7,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.592348,,1
+male,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,2
 male,sex,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
+male,sociology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SqeuNK6OwNtGlGNNgxE7A2R7,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.592348,,1
 male,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
 male,vitality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1
 male,Roman mythology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GsKr0rvcSHch7B7jFXOmGedx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.732572,,1

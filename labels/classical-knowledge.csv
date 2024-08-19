@@ -1,24 +1,52 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+classical-knowledge,book,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,classical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
 classical-knowledge,court,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
+classical-knowledge,education,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,foundation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
 classical-knowledge,judgment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
 classical-knowledge,judiciary,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
 classical-knowledge,justice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
+classical-knowledge,knowledge,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
 classical-knowledge,law,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
+classical-knowledge,learning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
 classical-knowledge,legal documents,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
 classical-knowledge,legal system,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
+classical-knowledge,open book,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,pillar,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,reading,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,study,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,wisdom,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,academia,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
 classical-knowledge,authority,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
-classical-knowledge,columns,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
+classical-knowledge,classics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,columns,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,2
 classical-knowledge,courtroom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
+classical-knowledge,culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
 classical-knowledge,gavel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
 classical-knowledge,government,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
+classical-knowledge,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,historical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,information,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
 classical-knowledge,institution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
+classical-knowledge,intellectual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
 classical-knowledge,legal proceedings,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
 classical-knowledge,legislation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
+classical-knowledge,library,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
 classical-knowledge,official documents,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
 classical-knowledge,order,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
 classical-knowledge,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
+classical-knowledge,philosophy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
 classical-knowledge,proceedings,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
 classical-knowledge,regulation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
+classical-knowledge,research,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
 classical-knowledge,rules,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
-classical-knowledge,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
+classical-knowledge,science,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,scroll,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,2
+classical-knowledge,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
 classical-knowledge,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_F1TRliEkuiWuCqmjt1Tsy4Ax,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.264145,,1
+classical-knowledge,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1
+classical-knowledge,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d7158Coe4f2FlIypH7VqqOFV,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.972082,,1

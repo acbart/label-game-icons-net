@@ -1,26 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 spade-skull,ace,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
 spade-skull,card suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
+spade-skull,death,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
+spade-skull,playing card,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
 spade-skull,playing cards,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
-spade-skull,poker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
-spade-skull,spade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
+spade-skull,poker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,2
+spade-skull,skull,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
+spade-skull,spade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,2
 spade-skull,suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
-spade-skull,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
-spade-skull,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
+spade-skull,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,2
+spade-skull,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,2
+spade-skull,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
 spade-skull,black suit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
 spade-skull,casino,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
 spade-skull,club,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
+spade-skull,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
 spade-skull,deck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
 spade-skull,deck of cards,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
 spade-skull,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
-spade-skull,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
+spade-skull,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,2
+spade-skull,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
 spade-skull,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
 spade-skull,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
+spade-skull,gothic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
+spade-skull,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
 spade-skull,graphics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
-spade-skull,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
+spade-skull,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,2
+spade-skull,motif,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
 spade-skull,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
+spade-skull,pirate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
 spade-skull,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
 spade-skull,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
+spade-skull,thematic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
+spade-skull,warning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
+spade-skull,conceptual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
+spade-skull,dark,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
+spade-skull,edgy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
+spade-skull,fantasy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
 spade-skull,garden tool,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
 spade-skull,heart,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
 spade-skull,luck,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_azG1n9f7JP0kUXDkfQhjT0p3,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.092153,,1
+spade-skull,mystery,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1
+spade-skull,tattoo,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iCFutiXm24On1veRTXnxNPsO,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.536862,,1

@@ -1,26 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-slavery-whip,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
+slavery-whip,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,2
 slavery-whip,artistic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
+slavery-whip,authority,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
+slavery-whip,control,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
 slavery-whip,creativity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
+slavery-whip,discipline,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
+slavery-whip,dominance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
 slavery-whip,gesture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
+slavery-whip,oppression,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
+slavery-whip,pain,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
 slavery-whip,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
+slavery-whip,power,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
+slavery-whip,punishment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
+slavery-whip,slavery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
+slavery-whip,strike,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
+slavery-whip,submission,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
 slavery-whip,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
-slavery-whip,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
+slavery-whip,symbolism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
+slavery-whip,violence,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
+slavery-whip,whip,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
+slavery-whip,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,2
 slavery-whip,attitude,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
 slavery-whip,body language,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
 slavery-whip,character,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
+slavery-whip,curved line,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
 slavery-whip,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
 slavery-whip,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
 slavery-whip,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
 slavery-whip,figure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
+slavery-whip,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
 slavery-whip,gesture art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
+slavery-whip,historical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
 slavery-whip,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
 slavery-whip,interpretation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
 slavery-whip,leaning forward,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
+slavery-whip,loop,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
 slavery-whip,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
+slavery-whip,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1
 slavery-whip,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
 slavery-whip,personality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
 slavery-whip,pose,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
 slavery-whip,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
 slavery-whip,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
 slavery-whip,stylized,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Af9EMqck4uyXT63ZnU0XMeFV,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.037589,,1
+slavery-whip,weapon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KlfBicEpx5hR78HpHY2QVvVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.289994,,1

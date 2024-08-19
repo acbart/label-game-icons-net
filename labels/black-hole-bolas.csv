@@ -1,29 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 black-hole-bolas,atom,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.974975,,1
+black-hole-bolas,black hole,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.354088,,1
 black-hole-bolas,electron orbit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.974975,,1
+black-hole-bolas,event horizon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
+black-hole-bolas,gravity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.354088,,1
 black-hole-bolas,molecule,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.974975,,1
 black-hole-bolas,nuclear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
 black-hole-bolas,nucleus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.974975,,1
 black-hole-bolas,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
+black-hole-bolas,singularity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.354088,,1
 black-hole-bolas,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
-black-hole-bolas,centripetal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
+black-hole-bolas,astronomy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
+black-hole-bolas,astrophysics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
+black-hole-bolas,attraction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
+black-hole-bolas,center,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.354088,,1
+black-hole-bolas,central force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
+black-hole-bolas,centripetal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,2
 black-hole-bolas,chemistry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
+black-hole-bolas,cosmic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.354088,,1
 black-hole-bolas,diagram,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
 black-hole-bolas,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.974975,,1
 black-hole-bolas,explosion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
 black-hole-bolas,fusion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
+black-hole-bolas,galaxy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
+black-hole-bolas,mass,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
 black-hole-bolas,neutron,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
-black-hole-bolas,orbit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
+black-hole-bolas,orbit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,2
 black-hole-bolas,particle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
 black-hole-bolas,physics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.974975,,1
 black-hole-bolas,proton,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
 black-hole-bolas,reaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
+black-hole-bolas,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
 black-hole-bolas,scientific,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.974975,,1
+black-hole-bolas,spinning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.354088,,1
+black-hole-bolas,spiral,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
 black-hole-bolas,starburst,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
 black-hole-bolas,subatomic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
 black-hole-bolas,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
 black-hole-bolas,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
-black-hole-bolas,celestial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
+black-hole-bolas,bound,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
+black-hole-bolas,celestial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,2
+black-hole-bolas,connected,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
+black-hole-bolas,dynamics,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
 black-hole-bolas,function,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
+black-hole-bolas,mystery,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
+black-hole-bolas,phenomenon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
+black-hole-bolas,sci-fi,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
+black-hole-bolas,singular attraction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zocMrhoGYkLwyfTd6x959U7E,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.355088,,1
 black-hole-bolas,solar system,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
-black-hole-bolas,space,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,1
+black-hole-bolas,space,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1sBOuzszRz2SW6YCv4GHOdVJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.976032,,2

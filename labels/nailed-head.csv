@@ -1,25 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+nailed-head,burden,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.686734,,1
 nailed-head,choices,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
 nailed-head,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
-nailed-head,decision making,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
+nailed-head,decision making,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,2
 nailed-head,directions,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
+nailed-head,head,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.685783,,1
+nailed-head,headache,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.686734,,1
 nailed-head,human figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
-nailed-head,arrows,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
+nailed-head,mental state,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.686734,,1
+nailed-head,nailed,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.685783,,1
+nailed-head,overthinking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.686734,,1
+nailed-head,pressure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.685783,,1
+nailed-head,stress,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.685783,,1
+nailed-head,tension,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.685783,,1
+nailed-head,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.686734,,1
+nailed-head,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.686734,,1
+nailed-head,arrows,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,2
+nailed-head,attention,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.686734,,1
 nailed-head,center,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
 nailed-head,central hub,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
 nailed-head,central point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
+nailed-head,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.686734,,1
+nailed-head,clarity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.686734,,1
+nailed-head,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.686734,,1
 nailed-head,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
 nailed-head,coordination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
 nailed-head,distribution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
-nailed-head,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
+nailed-head,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,2
 nailed-head,focus point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
 nailed-head,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
+nailed-head,impact,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.685783,,1
 nailed-head,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
 nailed-head,leadership,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
 nailed-head,management,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
+nailed-head,mindset,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.686734,,1
 nailed-head,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
 nailed-head,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
 nailed-head,options,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
 nailed-head,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
 nailed-head,pathways,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,1
+nailed-head,problem solving,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.686734,,1
+nailed-head,psychological,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.685783,,1
+nailed-head,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.686734,,1
+nailed-head,direction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LnDFdj5RwpoxtQgJ72RlqqeC,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.686734,,1
 nailed-head,overview,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T53rLJ1dC70vZfptVFnVeZaC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.507938,,2

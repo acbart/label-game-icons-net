@@ -1,26 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-mass-driver,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
-mass-driver,hazard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
-mass-driver,nuclear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
+mass-driver,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,2
+mass-driver,hazard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,2
+mass-driver,nuclear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,2
 mass-driver,radiation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
+mass-driver,radiation symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PkJn6Uveb1Z66Eu579dyTMad,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.955674,,1
+mass-driver,radioactive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PkJn6Uveb1Z66Eu579dyTMad,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.955674,,1
 mass-driver,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
-mass-driver,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
-mass-driver,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
-mass-driver,atomic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
+mass-driver,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,2
+mass-driver,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,2
+mass-driver,atomic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,2
 mass-driver,contamination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
 mass-driver,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
-mass-driver,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
+mass-driver,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,2
 mass-driver,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
+mass-driver,isotope,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PkJn6Uveb1Z66Eu579dyTMad,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.955674,,1
+mass-driver,nuclear energy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PkJn6Uveb1Z66Eu579dyTMad,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.955674,,1
 mass-driver,nuclear power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
-mass-driver,reactor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
+mass-driver,physics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PkJn6Uveb1Z66Eu579dyTMad,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.955674,,1
+mass-driver,power plant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PkJn6Uveb1Z66Eu579dyTMad,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.955674,,1
+mass-driver,reactor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,2
 mass-driver,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
-mass-driver,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
+mass-driver,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,2
 mass-driver,toxic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
 mass-driver,waste,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
 mass-driver,caution,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
-mass-driver,chemistry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
-mass-driver,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
+mass-driver,chemistry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,2
+mass-driver,circles,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PkJn6Uveb1Z66Eu579dyTMad,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.955674,,1
+mass-driver,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,2
 mass-driver,infrastructure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
 mass-driver,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
 mass-driver,reactivity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
-mass-driver,science,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,1
+mass-driver,science,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qG3r6G8YI7Wxt4sBKPPgp8jd,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.033026,,2
+mass-driver,symbolic icon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PkJn6Uveb1Z66Eu579dyTMad,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.955674,,1
+mass-driver,triangles,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PkJn6Uveb1Z66Eu579dyTMad,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.955674,,1

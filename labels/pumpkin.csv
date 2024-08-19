@@ -1,24 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-pumpkin,autumn,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
-pumpkin,fall,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
+pumpkin,Halloween,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1VffyxZOg4a9AVSctjYg9nsd,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.056755,,1
+pumpkin,autumn,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,2
+pumpkin,fall,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,2
+pumpkin,fruit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1VffyxZOg4a9AVSctjYg9nsd,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.055776,,1
 pumpkin,halloween,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
-pumpkin,harvest,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
-pumpkin,pumpkin,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
-pumpkin,stem,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
-pumpkin,agriculture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
-pumpkin,celebration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
-pumpkin,crop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
-pumpkin,farm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
+pumpkin,harvest,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,2
+pumpkin,pumpkin,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,2
+pumpkin,stem,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,2
+pumpkin,Thanksgiving,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1VffyxZOg4a9AVSctjYg9nsd,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.056755,,1
+pumpkin,agriculture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,2
+pumpkin,celebration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,2
+pumpkin,crop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,2
+pumpkin,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1VffyxZOg4a9AVSctjYg9nsd,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.056755,,1
+pumpkin,farm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,2
 pumpkin,festive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
+pumpkin,festivity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1VffyxZOg4a9AVSctjYg9nsd,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.056755,,1
+pumpkin,food,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1VffyxZOg4a9AVSctjYg9nsd,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.056755,,1
 pumpkin,gardening,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
-pumpkin,gourd,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
-pumpkin,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
+pumpkin,gourd,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,2
+pumpkin,iconic representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1VffyxZOg4a9AVSctjYg9nsd,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.056755,,1
+pumpkin,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,2
+pumpkin,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1VffyxZOg4a9AVSctjYg9nsd,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.056755,,1
+pumpkin,oval,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1VffyxZOg4a9AVSctjYg9nsd,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.056755,,1
+pumpkin,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1VffyxZOg4a9AVSctjYg9nsd,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.056755,,1
 pumpkin,produce,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
-pumpkin,round,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
-pumpkin,seasonal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
+pumpkin,round,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,2
+pumpkin,seasonal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,2
+pumpkin,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1VffyxZOg4a9AVSctjYg9nsd,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.056755,,1
 pumpkin,squash,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
+pumpkin,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1VffyxZOg4a9AVSctjYg9nsd,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.056755,,1
 pumpkin,thankful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
 pumpkin,thanksgiving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
-pumpkin,vegetable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
+pumpkin,vegetable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,2
+pumpkin,abstract lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1VffyxZOg4a9AVSctjYg9nsd,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.056755,,1
 pumpkin,curved lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
 pumpkin,outdoors,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tIAlPljEaMbFWBrKjxhFk07v,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.428248,,1
+pumpkin,simplified design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1VffyxZOg4a9AVSctjYg9nsd,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.056755,,1

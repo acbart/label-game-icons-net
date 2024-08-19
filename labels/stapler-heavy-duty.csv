@@ -1,21 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+stapler-heavy-duty,durable,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
 stapler-heavy-duty,faucet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.358996,,1
 stapler-heavy-duty,fixture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.359999,,1
+stapler-heavy-duty,heavy-duty,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,industrial,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,office tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,paper management,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
 stapler-heavy-duty,plumbing fixture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.358996,,1
 stapler-heavy-duty,spout,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.359999,,1
+stapler-heavy-duty,stapler,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
 stapler-heavy-duty,water control,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.358996,,1
 stapler-heavy-duty,water tap,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.358996,,1
+stapler-heavy-duty,assembly,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
 stapler-heavy-duty,bathroom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.359999,,1
+stapler-heavy-duty,binding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,business,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
 stapler-heavy-duty,cleaning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.359999,,1
+stapler-heavy-duty,desktop,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,document,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
 stapler-heavy-duty,domestic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.359999,,1
+stapler-heavy-duty,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,fastening,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
 stapler-heavy-duty,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.359999,,1
+stapler-heavy-duty,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
 stapler-heavy-duty,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.358996,,1
 stapler-heavy-duty,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.358996,,1
+stapler-heavy-duty,lever,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,organization,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,press,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,productivity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,spring mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,staple,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,stationery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
 stapler-heavy-duty,supply,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.359999,,1
+stapler-heavy-duty,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
 stapler-heavy-duty,turning mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.359999,,1
+stapler-heavy-duty,utilitarian,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
 stapler-heavy-duty,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.359999,,1
 stapler-heavy-duty,valve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.359999,,1
+stapler-heavy-duty,workplace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,clip,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
+stapler-heavy-duty,compact,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
 stapler-heavy-duty,convenience,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.359999,,1
+stapler-heavy-duty,grip,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MPhLNJr1FkdySeJ7uONFIbIs,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.439125,,1
 stapler-heavy-duty,home,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.359999,,1
 stapler-heavy-duty,hygiene,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.359999,,1
 stapler-heavy-duty,liquid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CZVQUj8DqkU9HaRIIZyUfla9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.359999,,1

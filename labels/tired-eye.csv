@@ -1,21 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 tired-eye,awareness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
-tired-eye,eye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
+tired-eye,eye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,2
+tired-eye,eyelid,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
+tired-eye,fatigue,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.349602,,1
 tired-eye,insight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
 tired-eye,perception,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
 tired-eye,seeing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
-tired-eye,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
+tired-eye,tired-eye,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.349602,,1
+tired-eye,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,2
 tired-eye,watchfulness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
+tired-eye,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
 tired-eye,clarity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
+tired-eye,closed eye,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
 tired-eye,discernment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
+tired-eye,dream,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
+tired-eye,droopy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
 tired-eye,esoteric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
+tired-eye,exhaustion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
+tired-eye,expression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
+tired-eye,eyebrow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
 tired-eye,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
 tired-eye,hieroglyph,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
 tired-eye,intuition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
+tired-eye,line drawing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
 tired-eye,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
 tired-eye,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
+tired-eye,relaxation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
+tired-eye,rest,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
 tired-eye,secret,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
+tired-eye,sleepy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
 tired-eye,spiritual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
+tired-eye,squint,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
 tired-eye,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
+tired-eye,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
 tired-eye,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
+tired-eye,visual signal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
+tired-eye,weariness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
 tired-eye,alchemy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_taHsrSqpW2qf9U8wSpt2R7nY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.294251,,1
+tired-eye,eyelash,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
+tired-eye,meditation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
+tired-eye,mindfulness,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1
+tired-eye,monochrome iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TW0nmBpk0ZU43MblvUfhQtXM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.350598,,1

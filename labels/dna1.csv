@@ -1,31 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-dna1,DNA,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,biology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,double helix,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
+dna1,DNA,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
+dna1,biology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
+dna1,double helix,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
 dna1,genes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,genetics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,helix,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,molecule,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
+dna1,genetics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
+dna1,helix,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
+dna1,molecular structure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dPXJ4DpCthfI5993NJawIEfc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.575543,,1
+dna1,molecule,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
+dna1,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
 dna1,biochemistry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
 dna1,biophysics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,biotechnology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
+dna1,biotechnology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
 dna1,cell,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,chromosome,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,evolution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
+dna1,cells,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dPXJ4DpCthfI5993NJawIEfc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.575543,,1
+dna1,chromosome,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
+dna1,code,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dPXJ4DpCthfI5993NJawIEfc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.575543,,1
+dna1,evolution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
 dna1,genetic code,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,genome,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,inheritance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,medical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
+dna1,genome,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
+dna1,informatics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dPXJ4DpCthfI5993NJawIEfc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.575543,,1
+dna1,inheritance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
+dna1,life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
+dna1,medical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
+dna1,microscopic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dPXJ4DpCthfI5993NJawIEfc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.575543,,1
 dna1,nucleic acid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
 dna1,replication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,research,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
+dna1,research,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
+dna1,sequence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dPXJ4DpCthfI5993NJawIEfc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.575543,,1
 dna1,sequencing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
-dna1,spiral,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
+dna1,spiral,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,2
 dna1,analysis,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
 dna1,circular,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
+dna1,data,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dPXJ4DpCthfI5993NJawIEfc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.575543,,1
+dna1,diagram,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dPXJ4DpCthfI5993NJawIEfc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.575543,,1
 dna1,information,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
 dna1,intertwined,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
+dna1,laboratory,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dPXJ4DpCthfI5993NJawIEfc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.575543,,1
+dna1,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dPXJ4DpCthfI5993NJawIEfc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.575543,,1
 dna1,structure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1
 dna1,twist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g4O30oscw43zJtn3D0mlqLRH,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.487952,,1

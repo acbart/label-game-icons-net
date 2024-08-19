@@ -1,24 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-torch,fire,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,1
-torch,flame,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,1
-torch,illumination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,1
-torch,light,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,1
-torch,symbol of hope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,1
-torch,torch,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,1
-torch,burning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,1
+torch,fire,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,2
+torch,flame,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,2
+torch,illumination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,2
+torch,light,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,2
+torch,symbol of hope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,2
+torch,torch,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,2
+torch,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
+torch,ancient tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
+torch,burning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,2
+torch,campfire,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
 torch,darkness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,1
 torch,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,1
+torch,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
 torch,flare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,1
-torch,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,1
+torch,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,2
 torch,handheld,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.309250,,1
-torch,heat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,1
+torch,heat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,2
+torch,lighting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
+torch,night,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
+torch,olympic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
 torch,outdoor exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,1
-torch,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,1
+torch,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
+torch,ritual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
+torch,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,2
+torch,search,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
+torch,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
+torch,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
 torch,Olympics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,1
 torch,ancient,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,1
 torch,burnout,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,1
-torch,ceremony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,1
-torch,freedom,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,1
+torch,ceremony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,2
+torch,eternal flame,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
+torch,freedom,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,2
+torch,heritage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
+torch,leadership,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
+torch,pass the torch,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
 torch,passion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,1
+torch,sprints,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
+torch,torch relay,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5MM5cRslQK52IPq2IVpumtKM,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.434117,,1
 torch,tradition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,1
 torch,warmth,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5auvn1acjTYIFxd4Y1GBuWD5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.310249,,1

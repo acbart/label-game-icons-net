@@ -1,22 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 armoured-shell,abstract creature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
 armoured-shell,animal symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
+armoured-shell,armor,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,armoured,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
 armoured-shell,cartoon face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
 armoured-shell,creature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
+armoured-shell,defense,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,defensive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,durability,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,enclosure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
 armoured-shell,eyes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
 armoured-shell,horned head,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
 armoured-shell,iconic figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
 armoured-shell,mascot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
+armoured-shell,protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,protective,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,robust,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,shell,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,shell-like,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,shield,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,strength,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,sturdy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,toughness,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,absorption,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,animal defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
 armoured-shell,childlike,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
+armoured-shell,cover,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
 armoured-shell,cute,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
 armoured-shell,face outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
 armoured-shell,fantasy character,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
+armoured-shell,fortress,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
 armoured-shell,friendly,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
 armoured-shell,graphic icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
+armoured-shell,guard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,hard surface,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,helmet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
 armoured-shell,imaginative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
 armoured-shell,minimalist design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
 armoured-shell,playful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
 armoured-shell,recognition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
+armoured-shell,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
+armoured-shell,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_y4X35IzlrWFnOiNKP9bZ2rOL,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.768565,,1
 armoured-shell,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
 armoured-shell,simple shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1
 armoured-shell,whimsy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J1EhD6NnqReyPvpgiZrpLpzM,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.844675,,1

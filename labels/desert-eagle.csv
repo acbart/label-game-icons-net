@@ -1,28 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-desert-eagle,firearm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,gun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,handgun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,pistol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
+desert-eagle,desert eagle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_81rZdMmAJPGuNidV4mQNlJ0E,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.567850,,1
+desert-eagle,firearm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
+desert-eagle,grip,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_81rZdMmAJPGuNidV4mQNlJ0E,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.567850,,1
+desert-eagle,gun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
+desert-eagle,handgun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
+desert-eagle,pistol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
+desert-eagle,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
+desert-eagle,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_81rZdMmAJPGuNidV4mQNlJ0E,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.567850,,1
 desert-eagle,ammunition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,barrel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
+desert-eagle,barrel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
 desert-eagle,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,self-defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,shooting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
+desert-eagle,defense mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_81rZdMmAJPGuNidV4mQNlJ0E,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.567850,,1
+desert-eagle,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_81rZdMmAJPGuNidV4mQNlJ0E,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.567850,,1
+desert-eagle,industrial design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_81rZdMmAJPGuNidV4mQNlJ0E,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.567850,,1
+desert-eagle,lethal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_81rZdMmAJPGuNidV4mQNlJ0E,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.567850,,1
+desert-eagle,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
+desert-eagle,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
+desert-eagle,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
+desert-eagle,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
+desert-eagle,self-defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
+desert-eagle,shooting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
+desert-eagle,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_81rZdMmAJPGuNidV4mQNlJ0E,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.567850,,1
+desert-eagle,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_81rZdMmAJPGuNidV4mQNlJ0E,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.567850,,1
 desert-eagle,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,trigger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
+desert-eagle,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_81rZdMmAJPGuNidV4mQNlJ0E,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.567850,,1
+desert-eagle,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
+desert-eagle,trigger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
 desert-eagle,violence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,aggression,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
+desert-eagle,aggression,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
 desert-eagle,alert,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
+desert-eagle,angular shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_81rZdMmAJPGuNidV4mQNlJ0E,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.567850,,1
 desert-eagle,authority,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
 desert-eagle,conflict,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,control,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
+desert-eagle,control,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
 desert-eagle,crime,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,law enforcement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
-desert-eagle,military,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1
+desert-eagle,fear,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_81rZdMmAJPGuNidV4mQNlJ0E,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.567850,,1
+desert-eagle,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_81rZdMmAJPGuNidV4mQNlJ0E,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.567850,,1
+desert-eagle,law enforcement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
+desert-eagle,military,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,2
 desert-eagle,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wxXOQWXJqT1Tl7NYQnm1bQ6B,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.239664,,1

@@ -1,26 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 warp-pipe,3D shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
 warp-pipe,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
-warp-pipe,cylinder,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
+warp-pipe,cylinder,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,2
 warp-pipe,furniture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
+warp-pipe,pipeline,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
 warp-pipe,table,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
-warp-pipe,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
+warp-pipe,tube,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
+warp-pipe,warp-pipe,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
+warp-pipe,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,2
 warp-pipe,base,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
+warp-pipe,connectivity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
+warp-pipe,directional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
 warp-pipe,display,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
+warp-pipe,entry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
+warp-pipe,exit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
 warp-pipe,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
+warp-pipe,hole,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
 warp-pipe,home decor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
 warp-pipe,interior design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
 warp-pipe,minimalist design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
 warp-pipe,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
+warp-pipe,opening,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
+warp-pipe,passageway,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
 warp-pipe,platform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
+warp-pipe,portal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
+warp-pipe,round,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
 warp-pipe,round surface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
 warp-pipe,stage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
 warp-pipe,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
 warp-pipe,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
+warp-pipe,transport,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
+warp-pipe,vertical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
+warp-pipe,3D,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
 warp-pipe,art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
 warp-pipe,construction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
 warp-pipe,exhibit,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
+warp-pipe,flow,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
 warp-pipe,form,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
 warp-pipe,foundation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
+warp-pipe,infrastructure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
+warp-pipe,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
+warp-pipe,network,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
 warp-pipe,object,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
 warp-pipe,sculpture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9KZm11p1hdYpHDxRlSIY8x4S,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.559190,,1
+warp-pipe,shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
+warp-pipe,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
+warp-pipe,system,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1
+warp-pipe,transition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fFsA1Y5keLnAuBwlO8FEN22l,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.535839,,1

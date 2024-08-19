@@ -1,23 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-abacus,abacus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,1
-abacus,arithmetic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,1
-abacus,calculation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,1
+abacus,abacus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,2
+abacus,ancient computing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jnS3CZn21qbexBUKGjZ4q4pF,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.140039,,1
+abacus,arithmetic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,2
+abacus,calculation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,2
 abacus,calculation device,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,1
-abacus,calculator,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,1
-abacus,counting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,1
+abacus,calculator,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,2
+abacus,counting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,2
+abacus,math,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jnS3CZn21qbexBUKGjZ4q4pF,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.140039,,1
 abacus,math tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,1
+abacus,numbers,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jnS3CZn21qbexBUKGjZ4q4pF,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.140039,,1
 abacus,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,1
-abacus,beads,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,1
-abacus,columns,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,1
+abacus,beads,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,2
+abacus,columns,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,2
 abacus,economy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,1
-abacus,education,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,1
-abacus,learning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,1
+abacus,education,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,2
+abacus,finance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jnS3CZn21qbexBUKGjZ4q4pF,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.140039,,1
+abacus,learning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,2
 abacus,manual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,1
+abacus,manual counting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jnS3CZn21qbexBUKGjZ4q4pF,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.140039,,1
 abacus,mathematics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.535987,,1
+abacus,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jnS3CZn21qbexBUKGjZ4q4pF,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.140039,,1
 abacus,numeracy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,1
+abacus,organization,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jnS3CZn21qbexBUKGjZ4q4pF,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.140039,,1
 abacus,primitive computer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,1
-abacus,rows,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,1
+abacus,rows,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,2
+abacus,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jnS3CZn21qbexBUKGjZ4q4pF,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.140039,,1
+abacus,tools,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jnS3CZn21qbexBUKGjZ4q4pF,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.140039,,1
+abacus,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jnS3CZn21qbexBUKGjZ4q4pF,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.140039,,1
 abacus,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,1
-abacus,horizontal lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,1
+abacus,vertical frame,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jnS3CZn21qbexBUKGjZ4q4pF,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.140039,,1
+abacus,visual aid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jnS3CZn21qbexBUKGjZ4q4pF,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.140039,,1
+abacus,horizontal lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,2
 abacus,line arrangement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,1
+abacus,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jnS3CZn21qbexBUKGjZ4q4pF,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.140039,,1
+abacus,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jnS3CZn21qbexBUKGjZ4q4pF,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.140039,,1
 abacus,vertical lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nuEAYifUZOgXW9SJbFtrWC8l,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.536918,,1

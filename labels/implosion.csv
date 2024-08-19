@@ -1,26 +1,52 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 implosion,blast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
 implosion,burst,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
+implosion,central focus,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
+implosion,contraction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
+implosion,convergence,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
 implosion,detonation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
-implosion,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
+implosion,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,2
 implosion,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
 implosion,explosive,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
-implosion,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
+implosion,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,2
+implosion,implosion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
+implosion,inward motion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
 implosion,shockwave,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
+implosion,absorption,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
 implosion,activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
 implosion,bang,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
+implosion,black hole,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
+implosion,centripetal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
 implosion,chaos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
+implosion,collapse,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
 implosion,collision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
+implosion,compression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
+implosion,concentration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
+implosion,density,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.258718,,1
 implosion,disperse,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
+implosion,distortion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
 implosion,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
+implosion,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
 implosion,expansion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
-implosion,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
+implosion,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,2
+implosion,fusion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.258718,,1
 implosion,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
 implosion,outburst,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
-implosion,pressure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
+implosion,pressure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,2
 implosion,projection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
+implosion,pull,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
 implosion,radiate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
 implosion,rupture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
 implosion,scatter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
+implosion,suction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
+implosion,transformation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
+implosion,collapse structure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.258718,,1
+implosion,destruction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.258718,,1
+implosion,explosion reversal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.258718,,1
+implosion,gravity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.257736,,1
+implosion,magnetism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.258718,,1
 implosion,rumble,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1
+implosion,space,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.258718,,1
+implosion,spherical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.258718,,1
+implosion,vacuum,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9vCDBxRw8goynW5TfmHqheNa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.258718,,1
 implosion,vibration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nsNO3woqyg1UpjuF2z3Ga8AD,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.116277,,1

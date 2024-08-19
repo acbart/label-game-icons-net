@@ -1,26 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+abstract-020,arrows,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
+abstract-020,central point,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
 abstract-020,drone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
 abstract-020,flight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
+abstract-020,geometry,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
 abstract-020,propeller,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
 abstract-020,quadrotor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
+abstract-020,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
 abstract-020,aerial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
 abstract-020,automation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
 abstract-020,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
 abstract-020,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.583168,,1
+abstract-020,directions,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
 abstract-020,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
+abstract-020,focus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
 abstract-020,gadget,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
 abstract-020,hover,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
 abstract-020,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
 abstract-020,mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
-abstract-020,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.583168,,1
-abstract-020,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
+abstract-020,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.583168,,2
+abstract-020,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,2
 abstract-020,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
 abstract-020,robotics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
 abstract-020,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
+abstract-020,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
+abstract-020,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
 abstract-020,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
+abstract-020,target,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
 abstract-020,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
 abstract-020,unmanned,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
-abstract-020,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.583168,,1
+abstract-020,abstract concept,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
+abstract-020,alignment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
+abstract-020,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.583168,,2
+abstract-020,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
+abstract-020,flow,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
 abstract-020,force,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.583168,,1
 abstract-020,futuristic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.582168,,1
+abstract-020,harmony,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
+abstract-020,intersection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
+abstract-020,organization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
+abstract-020,orientation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1
 abstract-020,tool,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GUfHr2bXxxTZKPyQAQUTjyn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.583168,,1
+abstract-020,visual representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZT5TVbCXrZTefqy7KTI9NrZV,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.606899,,1

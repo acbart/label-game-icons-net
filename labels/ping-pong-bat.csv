@@ -1,26 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 ping-pong-bat,ball,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
-ping-pong-bat,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
+ping-pong-bat,bat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TMRGzPldnghxzf0bt6XpDC3d,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.404363,,1
+ping-pong-bat,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,2
 ping-pong-bat,paddle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
 ping-pong-bat,ping pong,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
+ping-pong-bat,ping-pong,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TMRGzPldnghxzf0bt6XpDC3d,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.404363,,1
 ping-pong-bat,sports,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
-ping-pong-bat,table tennis,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
+ping-pong-bat,table tennis,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,2
 ping-pong-bat,activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
-ping-pong-bat,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
+ping-pong-bat,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,2
 ping-pong-bat,court,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
 ping-pong-bat,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
 ping-pong-bat,exercise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
 ping-pong-bat,fitness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
-ping-pong-bat,hobby,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
+ping-pong-bat,hobby,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,2
 ping-pong-bat,indoor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
-ping-pong-bat,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
+ping-pong-bat,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,2
 ping-pong-bat,match,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
 ping-pong-bat,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
-ping-pong-bat,play,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
-ping-pong-bat,racket,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
-ping-pong-bat,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
+ping-pong-bat,play,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,2
+ping-pong-bat,racket,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,2
+ping-pong-bat,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,2
 ping-pong-bat,skill,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
-ping-pong-bat,sports equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
+ping-pong-bat,sphere,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TMRGzPldnghxzf0bt6XpDC3d,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.404363,,1
+ping-pong-bat,sport,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TMRGzPldnghxzf0bt6XpDC3d,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.404363,,1
+ping-pong-bat,sports equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,2
+ping-pong-bat,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TMRGzPldnghxzf0bt6XpDC3d,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.404363,,1
+ping-pong-bat,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TMRGzPldnghxzf0bt6XpDC3d,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.404363,,1
+ping-pong-bat,abstract representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TMRGzPldnghxzf0bt6XpDC3d,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.404363,,1
+ping-pong-bat,handle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TMRGzPldnghxzf0bt6XpDC3d,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.404363,,1
 ping-pong-bat,icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
+ping-pong-bat,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TMRGzPldnghxzf0bt6XpDC3d,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.404363,,1
+ping-pong-bat,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TMRGzPldnghxzf0bt6XpDC3d,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.404363,,1
+ping-pong-bat,round,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TMRGzPldnghxzf0bt6XpDC3d,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.404363,,1
 ping-pong-bat,round object,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
 ping-pong-bat,round shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ROhrNAfXKJZ1AIGn0VZs72kp,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.235740,,1
+ping-pong-bat,solid shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TMRGzPldnghxzf0bt6XpDC3d,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.404363,,1

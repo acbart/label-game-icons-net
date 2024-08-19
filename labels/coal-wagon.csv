@@ -1,28 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-coal-wagon,extraction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
-coal-wagon,industrial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
+coal-wagon,extraction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,2
+coal-wagon,industrial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,2
 coal-wagon,materials,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
 coal-wagon,minecart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
-coal-wagon,mining,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
+coal-wagon,mining,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,2
+coal-wagon,rail transport,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sN4IGB1h4xIeYd2mJlSCY3p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.151861,,1
 coal-wagon,rails,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
-coal-wagon,transport,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
-coal-wagon,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
-coal-wagon,cargo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
+coal-wagon,transport,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,2
+coal-wagon,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,2
+coal-wagon,cargo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,2
 coal-wagon,carriage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
-coal-wagon,coal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
+coal-wagon,coal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,2
+coal-wagon,container,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sN4IGB1h4xIeYd2mJlSCY3p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.151861,,1
 coal-wagon,conveyor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
+coal-wagon,energy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sN4IGB1h4xIeYd2mJlSCY3p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.151861,,1
 coal-wagon,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
-coal-wagon,freight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
-coal-wagon,goods,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
+coal-wagon,freight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,2
+coal-wagon,goods,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,2
 coal-wagon,heavy duty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
-coal-wagon,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
-coal-wagon,load,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
+coal-wagon,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,2
+coal-wagon,load,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,2
 coal-wagon,locomotion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
+coal-wagon,locomotive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sN4IGB1h4xIeYd2mJlSCY3p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.151861,,1
 coal-wagon,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
+coal-wagon,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sN4IGB1h4xIeYd2mJlSCY3p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.151861,,1
 coal-wagon,ore,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
-coal-wagon,railroad,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
+coal-wagon,railroad,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,2
+coal-wagon,raw materials,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sN4IGB1h4xIeYd2mJlSCY3p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.151861,,1
+coal-wagon,resource,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sN4IGB1h4xIeYd2mJlSCY3p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.151861,,1
+coal-wagon,supply,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sN4IGB1h4xIeYd2mJlSCY3p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.151861,,1
+coal-wagon,traditional energy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sN4IGB1h4xIeYd2mJlSCY3p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.151861,,1
 coal-wagon,trolley,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
 coal-wagon,vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
-coal-wagon,wagon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
+coal-wagon,wagon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,2
 coal-wagon,delivery,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
+coal-wagon,eco,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sN4IGB1h4xIeYd2mJlSCY3p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.151861,,1
 coal-wagon,economy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_shN4hOLTapzWVQsl6L1ySzoO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.300162,,1
+coal-wagon,pollution,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sN4IGB1h4xIeYd2mJlSCY3p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.151861,,1
+coal-wagon,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sN4IGB1h4xIeYd2mJlSCY3p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.151861,,1
+coal-wagon,utility,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sN4IGB1h4xIeYd2mJlSCY3p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.151861,,1

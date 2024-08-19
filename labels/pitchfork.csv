@@ -1,24 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+pitchfork,agriculture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
 pitchfork,broom,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.261260,,1
 pitchfork,clean,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1
 pitchfork,cleaning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.261260,,1
+pitchfork,farming tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
+pitchfork,fork,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
+pitchfork,gardening,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
+pitchfork,pitchfork,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
 pitchfork,sweeping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.261260,,1
-pitchfork,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.261260,,1
+pitchfork,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.261260,,2
 pitchfork,chore,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1
 pitchfork,cleanup,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1
+pitchfork,cultivation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
+pitchfork,digging,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
 pitchfork,domestic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.261260,,1
+pitchfork,earth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
+pitchfork,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
+pitchfork,field,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
+pitchfork,hand tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
 pitchfork,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.261260,,1
+pitchfork,harvesting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
+pitchfork,hay,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
 pitchfork,household,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1
 pitchfork,housekeeping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1
+pitchfork,labor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
+pitchfork,landscaping,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
 pitchfork,lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.261260,,1
 pitchfork,maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1
+pitchfork,manual tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
 pitchfork,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1
 pitchfork,object,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1
+pitchfork,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
+pitchfork,prongs,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
+pitchfork,rural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
 pitchfork,simple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.261260,,1
+pitchfork,straw,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
 pitchfork,sweep,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1
 pitchfork,task,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1
 pitchfork,tidy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1
-pitchfork,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1
-pitchfork,work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1
+pitchfork,tines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
+pitchfork,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,2
+pitchfork,work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,2
 pitchfork,angular,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1
+pitchfork,basic shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
+pitchfork,simple design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rpQSVzi9r5HAX81N6BUrKPXb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.483110,,1
 pitchfork,straight lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Flr8uvvwhricu3s3HRWinRgZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.262260,,1

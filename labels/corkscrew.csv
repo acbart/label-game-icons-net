@@ -1,23 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-corkscrew,corkscrew,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
+corkscrew,bottle opener,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.480796,,1
+corkscrew,corkscrew,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,2
 corkscrew,corkscrew handle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
-corkscrew,opener,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
-corkscrew,spiral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
+corkscrew,handle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.480796,,1
+corkscrew,helix,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.480796,,1
+corkscrew,opener,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,2
+corkscrew,spiral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,2
+corkscrew,abstract shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.481777,,1
 corkscrew,alcohol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
 corkscrew,bar,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
-corkscrew,beverage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
+corkscrew,bar tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.481777,,1
+corkscrew,beverage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,2
 corkscrew,bottle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
+corkscrew,drill,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.481777,,1
 corkscrew,drinks,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
 corkscrew,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
 corkscrew,extractor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
-corkscrew,kitchen tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
+corkscrew,functionality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.481777,,1
+corkscrew,kitchen tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,2
+corkscrew,lever,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.481777,,1
+corkscrew,mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.481777,,1
 corkscrew,screw,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
-corkscrew,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
-corkscrew,twist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
-corkscrew,wine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
-corkscrew,celebration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
+corkscrew,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,2
+corkscrew,twist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,2
+corkscrew,wine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,2
+corkscrew,celebration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,2
 corkscrew,decoration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
+corkscrew,extraction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.481777,,1
+corkscrew,gear,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.481777,,1
 corkscrew,hospitality,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
 corkscrew,hospitality industry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
+corkscrew,inelastic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.481777,,1
+corkscrew,manual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.481777,,1
+corkscrew,metal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.481777,,1
 corkscrew,metallic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
-corkscrew,party,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,1
+corkscrew,party,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CyoTuM5GKYGDwne2GDXuMtjQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.375721,,2
+corkscrew,premium,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.481777,,1
+corkscrew,sommelier,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.481777,,1
+corkscrew,unseal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eOYLo63z16E95SapU91xUOpy,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.481777,,1

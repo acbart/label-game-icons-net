@@ -1,19 +1,34 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 daemon-pull,aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
+daemon-pull,arrow,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
 daemon-pull,assistance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
 daemon-pull,care,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
 daemon-pull,compassion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
-daemon-pull,hand,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
+daemon-pull,daemon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
+daemon-pull,hand,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,2
 daemon-pull,help,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
 daemon-pull,holding,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
-daemon-pull,support,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
+daemon-pull,pull,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
+daemon-pull,retrieve,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
+daemon-pull,support,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,2
+daemon-pull,abstract figure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
+daemon-pull,action,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
 daemon-pull,benevolence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
 daemon-pull,caring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
 daemon-pull,charity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
+daemon-pull,communication,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
+daemon-pull,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
+daemon-pull,curve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
+daemon-pull,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
 daemon-pull,encouragement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
+daemon-pull,flow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
 daemon-pull,friendliness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
-daemon-pull,gesture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
+daemon-pull,gesture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,2
 daemon-pull,gesture of support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
+daemon-pull,grabbing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
+daemon-pull,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,2
+daemon-pull,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
+daemon-pull,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
 daemon-pull,nurturing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
 daemon-pull,palm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
 daemon-pull,partnership,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
@@ -25,5 +40,11 @@ daemon-pull,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_re
 daemon-pull,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
 daemon-pull,supportive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
 daemon-pull,sympathy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
-daemon-pull,uplift,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
+daemon-pull,system,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
+daemon-pull,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
+daemon-pull,uplift,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,2
 daemon-pull,uplifting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6kkqVTEm6l6LhnLBf4xw2zgS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.466234,,1
+daemon-pull,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
+daemon-pull,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
+daemon-pull,engagement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1
+daemon-pull,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RmA9yfyIHg9zNm7UjkWI7pI2,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.830588,,1

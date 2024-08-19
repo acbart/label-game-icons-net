@@ -1,25 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-dutch-bike,bicycle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
-dutch-bike,cycling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
+dutch-bike,bicycle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,2
+dutch-bike,bike,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7XjKJ6qx3pX8cxa7Mt7Qn04,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.447903,,1
+dutch-bike,cycling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,2
 dutch-bike,handlebars,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
-dutch-bike,pedal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
-dutch-bike,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
-dutch-bike,wheels,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
+dutch-bike,pedal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,2
+dutch-bike,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,2
+dutch-bike,wheels,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,2
 dutch-bike,bike ride,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
 dutch-bike,chain drive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
-dutch-bike,commuting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
-dutch-bike,eco-friendly,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
-dutch-bike,exercise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
-dutch-bike,frame,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
+dutch-bike,commuting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,2
+dutch-bike,eco-friendly,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,2
+dutch-bike,exercise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,2
+dutch-bike,frame,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,2
+dutch-bike,lifestyle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7XjKJ6qx3pX8cxa7Mt7Qn04,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.447903,,1
 dutch-bike,manual transport,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
-dutch-bike,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
+dutch-bike,netherlands,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7XjKJ6qx3pX8cxa7Mt7Qn04,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.447903,,1
+dutch-bike,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,2
 dutch-bike,saddle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
+dutch-bike,sustainability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7XjKJ6qx3pX8cxa7Mt7Qn04,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.447903,,1
+dutch-bike,touring,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7XjKJ6qx3pX8cxa7Mt7Qn04,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.447903,,1
+dutch-bike,travel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7XjKJ6qx3pX8cxa7Mt7Qn04,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.447903,,1
 dutch-bike,two wheels,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
-dutch-bike,vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
+dutch-bike,urban,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7XjKJ6qx3pX8cxa7Mt7Qn04,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.447903,,1
+dutch-bike,vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,2
+dutch-bike,adventure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7XjKJ6qx3pX8cxa7Mt7Qn04,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.447903,,1
+dutch-bike,balance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7XjKJ6qx3pX8cxa7Mt7Qn04,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.447903,,1
+dutch-bike,freedom,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7XjKJ6qx3pX8cxa7Mt7Qn04,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.447903,,1
 dutch-bike,gear,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.640583,,1
-dutch-bike,health,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
+dutch-bike,health,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,2
+dutch-bike,journey,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7XjKJ6qx3pX8cxa7Mt7Qn04,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.447903,,1
 dutch-bike,lightweight,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
-dutch-bike,mobility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
-dutch-bike,recreation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1
+dutch-bike,mobility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,2
+dutch-bike,pathways,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7XjKJ6qx3pX8cxa7Mt7Qn04,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.447903,,1
+dutch-bike,recreation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,2
 dutch-bike,road bike,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.640583,,1
 dutch-bike,sport,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7VbSucMYBVJmY5FKf5TsRZ1G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.639577,,1

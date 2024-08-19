@@ -1,26 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 spiked-tail,abstract art,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
-spiked-tail,angular,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
+spiked-tail,aggression,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
+spiked-tail,angular,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,2
 spiked-tail,contemporary,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
+spiked-tail,danger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
+spiked-tail,dinosaur,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
 spiked-tail,dynamic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
-spiked-tail,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
-spiked-tail,jagged,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
+spiked-tail,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,2
+spiked-tail,jagged,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,2
 spiked-tail,modern design,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
+spiked-tail,pointed,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
+spiked-tail,sharp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
 spiked-tail,sharp edges,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
 spiked-tail,sharpness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
+spiked-tail,spiked,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
+spiked-tail,tail,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
+spiked-tail,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
+spiked-tail,animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
+spiked-tail,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
 spiked-tail,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
+spiked-tail,creature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
+spiked-tail,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
 spiked-tail,directional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
 spiked-tail,edgy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
 spiked-tail,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
+spiked-tail,fantasy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
+spiked-tail,feature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.781331,,1
 spiked-tail,forceful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
 spiked-tail,fragmentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
 spiked-tail,futuristic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
 spiked-tail,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
 spiked-tail,high contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
-spiked-tail,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
+spiked-tail,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,2
 spiked-tail,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
+spiked-tail,prehistoric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
+spiked-tail,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.781331,,1
 spiked-tail,spikes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
 spiked-tail,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
 spiked-tail,tension,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
+spiked-tail,weapon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
+spiked-tail,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.781331,,1
 spiked-tail,edifice,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
+spiked-tail,emblem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.781331,,1
+spiked-tail,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.781331,,1
+spiked-tail,illustration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.781331,,1
+spiked-tail,motion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
+spiked-tail,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
+spiked-tail,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1
 spiked-tail,resilience,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_03E4sLGOZH4b0WmPlt1puVF2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.142173,,1
+spiked-tail,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QZ6OE3YBrAyKsbUL6mVcxZ9A,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.780266,,1

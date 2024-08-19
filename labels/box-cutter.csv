@@ -1,26 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-box-cutter,blade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
+box-cutter,blade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,2
+box-cutter,box cutter,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
 box-cutter,cutter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
 box-cutter,cutting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
-box-cutter,sharp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
-box-cutter,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
-box-cutter,utility knife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
-box-cutter,DIY,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
+box-cutter,cutting tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
+box-cutter,retractable,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
+box-cutter,sharp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,2
+box-cutter,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,2
+box-cutter,utility knife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,2
+box-cutter,DIY,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,2
+box-cutter,blade extension,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
+box-cutter,box opening,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
+box-cutter,cardboard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
+box-cutter,craft,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
 box-cutter,craft knife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
 box-cutter,crafting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
 box-cutter,edge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
+box-cutter,grooves,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
 box-cutter,hand tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
-box-cutter,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
+box-cutter,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,2
+box-cutter,manual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
+box-cutter,office,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
 box-cutter,office supplies,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
-box-cutter,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
-box-cutter,razor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
+box-cutter,packaging,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
+box-cutter,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,2
+box-cutter,razor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,2
+box-cutter,replaceable blade,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
+box-cutter,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
+box-cutter,sectioned,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
+box-cutter,slice,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
 box-cutter,slicing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
-box-cutter,stationery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
+box-cutter,stationery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,2
+box-cutter,toolkit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
+box-cutter,art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
+box-cutter,carpentry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
 box-cutter,carving,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
+box-cutter,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
 box-cutter,engraving,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
 box-cutter,home improvement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
-box-cutter,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
+box-cutter,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,2
 box-cutter,mechanism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
 box-cutter,paper cutter,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
+box-cutter,plastic handle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rYx3FcgW3lqSuUnOtb8bd92A,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.759610,,1
 box-cutter,safety lock,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1
 box-cutter,sheath,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RE9tSNRvxCF22PWysXMhRLyz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.962513,,1

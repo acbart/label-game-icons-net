@@ -1,27 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+fleur-de-lys,France,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
 fleur-de-lys,French,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
-fleur-de-lys,emblem,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
+fleur-de-lys,aristocracy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
+fleur-de-lys,coat of arms,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
+fleur-de-lys,emblem,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,2
 fleur-de-lys,fleur-de-lis,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
-fleur-de-lys,heraldry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
-fleur-de-lys,historical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
-fleur-de-lys,nobility,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
-fleur-de-lys,royalty,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
-fleur-de-lys,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
-fleur-de-lys,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
+fleur-de-lys,fleur-de-lys,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
+fleur-de-lys,heraldry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,2
+fleur-de-lys,heritage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
+fleur-de-lys,historical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,2
+fleur-de-lys,nobility,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,2
+fleur-de-lys,ornamental,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
+fleur-de-lys,royalty,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,2
+fleur-de-lys,stylized floral,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
+fleur-de-lys,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,2
+fleur-de-lys,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
+fleur-de-lys,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,2
 fleur-de-lys,badge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
-fleur-de-lys,classic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
-fleur-de-lys,culture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
+fleur-de-lys,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
+fleur-de-lys,classic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,2
+fleur-de-lys,culture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,2
 fleur-de-lys,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
-fleur-de-lys,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
+fleur-de-lys,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,2
 fleur-de-lys,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
-fleur-de-lys,floral,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
+fleur-de-lys,elegant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
+fleur-de-lys,floral,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,2
 fleur-de-lys,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
-fleur-de-lys,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
-fleur-de-lys,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
+fleur-de-lys,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,2
+fleur-de-lys,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,2
+fleur-de-lys,legacy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
+fleur-de-lys,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
 fleur-de-lys,motif,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
 fleur-de-lys,ornament,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
+fleur-de-lys,rhythmic curves,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
+fleur-de-lys,signature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
 fleur-de-lys,stylized,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
-fleur-de-lys,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
+fleur-de-lys,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,2
+fleur-de-lys,three petals,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
+fleur-de-lys,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AJLanVbeII3auTWWNsTaMcOq,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.397327,,1
 fleur-de-lys,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
 fleur-de-lys,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1
 fleur-de-lys,shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PtVK4TEP8UnisyPomrprvSUp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.904221,,1

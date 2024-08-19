@@ -1,23 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+swiss-army-knife,convenient,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1
 swiss-army-knife,everyday carry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
-swiss-army-knife,multitool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
+swiss-army-knife,multipurpose,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1
+swiss-army-knife,multitool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,2
 swiss-army-knife,outdoor gear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
+swiss-army-knife,outdoors,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1
 swiss-army-knife,pocket knife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
+swiss-army-knife,practical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1
 swiss-army-knife,tools,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
+swiss-army-knife,utility,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1
 swiss-army-knife,utility knife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
+swiss-army-knife,versatile,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1
 swiss-army-knife,versatility,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
-swiss-army-knife,adaptability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
-swiss-army-knife,blade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
-swiss-army-knife,camping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
-swiss-army-knife,compact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
-swiss-army-knife,corkscrew,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
-swiss-army-knife,foldable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
-swiss-army-knife,functionality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
-swiss-army-knife,handy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
+swiss-army-knife,adaptability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,2
+swiss-army-knife,blade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,2
+swiss-army-knife,camping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,2
+swiss-army-knife,compact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,2
+swiss-army-knife,corkscrew,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,2
+swiss-army-knife,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1
+swiss-army-knife,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1
+swiss-army-knife,foldable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,2
+swiss-army-knife,functionality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,2
+swiss-army-knife,handy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,2
+swiss-army-knife,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1
+swiss-army-knife,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1
 swiss-army-knife,mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
-swiss-army-knife,portable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
+swiss-army-knife,portable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,2
+swiss-army-knife,precision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1
+swiss-army-knife,preparedness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1
+swiss-army-knife,problem-solving,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1
 swiss-army-knife,ready-to-use,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
-swiss-army-knife,scissors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
+swiss-army-knife,scissors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,2
 swiss-army-knife,screwdriver,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
+swiss-army-knife,solution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.706719,,1
 swiss-army-knife,survival,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
-swiss-army-knife,toolkit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,1
+swiss-army-knife,toolkit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n7bvfz2DuYgd2legYTedznnq,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.161658,,2
+swiss-army-knife,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1
+swiss-army-knife,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_INo4OGgwgGZbI25nOdv8IvzZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.705702,,1

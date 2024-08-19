@@ -1,24 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+bully-minion,aggression,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
+bully-minion,authority,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
+bully-minion,bully,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
 bully-minion,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
 bully-minion,digger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
+bully-minion,enforcer,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
 bully-minion,excavation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
+bully-minion,intimidation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
 bully-minion,labor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
 bully-minion,manual work,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
+bully-minion,minion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
+bully-minion,power,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
+bully-minion,threat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
 bully-minion,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
+bully-minion,violence,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
+bully-minion,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
 bully-minion,worker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
+bully-minion,action,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
+bully-minion,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
+bully-minion,character,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
 bully-minion,digging,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
+bully-minion,dominance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
 bully-minion,effort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
 bully-minion,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
+bully-minion,expression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
+bully-minion,figure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
+bully-minion,follower,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
 bully-minion,grounds,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
+bully-minion,guard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
 bully-minion,hard hat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
 bully-minion,helmet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
+bully-minion,humanoid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
 bully-minion,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
+bully-minion,obedience,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
 bully-minion,outdoor work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
 bully-minion,project,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
 bully-minion,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
+bully-minion,servant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
+bully-minion,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
+bully-minion,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
 bully-minion,task,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
+bully-minion,villain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
 bully-minion,development,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
 bully-minion,field work,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
+bully-minion,motion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
+bully-minion,posture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X6GDT3OctV0bw7luDIxhxEdg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.978938,,1
 bully-minion,production,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
 bully-minion,progress,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1
 bully-minion,support,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DYO0kqoUWv1SYzkmwtRtF6HD,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.027835,,1

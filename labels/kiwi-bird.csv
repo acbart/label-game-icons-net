@@ -1,24 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-kiwi-bird,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
-kiwi-bird,beak,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
-kiwi-bird,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.544859,,1
-kiwi-bird,eye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
-kiwi-bird,flightless,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
+kiwi-bird,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,2
+kiwi-bird,beak,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,2
+kiwi-bird,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.544859,,2
+kiwi-bird,eye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,2
+kiwi-bird,flightless,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,2
 kiwi-bird,kiwi,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.544859,,1
-kiwi-bird,avian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
+kiwi-bird,kiwi bird,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oaSxkz1mc7kVOeWxRdPUvSLu,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.925786,,1
+kiwi-bird,New Zealand,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oaSxkz1mc7kVOeWxRdPUvSLu,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.925786,,1
+kiwi-bird,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oaSxkz1mc7kVOeWxRdPUvSLu,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.926681,,1
+kiwi-bird,avian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,2
 kiwi-bird,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
-kiwi-bird,fauna,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
-kiwi-bird,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
-kiwi-bird,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
-kiwi-bird,leg,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
-kiwi-bird,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
-kiwi-bird,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
+kiwi-bird,fauna,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,2
+kiwi-bird,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oaSxkz1mc7kVOeWxRdPUvSLu,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.926681,,1
+kiwi-bird,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,2
+kiwi-bird,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,2
+kiwi-bird,leg,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,2
+kiwi-bird,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,2
+kiwi-bird,natural world,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oaSxkz1mc7kVOeWxRdPUvSLu,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.926681,,1
+kiwi-bird,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,2
+kiwi-bird,ornithology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oaSxkz1mc7kVOeWxRdPUvSLu,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.926681,,1
+kiwi-bird,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oaSxkz1mc7kVOeWxRdPUvSLu,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.925786,,1
 kiwi-bird,oval body,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
-kiwi-bird,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
+kiwi-bird,pictogram,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oaSxkz1mc7kVOeWxRdPUvSLu,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.926681,,1
+kiwi-bird,round,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oaSxkz1mc7kVOeWxRdPUvSLu,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.926681,,1
+kiwi-bird,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,2
+kiwi-bird,simple,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oaSxkz1mc7kVOeWxRdPUvSLu,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.926681,,1
 kiwi-bird,simplified,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
 kiwi-bird,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
-kiwi-bird,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
+kiwi-bird,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oaSxkz1mc7kVOeWxRdPUvSLu,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.926681,,1
+kiwi-bird,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,2
 kiwi-bird,wing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
+kiwi-bird,cartoonish,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oaSxkz1mc7kVOeWxRdPUvSLu,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.926681,,1
+kiwi-bird,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oaSxkz1mc7kVOeWxRdPUvSLu,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.926681,,1
 kiwi-bird,ecosystem,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
+kiwi-bird,emblem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_oaSxkz1mc7kVOeWxRdPUvSLu,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.926681,,1
 kiwi-bird,habitat,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
-kiwi-bird,representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,1
+kiwi-bird,representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BySoThZnFAp4kIjIfa6JMAo3,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.545860,,2

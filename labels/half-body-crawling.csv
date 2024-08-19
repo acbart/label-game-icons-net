@@ -1,23 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+half-body-crawling,action,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
 half-body-crawling,alert,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
 half-body-crawling,caution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
+half-body-crawling,crawling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
 half-body-crawling,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
 half-body-crawling,fall,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
+half-body-crawling,half-body,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
 half-body-crawling,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
 half-body-crawling,slip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
 half-body-crawling,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
+half-body-crawling,abstract human form,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
 half-body-crawling,accident prevention,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
+half-body-crawling,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
+half-body-crawling,difficulty,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
+half-body-crawling,dynamic pose,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
+half-body-crawling,effort,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
 half-body-crawling,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
+half-body-crawling,endurance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
+half-body-crawling,escaping,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
 half-body-crawling,figure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
+half-body-crawling,forward motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
 half-body-crawling,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
 half-body-crawling,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
 half-body-crawling,loss of control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
-half-body-crawling,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
+half-body-crawling,low posture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
+half-body-crawling,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,2
+half-body-crawling,obstacle course,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
+half-body-crawling,persistence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
+half-body-crawling,physical activity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
 half-body-crawling,precaution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
+half-body-crawling,progress,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
+half-body-crawling,prone position,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
+half-body-crawling,resilience,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
 half-body-crawling,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
+half-body-crawling,struggle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
 half-body-crawling,sudden event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
+half-body-crawling,survival,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
 half-body-crawling,unexpected,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
+half-body-crawling,adventure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
+half-body-crawling,agility,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
 half-body-crawling,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
+half-body-crawling,fitness,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
+half-body-crawling,flexibility,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
 half-body-crawling,footwear,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
 half-body-crawling,illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
+half-body-crawling,strategy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1
 half-body-crawling,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QaSYbNDfmYYmMmebW6NsEkjp,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.159420,,1
+half-body-crawling,symbolic journey,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8o0pHA4nXPvJeNTrBVuou3tO,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.480036,,1

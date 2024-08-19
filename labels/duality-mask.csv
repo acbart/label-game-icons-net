@@ -1,28 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 duality-mask,acting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
-duality-mask,comedy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
-duality-mask,drama,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
+duality-mask,comedy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,2
+duality-mask,drama,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,2
 duality-mask,entertainment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
-duality-mask,expression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
+duality-mask,expression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,2
+duality-mask,face,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
 duality-mask,facial expression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
 duality-mask,happy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
 duality-mask,human emotion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
-duality-mask,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
-duality-mask,performance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
+duality-mask,identity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
+duality-mask,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,2
+duality-mask,performance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,2
 duality-mask,performing arts,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
 duality-mask,sad,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
-duality-mask,theater,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
-duality-mask,tragedy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
-duality-mask,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
+duality-mask,symbolism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
+duality-mask,theater,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,2
+duality-mask,tragedy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,2
+duality-mask,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
+duality-mask,alter ego,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
+duality-mask,anonymity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
+duality-mask,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,2
+duality-mask,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
+duality-mask,character,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
 duality-mask,classic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.552766,,1
-duality-mask,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
+duality-mask,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,2
+duality-mask,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
 duality-mask,culture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
-duality-mask,duality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
+duality-mask,disguise,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
+duality-mask,duality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,2
+duality-mask,emotion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
 duality-mask,festival,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.552766,,1
-duality-mask,persona,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
+duality-mask,hidden,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
+duality-mask,masks,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
+duality-mask,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
+duality-mask,persona,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,2
 duality-mask,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.552766,,1
+duality-mask,split,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
 duality-mask,stage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
 duality-mask,storytelling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.552766,,1
 duality-mask,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.551815,,1
+duality-mask,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1
 duality-mask,audience,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.552766,,1
 duality-mask,historical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S6ye0YEzY6r6SSwbtfCLTOfy,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.552766,,1
+duality-mask,mirror,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2FjxfHlKtNBYXOg2fwdXXOuh,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.862676,,1

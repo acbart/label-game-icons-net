@@ -1,27 +1,58 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 machine-gun,camera,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
 machine-gun,cinematography,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,conflict,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1
 machine-gun,filmmaking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,firearm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
+machine-gun,gunfire,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
 machine-gun,image capture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,machine-gun,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
+machine-gun,military,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
 machine-gun,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
 machine-gun,photography,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,projectiles,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
+machine-gun,rapid-fire,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
 machine-gun,recording,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
-machine-gun,tripod,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,tripod,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,2
 machine-gun,video,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
 machine-gun,visual media,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,war,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
+machine-gun,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
+machine-gun,aiming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1
+machine-gun,ammunition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
 machine-gun,angle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
 machine-gun,aperture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,attack,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
+machine-gun,barrel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
 machine-gun,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
+machine-gun,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
 machine-gun,documenting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
 machine-gun,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
 machine-gun,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
 machine-gun,frames,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,gunsight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1
 machine-gun,lens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1
 machine-gun,movie,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1
+machine-gun,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1
+machine-gun,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
+machine-gun,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1
 machine-gun,shooting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
 machine-gun,snapshot,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
 machine-gun,splay legs,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,standing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1
+machine-gun,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1
+machine-gun,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1
 machine-gun,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,trigger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1
+machine-gun,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1
 machine-gun,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
-machine-gun,dots,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,blocky,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1
+machine-gun,circular shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.883571,,1
+machine-gun,dots,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,2
+machine-gun,hierarchy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1
 machine-gun,projection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcPsi00Eg2GCPdzggKKGzYOR,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.365716,,1
+machine-gun,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_M4pAaC2aAj0eBG0leq12dwf8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.884527,,1

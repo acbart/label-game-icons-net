@@ -1,23 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+card-king-spades,card,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
 card-king-spades,card game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
 card-king-spades,card suit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
-card-king-spades,king,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
-card-king-spades,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
+card-king-spades,game piece,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
+card-king-spades,king,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,2
+card-king-spades,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,2
 card-king-spades,spade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
-card-king-spades,blackjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
-card-king-spades,casino,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
-card-king-spades,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
-card-king-spades,deck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
-card-king-spades,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
-card-king-spades,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
+card-king-spades,spades,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
+card-king-spades,suit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
+card-king-spades,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
+card-king-spades,archetype,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
+card-king-spades,blackjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,2
+card-king-spades,bridge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
+card-king-spades,casino,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,2
+card-king-spades,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,2
+card-king-spades,deck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,2
+card-king-spades,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,2
+card-king-spades,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,2
 card-king-spades,heart,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
-card-king-spades,hierarchy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
-card-king-spades,poker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
-card-king-spades,royalty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
-card-king-spades,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
-card-king-spades,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
+card-king-spades,hierarchy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,2
+card-king-spades,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
+card-king-spades,poker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,2
+card-king-spades,royalty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,2
+card-king-spades,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,2
+card-king-spades,suite,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
+card-king-spades,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,2
+card-king-spades,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
+card-king-spades,trick-taking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
+card-king-spades,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
+card-king-spades,ace,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
+card-king-spades,clubs,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
 card-king-spades,collection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
+card-king-spades,diamonds,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
 card-king-spades,entertainment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
+card-king-spades,hearts,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1
 card-king-spades,leisure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
-card-king-spades,luck,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
+card-king-spades,luck,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,2
 card-king-spades,recreation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_k1MJwi6kbZUrviyuwddIRvMI,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.186769,,1
+card-king-spades,tarot,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NY1MVlWgQOo6dHRHg31ut8KQ,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.614736,,1

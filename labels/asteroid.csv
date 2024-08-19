@@ -1,27 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-asteroid,asteroid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
-asteroid,astronomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
+asteroid,asteroid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,2
+asteroid,astronomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,2
 asteroid,celestial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
+asteroid,celestial body,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pKezraKthpmekf70Aavq2qa5,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.772709,,1
+asteroid,meteor,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pKezraKthpmekf70Aavq2qa5,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.772709,,1
 asteroid,meteorite,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
-asteroid,outer space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
-asteroid,rock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
+asteroid,outer space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,2
+asteroid,rock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,2
 asteroid,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
-asteroid,space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
-asteroid,comet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
+asteroid,space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,2
+asteroid,comet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,2
+asteroid,cosmic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pKezraKthpmekf70Aavq2qa5,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.772709,,1
 asteroid,cosmos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
 asteroid,crater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
+asteroid,cratered surface,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pKezraKthpmekf70Aavq2qa5,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.772709,,1
 asteroid,debris,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
-asteroid,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
-asteroid,galaxy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
-asteroid,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
+asteroid,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,2
+asteroid,galaxy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,2
+asteroid,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,2
 asteroid,impact event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
-asteroid,irregular shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
-asteroid,orbit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
+asteroid,irregular shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,2
+asteroid,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pKezraKthpmekf70Aavq2qa5,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.772709,,1
+asteroid,natural object,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pKezraKthpmekf70Aavq2qa5,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.772709,,1
+asteroid,orbit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,2
 asteroid,planet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
 asteroid,solar system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
 asteroid,space travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
-asteroid,universe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
+asteroid,stellar,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pKezraKthpmekf70Aavq2qa5,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.772709,,1
+asteroid,universe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,2
+asteroid,vacuum,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pKezraKthpmekf70Aavq2qa5,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.772709,,1
 asteroid,void,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
+asteroid,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pKezraKthpmekf70Aavq2qa5,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.772709,,1
 asteroid,adventure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
 asteroid,alien,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1
+asteroid,black hole,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pKezraKthpmekf70Aavq2qa5,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.772709,,1
+asteroid,geometric,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pKezraKthpmekf70Aavq2qa5,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.772709,,1
 asteroid,mystery,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fNulpEZTnfCNQsMP2Pt15iTT,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.683256,,1

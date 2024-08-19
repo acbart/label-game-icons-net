@@ -1,25 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+fast-forward-button,arrow,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fqc929hyd4iGADYCXnkvVlmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.017781,,1
+fast-forward-button,double-triangle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fqc929hyd4iGADYCXnkvVlmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.017781,,1
 fast-forward-button,fast forward,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
+fast-forward-button,fast-forward,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fqc929hyd4iGADYCXnkvVlmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.017781,,1
 fast-forward-button,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
 fast-forward-button,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
 fast-forward-button,progression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
-fast-forward-button,speed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
-fast-forward-button,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
-fast-forward-button,advance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
+fast-forward-button,speed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,2
+fast-forward-button,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,2
+fast-forward-button,advance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,2
 fast-forward-button,command,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
-fast-forward-button,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
-fast-forward-button,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
+fast-forward-button,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,2
+fast-forward-button,control button,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fqc929hyd4iGADYCXnkvVlmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.017781,,1
+fast-forward-button,cue,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fqc929hyd4iGADYCXnkvVlmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.017781,,1
+fast-forward-button,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,2
 fast-forward-button,double arrow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
-fast-forward-button,forward,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
-fast-forward-button,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
+fast-forward-button,forward,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,2
+fast-forward-button,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,2
+fast-forward-button,jump ahead,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fqc929hyd4iGADYCXnkvVlmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.017781,,1
 fast-forward-button,media,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
-fast-forward-button,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
-fast-forward-button,next,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
-fast-forward-button,playback,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
+fast-forward-button,media player,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fqc929hyd4iGADYCXnkvVlmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.017781,,1
+fast-forward-button,move forward,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fqc929hyd4iGADYCXnkvVlmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.017781,,1
+fast-forward-button,music control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fqc929hyd4iGADYCXnkvVlmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.017781,,1
+fast-forward-button,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,2
+fast-forward-button,next,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,2
+fast-forward-button,playback,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,2
+fast-forward-button,progress,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fqc929hyd4iGADYCXnkvVlmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.017781,,1
+fast-forward-button,skip,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fqc929hyd4iGADYCXnkvVlmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.017781,,1
 fast-forward-button,skipping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
 fast-forward-button,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
-fast-forward-button,digital,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
+fast-forward-button,triangular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fqc929hyd4iGADYCXnkvVlmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.017781,,1
+fast-forward-button,digital,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,2
 fast-forward-button,interaction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
 fast-forward-button,next step,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
+fast-forward-button,streaming,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fqc929hyd4iGADYCXnkvVlmL,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.017781,,1
 fast-forward-button,technology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1
 fast-forward-button,triangles,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sKcUR78K6JDgZ8sod0dAM5M8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.798081,,1

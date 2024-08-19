@@ -1,26 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-bordered-shield,armor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,defensive,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
+bordered-shield,armor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
+bordered-shield,border,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TRw3Qo3AuzkkAAtrlwON9eSX,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.569306,,1
+bordered-shield,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
+bordered-shield,defensive,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
 bordered-shield,guarded,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,protection icon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
+bordered-shield,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
+bordered-shield,protection icon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
 bordered-shield,protection symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
+bordered-shield,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
 bordered-shield,secure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
+bordered-shield,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
+bordered-shield,security token,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TRw3Qo3AuzkkAAtrlwON9eSX,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.569306,,1
+bordered-shield,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
 bordered-shield,shield icon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
+bordered-shield,shield shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TRw3Qo3AuzkkAAtrlwON9eSX,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.569306,,1
+bordered-shield,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TRw3Qo3AuzkkAAtrlwON9eSX,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.569306,,1
 bordered-shield,authority,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,badge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
+bordered-shield,badge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
 bordered-shield,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,crest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
+bordered-shield,crest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
+bordered-shield,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
 bordered-shield,fortification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,fortress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,heraldry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,insignia,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
-bordered-shield,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
+bordered-shield,fortress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
+bordered-shield,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
+bordered-shield,heraldry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
+bordered-shield,insignia,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
+bordered-shield,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TRw3Qo3AuzkkAAtrlwON9eSX,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.569306,,1
+bordered-shield,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
+bordered-shield,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,2
 bordered-shield,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fHyrPQWyW4y5IDjEiiwuxUW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.032937,,1
+bordered-shield,framework,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TRw3Qo3AuzkkAAtrlwON9eSX,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.569306,,1
+bordered-shield,geometric,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TRw3Qo3AuzkkAAtrlwON9eSX,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.569306,,1
+bordered-shield,linework,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TRw3Qo3AuzkkAAtrlwON9eSX,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.569306,,1
+bordered-shield,medieval,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TRw3Qo3AuzkkAAtrlwON9eSX,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.569306,,1

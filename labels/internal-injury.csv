@@ -1,25 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-internal-injury,accident,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
-internal-injury,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
-internal-injury,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
+internal-injury,accident,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,2
+internal-injury,damage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.361662,,1
+internal-injury,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,2
+internal-injury,emergency care,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.362561,,1
+internal-injury,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,2
 internal-injury,explosive,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
-internal-injury,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
-internal-injury,injury,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
+internal-injury,health,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.361662,,1
+internal-injury,human figure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.361662,,1
+internal-injury,hurt,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.362561,,1
+internal-injury,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,2
+internal-injury,injury,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,2
+internal-injury,internal injury,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.361662,,1
+internal-injury,medical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.361662,,1
+internal-injury,pain,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.361662,,1
+internal-injury,painful,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.362561,,1
 internal-injury,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
+internal-injury,trauma,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.361662,,1
+internal-injury,treatment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.362561,,1
 internal-injury,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
 internal-injury,blast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
+internal-injury,body,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.361662,,1
 internal-injury,burst,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
 internal-injury,collision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
-internal-injury,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
+internal-injury,discomfort,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.362561,,1
+internal-injury,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,2
+internal-injury,first aid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.362561,,1
 internal-injury,flash,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
 internal-injury,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
+internal-injury,hospital,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.361662,,1
 internal-injury,jagged,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
-internal-injury,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
+internal-injury,penetration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.362561,,1
+internal-injury,physical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.362561,,1
+internal-injury,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,2
 internal-injury,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
+internal-injury,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.362561,,1
 internal-injury,shock,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
+internal-injury,starburst,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.362561,,1
 internal-injury,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
+internal-injury,symptom,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.362561,,1
 internal-injury,threat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
-internal-injury,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
+internal-injury,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,2
 internal-injury,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
 internal-injury,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
+internal-injury,impalement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.362561,,1
 internal-injury,safety gear,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wM076ER7R9q0F1CGCGT3rGRK,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.140865,,1
+internal-injury,spike,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z68n2aSzXEkuXcuYWCAXAo2q,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.362561,,1

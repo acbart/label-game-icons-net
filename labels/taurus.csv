@@ -1,25 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 taurus,Taurus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
-taurus,astrology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
-taurus,bull,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
-taurus,horns,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
+taurus,astrology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,2
+taurus,birth sign,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1
+taurus,bull,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,2
+taurus,bullhead,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1
+taurus,horns,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,2
 taurus,horoscope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
-taurus,zodiac,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
-taurus,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
-taurus,constellation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
+taurus,symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1
+taurus,taurus,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1
+taurus,zodiac,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,2
+taurus,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1
+taurus,astronomy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1
+taurus,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,2
+taurus,constellation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,2
+taurus,cosmos,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1
+taurus,determination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1
 taurus,earth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
-taurus,fixed sign,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
+taurus,earthy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1
+taurus,fixed sign,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,2
 taurus,glyph,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
-taurus,grounded,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
+taurus,grounded,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,2
+taurus,mythology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1
 taurus,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
 taurus,patience,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
-taurus,perseverance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
+taurus,perseverance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,2
 taurus,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
 taurus,sensuality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
 taurus,sign,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
-taurus,stability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
-taurus,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
+taurus,stability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,2
+taurus,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,2
 taurus,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
 taurus,wealth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
+taurus,balance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1
+taurus,energetic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1
 taurus,fertility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
 taurus,material,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fI0hE3eoFm4aQp7BPpZ4wSYi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.209657,,1
+taurus,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1
+taurus,ritual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1
+taurus,visual art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d9oMW3VRIQQVX0nqIwCEZanP,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.920019,,1

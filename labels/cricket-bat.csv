@@ -1,27 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-cricket-bat,ball,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
-cricket-bat,bat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
-cricket-bat,batting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
-cricket-bat,cricket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
+cricket-bat,ball,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,2
+cricket-bat,bat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,2
+cricket-bat,batting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,2
+cricket-bat,cricket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,2
+cricket-bat,sport,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1
 cricket-bat,sports,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
+cricket-bat,sports equipment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1
+cricket-bat,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1
 cricket-bat,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
+cricket-bat,activity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1
 cricket-bat,athlete,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
 cricket-bat,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
-cricket-bat,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
+cricket-bat,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,2
 cricket-bat,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
-cricket-bat,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
-cricket-bat,hit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
-cricket-bat,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
+cricket-bat,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,2
+cricket-bat,hit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,2
+cricket-bat,hitting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1
+cricket-bat,impact,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1
+cricket-bat,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,2
 cricket-bat,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
+cricket-bat,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1
 cricket-bat,physical activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
-cricket-bat,play,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
+cricket-bat,play,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,2
 cricket-bat,practice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
-cricket-bat,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
+cricket-bat,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,2
 cricket-bat,skill,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
 cricket-bat,sporting gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
 cricket-bat,sportsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
 cricket-bat,stamina,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
+cricket-bat,swing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1
+cricket-bat,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1
 cricket-bat,team,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
+cricket-bat,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1
+cricket-bat,angle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1
+cricket-bat,direction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1
 cricket-bat,hobby,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
 cricket-bat,leisure activity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
 cricket-bat,outdoor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4Xh1N45EU54Zua23muxKJr1D,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.413738,,1
+cricket-bat,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1
+cricket-bat,shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1
+cricket-bat,target,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IM0bvmounrzj2E2wXDdAkp3p,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.665621,,1

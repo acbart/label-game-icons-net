@@ -1,24 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+skis,alpine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
 skis,art tools,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
 skis,brushes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
 skis,craft tools,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
+skis,crossed,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
 skis,cutting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
 skis,drawing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
+skis,outdoor activities,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
+skis,poles,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
 skis,precision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
 skis,scissors,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
+skis,skis,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
+skis,symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
+skis,winter sports,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
+skis,activity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
+skis,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
+skis,angles,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
+skis,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
 skis,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
 skis,crafting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
 skis,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
 skis,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
 skis,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
+skis,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
 skis,fine arts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
 skis,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
-skis,lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
+skis,lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,2
 skis,manual work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
 skis,materials,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
+skis,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
+skis,mountains,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
 skis,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
+skis,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
 skis,sculpting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
 skis,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
+skis,snow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
+skis,sport,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.585809,,1
 skis,styling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
 skis,symbols,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
 skis,textures,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MJ7S0HrJ3agLFSi6Z4hgn2Et,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.849935,,1
+skis,travel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
+skis,winter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.584807,,1
+skis,exercise,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.585809,,1
+skis,gear,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.585809,,1
+skis,hobby,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.585809,,1
+skis,iconic representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.585809,,1
+skis,leisure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVrxNFwBEgTuLB04zjiTcOf9,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.585809,,1

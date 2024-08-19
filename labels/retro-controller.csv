@@ -1,27 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+retro-controller,classic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
 retro-controller,game controller,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
+retro-controller,gamepad,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
 retro-controller,gameplay,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
-retro-controller,gaming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
-retro-controller,joystick,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
+retro-controller,gaming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,2
+retro-controller,joystick,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,2
+retro-controller,nostalgia,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
+retro-controller,old-school,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
 retro-controller,play,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
+retro-controller,retro-controller,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
 retro-controller,video games,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
-retro-controller,arcade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
-retro-controller,buttons,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
-retro-controller,console,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
+retro-controller,vintage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
+retro-controller,arcade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,2
+retro-controller,buttons,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,2
+retro-controller,console,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,2
 retro-controller,console gaming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
+retro-controller,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
 retro-controller,control pad,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
-retro-controller,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
-retro-controller,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
+retro-controller,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,2
+retro-controller,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,2
 retro-controller,directional pad,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
 retro-controller,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
-retro-controller,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
-retro-controller,fun,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
-retro-controller,handheld,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
-retro-controller,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
+retro-controller,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,2
+retro-controller,fun,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,2
+retro-controller,handheld,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,2
+retro-controller,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
+retro-controller,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
+retro-controller,input device,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
+retro-controller,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,2
 retro-controller,multiplayer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
 retro-controller,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
 retro-controller,player,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
-retro-controller,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
+retro-controller,playing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
+retro-controller,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
+retro-controller,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
+retro-controller,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,2
+retro-controller,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
 retro-controller,home console,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
-retro-controller,interface,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
+retro-controller,interface,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,2
+retro-controller,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1
 retro-controller,press,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cTT4EApOLmo1euWE3tEHGt1I,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.436920,,1
+retro-controller,shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g5A8ZJYJT4JdOaobGvSSj9IU,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.110355,,1

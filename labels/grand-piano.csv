@@ -1,27 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+grand-piano,chords,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2DVaHaNdRXzrbCHGjsxY51LX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.064106,,1
 grand-piano,grand piano,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,1
-grand-piano,keyboard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,1
-grand-piano,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,1
+grand-piano,grand-piano,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2DVaHaNdRXzrbCHGjsxY51LX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.063110,,1
+grand-piano,instrument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2DVaHaNdRXzrbCHGjsxY51LX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.063110,,1
+grand-piano,keyboard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,2
+grand-piano,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,2
 grand-piano,musical instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,1
 grand-piano,piano,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,1
-grand-piano,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
-grand-piano,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
+grand-piano,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,2
+grand-piano,aesthetic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2DVaHaNdRXzrbCHGjsxY51LX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.064106,,1
+grand-piano,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,2
 grand-piano,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
 grand-piano,classic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
+grand-piano,classical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2DVaHaNdRXzrbCHGjsxY51LX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.063110,,1
 grand-piano,classical music,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,1
-grand-piano,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,1
-grand-piano,concert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,1
-grand-piano,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
-grand-piano,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
-grand-piano,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,1
+grand-piano,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,2
+grand-piano,concert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,2
+grand-piano,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,2
+grand-piano,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,2
+grand-piano,euphony,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2DVaHaNdRXzrbCHGjsxY51LX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.064106,,1
+grand-piano,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,2
 grand-piano,instrumental,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
 grand-piano,keys,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
-grand-piano,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
-grand-piano,musician,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
-grand-piano,notes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
-grand-piano,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,1
+grand-piano,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,2
+grand-piano,musician,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,2
+grand-piano,notes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,2
+grand-piano,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.282368,,2
 grand-piano,performance art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
-grand-piano,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
+grand-piano,pitch,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2DVaHaNdRXzrbCHGjsxY51LX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.063110,,1
+grand-piano,practice,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2DVaHaNdRXzrbCHGjsxY51LX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.063110,,1
+grand-piano,prestige,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2DVaHaNdRXzrbCHGjsxY51LX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.064106,,1
+grand-piano,scale,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2DVaHaNdRXzrbCHGjsxY51LX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.064106,,1
+grand-piano,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,2
+grand-piano,symphony,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2DVaHaNdRXzrbCHGjsxY51LX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.063110,,1
+grand-piano,virtuoso,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2DVaHaNdRXzrbCHGjsxY51LX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.063110,,1
 grand-piano,concert hall,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
-grand-piano,entertainment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
-grand-piano,orchestra,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,1
+grand-piano,entertainment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,3
+grand-piano,frets,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2DVaHaNdRXzrbCHGjsxY51LX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.063110,,1
+grand-piano,orchestra,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_L4BdtonORcNiSnOUGqhmqgbj,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.283413,,2

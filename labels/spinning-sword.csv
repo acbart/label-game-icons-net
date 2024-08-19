@@ -1,26 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 spinning-sword,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
-spinning-sword,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
+spinning-sword,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,2
 spinning-sword,creative process,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
 spinning-sword,creativity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
 spinning-sword,design,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
 spinning-sword,drawing tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
 spinning-sword,line,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
+spinning-sword,motion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,spinning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,sword,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
 spinning-sword,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
-spinning-sword,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
+spinning-sword,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,2
+spinning-sword,action,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
 spinning-sword,arc,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
 spinning-sword,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
+spinning-sword,attack,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
 spinning-sword,compass,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
 spinning-sword,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
+spinning-sword,cutting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,direction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
 spinning-sword,drafting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
+spinning-sword,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,edge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,energy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
 spinning-sword,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
+spinning-sword,focus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
 spinning-sword,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
-spinning-sword,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
+spinning-sword,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,2
 spinning-sword,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
 spinning-sword,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
+spinning-sword,martial arts,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
 spinning-sword,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
 spinning-sword,planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
+spinning-sword,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
 spinning-sword,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
+spinning-sword,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,speed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
 spinning-sword,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
 spinning-sword,technical drawing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1
+spinning-sword,curve,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
+spinning-sword,curved lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ls37KsFLZCoJ3m2LI7oY4JHM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.892388,,1
 spinning-sword,intersection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_za4TWWwMo8iV0dc1M49okN4n,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.168041,,1

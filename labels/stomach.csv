@@ -1,28 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+stomach,digestion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.386895,,1
 stomach,digestive system,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
 stomach,food digestion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
+stomach,food processing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.386895,,1
+stomach,hollow organ,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.386895,,1
+stomach,human anatomy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.386895,,1
 stomach,human body,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
-stomach,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
-stomach,medicine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
-stomach,organ,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
+stomach,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,2
+stomach,medicine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,2
+stomach,organ,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,2
 stomach,stomach,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
-stomach,anatomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
+stomach,stomach function,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.386895,,1
+stomach,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.386895,,1
+stomach,anatomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,2
 stomach,biological,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
-stomach,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
+stomach,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,2
+stomach,body,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.386895,,1
+stomach,diagram,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.386895,,1
 stomach,diet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
 stomach,digestive tract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
+stomach,esophagus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.387774,,1
 stomach,gastric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
-stomach,gastrointestinal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
-stomach,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
+stomach,gastrointestinal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,2
+stomach,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,2
 stomach,healthcare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
+stomach,internal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.386895,,1
 stomach,internal organ,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
 stomach,internal systems,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
 stomach,intestinal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
 stomach,metabolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
-stomach,nutrition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
-stomach,physiology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
+stomach,nutrition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,2
+stomach,physiology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,2
+stomach,system,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.386895,,1
 stomach,wellness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
 stomach,abstraction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
+stomach,complex shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.386895,,1
+stomach,curvature,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.386895,,1
+stomach,curve,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.386895,,1
+stomach,fluidity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lCL3PlHykr7bMX4p3lHcMuUU,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.386895,,1
 stomach,illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
 stomach,science,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
-stomach,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,1
+stomach,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4PpfJgdeifk7srQDdyCd72vf,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.075135,,2

@@ -1,26 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-vr-headset,augmented reality,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
-vr-headset,headgear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
+vr-headset,3D experience,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
+vr-headset,augmented reality,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,2
+vr-headset,digital world,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
+vr-headset,gaming,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
+vr-headset,headgear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,2
 vr-headset,headset,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
 vr-headset,helmet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
+vr-headset,immersive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
 vr-headset,machine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
 vr-headset,robot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
-vr-headset,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
-vr-headset,virtual reality,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
+vr-headset,simulation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
+vr-headset,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,2
+vr-headset,virtual environment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
+vr-headset,virtual reality,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,2
 vr-headset,visor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
+vr-headset,visual experience,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
+vr-headset,vr-headset,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
 vr-headset,wearable,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
 vr-headset,automation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
-vr-headset,avatar,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
-vr-headset,cyber,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
+vr-headset,avatar,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,2
+vr-headset,cyber,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,2
+vr-headset,cyberspace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
 vr-headset,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
 vr-headset,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
+vr-headset,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
 vr-headset,faceplate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
-vr-headset,futuristic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
+vr-headset,futuristic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,2
 vr-headset,gadget,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
+vr-headset,gaming console,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
+vr-headset,goggles,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
+vr-headset,human-computer interaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
 vr-headset,human-machine interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
-vr-headset,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
+vr-headset,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,2
 vr-headset,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
 vr-headset,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
+vr-headset,sensor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
+vr-headset,symbolic representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
+vr-headset,tech accessories,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
 vr-headset,vision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
 vr-headset,communication,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
-vr-headset,innovation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,1
+vr-headset,eye protection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
+vr-headset,face mask,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
+vr-headset,front view,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
+vr-headset,headphones,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1
+vr-headset,innovation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mSXK8alPpeZf6W9EY7enOYHz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.529476,,2
+vr-headset,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jsSzXI30pxpDG1yAFQmTrtX6,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.426386,,1

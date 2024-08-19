@@ -1,26 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 robber-mask,anonymous,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
+robber-mask,bandit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
+robber-mask,burglar,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
 robber-mask,concealment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
 robber-mask,covering,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
-robber-mask,disguise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
+robber-mask,crime,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
+robber-mask,criminal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
+robber-mask,disguise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,2
 robber-mask,identity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
-robber-mask,incognito,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
-robber-mask,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
+robber-mask,identity concealment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
+robber-mask,incognito,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,2
+robber-mask,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,2
 robber-mask,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
-robber-mask,stealth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
+robber-mask,robbery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
+robber-mask,stealth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,2
+robber-mask,theft,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
 robber-mask,abstract face,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
+robber-mask,anonymity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
 robber-mask,avatar,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
 robber-mask,camouflage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
 robber-mask,character,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
+robber-mask,cover,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
+robber-mask,enigma,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
+robber-mask,faceless,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
 robber-mask,facial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
+robber-mask,hidden,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
 robber-mask,invisibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
-robber-mask,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
+robber-mask,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,2
+robber-mask,no identity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
 robber-mask,person,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
-robber-mask,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
+robber-mask,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,2
 robber-mask,secret,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
+robber-mask,secretive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
 robber-mask,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
+robber-mask,security breach,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
 robber-mask,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
-robber-mask,unknown,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
+robber-mask,unknown,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,2
+robber-mask,adventure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
+robber-mask,intrigue,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
 robber-mask,minimalistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
+robber-mask,mystique,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
 robber-mask,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
 robber-mask,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1zV5LenKZ42TiiAiUeL9fFsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.526811,,1
+robber-mask,underground,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1
+robber-mask,vigilante,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ASSkRWOwENgU3wQEoO2qSWkl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.434363,,1

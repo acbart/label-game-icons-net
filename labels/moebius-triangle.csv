@@ -1,22 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 moebius-triangle,Penrose triangle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
-moebius-triangle,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
-moebius-triangle,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
-moebius-triangle,impossible shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
-moebius-triangle,optical illusion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
-moebius-triangle,triangle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
+moebius-triangle,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,2
+moebius-triangle,endless loop,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
+moebius-triangle,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,2
+moebius-triangle,impossible shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,2
+moebius-triangle,moebius,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
+moebius-triangle,optical illusion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,2
+moebius-triangle,triangle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,2
 moebius-triangle,visual trick,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
 moebius-triangle,Endless loop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
 moebius-triangle,MC Escher,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
-moebius-triangle,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
+moebius-triangle,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,2
+moebius-triangle,complexity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
 moebius-triangle,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
+moebius-triangle,continuity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
+moebius-triangle,cyclical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
+moebius-triangle,endless,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
+moebius-triangle,enigmatic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
+moebius-triangle,escher-style,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
 moebius-triangle,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
 moebius-triangle,infinite,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
+moebius-triangle,infinity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
 moebius-triangle,mathematical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
-moebius-triangle,paradox,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
-moebius-triangle,perspective,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
+moebius-triangle,mathematical concept,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
+moebius-triangle,mental puzzle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
+moebius-triangle,paradox,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,2
+moebius-triangle,perspective,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,2
 moebius-triangle,puzzle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
+moebius-triangle,recursion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
+moebius-triangle,spatial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
 moebius-triangle,structural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
-moebius-triangle,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
-moebius-triangle,three-dimensional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1
+moebius-triangle,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
+moebius-triangle,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,2
+moebius-triangle,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
+moebius-triangle,three-dimensional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,2
+moebius-triangle,modern design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
+moebius-triangle,science fiction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCJJu4GwEgBpkobapMVwSZwM,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.523077,,1
 moebius-triangle,vision,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MtNxt2NaJEY24LhNp3D3epmR,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.459823,,1

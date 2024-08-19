@@ -1,14 +1,24 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 sperm-whale,giant,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
-sperm-whale,island,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
+sperm-whale,island,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,2
 sperm-whale,marine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
-sperm-whale,ocean,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
+sperm-whale,marine life,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
+sperm-whale,ocean,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,2
 sperm-whale,sea,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
-sperm-whale,sea creature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
-sperm-whale,whale,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
-sperm-whale,wildlife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
-sperm-whale,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
+sperm-whale,sea creature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,2
+sperm-whale,sea mammal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
+sperm-whale,sperm whale,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
+sperm-whale,underwater,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
+sperm-whale,whale,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,2
+sperm-whale,whale shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
+sperm-whale,wildlife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,2
+sperm-whale,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
+sperm-whale,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,2
+sperm-whale,animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
+sperm-whale,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
+sperm-whale,blowhole,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
 sperm-whale,coastal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
+sperm-whale,endangered species,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
 sperm-whale,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
 sperm-whale,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
 sperm-whale,fantasy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
@@ -17,9 +27,17 @@ sperm-whale,imagination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,bat
 sperm-whale,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
 sperm-whale,legend,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
 sperm-whale,mythical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
-sperm-whale,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
+sperm-whale,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,2
+sperm-whale,nautical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
+sperm-whale,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
 sperm-whale,storybook,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
 sperm-whale,surreal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
+sperm-whale,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
+sperm-whale,tail,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
 sperm-whale,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
 sperm-whale,tropical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
 sperm-whale,vacation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Hjk7sD6nrFOQRSlwmyYD79Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.969351,,1
+sperm-whale,eco-friendly,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
+sperm-whale,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
+sperm-whale,voyage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1
+sperm-whale,waves,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Wl218vHfDflQf4Rer5u89h5c,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.000220,,1

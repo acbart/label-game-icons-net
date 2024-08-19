@@ -1,29 +1,57 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 star-gate,blast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,burst,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
+star-gate,connection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,dimensional,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
 star-gate,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
+star-gate,gate,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,gateway,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
 star-gate,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
+star-gate,mystical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,portal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,science fiction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,space travel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,star,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,time travel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,transition,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,transport,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,universe,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,access,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
 star-gate,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,attention,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
+star-gate,black hole,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,channel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
 star-gate,collision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,concentration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
+star-gate,cosmic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
 star-gate,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,detonation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
+star-gate,doorway,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
 star-gate,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,effect,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
+star-gate,entrance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
 star-gate,eruption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
+star-gate,fantasy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
 star-gate,flare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,flash,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,intensity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
+star-gate,journey,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,loop,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,opening,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
+star-gate,passage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
 star-gate,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,radiation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,reaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,shockwave,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
 star-gate,sudden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
+star-gate,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
 star-gate,threat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1
+star-gate,tunnel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJXNmTLW7EYf0HA7VskJt1h5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.230483,,1
 star-gate,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lObkNIQdYsukHn0RgcoYMvuz,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.040599,,1

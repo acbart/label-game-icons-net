@@ -1,30 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-nurse-female,caregiver,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
-nurse-female,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
-nurse-female,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
-nurse-female,nurse,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
-nurse-female,professional,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
+nurse-female,caregiver,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,2
+nurse-female,female,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
+nurse-female,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,2
+nurse-female,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,2
+nurse-female,medical staff,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
+nurse-female,nurse,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,2
+nurse-female,professional,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,2
+nurse-female,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
 nurse-female,assistance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
-nurse-female,cross symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
+nurse-female,avatar,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
+nurse-female,cap,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
+nurse-female,cross symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,2
 nurse-female,doctor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
 nurse-female,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
+nurse-female,empathy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
+nurse-female,figure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
 nurse-female,first aid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
 nurse-female,healing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
 nurse-female,health support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
-nurse-female,hospital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
+nurse-female,hospital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,2
+nurse-female,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
 nurse-female,medic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
 nurse-female,medical worker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
 nurse-female,patient care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
-nurse-female,service,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
-nurse-female,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
-nurse-female,uniform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
-nurse-female,aid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
+nurse-female,person,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
+nurse-female,role,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
+nurse-female,service,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,2
+nurse-female,smile,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
+nurse-female,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,2
+nurse-female,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
+nurse-female,uniform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,2
+nurse-female,vocational,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
+nurse-female,wellness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
+nurse-female,woman,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
+nurse-female,aid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,2
+nurse-female,badge,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
 nurse-female,clinic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
 nurse-female,compassion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
 nurse-female,cross hat,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
+nurse-female,emblem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
 nurse-female,health symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
+nurse-female,identity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
 nurse-female,nursing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
 nurse-female,public health,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
 nurse-female,responsible,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
 nurse-female,smiling face,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1
+nurse-female,team,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_C8lOrfdtmEVSvzdbFHPTCs4g,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.507702,,1
 nurse-female,treatment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_z7fLp0PDqOzEcuImv2Q7TptO,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.999562,,1

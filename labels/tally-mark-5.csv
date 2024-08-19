@@ -1,19 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-tally-mark-5,counting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
-tally-mark-5,marks,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
+tally-mark-5,count,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
+tally-mark-5,counting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,2
+tally-mark-5,group of five,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
+tally-mark-5,marks,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,2
+tally-mark-5,numerical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
+tally-mark-5,quantitative,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
 tally-mark-5,strikes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
-tally-mark-5,tally,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
+tally-mark-5,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
+tally-mark-5,tally,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,2
+tally-mark-5,tally marks,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
+tally-mark-5,bars,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
 tally-mark-5,chart,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
 tally-mark-5,intervals,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
-tally-mark-5,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
-tally-mark-5,notation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
+tally-mark-5,linear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
+tally-mark-5,mathematics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
+tally-mark-5,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,2
+tally-mark-5,notation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,2
+tally-mark-5,notation marks,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
 tally-mark-5,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
 tally-mark-5,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
 tally-mark-5,record,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
+tally-mark-5,record keeping,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
 tally-mark-5,score,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
+tally-mark-5,series,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
+tally-mark-5,simple,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
+tally-mark-5,simplification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
 tally-mark-5,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
-tally-mark-5,tracking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
-tally-mark-5,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
+tally-mark-5,tally chart,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
+tally-mark-5,tally sheet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
+tally-mark-5,tracking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,2
+tally-mark-5,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,2
 tally-mark-5,data,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
 tally-mark-5,lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
 tally-mark-5,math,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
@@ -21,4 +37,5 @@ tally-mark-5,organization,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batc
 tally-mark-5,partition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
 tally-mark-5,segment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
 tally-mark-5,structure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1
+tally-mark-5,subtraction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gedBj8tJ0bu5kYRLFMfk09tw,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.819871,,1
 tally-mark-5,symmetry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EMRlqYzKpftZv72W8xjclpaO,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.193657,,1

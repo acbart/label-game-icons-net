@@ -1,24 +1,53 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+crab,abstract,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
+crab,claws,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
+crab,crab,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
+crab,curved lines,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
 crab,disguise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
 crab,glasses,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
 crab,incognito,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
+crab,legs,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.766128,,1
+crab,marine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
 crab,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
 crab,mystery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
+crab,pincers,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.766128,,1
+crab,sea creature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
+crab,shell,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.766128,,1
 crab,spy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
+crab,two eyes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.766128,,1
+crab,Cancer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
+crab,animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
 crab,anonymous,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
+crab,astrology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
+crab,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.766128,,1
+crab,beach,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
 crab,camouflage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
 crab,character,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
 crab,detective,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
+crab,graphic design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.766128,,1
+crab,hard exterior,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.766128,,1
 crab,hidden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
 crab,identity concealment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
 crab,intrigue,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
+crab,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
+crab,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
 crab,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
+crab,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
+crab,seafood,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.766128,,1
 crab,secret,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
+crab,shellfish,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
+crab,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.766128,,1
 crab,sneaky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
 crab,stealth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
+crab,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
+crab,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
+crab,water,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.766128,,1
+crab,zodiac,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1
 crab,curiosity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
 crab,espionage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
 crab,masquerade,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
+crab,oceanography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.766128,,1
 crab,puzzle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
 crab,subterfuge,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
 crab,surveillance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l1xLs8f4dDI2SKrDLb4tACOs,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.288706,,1
+crab,tidal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TELMFV1ZZDQQv0U7J2KsWnG4,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.765207,,1

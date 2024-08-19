@@ -1,21 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+bolivia,Bolivia,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
+bolivia,South America,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
 bolivia,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
+bolivia,country outline,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
+bolivia,geography,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
 bolivia,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
+bolivia,map,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
+bolivia,national border,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
 bolivia,shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
-bolivia,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
+bolivia,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,2
+bolivia,territory,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
+bolivia,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
 bolivia,angular,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
+bolivia,area,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
 bolivia,blocky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
+bolivia,boundary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
+bolivia,cartography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
 bolivia,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
 bolivia,fragmented,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
 bolivia,incomplete,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
 bolivia,irregular,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
+bolivia,landmass,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
 bolivia,non-linear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
+bolivia,political map,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
+bolivia,region,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
 bolivia,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
+bolivia,symbolic representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
+bolivia,abstract geography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
 bolivia,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
 bolivia,conceptual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
+bolivia,continent,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
+bolivia,culture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
 bolivia,deconstruction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
 bolivia,distorted,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
+bolivia,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
+bolivia,location,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
 bolivia,modern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
-bolivia,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
+bolivia,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,2
 bolivia,puzzle piece,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1
+bolivia,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
+bolivia,travel,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Ez6wR1Kw7PjC8uL09VEKsFI,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.503132,,1
 bolivia,undefined,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3FmMXqjFJ4YV6RAG4UKypRVC,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.900993,,1

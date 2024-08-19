@@ -1,21 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+blackball,abstract shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.361090,,1
+blackball,circle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.361090,,1
+blackball,conceptual,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.362098,,1
+blackball,design,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.361090,,1
+blackball,dots,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.361090,,1
+blackball,feature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.362098,,1
 blackball,lunar cycle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
 blackball,moon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
 blackball,phases,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
-blackball,spherical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
+blackball,sphere,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.362098,,1
+blackball,spherical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,2
+blackball,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.361090,,1
 blackball,astronomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
 blackball,celestial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
+blackball,central shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.361090,,1
+blackball,centralization,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.362098,,1
+blackball,cluster,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.361090,,1
+blackball,composition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.361090,,1
 blackball,cosmos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
 blackball,dark,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
+blackball,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.362098,,1
 blackball,eclipse,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
+blackball,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.361090,,1
+blackball,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.361090,,1
 blackball,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
 blackball,night,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
 blackball,orbit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
+blackball,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.361090,,1
 blackball,planet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
+blackball,round symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.361090,,1
 blackball,space,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
+blackball,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.362098,,1
+blackball,balance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.361090,,1
+blackball,concentric,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g7GPBV49TTjNC9PuO6M2YAmZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.361090,,1
 blackball,constellation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
 blackball,evolution,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
-blackball,gravitation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
+blackball,gravitation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,2
 blackball,observation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
 blackball,science,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1
 blackball,tides,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CtNlN1rwzX6FJgkqelMqwsKy,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.977937,,1

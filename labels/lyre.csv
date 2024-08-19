@@ -1,29 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 lyre,Greek,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
-lyre,classical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
-lyre,harmony,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
+lyre,Greek mythology,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
+lyre,ancient music,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
+lyre,classical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,2
+lyre,classicism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
+lyre,harmony,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,2
+lyre,iconic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
 lyre,instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
-lyre,lyre,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
-lyre,melody,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
-lyre,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
+lyre,lyre,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,2
+lyre,melody,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,2
+lyre,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,2
+lyre,musical instrument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
+lyre,string instrument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
 lyre,stringed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
-lyre,aesthetic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
+lyre,strings,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
+lyre,Apollo,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
+lyre,S-shaped curves,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
+lyre,aesthetic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,2
 lyre,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
 lyre,antique,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
+lyre,arch shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
 lyre,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
+lyre,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
+lyre,artistic expression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
 lyre,artistry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
 lyre,concert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
-lyre,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
+lyre,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,2
+lyre,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
 lyre,cultural heritage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
-lyre,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
+lyre,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,2
+lyre,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
 lyre,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
 lyre,harp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
 lyre,historic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
+lyre,music symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
 lyre,musical notes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
-lyre,orchestra,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
-lyre,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
+lyre,musician,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
+lyre,orchestra,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,2
+lyre,patterns,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
+lyre,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,2
 lyre,plucking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
+lyre,sound,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
 lyre,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
+lyre,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
+lyre,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_d53t2rtEu7atuRVE1Fsw4QsR,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.957445,,1
 lyre,symphony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
 lyre,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1
 lyre,arc,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nwvC7aU5e0oBnWWZvqDIYGn9,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.330972,,1

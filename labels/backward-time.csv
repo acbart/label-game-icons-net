@@ -1,24 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-backward-time,clock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
+backward-time,backward,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905791,,1
+backward-time,clock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,2
 backward-time,refresh,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
 backward-time,reload,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
-backward-time,reset,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
-backward-time,arrow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
+backward-time,reset,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,2
+backward-time,reverse,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905791,,1
+backward-time,undo,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905791,,1
+backward-time,arrow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,2
 backward-time,circular arrow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
 backward-time,cycle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
+backward-time,cyclical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905791,,1
 backward-time,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
 backward-time,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
 backward-time,iteration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
-backward-time,loop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
+backward-time,loop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,2
+backward-time,past,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905791,,1
 backward-time,process,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
 backward-time,repeat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
 backward-time,repetition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
+backward-time,retrace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905791,,1
+backward-time,retry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905946,,1
+backward-time,return,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905946,,1
+backward-time,rewind,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905791,,1
+backward-time,rotate backward,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905946,,1
 backward-time,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
-backward-time,time,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
+backward-time,time,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,2
+backward-time,time travel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905791,,1
+backward-time,turn back,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905791,,1
 backward-time,update,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
+backward-time,circular motion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905946,,1
 backward-time,encircle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
+backward-time,historical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905946,,1
 backward-time,movement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
+backward-time,nostalgia,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905946,,1
 backward-time,progress,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
+backward-time,reflection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905946,,1
+backward-time,reversal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U8m3k12InfbRrPRfyEHFPBZg,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.905946,,1
 backward-time,rotation symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
-backward-time,round,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1
+backward-time,round,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,2
 backward-time,turn,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ux6vwLreREZ7cSH6Ot2VAUMq,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.721258,,1

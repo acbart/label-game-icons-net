@@ -1,25 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+arrest,arrest,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
 arrest,crime,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
+arrest,crime prevention,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
+arrest,detention,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
 arrest,force,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
 arrest,gun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
+arrest,handcuffing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
+arrest,person raising hands,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
+arrest,police action,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
 arrest,stick figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
 arrest,submission,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
-arrest,surrender,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
+arrest,surrender,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,2
 arrest,threat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
 arrest,violence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
-arrest,authority,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
-arrest,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
+arrest,action,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
+arrest,authority,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,2
+arrest,compliance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
+arrest,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,2
 arrest,confrontation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
+arrest,criminal justice,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
 arrest,crisis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
 arrest,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
 arrest,dangerous situation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
+arrest,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
 arrest,fear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
 arrest,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
-arrest,law enforcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
+arrest,law,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
+arrest,law enforcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,2
 arrest,pressure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
 arrest,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
 arrest,robbery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
+arrest,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
+arrest,safety enforcement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
+arrest,suspect,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
 arrest,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
+arrest,weapon threat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
+arrest,authority figure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
 arrest,communication,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
+arrest,control,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
+arrest,emergency,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
+arrest,gesture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
+arrest,justice,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
+arrest,public order,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
+arrest,security,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1
 arrest,shape recognition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
 arrest,stick figure anatomy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C8WDKKCq5a1afrd4C17jO82C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.668258,,1
+arrest,warning,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NgL5HBh4ORZy6tfHHKqdKfFv,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.695577,,1

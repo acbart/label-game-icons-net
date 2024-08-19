@@ -1,27 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+field,agriculture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
 field,earth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
+field,farm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
+field,fence,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
+field,field,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
 field,geography,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,global,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,globe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,international,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
+field,landscape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
 field,planet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,sphere,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,world,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,worldwide,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
+field,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
 field,cartography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,connectivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
+field,countryside,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
+field,cultivation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
+field,enclosure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
 field,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,grid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,hemisphere,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
+field,horizon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
+field,horizontal lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
+field,land management,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
 field,latitude,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,layout,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,longitude,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,map,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
+field,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
 field,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
+field,open space,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
 field,orientation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
+field,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
+field,pasture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
+field,rural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
+field,scenery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
 field,sections,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,circles,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
 field,curved lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
+field,grazing,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
+field,harvesting,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
 field,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RFddASUqhMagX7F9eLQ4c3mJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.688348,,1
+field,plains,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
+field,visual boundary,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1
+field,wavy patterns,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UEs5TqqdsfovIU9oYWjcm56j,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.405670,,1

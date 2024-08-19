@@ -1,26 +1,57 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+starfighter,aerospace,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
 starfighter,cybernetic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,fighter jet,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
 starfighter,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
 starfighter,machine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
 starfighter,mechanical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
 starfighter,robot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
-starfighter,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,sci-fi,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,space battle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,spacecraft,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,spaceship,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,starfighter,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,2
 starfighter,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
 starfighter,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,abstract shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
 starfighter,artificial intelligence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,astrodynamics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
 starfighter,automation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
 starfighter,components,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
 starfighter,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
 starfighter,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
 starfighter,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,flight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,future technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
 starfighter,futuristic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,galaxy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
 starfighter,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
 starfighter,interfaces,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,interstellar,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,military,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
 starfighter,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,pilot,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
 starfighter,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,propulsion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,sleek design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
 starfighter,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
 starfighter,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,tactics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,weaponry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,wing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,winged,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,adventure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
 starfighter,assembly,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
+starfighter,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
 starfighter,movement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
 starfighter,parts,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,pilot's view,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1
 starfighter,power,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_B5x5hdUIhuIT7zxPZT3hTIVA,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.048109,,1
+starfighter,vehicular,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Q9ykj9ZDv6XpLe2Uvrc0nPp,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.274362,,1

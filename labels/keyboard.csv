@@ -1,25 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 keyboard,computer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,input device,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,keyboard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,text entry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,typing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,user input,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
+keyboard,data entry,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bZsrlxfnWg8jW8vlPTnXCbjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.859382,,1
+keyboard,input device,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
+keyboard,keyboard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
+keyboard,text entry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
+keyboard,typing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
+keyboard,user input,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
 keyboard,arrow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
 keyboard,command,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
+keyboard,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
+keyboard,computer accessory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bZsrlxfnWg8jW8vlPTnXCbjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.859382,,1
 keyboard,computer science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,functionality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
+keyboard,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
+keyboard,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
+keyboard,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
+keyboard,functionality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
+keyboard,grid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bZsrlxfnWg8jW8vlPTnXCbjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.859382,,1
+keyboard,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
+keyboard,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bZsrlxfnWg8jW8vlPTnXCbjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.859382,,1
+keyboard,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,3
 keyboard,keypad,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,keys,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,office,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
+keyboard,keys,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
+keyboard,office,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
+keyboard,peripheral,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bZsrlxfnWg8jW8vlPTnXCbjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.859382,,1
+keyboard,productivity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bZsrlxfnWg8jW8vlPTnXCbjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.859382,,1
+keyboard,programming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bZsrlxfnWg8jW8vlPTnXCbjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.859382,,1
+keyboard,qwerty,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bZsrlxfnWg8jW8vlPTnXCbjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.859382,,1
+keyboard,symbols,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bZsrlxfnWg8jW8vlPTnXCbjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.859382,,1
+keyboard,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
 keyboard,type,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
-keyboard,connection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
+keyboard,connection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,2
+keyboard,gaming,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bZsrlxfnWg8jW8vlPTnXCbjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.859382,,1
 keyboard,layout,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
 keyboard,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HjFEm7cqQqyxsQSCrfTzQchB,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.521855,,1
+keyboard,work,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bZsrlxfnWg8jW8vlPTnXCbjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.859382,,1
+keyboard,workspace,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bZsrlxfnWg8jW8vlPTnXCbjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.859382,,1

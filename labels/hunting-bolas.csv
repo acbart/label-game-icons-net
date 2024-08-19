@@ -1,26 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-hunting-bolas,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
+hunting-bolas,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,2
 hunting-bolas,artistic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
+hunting-bolas,bolas,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
+hunting-bolas,capture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
 hunting-bolas,doodle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
+hunting-bolas,entanglement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
 hunting-bolas,freeform,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
+hunting-bolas,hunting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
+hunting-bolas,hunting gear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
 hunting-bolas,loose lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
+hunting-bolas,prey,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
 hunting-bolas,scribble,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
+hunting-bolas,throwing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
+hunting-bolas,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
+hunting-bolas,action,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
+hunting-bolas,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
 hunting-bolas,chaotic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
+hunting-bolas,cord,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
 hunting-bolas,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
 hunting-bolas,curves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
 hunting-bolas,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
 hunting-bolas,fluid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
 hunting-bolas,gesture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
 hunting-bolas,improvisation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
+hunting-bolas,lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
+hunting-bolas,loops,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
 hunting-bolas,modern art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
-hunting-bolas,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
+hunting-bolas,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,2
 hunting-bolas,playful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
+hunting-bolas,primitive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
 hunting-bolas,random,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
+hunting-bolas,round shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
 hunting-bolas,sketch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
+hunting-bolas,skills,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
+hunting-bolas,spheres,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
 hunting-bolas,spontaneous,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
+hunting-bolas,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
+hunting-bolas,targeting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
+hunting-bolas,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
+hunting-bolas,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
+hunting-bolas,tribal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
 hunting-bolas,unstructured,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
 hunting-bolas,whimsical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
 hunting-bolas,energy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
+hunting-bolas,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yfVNZZdma2S0VyVO86TCWF9b,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.258360,,1
 hunting-bolas,minimalism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
 hunting-bolas,relaxation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1
 hunting-bolas,trend,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PbynkSz5K2r9DPoysI88cy4o,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.348829,,1

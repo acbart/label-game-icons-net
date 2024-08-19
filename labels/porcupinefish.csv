@@ -1,25 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 porcupinefish,arrows,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
 porcupinefish,directions,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
+porcupinefish,fish,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
+porcupinefish,inflated,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
+porcupinefish,marine life,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
 porcupinefish,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
 porcupinefish,multidirectional,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
 porcupinefish,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
+porcupinefish,porcupinefish,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
+porcupinefish,prickly,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
+porcupinefish,puffer,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
+porcupinefish,spikes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
 porcupinefish,spiky,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
 porcupinefish,zigzag,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
+porcupinefish,abstract sea creature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
+porcupinefish,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
+porcupinefish,bubble fish,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
 porcupinefish,change,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
 porcupinefish,chaos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
 porcupinefish,choice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
 porcupinefish,confusion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
+porcupinefish,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
 porcupinefish,decision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
+porcupinefish,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
 porcupinefish,divergence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
 porcupinefish,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
+porcupinefish,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
+porcupinefish,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
+porcupinefish,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
 porcupinefish,options,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
 porcupinefish,orientation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
 porcupinefish,path,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
 porcupinefish,plan,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
+porcupinefish,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
 porcupinefish,puzzle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
 porcupinefish,route,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
+porcupinefish,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
+porcupinefish,sea,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
+porcupinefish,spiny surface,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
 porcupinefish,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
+porcupinefish,survival,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
 porcupinefish,wayfinding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
+porcupinefish,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
+porcupinefish,dangerous beauty,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
 porcupinefish,disorder,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1
+porcupinefish,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
+porcupinefish,oceanic symbols,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
+porcupinefish,security,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eURZt8L6JyUsyDy99hJlNkvT,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.824612,,1
 porcupinefish,turbulence,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_qfLk8ITR13CDjZBAfRhhJ6ad,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.364243,,1

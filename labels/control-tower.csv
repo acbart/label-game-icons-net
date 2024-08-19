@@ -1,25 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+control-tower,air traffic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
 control-tower,air traffic control,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
 control-tower,airplane,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
-control-tower,airport,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
-control-tower,aviation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
-control-tower,control tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
+control-tower,airport,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,2
+control-tower,aviation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,2
+control-tower,control,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
+control-tower,control tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,2
 control-tower,flight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
+control-tower,flight control,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
+control-tower,tower structure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
+control-tower,airspace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
 control-tower,arrival,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
-control-tower,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
+control-tower,command center,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
+control-tower,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,2
+control-tower,coordination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
 control-tower,departure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
 control-tower,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
-control-tower,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
+control-tower,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,2
 control-tower,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
 control-tower,logistics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
-control-tower,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
+control-tower,management,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
+control-tower,monitoring,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
+control-tower,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,2
+control-tower,network hub,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
+control-tower,radar,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
 control-tower,runway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
+control-tower,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
+control-tower,signal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
+control-tower,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
 control-tower,terminal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
 control-tower,tower,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
-control-tower,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
+control-tower,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,2
 control-tower,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
-control-tower,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
+control-tower,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,2
+control-tower,balancing,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
 control-tower,building,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
+control-tower,cityscape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
+control-tower,interface,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
+control-tower,observation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
+control-tower,organization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
+control-tower,pilot,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
 control-tower,skyline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
+control-tower,skyscraper,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2l81ejTLpJMiPgmBk3R6ZK6C,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.372030,,1
 control-tower,structure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1
 control-tower,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_YPX7PI4ITy3MwPFycmG7HS5a,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.350737,,1

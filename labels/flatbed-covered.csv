@@ -1,29 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-flatbed-covered,cargo,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,delivery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,distribution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,freight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,logistics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,shipping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,supply chain,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,trailer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,transport,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,truck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,trucking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
+flatbed-covered,cargo,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,cargo transport,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_newMTajRGJH9QjjoPnofLaDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.671150,,1
+flatbed-covered,covered load,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_newMTajRGJH9QjjoPnofLaDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.671150,,1
+flatbed-covered,delivery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,distribution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,flatbed,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_newMTajRGJH9QjjoPnofLaDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.671150,,1
+flatbed-covered,freight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,freight transport,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_newMTajRGJH9QjjoPnofLaDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.671150,,1
+flatbed-covered,goods,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_newMTajRGJH9QjjoPnofLaDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.671150,,1
+flatbed-covered,logistics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,shipment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_newMTajRGJH9QjjoPnofLaDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.671150,,1
+flatbed-covered,shipping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,supply chain,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,trailer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,transport,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,truck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,trucking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
 flatbed-covered,automobile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,business,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,carrier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
+flatbed-covered,business,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,carrier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
 flatbed-covered,commerce,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
+flatbed-covered,commercial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_newMTajRGJH9QjjoPnofLaDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.671150,,1
 flatbed-covered,drive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
 flatbed-covered,freightliner,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,hauling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
-flatbed-covered,load,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
+flatbed-covered,hauler,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_newMTajRGJH9QjjoPnofLaDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.671150,,1
+flatbed-covered,hauling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,land transport,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_newMTajRGJH9QjjoPnofLaDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.671150,,1
+flatbed-covered,load,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,2
+flatbed-covered,logistics management,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_newMTajRGJH9QjjoPnofLaDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.671150,,1
 flatbed-covered,lorry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
 flatbed-covered,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
+flatbed-covered,moving,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_newMTajRGJH9QjjoPnofLaDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.671150,,1
 flatbed-covered,road,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
+flatbed-covered,roadway,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_newMTajRGJH9QjjoPnofLaDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.671150,,1
 flatbed-covered,route,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
 flatbed-covered,wheeled,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1
 flatbed-covered,wheels,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HSboS9rDrkAmxFga9D0OZthG,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.274834,,1

@@ -1,22 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 minerals,celestial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
-minerals,crystals,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
+minerals,crystals,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,2
 minerals,enchantment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
 minerals,fantasy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
+minerals,gemstones,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
+minerals,jewels,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
+minerals,luxury,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
 minerals,magic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
+minerals,minerals,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
 minerals,mystic symbols,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
 minerals,mystical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
+minerals,ornamentation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
 minerals,stars,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
 minerals,supernatural,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
+minerals,wealth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
 minerals,wizardry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
 minerals,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
+minerals,beauty,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
+minerals,clarity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
+minerals,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
+minerals,earth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
 minerals,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
 minerals,ethereal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
-minerals,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
+minerals,extraction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
+minerals,facets,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
+minerals,form,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
+minerals,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,2
+minerals,hardness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
 minerals,illusion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
 minerals,imagination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
+minerals,natural resources,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
+minerals,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
 minerals,polygonal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
+minerals,purity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
+minerals,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
 minerals,shine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
-minerals,sparkle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
-minerals,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
+minerals,sparkle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,2
+minerals,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
+minerals,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,2
+minerals,treasure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
 minerals,unreal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FO3qfvtPxWVkIrx1YNcGhVEY,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.726763,,1
+minerals,value,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
+minerals,rough,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1
+minerals,uneven surfaces,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cMmBEFw2sC3gsKRKibH74tdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.169380,,1

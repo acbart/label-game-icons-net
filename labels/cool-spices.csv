@@ -1,23 +1,54 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+cool-spices,aroma,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,cooling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,flavor,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
 cool-spices,fortune,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
 cool-spices,gems,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
 cool-spices,jewels,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
 cool-spices,mound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
+cool-spices,refreshing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
 cool-spices,riches,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
+cool-spices,seasoning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,spices,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,taste,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
 cool-spices,treasure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
 cool-spices,wealth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
+cool-spices,zest,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
 cool-spices,abundance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
 cool-spices,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
+cool-spices,bouquet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,burst,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,culinary art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,culinary culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
 cool-spices,dazzle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
 cool-spices,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
+cool-spices,enhancement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,exotic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
 cool-spices,fantasy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
+cool-spices,gastronomy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
 cool-spices,glamour,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
 cool-spices,glitter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
+cool-spices,gourmet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,herbs,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,ingredients,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
 cool-spices,luxury,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
 cool-spices,magic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
+cool-spices,pepper,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
 cool-spices,pile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
+cool-spices,powder,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
 cool-spices,prosperity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
+cool-spices,pungent,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,scent,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,season,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
 cool-spices,shining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
 cool-spices,sparkles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
+cool-spices,spice mix,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,fine dining,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
+cool-spices,fusion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1
 cool-spices,heap,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
 cool-spices,illusory,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LtLFKb2vLQVPAbtPhSiCYoJU,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.277705,,1
+cool-spices,star,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_88eJfhkSJfSZ7wzEP73rUYrW,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.702967,,1

@@ -1,25 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 lorc_hand,attention,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
-lorc_hand,gesture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
-lorc_hand,hand,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
+lorc_hand,gesture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,2
+lorc_hand,hand,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,2
 lorc_hand,open,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
-lorc_hand,stop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
+lorc_hand,open palm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.675884,,1
+lorc_hand,stop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,2
 lorc_hand,stop signal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
 lorc_hand,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
-lorc_hand,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
+lorc_hand,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,2
+lorc_hand,aid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
 lorc_hand,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
-lorc_hand,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
-lorc_hand,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
+lorc_hand,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,2
+lorc_hand,contact,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
+lorc_hand,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,2
 lorc_hand,five fingers,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
-lorc_hand,greeting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
+lorc_hand,gesture control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
+lorc_hand,greeting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,2
+lorc_hand,help,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
+lorc_hand,high five,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
 lorc_hand,human touch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
-lorc_hand,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
-lorc_hand,invitation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
+lorc_hand,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,2
+lorc_hand,invitation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,2
+lorc_hand,manual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
 lorc_hand,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
 lorc_hand,palm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
-lorc_hand,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
-lorc_hand,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
-lorc_hand,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
+lorc_hand,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,2
+lorc_hand,reaching,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
+lorc_hand,signal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
+lorc_hand,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,2
+lorc_hand,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,2
 lorc_hand,wave,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
 lorc_hand,emptiness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
+lorc_hand,human,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
+lorc_hand,interface,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
+lorc_hand,movement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
+lorc_hand,navigation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
+lorc_hand,nonverbal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
+lorc_hand,peace,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
+lorc_hand,safety,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
 lorc_hand,sign language,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0P17sp9yLOralaFQlnh7jkO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.964801,,1
+lorc_hand,spiritual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1
+lorc_hand,touch,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Oa5bs8JRT3kV7ifljtOMltTR,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.676885,,1

@@ -1,27 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-lighter,fire,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
-lighter,flame,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
+lighter,fire,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,2
+lighter,flame,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,2
+lighter,ignite,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
 lighter,ignition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
 lighter,lighter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
+lighter,burn,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
+lighter,candle lighting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
+lighter,cap,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
+lighter,cigarette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
 lighter,cigarette lighter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
-lighter,combustion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
+lighter,combustion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,2
 lighter,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
 lighter,firemaking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
-lighter,heat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
+lighter,heat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,2
+lighter,illumination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
 lighter,lighting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
-lighter,portable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
-lighter,smoking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
-lighter,spark,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
-lighter,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
+lighter,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
+lighter,portable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,2
+lighter,rectangular shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
+lighter,smoke,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
+lighter,smoking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,2
+lighter,spark,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,2
+lighter,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
+lighter,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,2
+lighter,abstract design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
+lighter,campfire,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
 lighter,camping,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
+lighter,emergency,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
+lighter,energy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
+lighter,flint,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FvYoSTAZHce9VcurnKixNfjj,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.266152,,1
 lighter,flip-top,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
 lighter,grill lighting,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
 lighter,home,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
 lighter,kitchen,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
 lighter,metallic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
-lighter,outdoors,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
+lighter,outdoors,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,2
 lighter,recreation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
 lighter,safety,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
 lighter,survival gear,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
 lighter,symbol of warmth,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
-lighter,tool,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,1
+lighter,tool,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_D1r3qoIJAfbEwUk9VINDKYBN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.641005,,2

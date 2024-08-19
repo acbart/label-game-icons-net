@@ -1,30 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-pirate-cannon,artillery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,cannon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,military,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,warfare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
+pirate-cannon,artillery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
+pirate-cannon,cannon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
+pirate-cannon,cannonballs,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8OHBlNuhSwTHy7WwXmjzvWeb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.420459,,1
+pirate-cannon,military,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
+pirate-cannon,pirate,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8OHBlNuhSwTHy7WwXmjzvWeb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.420459,,1
+pirate-cannon,warfare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
+pirate-cannon,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
+pirate-cannon,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8OHBlNuhSwTHy7WwXmjzvWeb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.420459,,1
 pirate-cannon,ancient warfare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
 pirate-cannon,army,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,attack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
+pirate-cannon,attack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
+pirate-cannon,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
 pirate-cannon,blast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,explosive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,firepower,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
+pirate-cannon,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
+pirate-cannon,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
+pirate-cannon,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
+pirate-cannon,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
+pirate-cannon,explosive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
+pirate-cannon,firepower,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
+pirate-cannon,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
 pirate-cannon,gunpowder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
 pirate-cannon,heavy artillery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
 pirate-cannon,historical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
+pirate-cannon,history,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8OHBlNuhSwTHy7WwXmjzvWeb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.420459,,1
 pirate-cannon,naval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
+pirate-cannon,naval warfare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8OHBlNuhSwTHy7WwXmjzvWeb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.420459,,1
+pirate-cannon,pirate ship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8OHBlNuhSwTHy7WwXmjzvWeb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.420459,,1
 pirate-cannon,powder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,projectile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
-pirate-cannon,siege,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
+pirate-cannon,projectile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
+pirate-cannon,sea battle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8OHBlNuhSwTHy7WwXmjzvWeb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.420459,,1
+pirate-cannon,siege,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,2
 pirate-cannon,siege weapon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
+pirate-cannon,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8OHBlNuhSwTHy7WwXmjzvWeb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.420459,,1
+pirate-cannon,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8OHBlNuhSwTHy7WwXmjzvWeb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.420459,,1
 pirate-cannon,fortification,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
+pirate-cannon,fortress,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8OHBlNuhSwTHy7WwXmjzvWeb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.420459,,1
 pirate-cannon,invasion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
 pirate-cannon,old technology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1
+pirate-cannon,olden days,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8OHBlNuhSwTHy7WwXmjzvWeb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.420459,,1
 pirate-cannon,strategy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SoM2HZF0bfUoitCwgZF2dbk5,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.242739,,1

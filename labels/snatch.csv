@@ -1,29 +1,55 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+snatch,action,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,birthday,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
 snatch,bow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
+snatch,capture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,celebration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
+snatch,clutch,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,gift,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.064323,,1
+snatch,grab,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
+snatch,grasp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
+snatch,movement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,package,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
 snatch,present,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
 snatch,ribbon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
+snatch,seize,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,surprise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
+snatch,swipe,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
+snatch,take,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,affection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
+snatch,bold lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,box,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
 snatch,ceremony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
+snatch,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,congratulations,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
 snatch,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
+snatch,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
 snatch,festive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
+snatch,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
+snatch,forceful,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,gift wrap,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
 snatch,giving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
 snatch,gratitude,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
+snatch,hand,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
+snatch,hold,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,holiday,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
+snatch,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
+snatch,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
+snatch,obtain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,party,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
+snatch,possess,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
+snatch,quick,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,receiving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
 snatch,reward,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
 snatch,special occasion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
+snatch,speed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
+snatch,swift,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
+snatch,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,unwrapping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
 snatch,wrapping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
+snatch,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
+snatch,abstract shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_926hJfSGkkMAj6P56du6U7uF,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.401323,,1
 snatch,affordable luxury,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
 snatch,anniversary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1
 snatch,cultural,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_LBRNDrus8sgV9SS3EqviimUJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.065154,,1

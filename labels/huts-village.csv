@@ -1,19 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 huts-village,caps,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
+huts-village,circular structures,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
 huts-village,fungi,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
+huts-village,group,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
 huts-village,growth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
 huts-village,growth clusters,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
+huts-village,habitat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,housing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,huts,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,local dwelling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
 huts-village,mushrooms,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
+huts-village,settlement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,small community,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,village,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
 huts-village,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
+huts-village,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
 huts-village,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
 huts-village,botany,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
-huts-village,clusters,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
+huts-village,clusters,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,2
+huts-village,community,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,earthy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
 huts-village,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
 huts-village,forest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
 huts-village,garden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
+huts-village,indigenous,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
 huts-village,natural pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
 huts-village,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
+huts-village,nomadic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
 huts-village,organic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
+huts-village,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,primitive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,roof,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,rural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,rustic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,shelter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,simple living,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
+huts-village,tribal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Kll5OfH2HXC9lMJJWXXTamz3,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.268404,,1
 huts-village,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
 huts-village,circle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1
 huts-village,decorative,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rsPBWkMbQ7xDlrRc3LkiKf8c,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.351809,,1

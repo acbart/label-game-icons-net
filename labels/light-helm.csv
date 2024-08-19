@@ -1,25 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-light-helm,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
+light-helm,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,2
 light-helm,hard hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
-light-helm,helmet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
-light-helm,industrial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
-light-helm,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
-light-helm,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
-light-helm,worker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
+light-helm,helmet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,2
+light-helm,industrial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,2
+light-helm,light,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
+light-helm,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,2
+light-helm,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,2
+light-helm,safety gear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
+light-helm,worker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,2
+light-helm,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
+light-helm,abstract design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
+light-helm,armor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
 light-helm,builder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
-light-helm,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
+light-helm,construction worker,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
+light-helm,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,2
+light-helm,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
 light-helm,head protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
-light-helm,headgear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
+light-helm,headgear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,2
+light-helm,headpiece,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
+light-helm,illumination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
 light-helm,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
 light-helm,job site,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
 light-helm,labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
 light-helm,manual work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
 light-helm,means of safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
+light-helm,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
 light-helm,occupational safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
+light-helm,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
 light-helm,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
+light-helm,shield,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
+light-helm,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
+light-helm,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
+light-helm,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
+light-helm,visibility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
 light-helm,workplace,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
 light-helm,dome shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
 light-helm,emblem,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
+light-helm,graphic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
+light-helm,icon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
+light-helm,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_447rHPrvhl1tomIu6BjhyEsb,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.240150,,1
 light-helm,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
 light-helm,insurance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1
 light-helm,site management,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_p5y91GYhKjag3IIm7Glswj5n,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.635005,,1

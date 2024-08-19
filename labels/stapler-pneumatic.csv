@@ -1,26 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-stapler-pneumatic,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
+stapler-pneumatic,compressed air,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
+stapler-pneumatic,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,2
 stapler-pneumatic,drill,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
+stapler-pneumatic,fastening,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
+stapler-pneumatic,pneumatic tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.444112,,1
 stapler-pneumatic,power tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
-stapler-pneumatic,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
+stapler-pneumatic,pressure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
+stapler-pneumatic,stapler,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
+stapler-pneumatic,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,2
+stapler-pneumatic,DIY,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
+stapler-pneumatic,assembly,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
+stapler-pneumatic,attachment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
 stapler-pneumatic,carpentry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
 stapler-pneumatic,electric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
-stapler-pneumatic,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
+stapler-pneumatic,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,2
+stapler-pneumatic,functional design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
 stapler-pneumatic,handyman,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
-stapler-pneumatic,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
-stapler-pneumatic,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
-stapler-pneumatic,machinery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
+stapler-pneumatic,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,2
+stapler-pneumatic,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,2
+stapler-pneumatic,joinery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
+stapler-pneumatic,machinery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,2
 stapler-pneumatic,manual labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
-stapler-pneumatic,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
+stapler-pneumatic,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,2
 stapler-pneumatic,renovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
-stapler-pneumatic,repair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
-stapler-pneumatic,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
-stapler-pneumatic,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
+stapler-pneumatic,repair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,2
+stapler-pneumatic,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,2
+stapler-pneumatic,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,2
 stapler-pneumatic,work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
+stapler-pneumatic,workshop,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
 stapler-pneumatic,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
-stapler-pneumatic,craftsmanship,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
+stapler-pneumatic,abstract representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
+stapler-pneumatic,automation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
+stapler-pneumatic,blacksmith,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
+stapler-pneumatic,craftsmanship,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,2
 stapler-pneumatic,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
-stapler-pneumatic,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
+stapler-pneumatic,efficiency,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
+stapler-pneumatic,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,2
 stapler-pneumatic,productivity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
 stapler-pneumatic,setup,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1
+stapler-pneumatic,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dzZms7gAmS8nZnr93mWPNIRS,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.445011,,1
 stapler-pneumatic,tasks,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fUayHGOV6LuF5gSncqJXidfn,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.360974,,1

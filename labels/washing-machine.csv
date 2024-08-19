@@ -1,23 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-washing-machine,appliance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
-washing-machine,cleaning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
+washing-machine,appliance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,2
+washing-machine,cleaning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,2
 washing-machine,clothes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
-washing-machine,laundry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
+washing-machine,laundry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,2
 washing-machine,machine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
 washing-machine,washing cycle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
 washing-machine,washing machine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
+washing-machine,washing-machine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
 washing-machine,automation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
+washing-machine,button panel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
+washing-machine,circular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
+washing-machine,clothing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
 washing-machine,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
 washing-machine,domestic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
+washing-machine,door,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
+washing-machine,drum,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
 washing-machine,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
 washing-machine,electrical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
-washing-machine,home,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
-washing-machine,household,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
+washing-machine,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
+washing-machine,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
+washing-machine,home,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,2
+washing-machine,household,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,2
 washing-machine,hygiene,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
 washing-machine,launder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
 washing-machine,load,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
+washing-machine,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
 washing-machine,spin,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
-washing-machine,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
-washing-machine,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
-washing-machine,circle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1
+washing-machine,spin cycle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
+washing-machine,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,2
+washing-machine,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,2
+washing-machine,wash cycle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
+washing-machine,circle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,2
+washing-machine,graphic design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
+washing-machine,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
+washing-machine,interior,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
+washing-machine,lifestyle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
+washing-machine,modern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
+washing-machine,rectangle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hlm0RvE5EtPbtxtweflU2ZFk,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.540838,,1
 washing-machine,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2bzAD8FPG4GCL70xSix3qCUQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.561189,,1

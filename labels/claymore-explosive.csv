@@ -1,26 +1,54 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 claymore-explosive,artistry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
+claymore-explosive,danger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,device,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,explosive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
 claymore-explosive,grand piano,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
 claymore-explosive,harmony,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
 claymore-explosive,keyboard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
 claymore-explosive,melody,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
+claymore-explosive,military,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
 claymore-explosive,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
 claymore-explosive,musical instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
 claymore-explosive,musician,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
 claymore-explosive,virtuoso,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
+claymore-explosive,warfare,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
 claymore-explosive,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
+claymore-explosive,alert,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,ammunition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,blast,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
 claymore-explosive,classical music,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
+claymore-explosive,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
 claymore-explosive,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
 claymore-explosive,concert hall,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
 claymore-explosive,concert stage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
 claymore-explosive,crescendo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
+claymore-explosive,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,detonation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
 claymore-explosive,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
 claymore-explosive,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
+claymore-explosive,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,indicator,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
 claymore-explosive,music education,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
 claymore-explosive,orchestra,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
 claymore-explosive,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
+claymore-explosive,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
 claymore-explosive,recital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
+claymore-explosive,rectangular shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
 claymore-explosive,stage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
 claymore-explosive,studio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
+claymore-explosive,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,threat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,trigger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
 claymore-explosive,music theory,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
 claymore-explosive,notation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BCI4v7DDBJ408rMUTIx9aJml,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.270148,,1
+claymore-explosive,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,rounded shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,stability,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1
+claymore-explosive,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QzEW1QyNhIat3A3OxmGliidL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.990646,,1

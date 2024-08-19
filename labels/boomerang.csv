@@ -1,26 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-boomerang,boomerang,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
-boomerang,flight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
-boomerang,return,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
+boomerang,aboriginal culture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JPpVPlfOLYti0K9zAKPcIwrv,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.616058,,1
+boomerang,boomerang,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,2
+boomerang,circular path,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JPpVPlfOLYti0K9zAKPcIwrv,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.616058,,1
+boomerang,direction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JPpVPlfOLYti0K9zAKPcIwrv,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.616058,,1
+boomerang,flight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,2
+boomerang,return,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,2
 boomerang,throw,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
-boomerang,aerodynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
+boomerang,throwing tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JPpVPlfOLYti0K9zAKPcIwrv,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.616058,,1
+boomerang,aerodynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,2
 boomerang,arch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
 boomerang,australian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
 boomerang,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
+boomerang,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JPpVPlfOLYti0K9zAKPcIwrv,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.616058,,1
 boomerang,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
-boomerang,curve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
-boomerang,hunting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
-boomerang,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
+boomerang,curve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,2
+boomerang,hunting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,2
+boomerang,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,2
 boomerang,patterned,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
-boomerang,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
+boomerang,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,2
+boomerang,primitive technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JPpVPlfOLYti0K9zAKPcIwrv,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.616058,,1
 boomerang,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
+boomerang,skill,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JPpVPlfOLYti0K9zAKPcIwrv,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.616058,,1
 boomerang,spin,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
 boomerang,sports,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
 boomerang,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
-boomerang,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
+boomerang,symbolic meaning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JPpVPlfOLYti0K9zAKPcIwrv,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.616058,,1
+boomerang,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,2
+boomerang,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JPpVPlfOLYti0K9zAKPcIwrv,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.616058,,1
 boomerang,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
 boomerang,traditional sport,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
-boomerang,weapon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
+boomerang,weapon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,2
+boomerang,action,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JPpVPlfOLYti0K9zAKPcIwrv,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.616058,,1
+boomerang,artistic representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JPpVPlfOLYti0K9zAKPcIwrv,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.616058,,1
 boomerang,craft,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
-boomerang,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
+boomerang,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,2
 boomerang,dynamic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pxd7FCdmzJ9eo4Fk3Sp97U52,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.929975,,1
+boomerang,outdoor activity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JPpVPlfOLYti0K9zAKPcIwrv,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.616058,,1
+boomerang,play,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JPpVPlfOLYti0K9zAKPcIwrv,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.616058,,1

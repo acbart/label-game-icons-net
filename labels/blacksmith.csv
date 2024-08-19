@@ -1,23 +1,33 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-blacksmith,anvil,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
-blacksmith,blacksmith,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
-blacksmith,craftsmanship,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
+blacksmith,anvil,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,2
+blacksmith,blacksmith,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,2
+blacksmith,craftsmanship,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,2
 blacksmith,forge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
-blacksmith,hammer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
+blacksmith,forging,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_i6AEGmTeAIeDbdvvavlHeL9I,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.433019,,1
+blacksmith,hammer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,2
+blacksmith,metalwork,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_i6AEGmTeAIeDbdvvavlHeL9I,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.433019,,1
 blacksmith,metalworking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
-blacksmith,artisan,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
+blacksmith,smithing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_i6AEGmTeAIeDbdvvavlHeL9I,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.433019,,1
+blacksmith,artisan,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,2
+blacksmith,craftsman,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_i6AEGmTeAIeDbdvvavlHeL9I,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.433019,,1
+blacksmith,hard work,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_i6AEGmTeAIeDbdvvavlHeL9I,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.433019,,1
 blacksmith,historical profession,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
 blacksmith,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
+blacksmith,industry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_i6AEGmTeAIeDbdvvavlHeL9I,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.433019,,1
 blacksmith,labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
-blacksmith,manual labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
-blacksmith,occupation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
-blacksmith,production,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
-blacksmith,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
-blacksmith,tools,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
-blacksmith,workshop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
+blacksmith,manual labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,2
+blacksmith,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_i6AEGmTeAIeDbdvvavlHeL9I,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.433019,,1
+blacksmith,occupation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,2
+blacksmith,production,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,2
+blacksmith,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,2
+blacksmith,symbolic power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_i6AEGmTeAIeDbdvvavlHeL9I,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.433019,,1
+blacksmith,tools,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,2
+blacksmith,trade,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_i6AEGmTeAIeDbdvvavlHeL9I,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.433019,,1
+blacksmith,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_i6AEGmTeAIeDbdvvavlHeL9I,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.433019,,1
+blacksmith,workshop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,2
 blacksmith,construction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
 blacksmith,craft,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
-blacksmith,creativity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
+blacksmith,creativity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,2
 blacksmith,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
 blacksmith,effort,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1
 blacksmith,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cAXCsSf6xIxiYX3NvsqZdlbE,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.877973,,1

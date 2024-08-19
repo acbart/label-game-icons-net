@@ -1,24 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-locked-fortress,castle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.313615,,1
-locked-fortress,chess rook,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
-locked-fortress,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
-locked-fortress,fortress,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
-locked-fortress,guard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
-locked-fortress,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
-locked-fortress,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
-locked-fortress,stronghold,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
+locked-fortress,barrier,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
+locked-fortress,castle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.313615,,2
+locked-fortress,chess rook,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,2
+locked-fortress,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,2
+locked-fortress,fortress,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,2
+locked-fortress,guard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,2
+locked-fortress,lockdown,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
+locked-fortress,locked,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
+locked-fortress,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,2
+locked-fortress,protection symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
+locked-fortress,safeguard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
+locked-fortress,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,2
+locked-fortress,security system,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
+locked-fortress,stronghold,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,2
 locked-fortress,tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
-locked-fortress,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
+locked-fortress,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,2
+locked-fortress,bastion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
 locked-fortress,battlement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
+locked-fortress,defensive structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
+locked-fortress,encapsulation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
+locked-fortress,enclosure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
+locked-fortress,fortification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
 locked-fortress,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
-locked-fortress,impenetrable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
+locked-fortress,gate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
+locked-fortress,impenetrable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,2
 locked-fortress,impervious,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
-locked-fortress,keyhole,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
-locked-fortress,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
+locked-fortress,impregnable,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
+locked-fortress,keyhole,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,2
+locked-fortress,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,2
+locked-fortress,metaphor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
 locked-fortress,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
-locked-fortress,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
+locked-fortress,privacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,2
+locked-fortress,safe,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
+locked-fortress,shelter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yTmSvwpATsPyxg5qHUsF2W92,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.911433,,1
 locked-fortress,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
-locked-fortress,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
+locked-fortress,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,2
 locked-fortress,watchtower,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
 locked-fortress,classic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1
 locked-fortress,observation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XcHoELRmAHTewBT87MhKxlnO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.314617,,1

@@ -1,24 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 spoon,kitchen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
-spoon,spoon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
+spoon,kitchen tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.056134,,1
+spoon,spoon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,2
 spoon,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
-spoon,utensil,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
-spoon,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
+spoon,utensil,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,2
+spoon,bowl shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.056134,,1
+spoon,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,2
+spoon,cuisine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.057136,,1
 spoon,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
+spoon,curved,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.056134,,1
 spoon,curved handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
-spoon,cutlery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
-spoon,dining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
-spoon,eating,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
+spoon,cutlery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,2
+spoon,dining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,2
+spoon,eating,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,2
+spoon,everyday object,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.057136,,1
+spoon,food related,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.056134,,1
 spoon,functional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.198384,,1
+spoon,handle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.056134,,1
+spoon,household item,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.057136,,1
 spoon,ladle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
 spoon,liquid handling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
+spoon,mealtime,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.057136,,1
+spoon,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.056134,,1
 spoon,portioning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
+spoon,round,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.056134,,1
 spoon,scooping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
-spoon,serving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
+spoon,serving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,2
+spoon,serving food,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.057136,,1
+spoon,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.056134,,1
 spoon,soup,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
 spoon,tableware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
+spoon,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.057136,,1
+spoon,arc,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MOrJpt4S335ldyrPktkrTsMb,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.057136,,1
 spoon,collecting,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
-spoon,domestic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
+spoon,domestic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,2
 spoon,elegant design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
 spoon,household,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1
 spoon,meal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JM4TVcesroSByIjTBDkAH3oI,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.197375,,1

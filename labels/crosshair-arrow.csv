@@ -1,25 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+crosshair-arrow,arrow,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
 crosshair-arrow,crossed lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
+crosshair-arrow,crosshair,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
+crosshair-arrow,focus,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
+crosshair-arrow,navigation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
 crosshair-arrow,negation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
 crosshair-arrow,not permitted,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
 crosshair-arrow,prohibition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
 crosshair-arrow,restriction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
+crosshair-arrow,target,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
 crosshair-arrow,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
+crosshair-arrow,aim,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
+crosshair-arrow,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
 crosshair-arrow,arrow shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
 crosshair-arrow,ban,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
 crosshair-arrow,bar,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
+crosshair-arrow,bullseye,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
+crosshair-arrow,center,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
 crosshair-arrow,circular shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
+crosshair-arrow,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
 crosshair-arrow,diagonal line,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
+crosshair-arrow,goal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
+crosshair-arrow,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
 crosshair-arrow,interruption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
 crosshair-arrow,intersecting lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
+crosshair-arrow,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
+crosshair-arrow,navigation tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
 crosshair-arrow,no entry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
 crosshair-arrow,non-allowance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
+crosshair-arrow,orientation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
 crosshair-arrow,overlapping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
+crosshair-arrow,precision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
 crosshair-arrow,stop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
 crosshair-arrow,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
+crosshair-arrow,tracking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
 crosshair-arrow,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
-crosshair-arrow,direction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
+crosshair-arrow,accuracy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
+crosshair-arrow,action,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
+crosshair-arrow,direction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,2
+crosshair-arrow,game,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
 crosshair-arrow,graphical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
 crosshair-arrow,interface design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
 crosshair-arrow,line art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
+crosshair-arrow,path,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
 crosshair-arrow,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XIOv1AF52c140H6RlhOvmoad,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.356409,,1
+crosshair-arrow,searching,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
+crosshair-arrow,shooting,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
+crosshair-arrow,strategy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1
+crosshair-arrow,trajectory,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XVbBrYHxQsQJZAZiuVGHagUS,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.978114,,1

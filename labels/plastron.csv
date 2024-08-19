@@ -1,28 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-plastron,armor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
-plastron,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
-plastron,guard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
+plastron,armor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
+plastron,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
+plastron,guard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
 plastron,helmet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
 plastron,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
-plastron,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
-plastron,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
+plastron,plastron,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZgOJ0Oid2YzkDvoVdZ0avg3G,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.108200,,1
+plastron,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
+plastron,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
+plastron,shield,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZgOJ0Oid2YzkDvoVdZ0avg3G,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.108200,,1
 plastron,shielding,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
+plastron,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZgOJ0Oid2YzkDvoVdZ0avg3G,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.108200,,1
 plastron,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
 plastron,boldness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
 plastron,bravery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
+plastron,breastplate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZgOJ0Oid2YzkDvoVdZ0avg3G,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.108200,,1
+plastron,chestplate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZgOJ0Oid2YzkDvoVdZ0avg3G,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.108200,,1
 plastron,courage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
-plastron,crest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
-plastron,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
+plastron,crest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
+plastron,defensive wear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZgOJ0Oid2YzkDvoVdZ0avg3G,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.108200,,1
+plastron,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
 plastron,headgear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
-plastron,knight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
-plastron,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
-plastron,protection gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
-plastron,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
-plastron,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
-plastron,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
-plastron,warrior,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
-plastron,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
+plastron,knight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
+plastron,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
+plastron,protection gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
+plastron,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
+plastron,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
+plastron,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
+plastron,turtle shell,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZgOJ0Oid2YzkDvoVdZ0avg3G,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.108200,,1
+plastron,warrior,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
+plastron,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,2
 plastron,adventure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
 plastron,face,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
+plastron,fortress,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZgOJ0Oid2YzkDvoVdZ0avg3G,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.108200,,1
+plastron,heraldry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZgOJ0Oid2YzkDvoVdZ0avg3G,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.108200,,1
 plastron,hero,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1
+plastron,insignia,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZgOJ0Oid2YzkDvoVdZ0avg3G,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.108200,,1
 plastron,mystery,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWlOjAI6ZEVEHkTUMBbjIHa3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.654914,,1

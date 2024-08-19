@@ -1,26 +1,54 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 maze-saw,alert,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
+maze-saw,angular,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
 maze-saw,broadcast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
 maze-saw,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
+maze-saw,cutting tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
+maze-saw,maze,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.217489,,1
 maze-saw,radar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
+maze-saw,saw blade,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.217489,,1
 maze-saw,signal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
 maze-saw,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
 maze-saw,transmission,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
 maze-saw,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
 maze-saw,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
+maze-saw,abstract design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
 maze-saw,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
 maze-saw,center,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
+maze-saw,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
 maze-saw,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
+maze-saw,circular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.217489,,1
+maze-saw,complexity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
+maze-saw,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
 maze-saw,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
-maze-saw,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
+maze-saw,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
+maze-saw,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,2
 maze-saw,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
 maze-saw,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
+maze-saw,gear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
 maze-saw,hub,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
+maze-saw,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
 maze-saw,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
-maze-saw,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
+maze-saw,interlocking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
+maze-saw,labyrinth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.217489,,1
+maze-saw,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
+maze-saw,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
+maze-saw,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
+maze-saw,obstacle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
+maze-saw,path,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
+maze-saw,precision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
+maze-saw,puzzle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.217489,,1
+maze-saw,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,2
+maze-saw,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.217489,,1
 maze-saw,spin,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
+maze-saw,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
 maze-saw,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
+maze-saw,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
 maze-saw,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
 maze-saw,waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
+maze-saw,centered,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
+maze-saw,clockwise,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
+maze-saw,conundrum,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
+maze-saw,counterclockwise,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7spuBM0dO1enjnJ45YhFY0H3,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.218372,,1
 maze-saw,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1
 maze-saw,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_y3kNiHseqNDyiSrFGt4i5hMf,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.390151,,1

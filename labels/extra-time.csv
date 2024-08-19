@@ -1,26 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 extra-time,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
-extra-time,countdown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
+extra-time,additional time,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
+extra-time,countdown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,2
 extra-time,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
 extra-time,explosive,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
-extra-time,hourglass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
+extra-time,extra-time,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
+extra-time,hourglass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,2
+extra-time,time extension,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
 extra-time,timer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
 extra-time,timing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
 extra-time,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
+extra-time,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
 extra-time,burst,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
 extra-time,catastrophe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
 extra-time,chaos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
 extra-time,chaotic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
+extra-time,continuation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
 extra-time,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
+extra-time,delay,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
 extra-time,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
+extra-time,duration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
 extra-time,end,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
 extra-time,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
 extra-time,eruption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
+extra-time,extension,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
+extra-time,finite,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
 extra-time,flash,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
 extra-time,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
 extra-time,instant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
 extra-time,momentum,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
 extra-time,outburst,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
-extra-time,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
+extra-time,overtime,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
+extra-time,persistence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
+extra-time,sand timer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
+extra-time,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,2
+extra-time,temporal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
 extra-time,time limit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
+extra-time,time management,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
 extra-time,urgency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rx7JQ1UCS8nivFEfI1JZBXmg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.755340,,1
+extra-time,clock,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
+extra-time,cycles,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
+extra-time,flow,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
+extra-time,increase,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
+extra-time,infinity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
+extra-time,prolong,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
+extra-time,reminder,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1
+extra-time,rhythm,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_otZjIqdTvsavEId6z8U8M8oU,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.859242,,1

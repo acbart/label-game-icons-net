@@ -1,25 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 laser-turret,astronomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.589993,,1
+laser-turret,beam,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
+laser-turret,control,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
+laser-turret,defense,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
 laser-turret,instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.589993,,1
+laser-turret,laser,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
 laser-turret,observation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.589993,,1
+laser-turret,precision,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
+laser-turret,protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
 laser-turret,space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.589993,,1
+laser-turret,targeting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
 laser-turret,telescope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.589993,,1
+laser-turret,turret,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
+laser-turret,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
+laser-turret,automation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
+laser-turret,battle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
+laser-turret,cannon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
 laser-turret,circular elements,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.590991,,1
 laser-turret,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.590991,,1
+laser-turret,detection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
 laser-turret,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.590991,,1
 laser-turret,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.589993,,1
 laser-turret,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.589993,,1
 laser-turret,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.590991,,1
+laser-turret,futuristic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
 laser-turret,geometric shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.590991,,1
+laser-turret,guard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
 laser-turret,lens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.590991,,1
-laser-turret,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.590991,,1
+laser-turret,machinery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
+laser-turret,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.590991,,2
 laser-turret,observation tower,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.590991,,1
 laser-turret,optics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.589993,,1
+laser-turret,platform,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
+laser-turret,projection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
 laser-turret,research,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.590991,,1
+laser-turret,robotics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
+laser-turret,rotating base,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
+laser-turret,sci-fi,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
 laser-turret,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.589993,,1
+laser-turret,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
 laser-turret,stargazing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.589993,,1
-laser-turret,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.589993,,1
+laser-turret,stationary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
+laser-turret,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
+laser-turret,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.589993,,2
 laser-turret,tracking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.590991,,1
+laser-turret,black box,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
 laser-turret,innovation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.590991,,1
 laser-turret,navigation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.590991,,1
+laser-turret,nozzle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qP9NUAxox5HLZtIATof9r2Uz,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.066786,,1
 laser-turret,satellite,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UcAtBHfluTPvmhwzyxag3My7,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.590991,,1

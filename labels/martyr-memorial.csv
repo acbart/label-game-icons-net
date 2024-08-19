@@ -1,26 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 martyr-memorial,antenna,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
 martyr-memorial,broadcast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
+martyr-memorial,commemoration,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
 martyr-memorial,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
+martyr-memorial,memorial,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
+martyr-memorial,monument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
+martyr-memorial,remembrance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
+martyr-memorial,representation of courage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
+martyr-memorial,sacrifice,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
 martyr-memorial,signal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
 martyr-memorial,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
 martyr-memorial,telecommunications,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
 martyr-memorial,tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
 martyr-memorial,transmission,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
+martyr-memorial,tribute,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
+martyr-memorial,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
+martyr-memorial,abstract sculpture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
 martyr-memorial,broadcasting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
+martyr-memorial,ceremony,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
 martyr-memorial,connectivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
 martyr-memorial,data,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
+martyr-memorial,formal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
 martyr-memorial,frequency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
+martyr-memorial,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
+martyr-memorial,historical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
+martyr-memorial,honor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
+martyr-memorial,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
 martyr-memorial,information,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
+martyr-memorial,legacy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
 martyr-memorial,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
+martyr-memorial,pillar,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
 martyr-memorial,radio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
 martyr-memorial,reception,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
+martyr-memorial,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
+martyr-memorial,respect,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
 martyr-memorial,satellite,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
+martyr-memorial,significance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
+martyr-memorial,solemn,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
+martyr-memorial,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
+martyr-memorial,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
 martyr-memorial,tower structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
 martyr-memorial,transmitter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
 martyr-memorial,waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
 martyr-memorial,wireless,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
-martyr-memorial,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
+martyr-memorial,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,2
 martyr-memorial,digital,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
 martyr-memorial,electricity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
 martyr-memorial,engineering,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
@@ -28,4 +51,5 @@ martyr-memorial,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,bat
 martyr-memorial,infrastructure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
 martyr-memorial,modern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
 martyr-memorial,skyward,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1
+martyr-memorial,stylized,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ztr1Ws6FuzSeVt4eRlazBEfL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.669890,,1
 martyr-memorial,tall structure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6WH4XTiIKjfMJYerJEwguvQm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.755087,,1

@@ -1,26 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-comb,comb,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
-comb,detangling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
-comb,grooming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
-comb,hair care,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
-comb,personal care,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
-comb,styling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
-comb,teeth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
-comb,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
-comb,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
+comb,comb,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
+comb,detangling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
+comb,grooming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
+comb,hair care,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
+comb,personal care,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
+comb,self-care,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9jjUPBEBhFfDFhfU96rOoyXg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.647646,,1
+comb,styling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
+comb,teeth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
+comb,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
+comb,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
+comb,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9jjUPBEBhFfDFhfU96rOoyXg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.647646,,1
 comb,barber,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
+comb,beauty,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9jjUPBEBhFfDFhfU96rOoyXg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.647646,,1
 comb,curved,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
 comb,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
+comb,grooves,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9jjUPBEBhFfDFhfU96rOoyXg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.647646,,1
 comb,hair salon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
-comb,hygiene,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
-comb,maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
-comb,order,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
-comb,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
+comb,hygiene,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
+comb,maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
+comb,order,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
+comb,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
+comb,parallel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9jjUPBEBhFfDFhfU96rOoyXg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.647646,,1
 comb,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
+comb,routine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9jjUPBEBhFfDFhfU96rOoyXg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.647646,,1
 comb,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
+comb,straight lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9jjUPBEBhFfDFhfU96rOoyXg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.647646,,1
 comb,stripes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
+comb,texture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9jjUPBEBhFfDFhfU96rOoyXg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.647646,,1
+comb,tidiness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9jjUPBEBhFfDFhfU96rOoyXg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.647646,,1
 comb,tidying,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
-comb,arrangement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
-comb,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
+comb,uniformity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9jjUPBEBhFfDFhfU96rOoyXg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.647646,,1
+comb,arrangement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
+comb,discipline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9jjUPBEBhFfDFhfU96rOoyXg,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.647646,,1
+comb,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,2
 comb,plastic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1
 comb,traditional,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f1s1ZmvBV2us373CjWKSyOXt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.262752,,1

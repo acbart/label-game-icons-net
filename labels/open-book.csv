@@ -1,26 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+open-book,academics,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
 open-book,book,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
-open-book,education,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
-open-book,information,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
-open-book,knowledge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
-open-book,learning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
-open-book,library,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
-open-book,literature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
+open-book,education,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,2
+open-book,information,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,2
+open-book,knowledge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,2
+open-book,learning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,2
+open-book,library,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,2
+open-book,literature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,2
 open-book,open pages,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
-open-book,reading,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
-open-book,study,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
+open-book,open-book,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
+open-book,reading,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,2
+open-book,research,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
+open-book,study,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,2
 open-book,academic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
-open-book,documentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
+open-book,curriculum,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
+open-book,documentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,2
+open-book,educational tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
+open-book,fiction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
+open-book,learning material,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
 open-book,literacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
-open-book,manual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
+open-book,manual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,2
+open-book,narrative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
+open-book,non-fiction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
 open-book,novel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
-open-book,publication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
-open-book,reference,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
-open-book,text,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
+open-book,open,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
+open-book,pages,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
+open-book,pair of pages,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
+open-book,publication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,2
+open-book,reference,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,2
+open-book,storytelling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
+open-book,text,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,2
 open-book,textbook,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
+open-book,wisdom,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
+open-book,abstract design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
 open-book,binding,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
 open-book,browsing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
 open-book,classroom,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
+open-book,conceptual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJl3uVBarIDchfswzBaiqafG,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.794227,,1
 open-book,physical media,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
 open-book,spine,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1
 open-book,stationery,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pIz1uC1S1apMcTIiRtq5DOR3,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.547933,,1

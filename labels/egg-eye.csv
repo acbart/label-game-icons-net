@@ -1,26 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+egg-eye,abstract symbolism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
 egg-eye,egg,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
-egg-eye,eye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
+egg-eye,egg shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
+egg-eye,eye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,2
+egg-eye,focus,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
 egg-eye,geometry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
+egg-eye,observation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
 egg-eye,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
+egg-eye,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
 egg-eye,triangle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
+egg-eye,visual perception,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
 egg-eye,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
 egg-eye,arcane,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
+egg-eye,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
+egg-eye,awareness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
 egg-eye,birth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
+egg-eye,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
+egg-eye,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
+egg-eye,curiosity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
+egg-eye,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
 egg-eye,enclosure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
 egg-eye,fertility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
+egg-eye,geometric shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
 egg-eye,hatching,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
 egg-eye,hidden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
+egg-eye,hidden meaning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
+egg-eye,inspection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
+egg-eye,intrigue,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
 egg-eye,mysticism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
 egg-eye,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
+egg-eye,puzzle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
 egg-eye,pyramid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
 egg-eye,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
 egg-eye,spiritual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
+egg-eye,surrealism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
 egg-eye,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
-egg-eye,vision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
+egg-eye,vision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,2
 egg-eye,watchfulness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
-egg-eye,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
+egg-eye,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,2
 egg-eye,conception,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
-egg-eye,intersection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
+egg-eye,connection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
+egg-eye,fusion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xQSvHtzbtTdxGNOYCVQHXvD2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.524726,,1
+egg-eye,intersection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,2
 egg-eye,life,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
-egg-eye,mystery,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,1
+egg-eye,mystery,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5qp8ExmgIhzcSHlt1YxCzvUz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.674303,,2

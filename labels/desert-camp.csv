@@ -1,17 +1,29 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-desert-camp,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
+desert-camp,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,2
 desert-camp,abstract art,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
+desert-camp,adventure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
+desert-camp,camp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
+desert-camp,camping,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
 desert-camp,curved lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
-desert-camp,icon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
+desert-camp,desert,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
+desert-camp,icon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,2
+desert-camp,nomad,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
+desert-camp,outdoor,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
+desert-camp,tent,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
+desert-camp,travel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
+desert-camp,wilderness,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
 desert-camp,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
 desert-camp,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
 desert-camp,cut,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
 desert-camp,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
 desert-camp,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
 desert-camp,division,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
+desert-camp,expedition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
 desert-camp,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
+desert-camp,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
 desert-camp,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
 desert-camp,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
+desert-camp,journey,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
 desert-camp,minimalism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
 desert-camp,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
 desert-camp,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
@@ -19,8 +31,18 @@ desert-camp,negative space,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,
 desert-camp,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
 desert-camp,segmentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
 desert-camp,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
-desert-camp,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
+desert-camp,shelter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
+desert-camp,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,2
+desert-camp,traveling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
 desert-camp,visual art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
+desert-camp,angles,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
 desert-camp,communication,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
+desert-camp,curves,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
 desert-camp,decoration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
-desert-camp,interpretation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,1
+desert-camp,interpretation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4JaqrHKiaR8EBGHkWFRHyl5M,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.493230,,2
+desert-camp,line-art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
+desert-camp,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
+desert-camp,pageant,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
+desert-camp,scene,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
+desert-camp,simple,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1
+desert-camp,sundial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xlgZy8FWlevvaenRw0hqO04t,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.915703,,1

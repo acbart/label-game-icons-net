@@ -1,26 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-shopping-bag,bag,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
-shopping-bag,commerce,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
-shopping-bag,goods,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
-shopping-bag,merchandise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
-shopping-bag,purchase,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
-shopping-bag,retail,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
+shopping-bag,bag,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,2
+shopping-bag,carrier,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
+shopping-bag,commerce,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,2
+shopping-bag,goods,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,2
+shopping-bag,marketplace,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
+shopping-bag,merchandise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,2
+shopping-bag,purchase,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,2
+shopping-bag,retail,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,2
 shopping-bag,sale,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
-shopping-bag,shopping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
-shopping-bag,store,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
-shopping-bag,boutique,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
+shopping-bag,shopping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,2
+shopping-bag,shopping-bag,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
+shopping-bag,store,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,2
+shopping-bag,boutique,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,2
 shopping-bag,carry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
 shopping-bag,consumer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
-shopping-bag,consumerism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
+shopping-bag,consumerism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,2
+shopping-bag,consumption,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
+shopping-bag,container,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
 shopping-bag,customer service,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
 shopping-bag,department store,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
 shopping-bag,e-commerce,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
-shopping-bag,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
+shopping-bag,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,2
 shopping-bag,gift,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
+shopping-bag,handle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
 shopping-bag,handles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
+shopping-bag,holding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
 shopping-bag,market,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
 shopping-bag,packaging,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
 shopping-bag,paper,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
 shopping-bag,plastic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
+shopping-bag,sack,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
+shopping-bag,sales,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
+shopping-bag,shopper,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
 shopping-bag,shopping cart,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
-shopping-bag,shopping spree,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,1
+shopping-bag,shopping spree,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PQ5b6Yjaq79AQivDyhWOkS5P,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.794436,,2
+shopping-bag,tote,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
+shopping-bag,apparel,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
+shopping-bag,economy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
+shopping-bag,haul,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
+shopping-bag,packing,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
+shopping-bag,purchase intent,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
+shopping-bag,supply,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1
+shopping-bag,transaction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RdqV47VEbJDyV9k0tcqhbvCn,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.428282,,1

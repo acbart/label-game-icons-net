@@ -1,28 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-aerosol,aerosol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
-aerosol,graffiti,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
-aerosol,paint,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
-aerosol,spray,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
-aerosol,spray can,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
+aerosol,aerosol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,2
+aerosol,graffiti,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,2
+aerosol,paint,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,2
+aerosol,spray,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,2
+aerosol,spray can,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,2
 aerosol,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
 aerosol,artist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
-aerosol,canister,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
-aerosol,cloud,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
+aerosol,atomize,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
+aerosol,canister,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,2
+aerosol,chemical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
+aerosol,cloud,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,2
 aerosol,creative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
 aerosol,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
 aerosol,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
+aerosol,diffusion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
+aerosol,disperse,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
+aerosol,dispersion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
+aerosol,emission,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
+aerosol,environment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
 aerosol,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
-aerosol,mist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
-aerosol,nozzle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
+aerosol,gas,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
+aerosol,mist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,2
+aerosol,nozzle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,2
 aerosol,pattern creation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
+aerosol,pressure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
+aerosol,propellant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
 aerosol,street art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
 aerosol,temporary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
+aerosol,tiny particles,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
 aerosol,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
 aerosol,vandalism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
+aerosol,vapor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
+aerosol,air freshener,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
+aerosol,cleaning,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
+aerosol,decorating,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
 aerosol,equipment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
 aerosol,graphics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
-aerosol,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
+aerosol,health,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
+aerosol,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,2
 aerosol,manual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
 aerosol,marker,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
+aerosol,personal care,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
+aerosol,puff,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
+aerosol,solvent,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lOqMDnHmMnKbT2VWWvPhtXLa,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.468725,,1
 aerosol,technique,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1
 aerosol,urban,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FNsd6Dm9WLlG9Y3ul54sz9Ig,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.788661,,1

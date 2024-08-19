@@ -1,25 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 periscope,flow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
 periscope,liquid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
+periscope,nautical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,naval instrument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,navigation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,observation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
 periscope,oil transport,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
+periscope,periscope,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
 periscope,pipeline,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
 periscope,plumbing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
+periscope,submarine view,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
 periscope,water flow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
+periscope,angle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
 periscope,aqueduct,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
 periscope,channel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
 periscope,conduit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
 periscope,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
+periscope,curved pipe,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
 periscope,cylinder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
+periscope,distance viewing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,distant objects,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
 periscope,distribution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
 periscope,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
 periscope,fluid dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
+periscope,horizon scanning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
 periscope,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
 periscope,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
+periscope,inspection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,limited visibility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,looking ahead,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,maritime,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,monitoring,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,perspective,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,scouting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,sea exploration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,search,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,searching,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
 periscope,sewage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
+periscope,spyglass,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,survey,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
 periscope,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
 periscope,transport,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
-periscope,tube,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
+periscope,tube,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,2
 periscope,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
+periscope,vertical structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,vision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
+periscope,cutout shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_iF07PkSIGgiHPxN7jp4C0c28,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.165341,,1
 periscope,network,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
 periscope,pressure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1
 periscope,supply chain,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zTQl9IWUK1HzeemGUvc77nwA,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.158733,,1

@@ -1,25 +1,52 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+portugal,Europe,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
+portugal,Iberian Peninsula,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
+portugal,Portugal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
+portugal,border,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,bracket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
 portugal,code,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,country shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,curly brace,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
 portugal,formatting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,geography,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,grouping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,landmass,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
+portugal,map outline,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
+portugal,national identity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,programming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,recognizable shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,block,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,cartography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
+portugal,coastline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,editor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
 portugal,function,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
+portugal,home,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
+portugal,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,international,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,language,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
 portugal,math,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,minimalism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
+portugal,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
+portugal,regional identity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,separation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
+portugal,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,snippet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
 portugal,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,syntax,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,territory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,text,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,topography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
+portugal,travel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_th6bweETf6WR15ZXNFt1VI2N,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.842719,,1
 portugal,typography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
-portugal,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
-portugal,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
-portugal,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1
+portugal,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,2
+portugal,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,2
+portugal,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,2
 portugal,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wfPOAynvCuzy9BgzyRXonYbf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.368245,,1

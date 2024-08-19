@@ -1,26 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-virtual-marker,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
+virtual-marker,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,2
 virtual-marker,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
 virtual-marker,diamond shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
 virtual-marker,geometry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
+virtual-marker,guidance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
 virtual-marker,layered,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
+virtual-marker,layers,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
+virtual-marker,location,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
+virtual-marker,map,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
 virtual-marker,minimalist,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
+virtual-marker,pointer,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
+virtual-marker,positioning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
 virtual-marker,simplified,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
 virtual-marker,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
+virtual-marker,symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
 virtual-marker,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
 virtual-marker,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
+virtual-marker,virtual marker,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
+virtual-marker,virtual reality,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
 virtual-marker,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
 virtual-marker,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
+virtual-marker,arrows,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
+virtual-marker,border,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
 virtual-marker,boundaries,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
+virtual-marker,coordinates,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
+virtual-marker,digital,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
+virtual-marker,direction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
 virtual-marker,directional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
 virtual-marker,divisions,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
-virtual-marker,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
+virtual-marker,geometric shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
+virtual-marker,grid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
+virtual-marker,indication,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
+virtual-marker,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,2
 virtual-marker,interlocking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
-virtual-marker,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
+virtual-marker,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,2
 virtual-marker,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
+virtual-marker,overlay,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
 virtual-marker,pathways,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
 virtual-marker,patterns,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
 virtual-marker,platform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
 virtual-marker,portal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
+virtual-marker,signpost,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
 virtual-marker,systematic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
-virtual-marker,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,1
+virtual-marker,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dCOODsw77zMSUrhCUAJ6MoQL,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.522468,,2
+virtual-marker,wayfinding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
+virtual-marker,zone,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1
+virtual-marker,restricted area,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gksopxunrrNbMQRPE90Dzo9Q,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.405307,,1

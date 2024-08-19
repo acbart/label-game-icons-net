@@ -1,26 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-flatfish,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
-flatfish,aquatic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
-flatfish,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
+flatfish,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,2
+flatfish,aquatic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,2
+flatfish,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,2
+flatfish,flatfish,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1
+flatfish,marine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1
 flatfish,marine life,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
-flatfish,sea creature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
+flatfish,sea creature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,2
+flatfish,streamlined,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1
+flatfish,symmetrical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1
+flatfish,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1
+flatfish,art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1
 flatfish,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
 flatfish,creature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
 flatfish,curves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
-flatfish,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
+flatfish,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1
+flatfish,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,2
 flatfish,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
+flatfish,fishing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1
 flatfish,gills,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
-flatfish,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
-flatfish,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
-flatfish,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
-flatfish,scale,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
-flatfish,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
+flatfish,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,2
+flatfish,natural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1
+flatfish,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,2
+flatfish,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,2
+flatfish,piscine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1
+flatfish,scale,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,2
+flatfish,seafood,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1
+flatfish,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,2
 flatfish,simplified,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
 flatfish,swimming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
-flatfish,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
+flatfish,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,2
 flatfish,tail fin,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
 flatfish,underwater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
-flatfish,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
+flatfish,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,2
+flatfish,figure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1
+flatfish,form,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1
 flatfish,habitat,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
-flatfish,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
+flatfish,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,2
+flatfish,motion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1
 flatfish,representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vFdOEFs9ibKQwdCzpZd7NBV7,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.900240,,1
+flatfish,wild,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jd64LlX0NugBGCKc9GAdQSWp,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.387662,,1

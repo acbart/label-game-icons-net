@@ -1,25 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+body-swapping,body-swapping,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
+body-swapping,change,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
+body-swapping,exchange,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
+body-swapping,exchange of roles,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
 body-swapping,figures,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
 body-swapping,human,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
-body-swapping,pair,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
-body-swapping,people,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
-body-swapping,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
-body-swapping,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
+body-swapping,human figures,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
+body-swapping,pair,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,2
+body-swapping,people,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,2
+body-swapping,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,2
+body-swapping,switching,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
+body-swapping,transformation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
+body-swapping,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,2
 body-swapping,collaboration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
 body-swapping,community,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
 body-swapping,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
-body-swapping,duo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
+body-swapping,duality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
+body-swapping,duo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,2
 body-swapping,equality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
+body-swapping,equivalent exchange,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
 body-swapping,friendship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
 body-swapping,gender,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
 body-swapping,group,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
-body-swapping,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
-body-swapping,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
-body-swapping,partnership,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
-body-swapping,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
+body-swapping,identity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
+body-swapping,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,2
+body-swapping,mirroring,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
+body-swapping,opposites,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
+body-swapping,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,2
+body-swapping,partnership,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,2
+body-swapping,personal change,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
+body-swapping,symbolic transfer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
+body-swapping,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,2
 body-swapping,together,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
 body-swapping,unity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
 body-swapping,composition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
-body-swapping,contrast,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
+body-swapping,conceptual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
+body-swapping,contrast,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,2
 body-swapping,crowd,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1
+body-swapping,meta,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
+body-swapping,rotation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mnMVqinoC43txfkRJdhMqPzz,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.447696,,1
 body-swapping,society,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eCQi6NAzdw3z6LjilPLRrIrF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.999941,,1

@@ -1,24 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+juggling-seal,animal tricks,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uukrWkctTqbxkp1L7lS10KYw,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.743524,,1
+juggling-seal,balance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uukrWkctTqbxkp1L7lS10KYw,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.743524,,1
 juggling-seal,balancing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
-juggling-seal,ball,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
-juggling-seal,circus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
-juggling-seal,performance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
-juggling-seal,seal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
-juggling-seal,act,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
+juggling-seal,ball,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,2
+juggling-seal,circus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,2
+juggling-seal,display,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uukrWkctTqbxkp1L7lS10KYw,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.743524,,1
+juggling-seal,juggling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uukrWkctTqbxkp1L7lS10KYw,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.743524,,1
+juggling-seal,performance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,2
+juggling-seal,sea animal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uukrWkctTqbxkp1L7lS10KYw,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.743524,,1
+juggling-seal,seal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,2
+juggling-seal,act,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,2
+juggling-seal,amusement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uukrWkctTqbxkp1L7lS10KYw,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.743524,,1
 juggling-seal,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
+juggling-seal,animal behavior,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uukrWkctTqbxkp1L7lS10KYw,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.743524,,1
 juggling-seal,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
-juggling-seal,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
+juggling-seal,artistry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uukrWkctTqbxkp1L7lS10KYw,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.743524,,1
+juggling-seal,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uukrWkctTqbxkp1L7lS10KYw,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.743524,,1
+juggling-seal,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,2
 juggling-seal,marine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
-juggling-seal,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
-juggling-seal,playful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
-juggling-seal,show,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
+juggling-seal,marine life,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uukrWkctTqbxkp1L7lS10KYw,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.743524,,1
+juggling-seal,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,2
+juggling-seal,novelty,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uukrWkctTqbxkp1L7lS10KYw,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.743524,,1
+juggling-seal,playful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,2
+juggling-seal,show,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,2
 juggling-seal,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
-juggling-seal,skill,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
-juggling-seal,trick,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
-juggling-seal,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
+juggling-seal,skill,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,2
+juggling-seal,talent,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uukrWkctTqbxkp1L7lS10KYw,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.743524,,1
+juggling-seal,technique,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_uukrWkctTqbxkp1L7lS10KYw,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.743524,,1
+juggling-seal,trick,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,2
+juggling-seal,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,2
 juggling-seal,fun,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
 juggling-seal,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
 juggling-seal,illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
 juggling-seal,spectacle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
-juggling-seal,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1
+juggling-seal,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,2
 juggling-seal,zoo,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dIl2Nxb5OkyXopJA8FjOBj10,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.489856,,1

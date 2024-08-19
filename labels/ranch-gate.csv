@@ -1,26 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+ranch-gate,boundary,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
 ranch-gate,building entrance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
 ranch-gate,doorway,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
+ranch-gate,entrance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,exit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
 ranch-gate,garage door,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
-ranch-gate,access,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
+ranch-gate,ranch,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,access,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,2
 ranch-gate,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
-ranch-gate,entryway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
+ranch-gate,archway,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,blockade,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,checkpost,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,crossbar,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,enclosure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,entryway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,2
 ranch-gate,facility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
-ranch-gate,framework,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
+ranch-gate,fence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,framework,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,2
+ranch-gate,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
 ranch-gate,home,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
 ranch-gate,horizontal bars,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
 ranch-gate,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
+ranch-gate,line,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
 ranch-gate,locked,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
 ranch-gate,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
+ranch-gate,obstruction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
 ranch-gate,opening mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
-ranch-gate,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
+ranch-gate,passage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,path,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,2
 ranch-gate,rolling door,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
-ranch-gate,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
+ranch-gate,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,2
 ranch-gate,storage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
-ranch-gate,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
-ranch-gate,barrier,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
+ranch-gate,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,2
+ranch-gate,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,barrier,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,2
 ranch-gate,commercial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
-ranch-gate,gate,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
+ranch-gate,diagram,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,fortification,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,gate,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,2
+ranch-gate,landscape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
+ranch-gate,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
 ranch-gate,property,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
+ranch-gate,quadrilateral,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
 ranch-gate,residential,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1
+ranch-gate,rural,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EDJBwrBMaF3wQbr3uAjtF4FI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.222869,,1
 ranch-gate,threshold,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iBWhkHE9FgRfjSlwNcFZBmnH,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.470811,,1

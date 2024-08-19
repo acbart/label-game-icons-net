@@ -1,22 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+cootie-catcher,angles,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
 cootie-catcher,angular,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
+cootie-catcher,cootie-catcher,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
+cootie-catcher,entertainment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
+cootie-catcher,folded paper,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
+cootie-catcher,fortune teller,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
+cootie-catcher,game,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
 cootie-catcher,geometric shapes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
-cootie-catcher,origami,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
+cootie-catcher,interactive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
+cootie-catcher,origami,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,2
+cootie-catcher,origami-fold,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
+cootie-catcher,paper-folding,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
+cootie-catcher,prediction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
 cootie-catcher,sharp edges,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
+cootie-catcher,social interaction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
 cootie-catcher,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
-cootie-catcher,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
+cootie-catcher,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,2
 cootie-catcher,bird,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
+cootie-catcher,childhood,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
 cootie-catcher,contours,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
 cootie-catcher,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
+cootie-catcher,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
 cootie-catcher,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
 cootie-catcher,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
 cootie-catcher,folds,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
+cootie-catcher,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
+cootie-catcher,handcraft,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
+cootie-catcher,handheld,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
+cootie-catcher,manipulation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
 cootie-catcher,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
+cootie-catcher,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
 cootie-catcher,papercraft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
 cootie-catcher,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
-cootie-catcher,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
+cootie-catcher,playful,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
+cootie-catcher,puzzle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
+cootie-catcher,pyramid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
+cootie-catcher,quadrilateral,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
+cootie-catcher,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,2
+cootie-catcher,triangle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1
 cootie-catcher,aesthetic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
 cootie-catcher,artistic expression,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
 cootie-catcher,creativity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
 cootie-catcher,dynamic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
 cootie-catcher,formal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZtE5YvHQuRvhLmxffCzoRWKk,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.255407,,1
+cootie-catcher,illusion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_k5y6l5bkvI4H3UaISaNugyzn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.921033,,1

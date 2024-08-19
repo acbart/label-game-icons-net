@@ -1,23 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-leather-vest,armor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,apparel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
+leather-vest,armor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,2
 leather-vest,breastplate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
 leather-vest,chestplate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,clothing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
 leather-vest,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
-leather-vest,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,fashion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
+leather-vest,leather vest,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
+leather-vest,outerwear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
+leather-vest,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,2
 leather-vest,samurai,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,vest,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
 leather-vest,warrior,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
 leather-vest,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,biker,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
 leather-vest,bodyguard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
 leather-vest,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
 leather-vest,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,durability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
+leather-vest,front view,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
+leather-vest,functionality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
 leather-vest,historical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
 leather-vest,knight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,motorcycle gear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
+leather-vest,open collar,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
 leather-vest,protection gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
 leather-vest,resilience,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,rugged,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
 leather-vest,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
 leather-vest,shield,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,sleeveless,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
 leather-vest,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
 leather-vest,sturdy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,style,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
+leather-vest,toughness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
 leather-vest,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
+leather-vest,western,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
 leather-vest,ancient,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,casual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
+leather-vest,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
+leather-vest,fastening,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
 leather-vest,heritage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8IPauyRwEA8Nvrm0mxruDe2s,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.231462,,1
+leather-vest,masculine,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
+leather-vest,modern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
+leather-vest,seams,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1
+leather-vest,stitching,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6KkANlP62MuF8NYhoasxqtyh,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.633783,,1

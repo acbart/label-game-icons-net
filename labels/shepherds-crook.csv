@@ -1,20 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-shepherds-crook,hook,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
+shepherds-crook,abstract,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,crook,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,curved shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,guidance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,hook,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,2
+shepherds-crook,icon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,leadership,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,pastoral,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
 shepherds-crook,question mark,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
+shepherds-crook,shepherd,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,shepherd's crook,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,staff,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,animal herding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,archaic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,authority,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,bend,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
 shepherds-crook,curiosity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
+shepherds-crook,direction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
 shepherds-crook,doubt,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
 shepherds-crook,enigmatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
 shepherds-crook,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
+shepherds-crook,farming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,figure symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.245373,,1
 shepherds-crook,inquiry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
 shepherds-crook,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
+shepherds-crook,metaphor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
 shepherds-crook,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
+shepherds-crook,pasture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
 shepherds-crook,query,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
+shepherds-crook,rural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
 shepherds-crook,search,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
 shepherds-crook,solutions,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
-shepherds-crook,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
+shepherds-crook,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,2
+shepherds-crook,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
+shepherds-crook,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xYc8jz6X9fg2KC83rTPCZuXp,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.244374,,1
 shepherds-crook,uncertainty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
 shepherds-crook,unknown,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
-shepherds-crook,curve,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
+shepherds-crook,curve,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,2
 shepherds-crook,elaboration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
 shepherds-crook,gesture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1
 shepherds-crook,mystique,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moJCf88nlQ2SvLN4zeGDS9Vb,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.746971,,1

@@ -1,27 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 telepathy,collaboration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
-telepathy,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
-telepathy,connection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,3
+telepathy,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,2
+telepathy,communication without words,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
+telepathy,connection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,4
 telepathy,conversation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
 telepathy,dialogue,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
 telepathy,discussion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
-telepathy,exchange,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
-telepathy,interaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,2
+telepathy,exchange,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,2
+telepathy,interaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,3
+telepathy,mental link,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
+telepathy,mind connection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
+telepathy,nonverbal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
 telepathy,relationship,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
+telepathy,telepathy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
+telepathy,thought transmission,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
 telepathy,AROW,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
+telepathy,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
 telepathy,assistance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
 telepathy,association,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
+telepathy,awareness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
 telepathy,community,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
+telepathy,concept,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
 telepathy,consultation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
 telepathy,directions,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
+telepathy,empathy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
 telepathy,figures,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
 telepathy,friendship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
 telepathy,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
 telepathy,human figures,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
+telepathy,intuition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
 telepathy,mentorship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
 telepathy,networking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
 telepathy,people,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
+telepathy,perception,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
+telepathy,psychic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
+telepathy,relation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
 telepathy,sharing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
+telepathy,signal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
 telepathy,socializing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
 telepathy,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,2
+telepathy,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
 telepathy,teamwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EiNbekCoFq2nqVcC4iFz0RlY,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.437815,,1
+telepathy,understanding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
+telepathy,duality,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1
+telepathy,parallel,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Lfwq7WcFTsFwDKlyCPfQ2EUF,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.883014,,1

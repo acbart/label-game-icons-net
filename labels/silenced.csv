@@ -1,26 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+silenced,communication barrier,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
 silenced,communication block,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
 silenced,crossed lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
+silenced,crossed out,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
 silenced,keep quiet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
 silenced,locked mouth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
+silenced,mouth covered,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
+silenced,mute,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
+silenced,mute button,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
 silenced,mute sign,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
-silenced,no talking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
+silenced,no talking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,2
+silenced,no voice,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
 silenced,privacy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
-silenced,secret,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
-silenced,silence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
-silenced,speechless,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
+silenced,prohibition,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
+silenced,restrained speech,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
+silenced,secret,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,2
+silenced,silence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,2
+silenced,silenced,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
+silenced,speech suppression,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
+silenced,speechless,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,2
+silenced,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
 silenced,abstraction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
-silenced,concealment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
+silenced,concealment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,2
 silenced,confidential,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
 silenced,emotive expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
 silenced,enigmatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
-silenced,expressionless,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
+silenced,expressionless,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,2
 silenced,eyes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
-silenced,forbidden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
+silenced,face,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
+silenced,forbidden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,2
+silenced,gesture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
 silenced,guarded expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
 silenced,hush,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
+silenced,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
 silenced,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
+silenced,nonverbal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
+silenced,quiet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
 silenced,restricted,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
+silenced,restriction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
+silenced,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1
 silenced,symbolic face,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
 silenced,visual metaphor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
 silenced,cosmic observation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLUNeyFEbPQ33LTn6TE5T049,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.821439,,1
+silenced,oval shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmHWDtpU5pzszIusoyU1se59,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.501902,,1

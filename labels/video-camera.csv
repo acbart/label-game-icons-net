@@ -1,23 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-video-camera,camera,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
-video-camera,capture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
-video-camera,cinematography,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
+video-camera,camera,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,2
+video-camera,camera lens,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
+video-camera,capture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,2
+video-camera,cinematography,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,2
 video-camera,film,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
-video-camera,filming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
-video-camera,media,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
+video-camera,film icon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
+video-camera,filming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,2
+video-camera,media,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,2
 video-camera,record,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
-video-camera,video production,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
+video-camera,recording,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
+video-camera,video camera,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
+video-camera,video production,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,2
 video-camera,video recording,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
+video-camera,videography,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
+video-camera,artistic expression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
+video-camera,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
 video-camera,broadcasting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
-video-camera,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
-video-camera,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
+video-camera,device,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
+video-camera,digital media,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
+video-camera,documentary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
+video-camera,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,2
+video-camera,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,2
 video-camera,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
-video-camera,lens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
+video-camera,lens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,2
+video-camera,media creation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
 video-camera,motion picture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
+video-camera,multi-media,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
 video-camera,multimedia,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
+video-camera,photography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
 video-camera,shooting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
-video-camera,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
+video-camera,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
+video-camera,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,2
 video-camera,television,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
+video-camera,video,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
+video-camera,video editing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
 video-camera,visual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
+video-camera,visual content,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
+video-camera,abstract design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
 video-camera,creativity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
+video-camera,record button,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1
 video-camera,storytelling,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_40qWxkleNZ0QCDSR9xxlnSfi,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.503463,,1
+video-camera,video reel,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o3plKwlyoRdl6M199naqWVIB,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.321511,,1

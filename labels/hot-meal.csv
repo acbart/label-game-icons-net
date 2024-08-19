@@ -1,27 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-hot-meal,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.329743,,1
+hot-meal,cloche,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AEIaOf02tntoFJ4QWwFX0yvn,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.174445,,1
+hot-meal,dish,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AEIaOf02tntoFJ4QWwFX0yvn,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.174445,,1
+hot-meal,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.329743,,2
 hot-meal,hot dish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.329743,,1
-hot-meal,serving,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.329743,,1
+hot-meal,plate,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AEIaOf02tntoFJ4QWwFX0yvn,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.174445,,1
+hot-meal,ready-to-eat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AEIaOf02tntoFJ4QWwFX0yvn,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.174445,,1
+hot-meal,serving,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.329743,,2
 hot-meal,steam,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.329743,,1
+hot-meal,steam lines,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AEIaOf02tntoFJ4QWwFX0yvn,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.174445,,1
+hot-meal,steaming,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AEIaOf02tntoFJ4QWwFX0yvn,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.174445,,1
 hot-meal,appetizing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
+hot-meal,aroma,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AEIaOf02tntoFJ4QWwFX0yvn,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.174445,,1
 hot-meal,buffet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
-hot-meal,chef,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
-hot-meal,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
-hot-meal,cuisine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.329743,,1
-hot-meal,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
-hot-meal,dining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
+hot-meal,chef,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,2
+hot-meal,comfort food,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AEIaOf02tntoFJ4QWwFX0yvn,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.174445,,1
+hot-meal,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,2
+hot-meal,cuisine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.329743,,2
+hot-meal,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,2
+hot-meal,dining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,2
+hot-meal,dinner,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AEIaOf02tntoFJ4QWwFX0yvn,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.174445,,1
 hot-meal,fresh,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.329743,,1
-hot-meal,gourmet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
-hot-meal,heat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
-hot-meal,hospitality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
+hot-meal,gourmet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,2
+hot-meal,heat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,2
+hot-meal,hospitality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,3
 hot-meal,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
-hot-meal,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.329743,,1
+hot-meal,lunch,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AEIaOf02tntoFJ4QWwFX0yvn,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.174445,,1
+hot-meal,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.329743,,2
 hot-meal,platter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.329743,,1
-hot-meal,restaurant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.329743,,1
+hot-meal,portion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AEIaOf02tntoFJ4QWwFX0yvn,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.174445,,1
+hot-meal,restaurant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.329743,,2
 hot-meal,service,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
+hot-meal,tray,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AEIaOf02tntoFJ4QWwFX0yvn,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.174445,,1
+hot-meal,warming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AEIaOf02tntoFJ4QWwFX0yvn,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.174445,,1
 hot-meal,elegance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
 hot-meal,flavor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
-hot-meal,presentation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
-hot-meal,sizzle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
+hot-meal,presentation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,3
+hot-meal,sizzle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,2
 hot-meal,table setting,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1
+hot-meal,waiter,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AEIaOf02tntoFJ4QWwFX0yvn,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.174445,,1
 hot-meal,warmth,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lBALJuVr4324TyU0OtA5eVld,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.330746,,1

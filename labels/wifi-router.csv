@@ -1,28 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-wifi-router,antenna,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
-wifi-router,connectivity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
-wifi-router,internet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
+wifi-router,antenna,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,2
+wifi-router,connection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZtwQGLweX5L2k4pdjuwpwUz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.760256,,1
+wifi-router,connectivity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,2
+wifi-router,internet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,2
 wifi-router,network device,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
-wifi-router,router,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
-wifi-router,signal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
-wifi-router,wifi,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
-wifi-router,wireless,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
-wifi-router,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
-wifi-router,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
+wifi-router,router,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,2
+wifi-router,signal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,2
+wifi-router,wifi,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,2
+wifi-router,wireless,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,2
+wifi-router,access point,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZtwQGLweX5L2k4pdjuwpwUz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.760256,,1
+wifi-router,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,2
+wifi-router,broadcasting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZtwQGLweX5L2k4pdjuwpwUz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.760256,,1
+wifi-router,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,2
+wifi-router,data,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZtwQGLweX5L2k4pdjuwpwUz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.760256,,1
 wifi-router,data flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
-wifi-router,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.617130,,1
-wifi-router,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
+wifi-router,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.617130,,2
+wifi-router,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,2
+wifi-router,electronic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZtwQGLweX5L2k4pdjuwpwUz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.760256,,1
 wifi-router,emission,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.617130,,1
 wifi-router,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
 wifi-router,internet access,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.617130,,1
-wifi-router,networking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.617130,,1
+wifi-router,modem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZtwQGLweX5L2k4pdjuwpwUz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.760256,,1
+wifi-router,network signal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZtwQGLweX5L2k4pdjuwpwUz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.760256,,1
+wifi-router,networking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.617130,,2
 wifi-router,online,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
 wifi-router,radio waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
-wifi-router,signal strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
-wifi-router,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
-wifi-router,transmission,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
+wifi-router,signal strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,2
+wifi-router,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,2
+wifi-router,transmission,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,2
+wifi-router,wave,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZtwQGLweX5L2k4pdjuwpwUz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.760256,,1
 wifi-router,waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.616129,,1
+wifi-router,box,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZtwQGLweX5L2k4pdjuwpwUz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.760256,,1
 wifi-router,electronics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.617130,,1
-wifi-router,hub,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.617130,,1
-wifi-router,interface,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.617130,,1
+wifi-router,home,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZtwQGLweX5L2k4pdjuwpwUz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.760256,,1
+wifi-router,hub,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.617130,,2
+wifi-router,interface,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.617130,,2
+wifi-router,module,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZtwQGLweX5L2k4pdjuwpwUz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.760256,,1
 wifi-router,node,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tnH7qSzghhqJLUa5PO8iSFIk,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.617130,,1
+wifi-router,office,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZtwQGLweX5L2k4pdjuwpwUz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.760256,,1
+wifi-router,setup,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZtwQGLweX5L2k4pdjuwpwUz,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.760256,,1

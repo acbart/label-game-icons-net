@@ -1,24 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-djembe,drum,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
-djembe,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
-djembe,musical instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
-djembe,percussion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
+djembe,African culture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbksEpV6b54ytYsa47wevka,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.158547,,1
+djembe,djembe,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbksEpV6b54ytYsa47wevka,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.158547,,1
+djembe,drum,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,2
+djembe,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,2
+djembe,musical instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,2
+djembe,percussion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,2
 djembe,african,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
-djembe,beat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
+djembe,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbksEpV6b54ytYsa47wevka,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.158547,,1
+djembe,band,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbksEpV6b54ytYsa47wevka,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.158547,,1
+djembe,beat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,2
 djembe,celebration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
-djembe,ceremony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
+djembe,ceremony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,2
 djembe,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
+djembe,cultural symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbksEpV6b54ytYsa47wevka,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.158547,,1
 djembe,cylindrical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
-djembe,dance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
+djembe,cylindrical shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbksEpV6b54ytYsa47wevka,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.158547,,1
+djembe,dance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,2
 djembe,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
-djembe,festivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
+djembe,festivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,2
 djembe,folk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
+djembe,geometric shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbksEpV6b54ytYsa47wevka,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.158547,,1
+djembe,instrumentation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbksEpV6b54ytYsa47wevka,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.158547,,1
+djembe,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbksEpV6b54ytYsa47wevka,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.158547,,1
 djembe,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
-djembe,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
-djembe,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
-djembe,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
-djembe,tribal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
+djembe,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,2
+djembe,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,2
+djembe,tapered base,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbksEpV6b54ytYsa47wevka,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.158547,,1
+djembe,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,2
+djembe,tribal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,2
 djembe,art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
-djembe,concert,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
+djembe,circle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbksEpV6b54ytYsa47wevka,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.158547,,1
+djembe,concert,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,2
+djembe,craftsmanship,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbksEpV6b54ytYsa47wevka,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.158547,,1
+djembe,ensemble,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbksEpV6b54ytYsa47wevka,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.158547,,1
 djembe,entertainment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
 djembe,event,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sl48UZuNWfusm80Tcxhveqlj,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.571617,,1
+djembe,festival,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dNbksEpV6b54ytYsa47wevka,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.158547,,1

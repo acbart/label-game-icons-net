@@ -1,25 +1,36 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-sharp-shuriken,ninja,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
-sharp-shuriken,shuriken,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
-sharp-shuriken,star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
-sharp-shuriken,throwing star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
-sharp-shuriken,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
-sharp-shuriken,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
-sharp-shuriken,blade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
+sharp-shuriken,ninja,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,2
+sharp-shuriken,pointed,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJ3SK7ecCh60B6TbO0uWMS4p,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.029950,,1
+sharp-shuriken,shuriken,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,2
+sharp-shuriken,star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,2
+sharp-shuriken,throwing star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,2
+sharp-shuriken,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,2
+sharp-shuriken,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,2
+sharp-shuriken,blade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,2
 sharp-shuriken,center,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
 sharp-shuriken,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
+sharp-shuriken,circle center,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJ3SK7ecCh60B6TbO0uWMS4p,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.029950,,1
 sharp-shuriken,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
-sharp-shuriken,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
-sharp-shuriken,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
-sharp-shuriken,martial arts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
-sharp-shuriken,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
-sharp-shuriken,stealth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
+sharp-shuriken,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJ3SK7ecCh60B6TbO0uWMS4p,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.029950,,1
+sharp-shuriken,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,2
+sharp-shuriken,four-pointed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJ3SK7ecCh60B6TbO0uWMS4p,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.029950,,1
+sharp-shuriken,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,2
+sharp-shuriken,japanese culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJ3SK7ecCh60B6TbO0uWMS4p,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.029950,,1
+sharp-shuriken,martial arts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,2
+sharp-shuriken,samurai,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJ3SK7ecCh60B6TbO0uWMS4p,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.029950,,1
+sharp-shuriken,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,2
+sharp-shuriken,stealth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,2
 sharp-shuriken,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
 sharp-shuriken,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
+sharp-shuriken,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJ3SK7ecCh60B6TbO0uWMS4p,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.029950,,1
 sharp-shuriken,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
 sharp-shuriken,ancient,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
 sharp-shuriken,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
 sharp-shuriken,culture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
-sharp-shuriken,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
-sharp-shuriken,geometry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1
+sharp-shuriken,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,2
+sharp-shuriken,geometry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,2
+sharp-shuriken,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJ3SK7ecCh60B6TbO0uWMS4p,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.029950,,1
+sharp-shuriken,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJ3SK7ecCh60B6TbO0uWMS4p,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.029950,,1
+sharp-shuriken,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJ3SK7ecCh60B6TbO0uWMS4p,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.029950,,1
+sharp-shuriken,symmetry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rJ3SK7ecCh60B6TbO0uWMS4p,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.029950,,1
 sharp-shuriken,tradition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Gf9Qj7Wk7C1dkeSTxCD6vMf9,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.512861,,1

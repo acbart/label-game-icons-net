@@ -1,22 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 bolas,arrows,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
+bolas,binding,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
+bolas,bolas,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.460698,,1
+bolas,capture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
+bolas,circles connected by lines,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
 bolas,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
-bolas,connection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
+bolas,connection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,2
 bolas,data transfer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
+bolas,entrapment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
 bolas,exchange,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
 bolas,interaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
+bolas,motion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
+bolas,swing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
+bolas,abstract design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
+bolas,action,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
+bolas,arc,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
+bolas,circles,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
+bolas,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
 bolas,convergence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
 bolas,cycle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
 bolas,dashed line,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
 bolas,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
+bolas,energy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
+bolas,hunt,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
 bolas,information flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
+bolas,interconnect,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
+bolas,kinetic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
 bolas,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
+bolas,pair,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
 bolas,path,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
 bolas,process,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
+bolas,tether,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
+bolas,throwing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
+bolas,trajectory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
+bolas,weapon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
 bolas,back and forth,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
+bolas,balance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
 bolas,cooperation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
 bolas,exchange of ideas,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
 bolas,forward,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
+bolas,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
+bolas,lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IscKn6kKutjO0VuXIbHhbgkA,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.461698,,1
 bolas,navigation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
 bolas,network,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1
 bolas,repetition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CXaQYVF8YmaKkrTbQX4LXT2D,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.003932,,1

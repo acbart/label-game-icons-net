@@ -1,16 +1,30 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+spoted-flower,botanical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
 spoted-flower,circles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
-spoted-flower,flower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
+spoted-flower,dots,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
+spoted-flower,flower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,2
 spoted-flower,gear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
-spoted-flower,petals,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
+spoted-flower,petals,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,2
+spoted-flower,plant,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
 spoted-flower,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
+spoted-flower,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
+spoted-flower,aesthetic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
+spoted-flower,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
 spoted-flower,blades,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
-spoted-flower,blossom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
+spoted-flower,bloom,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
+spoted-flower,blossom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,2
+spoted-flower,center,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
+spoted-flower,circular pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
 spoted-flower,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
-spoted-flower,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
+spoted-flower,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
+spoted-flower,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
+spoted-flower,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,2
 spoted-flower,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
+spoted-flower,floral arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
 spoted-flower,functionality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
-spoted-flower,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
+spoted-flower,garden,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
+spoted-flower,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
+spoted-flower,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,2
 spoted-flower,hub,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
 spoted-flower,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
 spoted-flower,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
@@ -18,8 +32,16 @@ spoted-flower,integration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,b
 spoted-flower,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
 spoted-flower,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
 spoted-flower,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
-spoted-flower,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
+spoted-flower,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,2
+spoted-flower,nature-inspired,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
+spoted-flower,organic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
 spoted-flower,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
+spoted-flower,repeating shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
+spoted-flower,spring,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
+spoted-flower,style,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
+spoted-flower,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
 spoted-flower,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
-spoted-flower,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
-spoted-flower,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,1
+spoted-flower,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,2
+spoted-flower,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BRngAowPvbKI5q97HgfwrpLE,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.199382,,2
+spoted-flower,patterns,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1
+spoted-flower,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FEWVqQKdVXujpjqr3tU2dgjQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.064129,,1

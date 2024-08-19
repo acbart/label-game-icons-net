@@ -1,26 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+koholint-egg,egg,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
+koholint-egg,fantasy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
 koholint-egg,hard hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
 koholint-egg,hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
+koholint-egg,hatching,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
 koholint-egg,helmet light,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
+koholint-egg,island,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
 koholint-egg,miner,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
 koholint-egg,mineshaft,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
 koholint-egg,mining,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
+koholint-egg,mountain,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
+koholint-egg,mystery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
+koholint-egg,mystical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
+koholint-egg,mythical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
 koholint-egg,safety gear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
 koholint-egg,tunnel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
 koholint-egg,underground work,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
-koholint-egg,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
+koholint-egg,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
+koholint-egg,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,2
 koholint-egg,coal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
+koholint-egg,crater,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
 koholint-egg,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
 koholint-egg,darkness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
 koholint-egg,digging,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
+koholint-egg,dream,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
 koholint-egg,excavation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
-koholint-egg,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
+koholint-egg,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,2
 koholint-egg,helmet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
+koholint-egg,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
 koholint-egg,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
+koholint-egg,journey,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
 koholint-egg,laborer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
+koholint-egg,legend,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
+koholint-egg,metaphor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
+koholint-egg,peak,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
 koholint-egg,pickaxe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
+koholint-egg,puzzle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
 koholint-egg,rock,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
 koholint-egg,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
+koholint-egg,summit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
+koholint-egg,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
+koholint-egg,talisman,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
 koholint-egg,toughness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
 koholint-egg,underground,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
 koholint-egg,worker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Rn1cXin865Phcvs39CFRJ57l,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.566000,,1
+koholint-egg,layered,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
+koholint-egg,shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1
+koholint-egg,structure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BgmiD6iznbWGUCyRhpLJ18p5,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.989473,,1

@@ -1,21 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+safety-pin,fastener,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.733514,,1
 safety-pin,fastening,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
+safety-pin,garment repair,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.733514,,1
+safety-pin,locking mechanism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.734509,,1
+safety-pin,pin,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.733514,,1
+safety-pin,safety,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.734509,,1
 safety-pin,safety pin,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
+safety-pin,safety-pin,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.733514,,1
+safety-pin,secure fastening,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.734509,,1
 safety-pin,sewing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
+safety-pin,tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.733514,,1
 safety-pin,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
 safety-pin,clasp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
-safety-pin,closure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
-safety-pin,needle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
+safety-pin,clip,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.733514,,1
+safety-pin,closure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,2
+safety-pin,diagonal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.733514,,1
+safety-pin,hold,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.734509,,1
+safety-pin,knot,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.734509,,1
+safety-pin,line,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.733514,,1
+safety-pin,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.734509,,1
+safety-pin,needle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,2
+safety-pin,open and close,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.734509,,1
 safety-pin,pinning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
+safety-pin,pivot,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.733514,,1
+safety-pin,point,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.733514,,1
 safety-pin,pointed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
-safety-pin,secure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
+safety-pin,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.734509,,1
+safety-pin,secure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,2
 safety-pin,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
-safety-pin,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
+safety-pin,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,2
+safety-pin,simplistic design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.733514,,1
+safety-pin,circle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nob3NFBOVMKdgKdW5LlSoeQl,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.733514,,1
 safety-pin,craft,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
 safety-pin,fabric,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
 safety-pin,holder,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
 safety-pin,metal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
 safety-pin,small,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
-safety-pin,temporary fix,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
-safety-pin,textile,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
-safety-pin,utility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,1
+safety-pin,temporary fix,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,2
+safety-pin,textile,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,2
+safety-pin,utility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hpzaShZx81RGXfmRYLn4jrg7,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.610416,,2

@@ -1,22 +1,29 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-trilobite,ancient,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,1
-trilobite,arthropod,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,1
-trilobite,extinct,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,1
-trilobite,fossil,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,1
-trilobite,prehistoric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,1
-trilobite,trilobite,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,1
+trilobite,ancient,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,2
+trilobite,arthropod,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,2
+trilobite,extinct,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,2
+trilobite,fossil,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,2
+trilobite,prehistoric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,2
+trilobite,segments,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BaOoVWVz9oqM2aFzuXL3Nnj5,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.324500,,1
+trilobite,trilobite,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,2
 trilobite,ancient creatures,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,1
-trilobite,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,1
-trilobite,evolution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,1
+trilobite,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,3
+trilobite,evolution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,2
+trilobite,exoskeleton,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BaOoVWVz9oqM2aFzuXL3Nnj5,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.324500,,1
 trilobite,historical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,1
-trilobite,invertebrate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,1
+trilobite,invertebrate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,2
 trilobite,marine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,1
-trilobite,natural history,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,1
-trilobite,paleontology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,1
-trilobite,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,1
-trilobite,shell,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,1
-trilobite,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,1
-trilobite,curved lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,1
+trilobite,natural history,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,2
+trilobite,paleontology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,2
+trilobite,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,2
+trilobite,shell,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.595250,,2
+trilobite,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BaOoVWVz9oqM2aFzuXL3Nnj5,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.324500,,1
+trilobite,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,2
+trilobite,curved lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,2
 trilobite,diagram,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,1
-trilobite,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,1
-trilobite,skeleton,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,1
+trilobite,nature,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BaOoVWVz9oqM2aFzuXL3Nnj5,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.324500,,1
+trilobite,organic forms,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BaOoVWVz9oqM2aFzuXL3Nnj5,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.324500,,1
+trilobite,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,2
+trilobite,skeleton,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eK3DbtuiO6Oq7POocm0IxI6C,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.596248,,2
+trilobite,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BaOoVWVz9oqM2aFzuXL3Nnj5,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.324500,,1
+trilobite,timeline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BaOoVWVz9oqM2aFzuXL3Nnj5,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.324500,,1

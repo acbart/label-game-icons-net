@@ -1,23 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 fingernail,control,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
 fingernail,cylinder,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
+fingernail,fingernail,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.123912,,1
+fingernail,grooming,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.123912,,1
 fingernail,knob,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
+fingernail,manicure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.123912,,1
+fingernail,nail,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.123912,,1
+fingernail,nail care,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.123912,,1
 fingernail,speaker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
 fingernail,volume control,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
 fingernail,adjustment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
 fingernail,amplifier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
 fingernail,audio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
+fingernail,beauty,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1
 fingernail,control panel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
+fingernail,curve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1
 fingernail,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
 fingernail,dial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
 fingernail,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
 fingernail,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
+fingernail,hygiene,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.123912,,1
 fingernail,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
+fingernail,line,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1
 fingernail,machine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
 fingernail,music,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
+fingernail,nail art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1
 fingernail,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
+fingernail,self-care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.123912,,1
+fingernail,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1
 fingernail,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
+fingernail,stripe,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1
 fingernail,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
-fingernail,arc,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
+fingernail,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1
+fingernail,arc,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,2
 fingernail,crescent shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
+fingernail,fashion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1
+fingernail,graphic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1
+fingernail,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1
+fingernail,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1
 fingernail,operation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Qpvcz7Oz65Qc8kqgX7T4fUW4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.831856,,1
+fingernail,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1
+fingernail,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1
+fingernail,style,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1
+fingernail,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hFLce2xgaecNmrnji42KL4uK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.124803,,1

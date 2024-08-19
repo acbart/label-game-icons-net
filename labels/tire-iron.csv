@@ -1,27 +1,53 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 tire-iron,DIY,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
-tire-iron,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
+tire-iron,automotive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,2
 tire-iron,dimension,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
 tire-iron,distance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
 tire-iron,engineering,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.291249,,1
+tire-iron,fixing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,functionality,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,handyman,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,hub,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
 tire-iron,length,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
+tire-iron,loosen,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,manual,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
 tire-iron,measurement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
-tire-iron,precision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
+tire-iron,mechanic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,practicality,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,precision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,2
+tire-iron,repair,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
 tire-iron,tape measure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
-tire-iron,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
+tire-iron,tighten,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,tire-iron,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,2
+tire-iron,utility,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,wheel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,wrench,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
 tire-iron,accuracy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.291249,,1
 tire-iron,arc,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.291249,,1
 tire-iron,calculation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
-tire-iron,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
+tire-iron,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,2
 tire-iron,circular object,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
 tire-iron,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
 tire-iron,drafting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.291249,,1
+tire-iron,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
 tire-iron,flexible,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.291249,,1
+tire-iron,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
 tire-iron,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
+tire-iron,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
 tire-iron,hook,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.291249,,1
+tire-iron,implementation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,leverage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
 tire-iron,linear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.291249,,1
 tire-iron,mathematics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
+tire-iron,process,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
 tire-iron,radius,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.291249,,1
+tire-iron,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
 tire-iron,scale,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
 tire-iron,straight line,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.290251,,1
+tire-iron,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,angle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
+tire-iron,doughnut shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7Gy3yL7fO6HsGDWyWlqlSeNg,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.329086,,1
 tire-iron,metal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hQbumzJP7WCm7L55g06E1Bt1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.291249,,1

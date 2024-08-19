@@ -1,23 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 snail-eyes,alien,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
-snail-eyes,antenna,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
+snail-eyes,antenna,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,2
 snail-eyes,extraterrestrial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
+snail-eyes,eye stalks,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.717700,,1
 snail-eyes,eyes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
+snail-eyes,mollusk,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
+snail-eyes,perception,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
+snail-eyes,snail,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.717700,,1
+snail-eyes,vision,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.717700,,1
+snail-eyes,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.717700,,1
+snail-eyes,animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
+snail-eyes,biology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
 snail-eyes,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
-snail-eyes,creature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
+snail-eyes,creature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,2
+snail-eyes,curious,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
+snail-eyes,curve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
+snail-eyes,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
 snail-eyes,facial features,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
 snail-eyes,fantasy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
 snail-eyes,fictional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
 snail-eyes,head,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
+snail-eyes,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
 snail-eyes,imagination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
 snail-eyes,insect,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
+snail-eyes,invertebrate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.717700,,1
+snail-eyes,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
 snail-eyes,monster,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
 snail-eyes,mythical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
+snail-eyes,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
+snail-eyes,nature icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
+snail-eyes,organic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
 snail-eyes,profile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
 snail-eyes,science fiction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
+snail-eyes,slow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
+snail-eyes,soft,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
 snail-eyes,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
+snail-eyes,tentacle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
+snail-eyes,artistic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
 snail-eyes,creative,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
 snail-eyes,curiosity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
+snail-eyes,emergence,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
 snail-eyes,outline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
 snail-eyes,simplistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
 snail-eyes,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HmKq3XW540Jl3RHzcLMBWdam,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.888648,,1
+snail-eyes,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1
+snail-eyes,whimsical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_aoqztbJxGFCpYsTwSAiW7SoR,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.718729,,1

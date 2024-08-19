@@ -1,26 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-delivery-drone,aerial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
-delivery-drone,drone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
+delivery-drone,aerial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,2
+delivery-drone,delivery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
+delivery-drone,drone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,2
+delivery-drone,emerging tech,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
 delivery-drone,flying,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
-delivery-drone,propellers,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
+delivery-drone,futuristic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
+delivery-drone,propellers,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,2
+delivery-drone,quad-rotor,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
 delivery-drone,quadcopter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
-delivery-drone,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
+delivery-drone,speed,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
+delivery-drone,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,2
+delivery-drone,technology advancement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
+delivery-drone,transport,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
+delivery-drone,aerodynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
 delivery-drone,aircraft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
-delivery-drone,automation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
+delivery-drone,automation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,3
 delivery-drone,camera,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
-delivery-drone,flight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
-delivery-drone,hover,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
+delivery-drone,cargo,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
+delivery-drone,commercial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
+delivery-drone,distant control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
+delivery-drone,flight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,2
+delivery-drone,hover,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,2
+delivery-drone,logistics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
 delivery-drone,maneuver,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
+delivery-drone,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
+delivery-drone,modern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
 delivery-drone,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
-delivery-drone,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
+delivery-drone,package,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
+delivery-drone,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,2
+delivery-drone,remote,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
 delivery-drone,remote control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
-delivery-drone,robotics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
-delivery-drone,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
+delivery-drone,robotics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,2
+delivery-drone,small aircraft,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4gG1tbsNT4MOh2vlgd5g4pJn,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.910685,,1
+delivery-drone,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,2
 delivery-drone,electronics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
 delivery-drone,exploration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
-delivery-drone,gadget,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
+delivery-drone,gadget,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,2
 delivery-drone,gimbal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
-delivery-drone,innovation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
+delivery-drone,innovation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,2
 delivery-drone,inspection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
 delivery-drone,mapping,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1
 delivery-drone,reconnaissance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VkElL8nwcJdITzxzBgWqnwoS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.491232,,1

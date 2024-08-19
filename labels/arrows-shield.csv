@@ -1,26 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-arrows-shield,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
-arrows-shield,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
+arrows-shield,arrows,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
+arrows-shield,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,2
+arrows-shield,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,2
 arrows-shield,protection against attack,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
-arrows-shield,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
+arrows-shield,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,2
 arrows-shield,secure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
-arrows-shield,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
-arrows-shield,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
-arrows-shield,shielding,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
+arrows-shield,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,2
+arrows-shield,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,2
+arrows-shield,shielding,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,2
 arrows-shield,armor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
-arrows-shield,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
+arrows-shield,barricade,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
+arrows-shield,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,2
 arrows-shield,block,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
+arrows-shield,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
 arrows-shield,deflect,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
 arrows-shield,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
+arrows-shield,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
 arrows-shield,force field,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
-arrows-shield,fortification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
+arrows-shield,fortification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,2
+arrows-shield,guard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
 arrows-shield,guarding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
+arrows-shield,impact,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
 arrows-shield,impediment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
 arrows-shield,obstacle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
 arrows-shield,prevent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
+arrows-shield,protection symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
 arrows-shield,repel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
+arrows-shield,resilience,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
 arrows-shield,resistance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
 arrows-shield,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
+arrows-shield,absorption,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
 arrows-shield,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
+arrows-shield,attack,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
 arrows-shield,contradict,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
+arrows-shield,defensive stance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
 arrows-shield,insulation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_moE0YoMX5Cqo0Jtcnq5VPg51,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.857427,,1
+arrows-shield,interception,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
+arrows-shield,power,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
+arrows-shield,pressure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
+arrows-shield,retaliation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
+arrows-shield,safety net,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1
+arrows-shield,security measure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bsS8EFsXD0O39cWdx7Ny9QL2,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.840282,,1

@@ -1,26 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-hamburger,burger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
+hamburger,burger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,2
 hamburger,cheeseburger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.167438,,1
-hamburger,fast food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
-hamburger,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
-hamburger,meal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
-hamburger,sandwich,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
+hamburger,fast food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,2
+hamburger,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,2
+hamburger,meal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,2
+hamburger,sandwich,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,2
+hamburger,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
+hamburger,bread,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
+hamburger,bun,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
 hamburger,buns,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
 hamburger,comfort food,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.167438,,1
 hamburger,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
-hamburger,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.167438,,1
-hamburger,dining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
+hamburger,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.167438,,2
+hamburger,dining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,2
 hamburger,dinner,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
+hamburger,drawing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
+hamburger,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
 hamburger,grilled,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
+hamburger,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
+hamburger,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
 hamburger,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
 hamburger,layered,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
+hamburger,layers,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
 hamburger,lunch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
-hamburger,patty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
-hamburger,restaurant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.167438,,1
-hamburger,snack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
+hamburger,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
+hamburger,patty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,2
+hamburger,quick meal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
+hamburger,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
+hamburger,restaurant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.167438,,2
+hamburger,snack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,2
+hamburger,stacked,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
+hamburger,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
 hamburger,takeout,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.167438,,1
+hamburger,visual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
 hamburger,barbecue,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
-hamburger,cuisine,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
+hamburger,cheese,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
+hamburger,consumption,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1
+hamburger,cuisine,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,2
 hamburger,eatery,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.167438,,1
 hamburger,gastronomy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.166419,,1
-hamburger,gourmet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.167438,,1
+hamburger,gourmet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yr9l6G66wXnXUwS0vrLPdwYK,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.167438,,2
+hamburger,meal time,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bGhutPk60XC0qo3tUiV1bAf,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.513370,,1

@@ -1,27 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-pig,agriculture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
-pig,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
-pig,farm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
+pig,agriculture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,2
+pig,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,2
+pig,farm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,2
 pig,farm animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
-pig,livestock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
-pig,pig,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
-pig,snout,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
+pig,legs,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1UOUTgc3Y3Uad9BJjbBUS5mR,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.026143,,1
+pig,livestock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,2
+pig,pig,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,2
+pig,snout,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,2
+pig,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1UOUTgc3Y3Uad9BJjbBUS5mR,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.026143,,1
 pig,barnyard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
+pig,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1UOUTgc3Y3Uad9BJjbBUS5mR,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.026143,,1
+pig,domestic animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1UOUTgc3Y3Uad9BJjbBUS5mR,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.026143,,1
 pig,domesticated,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
 pig,drawing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.410407,,1
-pig,ears,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
+pig,ears,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,2
+pig,food,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1UOUTgc3Y3Uad9BJjbBUS5mR,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.026143,,1
 pig,food production,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
 pig,hooves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
 pig,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
+pig,iconographic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1UOUTgc3Y3Uad9BJjbBUS5mR,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.026143,,1
 pig,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
 pig,meat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
 pig,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
-pig,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
-pig,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
+pig,minimalist design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1UOUTgc3Y3Uad9BJjbBUS5mR,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.026143,,1
+pig,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1UOUTgc3Y3Uad9BJjbBUS5mR,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.026143,,1
+pig,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,2
+pig,profile view,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1UOUTgc3Y3Uad9BJjbBUS5mR,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.026143,,1
+pig,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,2
+pig,rounded shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1UOUTgc3Y3Uad9BJjbBUS5mR,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.026143,,1
 pig,rural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
-pig,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
+pig,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,2
 pig,simple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.410407,,1
+pig,stylized anatomy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1UOUTgc3Y3Uad9BJjbBUS5mR,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.026143,,1
 pig,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
-pig,tail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
-pig,cartoonish,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
+pig,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1UOUTgc3Y3Uad9BJjbBUS5mR,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.026143,,1
+pig,tail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,2
+pig,cartoonish,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,2
 pig,cute,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EdPS3Odf7LVvglb4NFJpkM4G,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.409411,,1
+pig,playful,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1UOUTgc3Y3Uad9BJjbBUS5mR,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.026143,,1

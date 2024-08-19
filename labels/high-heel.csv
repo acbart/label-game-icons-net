@@ -1,25 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-high-heel,fashion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
-high-heel,footwear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
+high-heel,elegance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zOKKxldkx9iSz2MkiCjbwCrM,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.865023,,1
+high-heel,fashion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,2
+high-heel,footwear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,2
 high-heel,heel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
+high-heel,heels,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zOKKxldkx9iSz2MkiCjbwCrM,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.865023,,1
 high-heel,high heel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
-high-heel,shoe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
+high-heel,shoe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,2
 high-heel,stiletto,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
 high-heel,dress shoe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
 high-heel,elegant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
+high-heel,female,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zOKKxldkx9iSz2MkiCjbwCrM,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.865023,,1
 high-heel,feminine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
 high-heel,foot,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
 high-heel,formal wear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
-high-heel,glamour,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
+high-heel,formalwear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zOKKxldkx9iSz2MkiCjbwCrM,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.865023,,1
+high-heel,glamour,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,2
 high-heel,ladies,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
+high-heel,occasion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zOKKxldkx9iSz2MkiCjbwCrM,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.865023,,1
+high-heel,party,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zOKKxldkx9iSz2MkiCjbwCrM,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.865023,,1
 high-heel,pointed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
 high-heel,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
+high-heel,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zOKKxldkx9iSz2MkiCjbwCrM,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.865023,,1
 high-heel,sole,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
-high-heel,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
-high-heel,accessory,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
+high-heel,sophistication,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zOKKxldkx9iSz2MkiCjbwCrM,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.865023,,1
+high-heel,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,2
+high-heel,wardrobe,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zOKKxldkx9iSz2MkiCjbwCrM,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.865023,,1
+high-heel,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zOKKxldkx9iSz2MkiCjbwCrM,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.866000,,1
+high-heel,accessory,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,2
 high-heel,classic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
-high-heel,elevation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
-high-heel,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
-high-heel,luxury,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
+high-heel,curve,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zOKKxldkx9iSz2MkiCjbwCrM,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.865023,,1
+high-heel,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zOKKxldkx9iSz2MkiCjbwCrM,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.866000,,1
+high-heel,elevation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,2
+high-heel,grace,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zOKKxldkx9iSz2MkiCjbwCrM,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.865023,,1
+high-heel,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,2
+high-heel,luxury,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,2
 high-heel,office wear,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
-high-heel,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,1
+high-heel,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_miEQBqzucigztypshvHSniJd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.267725,,2
+high-heel,trend,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zOKKxldkx9iSz2MkiCjbwCrM,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.866000,,1

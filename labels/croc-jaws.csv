@@ -1,26 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+croc-jaws,animal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
+croc-jaws,bite,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
 croc-jaws,checkered pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
 croc-jaws,completion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
+croc-jaws,crocodile,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
+croc-jaws,danger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
 croc-jaws,data,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
 croc-jaws,document,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
 croc-jaws,file management,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
 croc-jaws,files,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
 croc-jaws,folder,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
+croc-jaws,jaws,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
+croc-jaws,predator,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
 croc-jaws,task management,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
+croc-jaws,teeth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
+croc-jaws,threat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
+croc-jaws,trap,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
 croc-jaws,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
+croc-jaws,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
+croc-jaws,aggression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
 croc-jaws,archive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
 croc-jaws,asymmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
 croc-jaws,checkered flag,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
+croc-jaws,chevron,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
 croc-jaws,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
+croc-jaws,fear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
+croc-jaws,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
 croc-jaws,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
-croc-jaws,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
+croc-jaws,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,2
 croc-jaws,process,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
 croc-jaws,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
 croc-jaws,racing flags,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
 croc-jaws,record keeping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
+croc-jaws,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
 croc-jaws,squares,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
 croc-jaws,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
+croc-jaws,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
 croc-jaws,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
 croc-jaws,task,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
+croc-jaws,warning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
+croc-jaws,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
+croc-jaws,zigzag,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
 croc-jaws,zigzag lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1
+croc-jaws,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
+croc-jaws,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
+croc-jaws,protection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KcXgQDqfFJiI6m2cIVskWi0l,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.868333,,1
 croc-jaws,racing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9OYLiaosIst55oD4glLyFZig,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.314751,,1

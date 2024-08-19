@@ -1,25 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+ninja-star,Japanese,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6Adf9eKNEO83tUvFa2NVDxK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.186405,,1
 ninja-star,blade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,1
+ninja-star,ninja,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6Adf9eKNEO83tUvFa2NVDxK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.186405,,1
 ninja-star,ninja star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,1
-ninja-star,shuriken,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,1
-ninja-star,throwing star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,1
-ninja-star,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,1
+ninja-star,ninja-star,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6Adf9eKNEO83tUvFa2NVDxK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.186405,,1
+ninja-star,shuriken,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,2
+ninja-star,throwing star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,2
+ninja-star,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,2
 ninja-star,Japanese culture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,1
+ninja-star,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6Adf9eKNEO83tUvFa2NVDxK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.186405,,1
 ninja-star,agility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,1
-ninja-star,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,1
-ninja-star,circular center,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,1
-ninja-star,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,1
-ninja-star,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,1
-ninja-star,four points,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,1
+ninja-star,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,2
+ninja-star,blades,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6Adf9eKNEO83tUvFa2NVDxK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.186405,,1
+ninja-star,circular center,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,2
+ninja-star,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,2
+ninja-star,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6Adf9eKNEO83tUvFa2NVDxK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.186405,,1
+ninja-star,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,2
+ninja-star,four points,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,2
 ninja-star,historical weaponry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,1
-ninja-star,martial arts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,1
+ninja-star,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6Adf9eKNEO83tUvFa2NVDxK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.186405,,1
+ninja-star,martial arts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,2
 ninja-star,ninjutsu,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,1
-ninja-star,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,1
-ninja-star,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,1
-ninja-star,spinning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,1
+ninja-star,oriental,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6Adf9eKNEO83tUvFa2NVDxK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.186405,,1
+ninja-star,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,2
+ninja-star,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,2
+ninja-star,spinning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,2
 ninja-star,star shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,1
-ninja-star,stealth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,1
+ninja-star,stealth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,2
+ninja-star,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6Adf9eKNEO83tUvFa2NVDxK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.186405,,1
 ninja-star,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,1
 ninja-star,tactics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.730762,,1
-ninja-star,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,1
+ninja-star,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6Adf9eKNEO83tUvFa2NVDxK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.186405,,1
+ninja-star,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,2
+ninja-star,artistry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6Adf9eKNEO83tUvFa2NVDxK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.186405,,1
+ninja-star,gear-like,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6Adf9eKNEO83tUvFa2NVDxK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.186405,,1
+ninja-star,strategy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6Adf9eKNEO83tUvFa2NVDxK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.186405,,1
 ninja-star,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5kckb4k9vKyw0i3HMHOp4wnK,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.731764,,1

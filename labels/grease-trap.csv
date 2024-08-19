@@ -1,22 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+grease-trap,clog prevention,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
 grease-trap,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
+grease-trap,drop,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
+grease-trap,filter,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
+grease-trap,grease-trap,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
+grease-trap,liquid,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
 grease-trap,liquid drop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
-grease-trap,trap,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
+grease-trap,oil,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
+grease-trap,plumbing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
+grease-trap,separation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
+grease-trap,trap,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,2
+grease-trap,waste management,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
+grease-trap,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
+grease-trap,capture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.519455,,1
+grease-trap,catchment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
 grease-trap,caution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
+grease-trap,containment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
+grease-trap,drain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
 grease-trap,environmental,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
-grease-trap,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
+grease-trap,environmental protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
+grease-trap,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,2
 grease-trap,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
+grease-trap,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
+grease-trap,liquid handling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.519455,,1
 grease-trap,pressure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
 grease-trap,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
+grease-trap,sanitation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.519455,,1
 grease-trap,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
-grease-trap,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
+grease-trap,storage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.519455,,1
+grease-trap,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,2
 grease-trap,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
 grease-trap,threat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
+grease-trap,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.519455,,1
 grease-trap,visual warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
 grease-trap,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
+grease-trap,water treatment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.518472,,1
 grease-trap,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
+grease-trap,conservation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.519455,,1
 grease-trap,contrast,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
 grease-trap,depth,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
 grease-trap,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
 grease-trap,exclamation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1
+grease-trap,industrial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.519455,,1
+grease-trap,protection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.519455,,1
+grease-trap,recycling,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_8feomJu9vIFAWpLcC0ku1Jsk,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.519455,,1
 grease-trap,shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4jbkiqDpFR7J22Wo1mbhFWXu,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.927211,,1

@@ -1,26 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-skoll_stopwatch,clock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
-skoll_stopwatch,countdown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
-skoll_stopwatch,stopwatch,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
+skoll_stopwatch,chronometer,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.474441,,1
+skoll_stopwatch,clock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,2
+skoll_stopwatch,countdown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,2
+skoll_stopwatch,stopwatch,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,2
 skoll_stopwatch,time tracking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
-skoll_stopwatch,timer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
-skoll_stopwatch,alarm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
+skoll_stopwatch,timer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,2
+skoll_stopwatch,alarm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,2
+skoll_stopwatch,analog,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.474441,,1
 skoll_stopwatch,chronograph,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
-skoll_stopwatch,deadline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
+skoll_stopwatch,competition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.474441,,1
+skoll_stopwatch,deadline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,2
+skoll_stopwatch,dial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.474441,,1
 skoll_stopwatch,duration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
+skoll_stopwatch,event,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.474441,,1
 skoll_stopwatch,hour,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
-skoll_stopwatch,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
+skoll_stopwatch,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,2
 skoll_stopwatch,minute hand,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
 skoll_stopwatch,monitoring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
-skoll_stopwatch,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
+skoll_stopwatch,pointer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.474441,,1
+skoll_stopwatch,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,2
 skoll_stopwatch,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
 skoll_stopwatch,punctuality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
+skoll_stopwatch,race,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.474441,,1
 skoll_stopwatch,reminder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
-skoll_stopwatch,schedule,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
-skoll_stopwatch,time management,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
+skoll_stopwatch,schedule,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,2
+skoll_stopwatch,speed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.474441,,1
+skoll_stopwatch,time management,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,2
 skoll_stopwatch,timepiece,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
-skoll_stopwatch,timing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
+skoll_stopwatch,timing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,2
+skoll_stopwatch,track,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.474441,,1
 skoll_stopwatch,tracking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
-skoll_stopwatch,circle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
+skoll_stopwatch,circle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,2
+skoll_stopwatch,efficiency,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.475331,,1
+skoll_stopwatch,focus,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.475331,,1
 skoll_stopwatch,half circle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
+skoll_stopwatch,hourglass,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.474441,,1
+skoll_stopwatch,interval,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.474441,,1
 skoll_stopwatch,measure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EBGTiptW2I6e1TW2ePbCoaSS,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.302124,,1
+skoll_stopwatch,measurement tool,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.475331,,1
+skoll_stopwatch,productivity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.475331,,1
+skoll_stopwatch,routine,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.475331,,1
+skoll_stopwatch,sports,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.474441,,1
+skoll_stopwatch,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.475331,,1
+skoll_stopwatch,task,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_m2YAuizqMcZ0Jwcz8vUFrpIe,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.475331,,1

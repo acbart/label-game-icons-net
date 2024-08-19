@@ -1,27 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+easel,art,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
+easel,artist,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
 easel,artists,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
-easel,canvas,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
+easel,canvas,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,2
+easel,composition,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
 easel,easel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
-easel,painting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
+easel,painting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,2
+easel,visual arts,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
 easel,art class,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
 easel,art equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
 easel,artistic process,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
 easel,artistry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
 easel,artwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
-easel,craft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
-easel,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
+easel,craft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,2
+easel,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,2
 easel,creativity tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
-easel,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
-easel,drawing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
+easel,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,2
+easel,drawing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,2
+easel,educational,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
 easel,fine arts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
+easel,gallery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
+easel,installation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
+easel,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
+easel,projection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
 easel,sketch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
-easel,studio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
+easel,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
+easel,studio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,2
+easel,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
+easel,tripod,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
 easel,visual expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
+easel,workspace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
+easel,architecture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
 easel,art show,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
-easel,display,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
-easel,exhibition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
-easel,framework,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
-easel,sculpture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
-easel,setup,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
+easel,display,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,2
+easel,exhibition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,2
+easel,framework,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,2
+easel,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1i51VonLt8xK0SK8Iit64xth,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.968558,,1
+easel,sculpture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,2
+easel,setup,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,2
 easel,symbolic representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1
 easel,workshop,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_puoIwulhfz0Qo0edu7x6u0IO,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.270304,,1

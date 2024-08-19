@@ -1,29 +1,53 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+blackcurrant,berries,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
+blackcurrant,blackcurrant,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
+blackcurrant,botanical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
 blackcurrant,branching,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.978931,,1
 blackcurrant,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
 blackcurrant,connections,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.978931,,1
 blackcurrant,connectivity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
 blackcurrant,diagram,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
+blackcurrant,fruit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
 blackcurrant,hierarchy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.978931,,1
 blackcurrant,linkage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
+blackcurrant,natural,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
+blackcurrant,nature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
 blackcurrant,network,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.978931,,1
 blackcurrant,nodes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.978931,,1
+blackcurrant,organic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
 blackcurrant,organization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.978931,,1
 blackcurrant,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
 blackcurrant,system,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
 blackcurrant,tree structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.978931,,1
+blackcurrant,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
 blackcurrant,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
+blackcurrant,agriculture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
 blackcurrant,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
+blackcurrant,branch,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
+blackcurrant,circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
+blackcurrant,cluster,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
 blackcurrant,complexity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
+blackcurrant,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
 blackcurrant,data visualization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.978931,,1
 blackcurrant,decisions,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.978931,,1
 blackcurrant,divergence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
+blackcurrant,farming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
 blackcurrant,flowchart,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.978931,,1
-blackcurrant,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.978931,,1
+blackcurrant,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.978931,,2
+blackcurrant,harvest,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
 blackcurrant,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
 blackcurrant,mapping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
+blackcurrant,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
 blackcurrant,molecular structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
 blackcurrant,network theory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
+blackcurrant,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
 blackcurrant,pathways,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.978931,,1
 blackcurrant,process,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
+blackcurrant,produce,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
+blackcurrant,round,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
+blackcurrant,simplified,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
+blackcurrant,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
 blackcurrant,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_raXbDPWPDijVEEEwqFTThVma,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.979936,,1
+blackcurrant,dietary,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
+blackcurrant,flavor,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1
+blackcurrant,vitamins,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pJrpoXJFwU5DR3Sfa5cMRIYW,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.368088,,1

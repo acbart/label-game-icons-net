@@ -1,28 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-perspective-dice-six-faces-one,chance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
-perspective-dice-six-faces-one,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
+perspective-dice-six-faces-one,chance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,2
+perspective-dice-six-faces-one,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,2
 perspective-dice-six-faces-one,gambling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
 perspective-dice-six-faces-one,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
-perspective-dice-six-faces-one,luck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
-perspective-dice-six-faces-one,probability,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
+perspective-dice-six-faces-one,luck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,2
+perspective-dice-six-faces-one,number one,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
+perspective-dice-six-faces-one,probability,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,2
 perspective-dice-six-faces-one,random,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
-perspective-dice-six-faces-one,board games,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
+perspective-dice-six-faces-one,randomness,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
+perspective-dice-six-faces-one,sides,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
+perspective-dice-six-faces-one,single dot,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
+perspective-dice-six-faces-one,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
+perspective-dice-six-faces-one,board games,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,2
 perspective-dice-six-faces-one,casino,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
 perspective-dice-six-faces-one,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
-perspective-dice-six-faces-one,cube,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
+perspective-dice-six-faces-one,cube,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,2
+perspective-dice-six-faces-one,decision making,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
+perspective-dice-six-faces-one,dimension,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
 perspective-dice-six-faces-one,dot,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
 perspective-dice-six-faces-one,fortune,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
-perspective-dice-six-faces-one,fun,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
+perspective-dice-six-faces-one,fun,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,2
+perspective-dice-six-faces-one,games,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
+perspective-dice-six-faces-one,gaming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
+perspective-dice-six-faces-one,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
 perspective-dice-six-faces-one,luck games,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
 perspective-dice-six-faces-one,number,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
+perspective-dice-six-faces-one,perspective,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
 perspective-dice-six-faces-one,predictability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
 perspective-dice-six-faces-one,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
+perspective-dice-six-faces-one,roll,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
 perspective-dice-six-faces-one,rolling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
 perspective-dice-six-faces-one,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
+perspective-dice-six-faces-one,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
 perspective-dice-six-faces-one,toss,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
+perspective-dice-six-faces-one,calculation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
 perspective-dice-six-faces-one,decision,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
 perspective-dice-six-faces-one,entertainment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
 perspective-dice-six-faces-one,leisure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
 perspective-dice-six-faces-one,mathematics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
 perspective-dice-six-faces-one,play,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
-perspective-dice-six-faces-one,uncertainty,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,1
+perspective-dice-six-faces-one,symbols,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
+perspective-dice-six-faces-one,three-dimensional,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xSCa9jQ7xp99QQ887uzok4Re,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.214694,,1
+perspective-dice-six-faces-one,uncertainty,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U6cK8EgMWoGmLOXSgfoIzzwc,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.176731,,2

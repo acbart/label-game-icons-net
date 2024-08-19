@@ -1,25 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 pangolin,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
+pangolin,endangered species,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
 pangolin,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
 pangolin,fishing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
 pangolin,hook,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
+pangolin,pangolin,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
+pangolin,scales,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
+pangolin,abstract design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
 pangolin,angler,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
 pangolin,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
+pangolin,animal symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
 pangolin,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
-pangolin,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
+pangolin,armor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
+pangolin,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,2
 pangolin,catch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
+pangolin,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
+pangolin,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
 pangolin,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
+pangolin,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
+pangolin,mammal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
 pangolin,marine life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
 pangolin,motif,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,2
-pangolin,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
+pangolin,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,2
+pangolin,nature illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
 pangolin,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
 pangolin,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
-pangolin,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
+pangolin,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,2
+pangolin,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
 pangolin,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
 pangolin,sea creature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
 pangolin,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
-pangolin,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
+pangolin,shell,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
+pangolin,stylized animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.150369,,1
+pangolin,texture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
+pangolin,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,2
+pangolin,wildlife conservation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
 pangolin,decoration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
+pangolin,environment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
+pangolin,graphic representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_K2igYoDK7eRaWUo5wkKSPACX,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.149469,,1
 pangolin,icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
 pangolin,sport,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1
 pangolin,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EzOxWZ32h3fDO6JJKdXSPGui,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.305304,,1

@@ -1,24 +1,54 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+bonsai-tree,abstract,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,aesthetics,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,balance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,bonsai,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
 bonsai-tree,fish dish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
 bonsai-tree,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
+bonsai-tree,harmony,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,meal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
+bonsai-tree,minimalism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,nature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,plant,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,plate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
 bonsai-tree,restaurant,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
 bonsai-tree,seafood,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
+bonsai-tree,serenity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,tranquility,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,tree,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,zen,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,abstract shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
+bonsai-tree,art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,bowl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
+bonsai-tree,container,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
+bonsai-tree,craft,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,cuisine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
 bonsai-tree,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
+bonsai-tree,cultivation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,dining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
 bonsai-tree,edible,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
+bonsai-tree,gardening,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,gastronomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
 bonsai-tree,gourmet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
+bonsai-tree,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,ingredients,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
+bonsai-tree,japan,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
+bonsai-tree,landscape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,meditation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,menu,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
+bonsai-tree,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,pot,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,serving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
+bonsai-tree,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,small,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,soup,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
+bonsai-tree,stylized,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
+bonsai-tree,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QgmiiIKqP86hbBqhbi4vweKJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.556375,,1
 bonsai-tree,abstract representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1
 bonsai-tree,decorative design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PFvdAHBLezb57XH9kuDbnh4C,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.915994,,1

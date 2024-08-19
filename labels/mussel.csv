@@ -1,23 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 mussel,Japanese cuisine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,bivalve,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
 mussel,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,mussel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
 mussel,roll,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
-mussel,seafood,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,seafood,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,2
+mussel,shell,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
+mussel,shellfish,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
 mussel,sushi,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
 mussel,authentic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
 mussel,circular shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,clam,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
+mussel,coastline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
 mussel,cuisine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
 mussel,culture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
 mussel,delicacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
 mussel,dining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
-mussel,food,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,fishing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
+mussel,food,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,2
 mussel,gourmet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,harvesting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
 mussel,healthy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,marine life,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
 mussel,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
+mussel,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
+mussel,protein,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
 mussel,restaurant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
 mussel,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
-mussel,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,2
+mussel,biology,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
 mussel,clean lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,curve,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
+mussel,ecosystem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
 mussel,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,layer,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
 mussel,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,spiral,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
+mussel,stack,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1
 mussel,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J8PcNTHNJvyvDNkamnK0IMHZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.939529,,1
+mussel,texture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lglAXszqUtzVNK7j2me4LxoT,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.254621,,1

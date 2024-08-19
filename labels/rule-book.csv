@@ -1,26 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-rule-book,book,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
-rule-book,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,book,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,2
+rule-book,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,2
 rule-book,education,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
 rule-book,education tools,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,guidelines,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
 rule-book,icon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,instructions,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
 rule-book,knowledge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
 rule-book,learning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,manual,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
 rule-book,reading,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,rules,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
 rule-book,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,authority,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
+rule-book,board game,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
 rule-book,board games,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
-rule-book,chance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,chance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,2
+rule-book,checklist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
+rule-book,decision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
+rule-book,documentation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
+rule-book,framework,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
 rule-book,fun,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
-rule-book,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,2
 rule-book,gamification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,gaming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
 rule-book,literature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
 rule-book,luck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,order,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
 rule-book,play,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
-rule-book,probability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,playbook,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
+rule-book,policy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
+rule-book,probability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,2
+rule-book,procedures,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
 rule-book,random,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,reference,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
+rule-book,regulations,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
 rule-book,story,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
-rule-book,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,2
+rule-book,strategy guide,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
+rule-book,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
 rule-book,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,system,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
+rule-book,tutorial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
+rule-book,control,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
 rule-book,culture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
 rule-book,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,discipline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1
 rule-book,gambling,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6QjrYXXiWBxMHY4SctQYjjyh,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.596417,,1
+rule-book,overview,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdATSAoDfK7ToOYUPoD8afQI,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.684928,,1

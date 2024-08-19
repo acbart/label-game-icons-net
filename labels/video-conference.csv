@@ -1,29 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-video-conference,avatar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.504486,,1
-video-conference,conference,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.504486,,1
+video-conference,avatar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.504486,,2
+video-conference,conference,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.504486,,2
+video-conference,digital,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
+video-conference,online,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
 video-conference,online meeting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.504486,,1
-video-conference,screen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.504486,,1
+video-conference,screen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.504486,,2
 video-conference,video call,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.504486,,1
+video-conference,video-call,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
 video-conference,virtual communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.504486,,1
-video-conference,webcam,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.504486,,1
-video-conference,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
-video-conference,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
+video-conference,virtual-meeting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
+video-conference,web-meeting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
+video-conference,webcam,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.504486,,2
+video-conference,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,2
+video-conference,collaboration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
+video-conference,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,2
+video-conference,connection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
 video-conference,connectivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
 video-conference,digital interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
 video-conference,digital presence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
-video-conference,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
-video-conference,monitor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
-video-conference,person,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
-video-conference,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.504486,,1
+video-conference,head-and-shoulders,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
+video-conference,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
+video-conference,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,2
+video-conference,monitor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,2
+video-conference,person,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,2
+video-conference,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.504486,,2
 video-conference,projection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
-video-conference,remote,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
-video-conference,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
+video-conference,remote,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,2
+video-conference,streaming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
+video-conference,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
+video-conference,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,2
 video-conference,teleconference,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
+video-conference,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
 video-conference,corporate,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
+video-conference,cyberspace,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
 video-conference,desktop,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
+video-conference,face,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
 video-conference,global reach,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
-video-conference,interaction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
-video-conference,networking,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
+video-conference,interaction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,2
+video-conference,networking,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,2
 video-conference,office,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
 video-conference,sharing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
+video-conference,virtual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1
 video-conference,work from home,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jKpwNGciXw7qH0sAlPXhciG9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.505551,,1
+video-conference,workspace,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3F6pewpKXiiKGubaBaoyhdkL,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.326831,,1

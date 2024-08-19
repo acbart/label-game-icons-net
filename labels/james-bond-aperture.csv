@@ -1,25 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+james-bond-aperture,James Bond,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
+james-bond-aperture,agent,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
+james-bond-aperture,camera aperture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
 james-bond-aperture,cyclone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
+james-bond-aperture,espionage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
 james-bond-aperture,funnel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
+james-bond-aperture,gun barrel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
+james-bond-aperture,iconic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
+james-bond-aperture,lens,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
 james-bond-aperture,spinning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
-james-bond-aperture,spiral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
+james-bond-aperture,spiral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,2
+james-bond-aperture,spy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
 james-bond-aperture,swirl,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
+james-bond-aperture,target,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
 james-bond-aperture,turbulence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
 james-bond-aperture,twist,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
 james-bond-aperture,vortex,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
 james-bond-aperture,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
+james-bond-aperture,action,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
+james-bond-aperture,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
 james-bond-aperture,central point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
-james-bond-aperture,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
+james-bond-aperture,cinematic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
+james-bond-aperture,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,2
+james-bond-aperture,classic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
 james-bond-aperture,convergence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
 james-bond-aperture,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
 james-bond-aperture,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
+james-bond-aperture,film,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
 james-bond-aperture,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
+james-bond-aperture,focus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
 james-bond-aperture,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
+james-bond-aperture,franchise,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
 james-bond-aperture,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
-james-bond-aperture,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
+james-bond-aperture,legendary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
+james-bond-aperture,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,2
 james-bond-aperture,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
+james-bond-aperture,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
 james-bond-aperture,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
 james-bond-aperture,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
+james-bond-aperture,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
+james-bond-aperture,suspense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
+james-bond-aperture,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
+james-bond-aperture,thriller,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
 james-bond-aperture,whirlwind,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
 james-bond-aperture,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1
+james-bond-aperture,recognition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_xBZqCDFgbhYrRCWNNUWxt9jx,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.389561,,1
 james-bond-aperture,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cBPhphLhOEYWVLyKDIkal9x,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.150971,,1

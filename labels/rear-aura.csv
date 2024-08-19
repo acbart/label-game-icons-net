@@ -1,28 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 rear-aura,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
-rear-aura,divine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
+rear-aura,divine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,2
+rear-aura,emanation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
 rear-aura,faith,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
-rear-aura,halo,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
+rear-aura,glow,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
+rear-aura,halo,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,2
 rear-aura,holy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
+rear-aura,human figure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
 rear-aura,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
+rear-aura,radiance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
 rear-aura,religious,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
 rear-aura,saint,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
 rear-aura,spiritual,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
-rear-aura,aura,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
+rear-aura,spirituality,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
+rear-aura,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
+rear-aura,aura,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,2
+rear-aura,backlight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
 rear-aura,contemplation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
+rear-aura,energy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
 rear-aura,enlightened,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
+rear-aura,enlightenment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
 rear-aura,figure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
 rear-aura,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
 rear-aura,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
-rear-aura,illumination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
+rear-aura,illumination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,2
 rear-aura,inspiration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
+rear-aura,light beams,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
+rear-aura,mysticism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
+rear-aura,personhood,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
+rear-aura,presence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
 rear-aura,purity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
 rear-aura,radiate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
 rear-aura,revelation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
 rear-aura,sacred,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
 rear-aura,sanctity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
+rear-aura,spiritual presence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
 rear-aura,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
+rear-aura,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
 rear-aura,wisdom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
+rear-aura,celestial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
+rear-aura,conceptual identity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
 rear-aura,figurehead,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
+rear-aura,holistic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
+rear-aura,metaphysical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
 rear-aura,peace,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
 rear-aura,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RP3Ph9GAfTJ2zvYx2dqX98xT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.766573,,1
+rear-aura,shine,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1
+rear-aura,transcendence,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e76DBFeNnPnBlrMjtI6gVb99,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.390664,,1

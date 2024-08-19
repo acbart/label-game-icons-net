@@ -1,23 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+bowling-alley,ball,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
+bowling-alley,bowling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
+bowling-alley,bowling alley,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
 bowling-alley,eruption,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
+bowling-alley,game,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
 bowling-alley,geology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
+bowling-alley,lane,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
 bowling-alley,lava,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
 bowling-alley,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
+bowling-alley,pins,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
+bowling-alley,recreation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
+bowling-alley,sports,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
 bowling-alley,volcano,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
 bowling-alley,activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
+bowling-alley,competition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
 bowling-alley,crater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
 bowling-alley,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
 bowling-alley,disaster,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
 bowling-alley,earth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
+bowling-alley,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
 bowling-alley,explosion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
 bowling-alley,fire,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
+bowling-alley,group activity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
+bowling-alley,gutter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
 bowling-alley,heat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
+bowling-alley,hobby,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
 bowling-alley,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
+bowling-alley,knockdown,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
+bowling-alley,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
 bowling-alley,mountain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
+bowling-alley,precision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.736503,,1
 bowling-alley,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
 bowling-alley,smoke,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
+bowling-alley,spare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
+bowling-alley,strike,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
 bowling-alley,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
+bowling-alley,target,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.735603,,1
+bowling-alley,team sport,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.736503,,1
 bowling-alley,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
+bowling-alley,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.736503,,1
+bowling-alley,alignment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.736503,,1
 bowling-alley,circumference,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
+bowling-alley,clean lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.736503,,1
 bowling-alley,movement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
 bowling-alley,peak,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Xlq612L2owOuQtQJdmIbAL9J,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.956512,,1
+bowling-alley,round shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EoXxqnB5LS8KZ1oNr79pP5X4,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.736503,,1

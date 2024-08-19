@@ -1,26 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-cycling,bicycle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,cycling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,exercise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
+cycling,active lifestyle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCn5UDxNdohY6ZAv2wVib7SH,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.824607,,1
+cycling,bicycle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
+cycling,cycling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
+cycling,cyclist,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCn5UDxNdohY6ZAv2wVib7SH,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.824607,,1
+cycling,exercise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
 cycling,rider,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,sport,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
+cycling,sport,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
+cycling,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
 cycling,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
+cycling,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
+cycling,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
 cycling,commuting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
 cycling,eco-friendly,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,fitness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
+cycling,fitness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
+cycling,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
 cycling,gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
 cycling,handlebars,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
+cycling,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
+cycling,journey,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCn5UDxNdohY6ZAv2wVib7SH,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.824607,,1
+cycling,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCn5UDxNdohY6ZAv2wVib7SH,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.824607,,1
 cycling,mobility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,outdoor activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
+cycling,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
+cycling,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
+cycling,outdoor activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
 cycling,pedal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
+cycling,pedal power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCn5UDxNdohY6ZAv2wVib7SH,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.824607,,1
+cycling,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
+cycling,sustainable transport,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCn5UDxNdohY6ZAv2wVib7SH,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.824607,,1
 cycling,touring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
-cycling,wheels,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,1
+cycling,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
+cycling,wheels,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J7xuEyqrvh4RwjYAOkJDTCsF,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.464252,,2
+cycling,road,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCn5UDxNdohY6ZAv2wVib7SH,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.824607,,1
+cycling,vector art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCn5UDxNdohY6ZAv2wVib7SH,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.824607,,1
+cycling,wheel spokes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kCn5UDxNdohY6ZAv2wVib7SH,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.824607,,1

@@ -1,26 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-accordion,accordion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
+accordion,accordion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,2
 accordion,accordion music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
 accordion,accordionist,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
+accordion,entertainment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
+accordion,harmony,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
 accordion,instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
-accordion,keys,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
-accordion,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
+accordion,keys,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,2
+accordion,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,2
+accordion,musical instrument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
+accordion,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
 accordion,artistry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
-accordion,bellows,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
+accordion,band,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
+accordion,bass,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
+accordion,bellows,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,2
 accordion,concert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
+accordion,concertina,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
+accordion,folding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
 accordion,folk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
-accordion,harmonica,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
-accordion,keyboard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
-accordion,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
+accordion,folk music,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
+accordion,harmonica,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,2
+accordion,instrumentation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
+accordion,keyboard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,2
+accordion,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,2
 accordion,musical entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
 accordion,musical notes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
-accordion,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
+accordion,musician,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
+accordion,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,2
+accordion,play,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
+accordion,pleats,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
 accordion,reeds,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
+accordion,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
 accordion,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
-accordion,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
-accordion,squeezebox,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
-accordion,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
+accordion,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,2
+accordion,squeezebox,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,2
+accordion,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,2
 accordion,cultural,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
 accordion,ethnic music,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
+accordion,expanding,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
 accordion,genre,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1
+accordion,octaves,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
+accordion,piano,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x6HH3gViDIcWsClZ6YOIpy6F,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.693154,,1
 accordion,polka,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xYPvpe2T7Ugk92rOwMruYkD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.206767,,1

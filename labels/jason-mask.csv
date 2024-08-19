@@ -1,30 +1,52 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-jason-mask,hockey,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
-jason-mask,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
+jason-mask,abstract face,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
+jason-mask,disguise,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
+jason-mask,fear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
+jason-mask,hockey,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,2
+jason-mask,horror,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
+jason-mask,mask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,2
 jason-mask,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,protective,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,sports,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
+jason-mask,threat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
+jason-mask,anonymous,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
 jason-mask,athletic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
+jason-mask,character,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
+jason-mask,cinema,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
+jason-mask,costume,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
 jason-mask,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
+jason-mask,eye holes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
 jason-mask,faceguard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
-jason-mask,facial protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
+jason-mask,facial protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,2
 jason-mask,gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,goalie,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,goalkeeper,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,head,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,headgear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,hockey player,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
+jason-mask,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
+jason-mask,legend,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
+jason-mask,mouthpiece,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
+jason-mask,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
+jason-mask,perforated pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
+jason-mask,pop culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
 jason-mask,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,sports icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
+jason-mask,theater,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
 jason-mask,winter sports,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,aggression,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,competition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,deterrence,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
+jason-mask,enigmatic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.635039,,1
 jason-mask,figure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
+jason-mask,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.635039,,1
 jason-mask,guardian,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,ice,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
+jason-mask,identification,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.634045,,1
 jason-mask,intimidation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,match,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
+jason-mask,mystique,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.635039,,1
+jason-mask,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_bUrxirY2cIG6Tx2a3pzj3Hau,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.635039,,1
 jason-mask,symbols,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1
 jason-mask,team,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_A5SgDSHglUx5aDFAtn1FchpC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.446858,,1

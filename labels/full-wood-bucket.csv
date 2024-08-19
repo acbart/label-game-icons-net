@@ -1,25 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 full-wood-bucket,bin,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
+full-wood-bucket,bucket,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
 full-wood-bucket,discard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
 full-wood-bucket,empty,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
+full-wood-bucket,full,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
 full-wood-bucket,garbage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
 full-wood-bucket,trash,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
 full-wood-bucket,trash can,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
 full-wood-bucket,waste,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
+full-wood-bucket,wood,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
 full-wood-bucket,basket,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
+full-wood-bucket,capacity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
 full-wood-bucket,circular design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
 full-wood-bucket,clean up,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
 full-wood-bucket,cleaning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
-full-wood-bucket,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
+full-wood-bucket,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,2
+full-wood-bucket,cylinder,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
 full-wood-bucket,delete,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
+full-wood-bucket,domestic tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
+full-wood-bucket,garden,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
+full-wood-bucket,handleless,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
+full-wood-bucket,household item,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
 full-wood-bucket,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
 full-wood-bucket,litter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
+full-wood-bucket,manual labor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
+full-wood-bucket,open top,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
 full-wood-bucket,recycle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
 full-wood-bucket,remove,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
 full-wood-bucket,rubbish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
-full-wood-bucket,storage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
+full-wood-bucket,rustic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
+full-wood-bucket,simplistic design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
+full-wood-bucket,storage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,2
 full-wood-bucket,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
+full-wood-bucket,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
+full-wood-bucket,vertical lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
+full-wood-bucket,volume,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
+full-wood-bucket,water carrier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
+full-wood-bucket,ancient,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
+full-wood-bucket,craft,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
 full-wood-bucket,digital interface,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
+full-wood-bucket,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
+full-wood-bucket,homestead,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
 full-wood-bucket,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
 full-wood-bucket,organization,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1
+full-wood-bucket,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
+full-wood-bucket,primitive,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nMJQgXxdTirKq32OkXIjHyv,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.813709,,1
 full-wood-bucket,slatted pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QslNiOYtGavOYqJYHSRVkzME,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.019431,,1

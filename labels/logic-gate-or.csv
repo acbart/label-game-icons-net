@@ -1,21 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 logic-gate-or,AND gate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
-logic-gate-or,boolean algebra,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
+logic-gate-or,OR gate,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
+logic-gate-or,boolean algebra,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,2
 logic-gate-or,circuit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
+logic-gate-or,circuit design,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
+logic-gate-or,digital logic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
 logic-gate-or,input,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
-logic-gate-or,logic gate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
+logic-gate-or,input-output,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
+logic-gate-or,logic gate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,2
 logic-gate-or,output,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
+logic-gate-or,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
 logic-gate-or,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
 logic-gate-or,analog data,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
+logic-gate-or,arc shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
+logic-gate-or,binary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
 logic-gate-or,binary operations,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
-logic-gate-or,computation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
+logic-gate-or,computation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,2
+logic-gate-or,computing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
+logic-gate-or,control systems,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
+logic-gate-or,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
+logic-gate-or,diagram,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
 logic-gate-or,digital circuit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
+logic-gate-or,electrical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
 logic-gate-or,electrical engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
-logic-gate-or,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
+logic-gate-or,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,2
+logic-gate-or,embedded systems,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
+logic-gate-or,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
 logic-gate-or,flow direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
 logic-gate-or,machine logic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
-logic-gate-or,signal processing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
-logic-gate-or,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
+logic-gate-or,schematic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
+logic-gate-or,signal processing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,2
+logic-gate-or,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
+logic-gate-or,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,2
 logic-gate-or,arrows,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
 logic-gate-or,data manipulation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
-logic-gate-or,processor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,1
+logic-gate-or,integration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lllCFjssJsso7WgE0k83a0M2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.392974,,1
+logic-gate-or,processor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jez6jOdtgAp1z5GBwGGAbMDx,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.685532,,2

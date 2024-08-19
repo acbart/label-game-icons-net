@@ -1,25 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 inverted-dice-6,board games,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
-inverted-dice-6,chance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
-inverted-dice-6,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
+inverted-dice-6,chance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,2
+inverted-dice-6,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,2
 inverted-dice-6,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
-inverted-dice-6,luck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
+inverted-dice-6,luck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,2
 inverted-dice-6,number six,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
+inverted-dice-6,pips,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DwtHSxpzHW5zjgvFUI4J4Zkh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.810837,,1
 inverted-dice-6,random,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
-inverted-dice-6,counting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
-inverted-dice-6,cube,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
+inverted-dice-6,roll,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DwtHSxpzHW5zjgvFUI4J4Zkh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.810837,,1
+inverted-dice-6,six,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DwtHSxpzHW5zjgvFUI4J4Zkh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.810837,,1
+inverted-dice-6,board game,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DwtHSxpzHW5zjgvFUI4J4Zkh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.810837,,1
+inverted-dice-6,counting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,2
+inverted-dice-6,cube,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,2
 inverted-dice-6,decision making,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
-inverted-dice-6,dots,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
+inverted-dice-6,dots,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,2
 inverted-dice-6,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
 inverted-dice-6,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
-inverted-dice-6,mathematics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
-inverted-dice-6,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
+inverted-dice-6,gaming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DwtHSxpzHW5zjgvFUI4J4Zkh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.810837,,1
+inverted-dice-6,mathematics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,2
+inverted-dice-6,number,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DwtHSxpzHW5zjgvFUI4J4Zkh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.810837,,1
+inverted-dice-6,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,2
 inverted-dice-6,prediction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
-inverted-dice-6,probability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
+inverted-dice-6,probability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,2
+inverted-dice-6,randomness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DwtHSxpzHW5zjgvFUI4J4Zkh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.810837,,1
 inverted-dice-6,rolling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
 inverted-dice-6,scoring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
-inverted-dice-6,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
-inverted-dice-6,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
+inverted-dice-6,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,2
+inverted-dice-6,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,2
+inverted-dice-6,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DwtHSxpzHW5zjgvFUI4J4Zkh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.810837,,1
+inverted-dice-6,alignment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DwtHSxpzHW5zjgvFUI4J4Zkh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.810837,,1
+inverted-dice-6,arrangement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DwtHSxpzHW5zjgvFUI4J4Zkh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.810837,,1
+inverted-dice-6,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DwtHSxpzHW5zjgvFUI4J4Zkh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.810837,,1
+inverted-dice-6,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DwtHSxpzHW5zjgvFUI4J4Zkh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.810837,,1
 inverted-dice-6,sports,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
 inverted-dice-6,tactile,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1
+inverted-dice-6,tessellation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DwtHSxpzHW5zjgvFUI4J4Zkh,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.810837,,1
 inverted-dice-6,tournament,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6JzMA5ue9hMepMPm9cjeaZHc,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.335833,,1

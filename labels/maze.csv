@@ -1,24 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-maze,labyrinth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
-maze,maze,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
+maze,escape route,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sJ59ENcrWShfHWuli7MJzlHl,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.240460,,1
+maze,exploration,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sJ59ENcrWShfHWuli7MJzlHl,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.240460,,1
+maze,labyrinth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,2
+maze,maze,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,2
 maze,pathfinding,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
+maze,pathway,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sJ59ENcrWShfHWuli7MJzlHl,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.240460,,1
 maze,problem solving,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
-maze,puzzle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
+maze,puzzle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,2
 maze,square,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
-maze,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
-maze,complexity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
+maze,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,2
+maze,complexity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,2
+maze,confusion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sJ59ENcrWShfHWuli7MJzlHl,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.240460,,1
 maze,conundrum,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
+maze,corridors,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sJ59ENcrWShfHWuli7MJzlHl,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.240460,,1
+maze,decision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sJ59ENcrWShfHWuli7MJzlHl,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.240460,,1
 maze,entanglement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
+maze,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sJ59ENcrWShfHWuli7MJzlHl,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.240460,,1
 maze,goal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
-maze,intricacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
-maze,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
-maze,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
-maze,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
-maze,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
+maze,intricacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,2
+maze,journey,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sJ59ENcrWShfHWuli7MJzlHl,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.240460,,1
+maze,logical thinking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sJ59ENcrWShfHWuli7MJzlHl,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.240460,,1
+maze,mind game,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sJ59ENcrWShfHWuli7MJzlHl,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.240460,,1
+maze,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,2
+maze,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,2
+maze,progress,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sJ59ENcrWShfHWuli7MJzlHl,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.240460,,1
+maze,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,2
+maze,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,2
+maze,trap,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sJ59ENcrWShfHWuli7MJzlHl,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.240460,,1
 maze,abstraction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
-maze,blockage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
+maze,blockage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,2
 maze,decision-making,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
 maze,direction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
-maze,grid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
+maze,grid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,2
+maze,harmony,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sJ59ENcrWShfHWuli7MJzlHl,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.240460,,1
+maze,organization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sJ59ENcrWShfHWuli7MJzlHl,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.240460,,1
 maze,quest,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1
 maze,symbolic journey,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HXUm1zJVVdQzfKVFSt8Roylw,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.392152,,1

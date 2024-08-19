@@ -1,26 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-flour,agriculture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
+flour,agriculture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,2
 flour,agronomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
-flour,farming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
+flour,bag,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
+flour,baking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
+flour,cooking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
+flour,farming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,2
 flour,fertilizer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
+flour,flour,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
+flour,food,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
+flour,ingredient,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
 flour,plant growth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
+flour,wheat symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
+flour,cereal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
+flour,circle motif,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
+flour,contents,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
 flour,crop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
 flour,cultivation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
 flour,food production,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
 flour,gardening,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
-flour,grain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
-flour,harvest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
+flour,grain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,2
+flour,grocery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
+flour,harvest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,2
 flour,horticulture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
+flour,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
 flour,natural resources,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
 flour,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
 flour,organic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
-flour,produce,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
-flour,sack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
+flour,produce,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,2
+flour,sack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,2
 flour,seed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
-flour,wheat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
+flour,storage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
+flour,supplies,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
+flour,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
+flour,wheat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,2
+flour,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
 flour,commodities,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
 flour,earth,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
 flour,eco-friendly,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
 flour,ecology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
 flour,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
+flour,mill,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
+flour,pictogram,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1
 flour,provision,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_u0LE8EwoSkBVCE2Px8XZ81QH,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.924223,,1
+flour,silo,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DvU2ssNjkUWsec0kMCqNg4ez,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.477078,,1

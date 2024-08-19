@@ -1,31 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 parmecia,bacteria,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
 parmecia,cell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
+parmecia,cellular structure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.926810,,1
+parmecia,ciliate,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.926810,,1
 parmecia,disease,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
 parmecia,germs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
 parmecia,infection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
-parmecia,microbiology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
-parmecia,microorganism,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
+parmecia,microbiology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,2
+parmecia,microorganism,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,2
 parmecia,microscopic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
+parmecia,microscopic life,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.926810,,1
+parmecia,parmecia,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.926810,,1
 parmecia,pathogen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
+parmecia,protozoa,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.926810,,1
+parmecia,unicellular organism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.926810,,1
 parmecia,virus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
+parmecia,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.926810,,1
 parmecia,amueba,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
 parmecia,antibacterial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
 parmecia,biological,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
-parmecia,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
+parmecia,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,2
 parmecia,contagion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
 parmecia,contamination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
 parmecia,epidemic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
 parmecia,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
 parmecia,immunity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
 parmecia,life sciences,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
+parmecia,magnified view,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.926810,,1
 parmecia,microscope,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
 parmecia,mutation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
-parmecia,organism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
+parmecia,organism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,2
 parmecia,organism structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
-parmecia,petri dish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
-parmecia,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
+parmecia,petri dish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,2
+parmecia,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,2
+parmecia,science illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.926810,,1
 parmecia,spores,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
-parmecia,cell division,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
+parmecia,cell division,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,2
+parmecia,circular motif,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.927810,,1
+parmecia,educational,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.927810,,1
 parmecia,evolution,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
+parmecia,geometric,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.927810,,1
 parmecia,germination,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e1ju2dcMTNnObtAZtBLTk3G1,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.593572,,1
+parmecia,natural pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.927810,,1
+parmecia,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.927810,,1
+parmecia,petal-like design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.927810,,1
+parmecia,symmetry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qD49aANoI6DbzVB7tQEik7WB,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.926810,,1

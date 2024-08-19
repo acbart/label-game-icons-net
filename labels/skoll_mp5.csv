@@ -1,26 +1,55 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 skoll_mp5,discovery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
 skoll_mp5,experiment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
+skoll_mp5,firearm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.185787,,1
+skoll_mp5,gun,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.185787,,1
 skoll_mp5,laboratory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
 skoll_mp5,lens,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
 skoll_mp5,microscope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
 skoll_mp5,observation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
 skoll_mp5,research,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
+skoll_mp5,rifle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
 skoll_mp5,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
 skoll_mp5,scientific,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
+skoll_mp5,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.185787,,1
+skoll_mp5,action,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
 skoll_mp5,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
+skoll_mp5,arms,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
+skoll_mp5,assault,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
 skoll_mp5,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
 skoll_mp5,chemistry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
+skoll_mp5,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
+skoll_mp5,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
+skoll_mp5,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
+skoll_mp5,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
+skoll_mp5,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
 skoll_mp5,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
 skoll_mp5,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
 skoll_mp5,field study,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
+skoll_mp5,firepower,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
 skoll_mp5,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
+skoll_mp5,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
 skoll_mp5,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
 skoll_mp5,inspection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
 skoll_mp5,instrument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
+skoll_mp5,law enforcement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
 skoll_mp5,magnification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
+skoll_mp5,martial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
+skoll_mp5,military,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
 skoll_mp5,optics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
-skoll_mp5,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
+skoll_mp5,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
+skoll_mp5,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,2
+skoll_mp5,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
+skoll_mp5,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
+skoll_mp5,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
+skoll_mp5,shooting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
+skoll_mp5,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
 skoll_mp5,study,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
+skoll_mp5,symbolic violence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
+skoll_mp5,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
 skoll_mp5,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
+skoll_mp5,threat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
 skoll_mp5,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8AK6DvDkWSMXK3YhyMb3zJrM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.916525,,1
+skoll_mp5,abstract shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
+skoll_mp5,industrial design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1
+skoll_mp5,mechanical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GarxDONgLUh8PrsWfHgfYD88,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.186793,,1

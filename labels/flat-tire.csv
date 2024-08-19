@@ -1,23 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+flat-tire,air pressure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
 flat-tire,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
+flat-tire,damage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
+flat-tire,flat tire,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
+flat-tire,puncture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
 flat-tire,slow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
 flat-tire,snail,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
-flat-tire,wheel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
+flat-tire,warning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
+flat-tire,wheel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,2
+flat-tire,accident,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
+flat-tire,automobile,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
 flat-tire,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
+flat-tire,breakdown,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
+flat-tire,car maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
 flat-tire,carriage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
 flat-tire,cycle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
+flat-tire,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
 flat-tire,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
 flat-tire,gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
+flat-tire,inflation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
 flat-tire,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
+flat-tire,mechanical failure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
 flat-tire,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
 flat-tire,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
 flat-tire,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
 flat-tire,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
+flat-tire,repair,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
 flat-tire,revolution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
+flat-tire,roadside,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
+flat-tire,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
+flat-tire,spare tire,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
 flat-tire,speed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
-flat-tire,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
+flat-tire,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,2
 flat-tire,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
+flat-tire,tire explosion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
 flat-tire,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
 flat-tire,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
-flat-tire,vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
+flat-tire,trouble,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
+flat-tire,vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,2
 flat-tire,adventure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BE1QrbqbKQGQ4pi1OGOP1YSE,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.899222,,1
+flat-tire,circular,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
+flat-tire,hubcap,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
+flat-tire,motoring,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
+flat-tire,rim,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1
+flat-tire,transport,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o1uhYk5pgDJYxu7gjK8njQg0,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.380654,,1

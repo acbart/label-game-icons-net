@@ -1,23 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+glowing-artifact,abstract,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,artifact,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.082126,,1
 glowing-artifact,burst,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
 glowing-artifact,center,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
-glowing-artifact,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
+glowing-artifact,emitting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,2
 glowing-artifact,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
+glowing-artifact,glow,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,illumination,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
 glowing-artifact,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
+glowing-artifact,mystical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,radiance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,artifact design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,beacon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,bright,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,central focus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
 glowing-artifact,central point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
+glowing-artifact,circular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
 glowing-artifact,concentration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
+glowing-artifact,cosmic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
 glowing-artifact,detonation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
 glowing-artifact,dynamism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
 glowing-artifact,effect,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
+glowing-artifact,enigmatic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
 glowing-artifact,explosive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
-glowing-artifact,flare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
+glowing-artifact,fantasy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,flare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,2
 glowing-artifact,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
+glowing-artifact,highlight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
 glowing-artifact,intensity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
+glowing-artifact,light source,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,luminescence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
 glowing-artifact,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
-glowing-artifact,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
+glowing-artifact,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,ornament,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,2
 glowing-artifact,radiating,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
+glowing-artifact,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
 glowing-artifact,shockwave,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
 glowing-artifact,sudden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
+glowing-artifact,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
+glowing-artifact,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_z0izleZk0rFyhk7AvKNyV1tr,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.083139,,1
 glowing-artifact,abstraction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
 glowing-artifact,chaos,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1
 glowing-artifact,surprise,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n0aSYyXRiM7X00dOijNi3GPn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.077868,,1

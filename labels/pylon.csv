@@ -1,29 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-pylon,electricity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
+pylon,electric grid,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LGF3wlRGqTTgX46Uc4Ksq5VM,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.094299,,1
+pylon,electricity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
+pylon,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
 pylon,energy supply,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,infrastructure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,power lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,pylon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
+pylon,infrastructure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
+pylon,power lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
+pylon,pylon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
 pylon,supply,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,transmission,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
+pylon,tower,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LGF3wlRGqTTgX46Uc4Ksq5VM,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.094299,,1
+pylon,transmission,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
 pylon,transmission tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
 pylon,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,grid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
+pylon,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
+pylon,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
+pylon,framework,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LGF3wlRGqTTgX46Uc4Ksq5VM,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.094299,,1
+pylon,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LGF3wlRGqTTgX46Uc4Ksq5VM,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.094299,,1
+pylon,grid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
+pylon,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
 pylon,industrial design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
 pylon,lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,metal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,stability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
+pylon,metal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
+pylon,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
+pylon,public service,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LGF3wlRGqTTgX46Uc4Ksq5VM,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.094299,,1
+pylon,stability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
 pylon,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
+pylon,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
+pylon,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LGF3wlRGqTTgX46Uc4Ksq5VM,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.094299,,1
 pylon,support structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
 pylon,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
 pylon,utilities,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,communication,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
+pylon,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LGF3wlRGqTTgX46Uc4Ksq5VM,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.094299,,1
+pylon,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LGF3wlRGqTTgX46Uc4Ksq5VM,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.094299,,1
+pylon,centralized,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LGF3wlRGqTTgX46Uc4Ksq5VM,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.094299,,1
+pylon,communication,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
 pylon,crossbeam,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,height,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
-pylon,symmetrical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,1
+pylon,height,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2
+pylon,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LGF3wlRGqTTgX46Uc4Ksq5VM,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.094299,,1
+pylon,symmetrical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_T2O5adzM4n6olK9kcc2vTrri,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.438294,,2

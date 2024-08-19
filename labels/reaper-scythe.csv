@@ -1,26 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-reaper-scythe,death,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
-reaper-scythe,grim reaper,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
-reaper-scythe,mortality,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
-reaper-scythe,scythe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
-reaper-scythe,skull,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
-reaper-scythe,afterlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
-reaper-scythe,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
+reaper-scythe,death,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,2
+reaper-scythe,endings,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wAjlaEoR4B4v7DM3iac8K60R,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.384658,,1
+reaper-scythe,fatality,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wAjlaEoR4B4v7DM3iac8K60R,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.384658,,1
+reaper-scythe,grim,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wAjlaEoR4B4v7DM3iac8K60R,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.384658,,1
+reaper-scythe,grim reaper,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,2
+reaper-scythe,metaphor,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wAjlaEoR4B4v7DM3iac8K60R,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.384658,,1
+reaper-scythe,mortality,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,2
+reaper-scythe,reaper,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wAjlaEoR4B4v7DM3iac8K60R,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.384658,,1
+reaper-scythe,scythe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,2
+reaper-scythe,skull,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,2
+reaper-scythe,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wAjlaEoR4B4v7DM3iac8K60R,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.384658,,1
+reaper-scythe,afterlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,2
+reaper-scythe,agriculture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wAjlaEoR4B4v7DM3iac8K60R,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.384658,,1
+reaper-scythe,blade,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wAjlaEoR4B4v7DM3iac8K60R,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.384658,,1
+reaper-scythe,cutting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wAjlaEoR4B4v7DM3iac8K60R,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.384658,,1
+reaper-scythe,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,2
 reaper-scythe,darkness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
 reaper-scythe,eerie,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
 reaper-scythe,end,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
-reaper-scythe,fear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
+reaper-scythe,fear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,2
 reaper-scythe,finality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
 reaper-scythe,ghost,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
-reaper-scythe,harbinger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
+reaper-scythe,harbinger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,2
+reaper-scythe,harvest,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wAjlaEoR4B4v7DM3iac8K60R,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.384658,,1
 reaper-scythe,harvester of souls,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
 reaper-scythe,horror,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
 reaper-scythe,memento mori,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
 reaper-scythe,mythical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
-reaper-scythe,mythology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
+reaper-scythe,mythology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,2
 reaper-scythe,nightmare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
-reaper-scythe,ominous,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
+reaper-scythe,ominous,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,2
+reaper-scythe,spirituality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wAjlaEoR4B4v7DM3iac8K60R,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.384658,,1
 reaper-scythe,spooky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
 reaper-scythe,supernatural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
 reaper-scythe,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1
+reaper-scythe,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wAjlaEoR4B4v7DM3iac8K60R,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.384658,,1
+reaper-scythe,tools,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wAjlaEoR4B4v7DM3iac8K60R,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.384658,,1
+reaper-scythe,transformation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wAjlaEoR4B4v7DM3iac8K60R,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.384658,,1
 reaper-scythe,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xLJvwRAzp4omercqqutpU34z,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.764574,,1

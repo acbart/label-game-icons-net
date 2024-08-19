@@ -1,25 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-scallop,curved lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
-scallop,marine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
-scallop,shell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.881186,,1
-scallop,shellfish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
+scallop,curved lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,2
+scallop,marine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,2
+scallop,scallop,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
+scallop,seafood,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
+scallop,shell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.881186,,2
+scallop,shellfish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,2
 scallop,simplified,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
 scallop,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
+scallop,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
 scallop,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
+scallop,bivalve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
 scallop,bold,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
 scallop,center,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
+scallop,coastal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
 scallop,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
 scallop,division,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
 scallop,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
 scallop,fan,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
+scallop,fan shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
 scallop,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
 scallop,mussel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
-scallop,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
-scallop,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
+scallop,natural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
+scallop,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,2
+scallop,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,2
+scallop,ocean life,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
 scallop,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
 scallop,oyster,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.881186,,1
-scallop,sea,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
+scallop,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
+scallop,sea,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,2
 scallop,sections,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
+scallop,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
+scallop,v-shaped,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
+scallop,biology,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
 scallop,conch,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
 scallop,graphic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
+scallop,harvest,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
+scallop,nautical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
+scallop,protection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
 scallop,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OUjQtB6GltcrtUswve7syvPy,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.882185,,1
+scallop,texture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1
+scallop,wave,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_poCfzaRhcZUMG1zG9eaJWKgk,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.710318,,1

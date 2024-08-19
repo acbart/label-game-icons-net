@@ -1,24 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+maracas,handheld,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
 maracas,instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
-maracas,maracas,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
-maracas,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
-maracas,percussion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
-maracas,rhythm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
-maracas,beat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
-maracas,celebration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
+maracas,instrument pair,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
+maracas,latino culture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
+maracas,maracas,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,2
+maracas,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,2
+maracas,musical instrument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
+maracas,percussion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,2
+maracas,rhythm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,2
+maracas,shaking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
+maracas,auditory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
+maracas,beat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,2
+maracas,celebration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,2
 maracas,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
-maracas,dance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
-maracas,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
+maracas,dance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,2
+maracas,duo,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
+maracas,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
+maracas,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,2
 maracas,festive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
+maracas,festivity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
 maracas,folk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
 maracas,joyful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
 maracas,latin,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
+maracas,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
 maracas,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
+maracas,musician,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
 maracas,pair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
 maracas,party,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
-maracas,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
+maracas,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,2
+maracas,samba,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
 maracas,shaker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
-maracas,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
+maracas,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,2
+maracas,sound waves,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
+maracas,syncopation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
+maracas,tempo,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
+maracas,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
+maracas,vibration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fTfyz44SpCji0h6cZGv5NLgL,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.623460,,1
 maracas,celebrate,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
 maracas,handle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1
 maracas,musical expression,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QLxY3qFS7DzUg3twuAOs7a4b,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.743572,,1

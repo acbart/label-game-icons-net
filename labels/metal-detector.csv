@@ -1,26 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 metal-detector,analysis,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.812104,,1
-metal-detector,discovery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.812104,,1
+metal-detector,circular wave,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
+metal-detector,discovery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.812104,,2
+metal-detector,find,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
 metal-detector,focus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.812104,,1
 metal-detector,investigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.812104,,1
+metal-detector,locate,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
 metal-detector,magnifying glass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.812104,,1
-metal-detector,search,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.812104,,1
+metal-detector,metal-detector,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
+metal-detector,search,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.812104,,2
+metal-detector,searching,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
+metal-detector,treasure hunting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
+metal-detector,archaeology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
+metal-detector,beeping,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
+metal-detector,buried,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
+metal-detector,concealed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
 metal-detector,curiosity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
-metal-detector,detection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
+metal-detector,detection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,2
+metal-detector,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
+metal-detector,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
 metal-detector,examination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
-metal-detector,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.812104,,1
+metal-detector,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.812104,,2
+metal-detector,hobby,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
 metal-detector,inquiry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
 metal-detector,inspection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
+metal-detector,investigate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
 metal-detector,lens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.812104,,1
 metal-detector,magnification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
+metal-detector,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
 metal-detector,scrutiny,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
+metal-detector,sensor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
+metal-detector,signal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
+metal-detector,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
+metal-detector,uncover,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
 metal-detector,zoom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
 metal-detector,clarity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
 metal-detector,emphasis,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
 metal-detector,enigmatic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
 metal-detector,focus point,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
 metal-detector,instrument,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
+metal-detector,line and curve,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
 metal-detector,questioning,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
+metal-detector,ring shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
+metal-detector,shovel shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_on1wtBnSoDTBp2UeMnec4YN2,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.873675,,1
 metal-detector,suspicion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
-metal-detector,tool,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1
+metal-detector,tool,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,2
 metal-detector,visibility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9142G7MOsoFTZZX8STXve2KC,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.813106,,1

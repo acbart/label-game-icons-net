@@ -1,27 +1,54 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 turban,butterfly,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
+turban,cultural symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,head covering,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,headdress,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,headwear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,identity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
 turban,insect,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
 turban,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
+turban,symbolism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
 turban,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
+turban,turban,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
 turban,wings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
 turban,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
+turban,abstract design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
 turban,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
 turban,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
 turban,beauty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
 turban,biodiversity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
+turban,ceremonial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,community,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,custom,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
 turban,delicate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
 turban,eco,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
-turban,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
+turban,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,2
 turban,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
+turban,ethnic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,expression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
 turban,flight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
+turban,formal wear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
 turban,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
+turban,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
 turban,moth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
 turban,patterns,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
 turban,pollination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
+turban,religious,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,spiritual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
 turban,transformation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
 turban,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
+turban,wrap,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
 turban,artistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
 turban,decorative,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
 turban,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
+turban,mystical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
 turban,ornamental,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1
+turban,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,personal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,protection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
+turban,style,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UOJuQECOVFG9quZ3K1QRasLN,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.817200,,1
 turban,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2JR2bX53Fb5Pv2DppZ2ptGsH,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.416771,,1

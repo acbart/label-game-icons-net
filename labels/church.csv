@@ -1,25 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-church,building,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
+church,building,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,2
+church,christianity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
+church,church,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
 church,clock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
 church,clock face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
-church,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
-church,tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
+church,cross,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
+church,faith,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
+church,place of worship,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
+church,religion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
+church,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,2
+church,tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,2
 church,administrative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
-church,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,2
+church,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,3
+church,assembly,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
 church,cityscape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
 church,civic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
-church,community,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
+church,community,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,2
+church,gathering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
 church,government,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
 church,historic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
+church,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
 church,institution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
-church,landmark,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
+church,landmark,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,2
 church,municipal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
 church,public building,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
-church,steeple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
+church,sacred,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
+church,spires,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
+church,spirituality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
+church,steeple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,2
+church,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
 church,time,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
+church,worship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
+church,community center,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
 church,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
-church,heritage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
+church,figurehead,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
+church,gothic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
+church,heritage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,2
+church,historical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
 church,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
+church,medieval,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
+church,monument,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
 church,office,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
 church,skyline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1
+church,tradition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PHRARYXuptDLEsGA8aXLXYvI,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.906069,,1
 church,urban,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_OIvV7nUN8xOfRoPxeZU4NSPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.244009,,1

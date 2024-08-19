@@ -1,25 +1,53 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 skateboard,bandage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
+skateboard,board,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
+skateboard,deck,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.532802,,1
 skateboard,first aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
 skateboard,healing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
 skateboard,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
 skateboard,injury,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
 skateboard,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
+skateboard,skateboard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
+skateboard,skating,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
+skateboard,wheels,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
 skateboard,wound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
+skateboard,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
 skateboard,aid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
+skateboard,axle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.532802,,1
+skateboard,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
 skateboard,care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
 skateboard,cover,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
 skateboard,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
+skateboard,extreme sports,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
+skateboard,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
+skateboard,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.532802,,1
 skateboard,injuries,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
+skateboard,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
 skateboard,orthopedic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
 skateboard,plaster,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
 skateboard,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
 skateboard,recover,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
+skateboard,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
 skateboard,repair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
+skateboard,ride,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
 skateboard,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
+skateboard,sports,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
+skateboard,street culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.532802,,1
 skateboard,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
+skateboard,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.532802,,1
+skateboard,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
 skateboard,treatment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
+skateboard,tricks,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
+skateboard,urban,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
+skateboard,youth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
+skateboard,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.532802,,1
 skateboard,adjust,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
+skateboard,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.532802,,1
+skateboard,emblem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.532802,,1
+skateboard,gear,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.532802,,1
+skateboard,grip tape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.532802,,1
+skateboard,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.532802,,1
+skateboard,outdoors,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_P9w2UkqxXLvJe6ufMSQeEDwj,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.531802,,1
 skateboard,patch,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
 skateboard,seal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1
 skateboard,secure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bMBU7GvLJ0257rNYgJk2zxrf,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.833420,,1

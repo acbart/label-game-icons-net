@@ -1,27 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-shaking-hands,agreement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
-shaking-hands,collaboration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
-shaking-hands,cooperation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
+shaking-hands,agreement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,3
+shaking-hands,business deal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1
+shaking-hands,collaboration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
+shaking-hands,cooperation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
 shaking-hands,deal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
-shaking-hands,handshake,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
-shaking-hands,partnership,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
-shaking-hands,teamwork,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
+shaking-hands,handshake,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
+shaking-hands,partnership,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
+shaking-hands,teamwork,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
 shaking-hands,accord,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
-shaking-hands,alliance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
+shaking-hands,alliance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
 shaking-hands,bargain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
 shaking-hands,business,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
+shaking-hands,compact,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1
+shaking-hands,congratulations,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1
 shaking-hands,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
 shaking-hands,consensus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
-shaking-hands,contract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
+shaking-hands,contract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
 shaking-hands,engagement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
-shaking-hands,friendship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
-shaking-hands,greeting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
+shaking-hands,friendship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
+shaking-hands,greeting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
 shaking-hands,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
+shaking-hands,introduction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1
 shaking-hands,meeting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
-shaking-hands,negotiation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
-shaking-hands,solidarity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
-shaking-hands,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
-shaking-hands,trust,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
+shaking-hands,mutual understanding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1
+shaking-hands,negotiation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,3
+shaking-hands,pact,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1
+shaking-hands,solidarity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
+shaking-hands,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
+shaking-hands,togetherness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1
+shaking-hands,trust,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
 shaking-hands,union,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
-shaking-hands,unity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
+shaking-hands,unity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,2
+shaking-hands,agreement signing,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1
+shaking-hands,bonding,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1
 shaking-hands,bonds,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Jl5FanyDLx3xkkLZXEuzcNNU,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.736957,,1
+shaking-hands,bridge-building,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1
+shaking-hands,cohesion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1
+shaking-hands,commitment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1
+shaking-hands,gesture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1
+shaking-hands,peace,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1
+shaking-hands,symbolic interaction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pmay8zNH0tDpbml86k4RWmks,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.237578,,1

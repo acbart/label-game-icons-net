@@ -1,28 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-cuckoo-clock,clock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
+cuckoo-clock,clock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,2
 cuckoo-clock,clock face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
-cuckoo-clock,house,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
+cuckoo-clock,cuckoo-clock,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
+cuckoo-clock,house,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,2
 cuckoo-clock,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
 cuckoo-clock,musical notes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
 cuckoo-clock,musical theme,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
+cuckoo-clock,traditional,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
+cuckoo-clock,antique,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
+cuckoo-clock,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
+cuckoo-clock,bird,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
+cuckoo-clock,chimes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
 cuckoo-clock,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
+cuckoo-clock,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
+cuckoo-clock,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
 cuckoo-clock,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
+cuckoo-clock,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
 cuckoo-clock,home,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
+cuckoo-clock,hourly,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
+cuckoo-clock,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
 cuckoo-clock,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
+cuckoo-clock,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
+cuckoo-clock,nostalgia,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
 cuckoo-clock,notation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
+cuckoo-clock,pendulum,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
 cuckoo-clock,residence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
-cuckoo-clock,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
+cuckoo-clock,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,2
 cuckoo-clock,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
 cuckoo-clock,tempo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
-cuckoo-clock,time,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
+cuckoo-clock,time,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,2
 cuckoo-clock,time management,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
+cuckoo-clock,vintage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
+cuckoo-clock,whimsical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
 cuckoo-clock,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
 cuckoo-clock,alarm,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
 cuckoo-clock,auditory,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
 cuckoo-clock,creativity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
+cuckoo-clock,discordant,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
+cuckoo-clock,figurative,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
 cuckoo-clock,indoor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
 cuckoo-clock,interior,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
 cuckoo-clock,lifestyle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
 cuckoo-clock,living space,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
-cuckoo-clock,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1
+cuckoo-clock,manual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lKQKwPCZlLQgTILDkAfEU3WZ,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.776077,,1
+cuckoo-clock,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,2
 cuckoo-clock,visual representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cuD1ze8PJzAL0yCGfSNTKuJ8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.449232,,1

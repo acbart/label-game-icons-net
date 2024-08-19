@@ -1,26 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+toothbrush,bristles,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
 toothbrush,brushing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
-toothbrush,clean,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
-toothbrush,dental care,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
+toothbrush,clean,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,2
+toothbrush,cleaning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
+toothbrush,dental care,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,2
+toothbrush,fresh breath,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
 toothbrush,hygiene,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
-toothbrush,oral hygiene,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
-toothbrush,toothbrush,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.385085,,1
-toothbrush,toothpaste,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
+toothbrush,oral hygiene,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,2
+toothbrush,plaque removal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
+toothbrush,teeth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
+toothbrush,toothbrush,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.385085,,2
+toothbrush,toothpaste,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,2
+toothbrush,bathroom,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
 toothbrush,bright,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
+toothbrush,care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
 toothbrush,cleansing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
-toothbrush,daily habit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
+toothbrush,daily habit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,2
+toothbrush,daily routine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
 toothbrush,dental products,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
-toothbrush,freshness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
-toothbrush,grooming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
-toothbrush,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
-toothbrush,minty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
+toothbrush,dentist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
+toothbrush,floss,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
+toothbrush,freshness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,2
+toothbrush,grooming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,2
+toothbrush,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,2
+toothbrush,health routine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
+toothbrush,minty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,2
+toothbrush,morning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
 toothbrush,mouth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
-toothbrush,personal care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
-toothbrush,routine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,2
+toothbrush,personal care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,2
+toothbrush,routine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,3
 toothbrush,sanitary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
+toothbrush,self-care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
 toothbrush,shine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
-toothbrush,sparkle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
+toothbrush,sparkle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,2
+toothbrush,sparkling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
 toothbrush,stars,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
 toothbrush,wash,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
-toothbrush,whitening,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
+toothbrush,whitening,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,2
+toothbrush,germ-free,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1
 toothbrush,habit,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wODadUT7Zx6aoafmBN1oS8Fz,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.386032,,1
+toothbrush,mint,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_fn5X1MUjE9kqCHG04LLZ11gq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.567290,,1

@@ -1,31 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-guitar,guitar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.946309,,1
+guitar,guitar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.946309,,2
 guitar,instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
-guitar,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
-guitar,string instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
-guitar,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
-guitar,band,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
-guitar,chord,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
+guitar,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,2
+guitar,musical instrument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FwtNPotg4BolR2Wd1BjpbLMU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.597935,,1
+guitar,string instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,2
+guitar,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FwtNPotg4BolR2Wd1BjpbLMU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.597935,,1
+guitar,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,2
+guitar,band,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,2
+guitar,chord,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,2
 guitar,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
-guitar,concert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
-guitar,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
+guitar,concert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,2
+guitar,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FwtNPotg4BolR2Wd1BjpbLMU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.597935,,1
+guitar,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FwtNPotg4BolR2Wd1BjpbLMU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.597935,,1
+guitar,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,2
+guitar,expression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FwtNPotg4BolR2Wd1BjpbLMU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.597935,,1
 guitar,folk music,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
-guitar,frets,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
-guitar,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
+guitar,frets,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,2
+guitar,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,2
 guitar,musical expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
 guitar,musical note,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
 guitar,musician,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
-guitar,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
-guitar,pick,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
+guitar,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,2
+guitar,pick,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,2
 guitar,playing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
 guitar,plucking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
-guitar,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
+guitar,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FwtNPotg4BolR2Wd1BjpbLMU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.597935,,1
+guitar,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,2
 guitar,strum,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
+guitar,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FwtNPotg4BolR2Wd1BjpbLMU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.597935,,1
 guitar,tuning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
 guitar,art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
+guitar,artistic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FwtNPotg4BolR2Wd1BjpbLMU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.597935,,1
 guitar,bass,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
+guitar,classic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FwtNPotg4BolR2Wd1BjpbLMU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.597935,,1
 guitar,classical music,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
 guitar,creative,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
 guitar,culture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
 guitar,gig,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1
+guitar,harmony,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FwtNPotg4BolR2Wd1BjpbLMU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.597935,,1
+guitar,icon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FwtNPotg4BolR2Wd1BjpbLMU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.597935,,1
+guitar,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FwtNPotg4BolR2Wd1BjpbLMU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.597935,,1
+guitar,music theory,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FwtNPotg4BolR2Wd1BjpbLMU,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.597935,,1
 guitar,sound waves,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4uW6LNOZPUP0k08lIZBDbQXo,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.947330,,1

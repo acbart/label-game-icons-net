@@ -1,27 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-family-house,building,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
+family-house,building,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,2
 family-house,doors,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
-family-house,dwelling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
-family-house,home,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
-family-house,house,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
+family-house,dwelling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,2
+family-house,family,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
+family-house,home,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,2
+family-house,house,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,2
 family-house,housing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
+family-house,living space,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
 family-house,residence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
-family-house,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
-family-house,windows,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
-family-house,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
+family-house,residential,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
+family-house,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,2
+family-house,windows,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,2
+family-house,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
+family-house,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,2
+family-house,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
+family-house,community,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
 family-house,domestic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
+family-house,domesticity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
+family-house,door,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
 family-house,establishment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
 family-house,facade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
 family-house,family home,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
-family-house,habitat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
-family-house,property,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
-family-house,real estate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
+family-house,habitat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,2
+family-house,homestead,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
+family-house,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
+family-house,property,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,2
+family-house,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
+family-house,real estate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,2
 family-house,residential area,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
-family-house,roof,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
-family-house,shelter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
+family-house,roof,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,2
+family-house,sanctuary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
+family-house,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
+family-house,shelter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,2
+family-house,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
 family-house,symmetrical design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
 family-house,townhouse,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
 family-house,apartment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
 family-house,cottage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
+family-house,identity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
+family-house,nesting,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
 family-house,suburban,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1
+family-house,unity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ryGKDccml1Yfg3THNYOdkQ5a,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.984779,,1
 family-house,urban,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SwzUlcKQsLj4He6P4PORQ72r,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.787333,,1

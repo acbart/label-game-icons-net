@@ -1,29 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-dripping-tube,chemical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,chemistry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,drop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,experiment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,laboratory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,liquid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
+dripping-tube,chemical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
+dripping-tube,chemistry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
+dripping-tube,dripping,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XOJ8UpwcZktxS7f1VhEfBjGV,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.816058,,1
+dripping-tube,drop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
+dripping-tube,experiment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
+dripping-tube,laboratory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
+dripping-tube,liquid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
+dripping-tube,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
 dripping-tube,scientific research,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,solution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,test tube,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
+dripping-tube,solution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
+dripping-tube,test tube,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
 dripping-tube,testing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
+dripping-tube,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
 dripping-tube,beaker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,biochemistry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
+dripping-tube,biochemistry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
+dripping-tube,container,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XOJ8UpwcZktxS7f1VhEfBjGV,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.816058,,1
 dripping-tube,drip,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
 dripping-tube,dropper,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,fluid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
+dripping-tube,fluid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
 dripping-tube,formula,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
 dripping-tube,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,medical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
+dripping-tube,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
+dripping-tube,medical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
 dripping-tube,mixture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
+dripping-tube,pouring,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XOJ8UpwcZktxS7f1VhEfBjGV,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.816058,,1
 dripping-tube,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,reaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,substance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
-dripping-tube,vial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
+dripping-tube,procedure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XOJ8UpwcZktxS7f1VhEfBjGV,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.816058,,1
+dripping-tube,reaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
+dripping-tube,research,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XOJ8UpwcZktxS7f1VhEfBjGV,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.816058,,1
+dripping-tube,substance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
+dripping-tube,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XOJ8UpwcZktxS7f1VhEfBjGV,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.816058,,1
+dripping-tube,vial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,2
+dripping-tube,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XOJ8UpwcZktxS7f1VhEfBjGV,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.816058,,1
 dripping-tube,alchemy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
+dripping-tube,education,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XOJ8UpwcZktxS7f1VhEfBjGV,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.816058,,1
+dripping-tube,icon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XOJ8UpwcZktxS7f1VhEfBjGV,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.816058,,1
 dripping-tube,petri dish,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0cmVDWp2usB1XDwt8dmveoWa,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.543138,,1
+dripping-tube,safety,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XOJ8UpwcZktxS7f1VhEfBjGV,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.816058,,1

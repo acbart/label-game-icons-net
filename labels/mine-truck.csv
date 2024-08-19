@@ -2,24 +2,54 @@ icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed
 mine-truck,building materials,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
 mine-truck,cement truck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.841131,,1
 mine-truck,concrete,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
-mine-truck,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.841131,,1
-mine-truck,heavy machinery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
+mine-truck,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.841131,,2
+mine-truck,engineering vehicle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,extraction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,hauling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,heavy machinery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,2
+mine-truck,mine-truck,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967057,,1
+mine-truck,mining,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
 mine-truck,mixer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
-mine-truck,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.841131,,1
+mine-truck,power,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,transport,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.841131,,2
 mine-truck,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
 mine-truck,building,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.841131,,1
+mine-truck,bulk,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,capacity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,cargo,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
 mine-truck,development,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
-mine-truck,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
+mine-truck,dump truck,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,durability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,energy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,2
 mine-truck,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
-mine-truck,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
+mine-truck,function,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,functionality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,ground,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,2
+mine-truck,industrial equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
 mine-truck,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.841131,,1
 mine-truck,infrastructure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
+mine-truck,job,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,load,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
 mine-truck,machine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
+mine-truck,manual labor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,productivity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,road,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
 mine-truck,roadwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
+mine-truck,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,terrain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
 mine-truck,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.841131,,1
-mine-truck,wheels,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
-mine-truck,worksite,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
+mine-truck,truck bed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,utilitarian,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,wheels,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,2
+mine-truck,workforce,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,worksite,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,2
 mine-truck,hard hat area,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
 mine-truck,job site,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
 mine-truck,project,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
-mine-truck,utility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,1
+mine-truck,task,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Z0jbVvlzz6FjRtpWHZjL1oVX,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.967954,,1
+mine-truck,utility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ONUE6FRgPe7wWqv8qYOT3u58,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.842143,,2

@@ -1,22 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-server-rack,IT infrastructure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
-server-rack,data center,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
-server-rack,database,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
-server-rack,server,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
-server-rack,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
-server-rack,system,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
+server-rack,IT infrastructure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
+server-rack,data center,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
+server-rack,database,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
+server-rack,server,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
+server-rack,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
+server-rack,system,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
+server-rack,backup,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bUYbWqNTbNAglFtqMImwS8h,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.183818,,1
+server-rack,cloud,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bUYbWqNTbNAglFtqMImwS8h,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.183818,,1
 server-rack,cloud computing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
+server-rack,cluster,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bUYbWqNTbNAglFtqMImwS8h,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.183818,,1
+server-rack,computing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bUYbWqNTbNAglFtqMImwS8h,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.183818,,1
 server-rack,connectivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
 server-rack,data management,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
-server-rack,grid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
-server-rack,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
-server-rack,hosting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
-server-rack,information,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
-server-rack,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
+server-rack,digital,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bUYbWqNTbNAglFtqMImwS8h,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.183818,,1
+server-rack,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bUYbWqNTbNAglFtqMImwS8h,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.183818,,1
+server-rack,grid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
+server-rack,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
+server-rack,hosting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
+server-rack,information,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
+server-rack,mainframe,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bUYbWqNTbNAglFtqMImwS8h,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.183818,,1
+server-rack,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
 server-rack,nodes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
-server-rack,processing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
-server-rack,rack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
-server-rack,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
+server-rack,platform,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bUYbWqNTbNAglFtqMImwS8h,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.183818,,1
+server-rack,processing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
+server-rack,rack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
+server-rack,service,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bUYbWqNTbNAglFtqMImwS8h,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.183818,,1
+server-rack,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
 server-rack,web services,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
-server-rack,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
+server-rack,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,2
+server-rack,business,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bUYbWqNTbNAglFtqMImwS8h,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.183818,,1
 server-rack,configuration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S0JYJkU66nenaGb7erTXyX2u,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.715014,,1
+server-rack,node,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bUYbWqNTbNAglFtqMImwS8h,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.183818,,1
+server-rack,parallel,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bUYbWqNTbNAglFtqMImwS8h,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.183818,,1
+server-rack,virtualization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1bUYbWqNTbNAglFtqMImwS8h,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.183818,,1

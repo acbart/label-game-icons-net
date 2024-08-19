@@ -1,27 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-colt-m1911,firearm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
+colt-m1911,firearm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,2
 colt-m1911,gun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
-colt-m1911,pistol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
-colt-m1911,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
+colt-m1911,gun silhouette,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
+colt-m1911,handgun,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
+colt-m1911,pistol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,2
+colt-m1911,trigger mechanism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
+colt-m1911,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,2
+colt-m1911,American firearm,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
+colt-m1911,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
 colt-m1911,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
 colt-m1911,ammunition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
+colt-m1911,ballistics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
 colt-m1911,barrel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
-colt-m1911,bullet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
-colt-m1911,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
+colt-m1911,bullet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,2
+colt-m1911,classic design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
+colt-m1911,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,2
 colt-m1911,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
 colt-m1911,crime,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
 colt-m1911,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
+colt-m1911,firepower,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
 colt-m1911,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
 colt-m1911,gangster,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
+colt-m1911,gun control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
+colt-m1911,gun ownership,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
+colt-m1911,gun rights,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
+colt-m1911,gun safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
+colt-m1911,gunsmithing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
 colt-m1911,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
-colt-m1911,law enforcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
-colt-m1911,military,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
+colt-m1911,law enforcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,2
+colt-m1911,marksmanship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
+colt-m1911,mechanical function,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
+colt-m1911,military,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,2
 colt-m1911,police,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
-colt-m1911,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
+colt-m1911,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,2
+colt-m1911,second amendment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
 colt-m1911,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
-colt-m1911,self-defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
+colt-m1911,self-defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,2
 colt-m1911,shoot,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
 colt-m1911,shooting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
+colt-m1911,shooting sport,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_zuAiMAbn0Q8XG0ocXHTExtuC,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.510173,,1
 colt-m1911,threat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
 colt-m1911,trigger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1
 colt-m1911,violence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ln431ZQ53WM7Gbjtey9XpICF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.220085,,1

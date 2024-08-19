@@ -1,26 +1,36 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-cowboy-boot,boot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
+cowboy-boot,boot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
 cowboy-boot,boots,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,cowboy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
+cowboy-boot,cowboy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
 cowboy-boot,cowboy boots,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,footwear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,spurs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,western,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
+cowboy-boot,footwear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
+cowboy-boot,rodeo,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OUKdIuv01WtEz3olKlrkBA4d,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.586369,,1
+cowboy-boot,spurs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
+cowboy-boot,western,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
+cowboy-boot,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
 cowboy-boot,authentic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
 cowboy-boot,classic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,country,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
+cowboy-boot,country,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
+cowboy-boot,cowpoke,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OUKdIuv01WtEz3olKlrkBA4d,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.586369,,1
 cowboy-boot,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
+cowboy-boot,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
 cowboy-boot,galloping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
+cowboy-boot,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
 cowboy-boot,horse riding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,leather,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,ranch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,rustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
+cowboy-boot,horses,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OUKdIuv01WtEz3olKlrkBA4d,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.586369,,1
+cowboy-boot,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
+cowboy-boot,leather,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
+cowboy-boot,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
+cowboy-boot,ranch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
+cowboy-boot,riding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OUKdIuv01WtEz3olKlrkBA4d,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.586369,,1
+cowboy-boot,rugged,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OUKdIuv01WtEz3olKlrkBA4d,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.586369,,1
+cowboy-boot,rustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
 cowboy-boot,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
-cowboy-boot,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
+cowboy-boot,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
+cowboy-boot,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,2
+cowboy-boot,wild west,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OUKdIuv01WtEz3olKlrkBA4d,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.586369,,1
+cowboy-boot,buckle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OUKdIuv01WtEz3olKlrkBA4d,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.586369,,1
+cowboy-boot,cowboy hat,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OUKdIuv01WtEz3olKlrkBA4d,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.586369,,1
 cowboy-boot,durability,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Yl2xkhv5j6tFMX1rIG98hV54,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.397717,,1
+cowboy-boot,gallop,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OUKdIuv01WtEz3olKlrkBA4d,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.586369,,1
+cowboy-boot,stance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OUKdIuv01WtEz3olKlrkBA4d,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.586369,,2

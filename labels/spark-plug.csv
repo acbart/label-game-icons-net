@@ -1,25 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 spark-plug,auto parts,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
+spark-plug,auto-part,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,car,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
 spark-plug,car part,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
-spark-plug,engine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
+spark-plug,combustion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,component,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,electricity,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,energy-transfer,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,engine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,2
 spark-plug,engineering,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
-spark-plug,ignition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
+spark-plug,ignition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,2
 spark-plug,internal combustion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
-spark-plug,power,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
+spark-plug,power,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,2
 spark-plug,repair,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
 spark-plug,spark plug,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
-spark-plug,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
+spark-plug,spark-plug,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,2
 spark-plug,automation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
 spark-plug,automobile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
+spark-plug,circuit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
 spark-plug,conductivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
-spark-plug,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
-spark-plug,cylinder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
+spark-plug,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,2
+spark-plug,construction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,cylinder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,2
+spark-plug,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
 spark-plug,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
-spark-plug,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
+spark-plug,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,2
 spark-plug,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
-spark-plug,machinery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
+spark-plug,function,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,machinery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,2
 spark-plug,maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
-spark-plug,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
+spark-plug,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,2
 spark-plug,motorcycle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
 spark-plug,piston,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
-spark-plug,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,1
+spark-plug,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rVXJRcBusFa9lwhr30ZCMLVW,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.948754,,3
+spark-plug,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,trigger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,wire,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,abstract-shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1
+spark-plug,technique,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ewkz6tl6Uo4IPYrHyJXaGqeV,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.927099,,1

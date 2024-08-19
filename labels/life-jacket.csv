@@ -1,13 +1,20 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+life-jacket,boating,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
 life-jacket,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
 life-jacket,durability,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
-life-jacket,emergency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
-life-jacket,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
-life-jacket,rescue,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
-life-jacket,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
-life-jacket,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
+life-jacket,emergency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,2
+life-jacket,floatation device,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
+life-jacket,life-jacket,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
+life-jacket,nautical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
+life-jacket,personal flotation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
+life-jacket,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,2
+life-jacket,rescue,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,2
+life-jacket,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,2
+life-jacket,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,2
 life-jacket,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
-life-jacket,vest,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
+life-jacket,vest,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,2
+life-jacket,water safety,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
+life-jacket,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
 life-jacket,apparel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
 life-jacket,block,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
 life-jacket,clothing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
@@ -15,9 +22,21 @@ life-jacket,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,ba
 life-jacket,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
 life-jacket,gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
 life-jacket,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
+life-jacket,marine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
+life-jacket,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
 life-jacket,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
+life-jacket,preventive measure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
+life-jacket,recreational boating,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
+life-jacket,safety gear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
+life-jacket,swimming aid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
 life-jacket,uniform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
 life-jacket,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
+life-jacket,water activities,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
 life-jacket,workwear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
 life-jacket,accessory,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
+life-jacket,floating,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
+life-jacket,guard,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
+life-jacket,marine life,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
+life-jacket,preparedness,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1
 life-jacket,support,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_V9bjn7hHK39iP9XhrcXnspyE,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.632027,,1
+life-jacket,symbolic barrier,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_n9uSO1i5MsUm950L4Usa7Fed,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.227166,,1

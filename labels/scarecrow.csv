@@ -1,25 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-scarecrow,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
+scarecrow,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,2
 scarecrow,character,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
-scarecrow,figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.893234,,1
+scarecrow,farming,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
+scarecrow,figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.893234,,2
 scarecrow,graphic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
+scarecrow,human figure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
 scarecrow,humanoid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.893234,,1
-scarecrow,scarecrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.893234,,1
-scarecrow,agriculture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.893234,,1
+scarecrow,scarecrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.893234,,2
+scarecrow,agriculture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.893234,,2
 scarecrow,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
+scarecrow,autumn,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
 scarecrow,bird deterrent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.893234,,1
+scarecrow,birds,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
+scarecrow,crops,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
+scarecrow,cross shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
 scarecrow,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
+scarecrow,effigy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
 scarecrow,farm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
-scarecrow,fields,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
-scarecrow,folklore,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
-scarecrow,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
+scarecrow,fields,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,2
+scarecrow,folklore,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,2
+scarecrow,frighten,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
+scarecrow,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,2
+scarecrow,harvest,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
 scarecrow,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
 scarecrow,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
 scarecrow,posture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
-scarecrow,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.893234,,1
-scarecrow,rural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.893234,,1
-scarecrow,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.893234,,1
+scarecrow,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.893234,,2
+scarecrow,repellent,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
+scarecrow,rural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.893234,,2
+scarecrow,rustic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
+scarecrow,scare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
+scarecrow,stick figure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
+scarecrow,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.893234,,2
+scarecrow,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
 scarecrow,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
 scarecrow,watchful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
 scarecrow,landscape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
 scarecrow,mythical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ft101u0ps1HrKD4y7V8JLges,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.894237,,1
+scarecrow,placeholder,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1
+scarecrow,seasonal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_9WlSQWaYHBqzefEebGxXuBMI,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.765038,,1

@@ -1,31 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-guitar-bass-head,bass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
+guitar-bass-head,bass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
 guitar-bass-head,electric guitar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,guitar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,headstock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,musical instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,tuning pegs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
+guitar-bass-head,guitar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
+guitar-bass-head,headstock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
+guitar-bass-head,instrument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SJsy3B1191SXAaiDhqFy5wbA,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.394836,,1
+guitar-bass-head,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
+guitar-bass-head,musical instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
+guitar-bass-head,stringed instrument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SJsy3B1191SXAaiDhqFy5wbA,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.394836,,1
+guitar-bass-head,tuning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SJsy3B1191SXAaiDhqFy5wbA,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.394836,,1
+guitar-bass-head,tuning pegs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
+guitar-bass-head,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SJsy3B1191SXAaiDhqFy5wbA,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.394836,,1
 guitar-bass-head,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
 guitar-bass-head,amplification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,band,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
+guitar-bass-head,band,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
 guitar-bass-head,chords,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
+guitar-bass-head,composition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SJsy3B1191SXAaiDhqFy5wbA,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.394836,,1
 guitar-bass-head,concert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,frets,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
+guitar-bass-head,frets,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
 guitar-bass-head,garage band,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
+guitar-bass-head,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
 guitar-bass-head,luthiery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
+guitar-bass-head,melody,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
+guitar-bass-head,neck,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SJsy3B1191SXAaiDhqFy5wbA,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.394836,,1
+guitar-bass-head,peghead,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SJsy3B1191SXAaiDhqFy5wbA,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.394836,,1
+guitar-bass-head,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
+guitar-bass-head,plucking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SJsy3B1191SXAaiDhqFy5wbA,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.394836,,1
 guitar-bass-head,punk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,rock,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,strings,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
+guitar-bass-head,rhythm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
+guitar-bass-head,rock,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
+guitar-bass-head,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_SJsy3B1191SXAaiDhqFy5wbA,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.394836,,1
+guitar-bass-head,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
+guitar-bass-head,strings,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
 guitar-bass-head,strumming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
 guitar-bass-head,blues,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
 guitar-bass-head,digital music,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
 guitar-bass-head,headphones,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
-guitar-bass-head,jazz,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
+guitar-bass-head,jazz,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,2
 guitar-bass-head,orchestra,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1
 guitar-bass-head,pick,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AXsmMnMyHocicUXPGZJQ2qbP,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.141912,,1

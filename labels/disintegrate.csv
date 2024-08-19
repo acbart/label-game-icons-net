@@ -1,11 +1,14 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 disintegrate,bones,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.476967,,1
+disintegrate,breaking apart,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
 disintegrate,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.476967,,1
 disintegrate,death,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.476967,,1
+disintegrate,disintegration,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
+disintegrate,fragmentation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
 disintegrate,hazard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.476967,,1
 disintegrate,icon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
 disintegrate,poison,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.476967,,1
-disintegrate,skull,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.476967,,1
+disintegrate,skull,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.476967,,2
 disintegrate,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
 disintegrate,toxic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.476967,,1
 disintegrate,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.476967,,1
@@ -13,16 +16,33 @@ disintegrate,Halloween,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batc
 disintegrate,anatomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
 disintegrate,bones structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
 disintegrate,chemicals,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
+disintegrate,collapse,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
 disintegrate,crossbones,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.476967,,1
-disintegrate,decay,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
+disintegrate,decay,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,2
+disintegrate,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
+disintegrate,dissolve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
+disintegrate,entropy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,2
+disintegrate,erosion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
 disintegrate,intricate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
+disintegrate,loss,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
 disintegrate,mortality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
 disintegrate,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
 disintegrate,pirate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.476967,,1
 disintegrate,pirate flag,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.476967,,1
+disintegrate,ruin,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
+disintegrate,shatter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
 disintegrate,skeletal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
 disintegrate,spooky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
+disintegrate,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
 disintegrate,alchemist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
 disintegrate,cartoonish,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
+disintegrate,chaos,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
+disintegrate,decomposition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
 disintegrate,decoration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
+disintegrate,deterioration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
+disintegrate,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
 disintegrate,medical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iWQRsNGCnWcHIdHVFyT6KnXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.477959,,1
+disintegrate,molecular breakdown,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
+disintegrate,scatter,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
+disintegrate,symbolic skull,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1
+disintegrate,transformation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_5Zfia6xngQUuol1Lxn5YLbGg,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.508429,,1

@@ -1,26 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 network-bars,bar chart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
+network-bars,bars,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
+network-bars,bars icon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
+network-bars,coverage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
 network-bars,growth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
 network-bars,improvement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
-network-bars,increase,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
+network-bars,increase,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,2
+network-bars,network,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
 network-bars,performance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
-network-bars,progress,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
+network-bars,progress,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,2
+network-bars,range,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
 network-bars,rise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
+network-bars,signal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
+network-bars,strength indicator,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
 network-bars,success,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
 network-bars,analytics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
 network-bars,business,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
-network-bars,chart,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
+network-bars,chart,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,2
+network-bars,communication,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
+network-bars,communication device,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
 network-bars,comparison,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
+network-bars,connection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
+network-bars,connectivity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
 network-bars,dashboard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
+network-bars,data,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
 network-bars,data visualization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
 network-bars,development,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
 network-bars,evaluation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
-network-bars,graph,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
+network-bars,graph,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,2
+network-bars,internet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
 network-bars,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
 network-bars,monitoring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
 network-bars,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
 network-bars,ranking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
+network-bars,reception,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
+network-bars,service,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
 network-bars,statistics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
+network-bars,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
+network-bars,telecommunications,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
 network-bars,time series,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
 network-bars,trend,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
 network-bars,visual report,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nt50556AbX6ygMSAum6H5xtm,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.966558,,1
+network-bars,wireless,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
+network-bars,capacity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1
+network-bars,quality,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sNuZITDcAZs2QAvNHrtGh9On,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.344881,,1

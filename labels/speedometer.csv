@@ -1,26 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-speedometer,gauge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,indicator,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,needle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,speed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,speedometer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,velocity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
+speedometer,gauge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
+speedometer,indicator,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
+speedometer,meter,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VdrejvtLEq77v7m14FdEi8oy,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.988954,,1
+speedometer,needle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
+speedometer,speed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
+speedometer,speedometer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
+speedometer,velocity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
 speedometer,accuracy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
+speedometer,analog,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VdrejvtLEq77v7m14FdEi8oy,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.988954,,1
 speedometer,analog display,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
+speedometer,arc,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VdrejvtLEq77v7m14FdEi8oy,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.988954,,1
+speedometer,automobile,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VdrejvtLEq77v7m14FdEi8oy,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.988954,,1
 speedometer,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,dashboard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,dial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,instrumentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,measurement tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
+speedometer,dashboard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
+speedometer,dial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
+speedometer,instrumentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
+speedometer,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
+speedometer,measurement tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
 speedometer,monitor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
+speedometer,monitoring,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VdrejvtLEq77v7m14FdEi8oy,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.988954,,1
+speedometer,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
 speedometer,pointer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,speed control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
+speedometer,precision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VdrejvtLEq77v7m14FdEi8oy,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.988954,,1
+speedometer,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
+speedometer,rate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VdrejvtLEq77v7m14FdEi8oy,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.988954,,1
+speedometer,speed control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
 speedometer,speed tracking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,tachometer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
-speedometer,tracking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
+speedometer,tachometer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
+speedometer,tracking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,2
+speedometer,control panel,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VdrejvtLEq77v7m14FdEi8oy,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.988954,,1
+speedometer,efficiency,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VdrejvtLEq77v7m14FdEi8oy,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.988954,,1
+speedometer,engineering,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VdrejvtLEq77v7m14FdEi8oy,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.988954,,1
+speedometer,feedback,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VdrejvtLEq77v7m14FdEi8oy,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.988954,,1
+speedometer,mechanical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VdrejvtLEq77v7m14FdEi8oy,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.988954,,1
+speedometer,navigation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VdrejvtLEq77v7m14FdEi8oy,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.988954,,1
 speedometer,pressure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
 speedometer,quantify,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
 speedometer,readout,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_GBi2ifFs3xUJeOpfmALpLRhY,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.964726,,1
+speedometer,vehicle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VdrejvtLEq77v7m14FdEi8oy,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.988954,,1

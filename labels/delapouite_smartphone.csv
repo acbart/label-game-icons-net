@@ -1,27 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 delapouite_smartphone,cell phone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,mobile device,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,smartphone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,app,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
+delapouite_smartphone,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
+delapouite_smartphone,communication tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3jJULXc3VEOhCM47YCKoxxRG,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.684857,,1
+delapouite_smartphone,mobile device,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
+delapouite_smartphone,phone,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3jJULXc3VEOhCM47YCKoxxRG,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.684857,,1
+delapouite_smartphone,smartphone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
+delapouite_smartphone,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
+delapouite_smartphone,app,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
 delapouite_smartphone,call,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,connectivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,gadget,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,media,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
+delapouite_smartphone,connectivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
+delapouite_smartphone,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
+delapouite_smartphone,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3jJULXc3VEOhCM47YCKoxxRG,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.684857,,1
+delapouite_smartphone,gadget,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
+delapouite_smartphone,handheld,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3jJULXc3VEOhCM47YCKoxxRG,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.684857,,1
+delapouite_smartphone,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3jJULXc3VEOhCM47YCKoxxRG,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.684857,,1
+delapouite_smartphone,information,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3jJULXc3VEOhCM47YCKoxxRG,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.684857,,1
+delapouite_smartphone,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,3
+delapouite_smartphone,media,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
 delapouite_smartphone,message,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
+delapouite_smartphone,mobility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3jJULXc3VEOhCM47YCKoxxRG,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.684857,,1
+delapouite_smartphone,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
+delapouite_smartphone,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3jJULXc3VEOhCM47YCKoxxRG,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.684857,,1
+delapouite_smartphone,notification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3jJULXc3VEOhCM47YCKoxxRG,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.684857,,1
 delapouite_smartphone,personal device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,portable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,screen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,touchscreen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
+delapouite_smartphone,portable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
+delapouite_smartphone,rectangle border,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3jJULXc3VEOhCM47YCKoxxRG,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.684857,,1
+delapouite_smartphone,screen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
+delapouite_smartphone,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3jJULXc3VEOhCM47YCKoxxRG,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.684857,,1
+delapouite_smartphone,touchscreen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
+delapouite_smartphone,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3jJULXc3VEOhCM47YCKoxxRG,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.684857,,1
 delapouite_smartphone,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,device,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
+delapouite_smartphone,device,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
 delapouite_smartphone,frame,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
 delapouite_smartphone,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
-delapouite_smartphone,rectangle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
+delapouite_smartphone,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
+delapouite_smartphone,rectangle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,2
 delapouite_smartphone,screen-based,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1
 delapouite_smartphone,simplistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_aX6zWhLDeU7DpQwupTFgbs1M,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.880647,,1

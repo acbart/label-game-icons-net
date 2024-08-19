@@ -1,22 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-glass-shot,container,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
-glass-shot,drink,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
-glass-shot,glass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
-glass-shot,liquid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
+glass-shot,container,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,2
+glass-shot,drink,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,2
+glass-shot,glass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,2
+glass-shot,liquid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,2
+glass-shot,shot,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
 glass-shot,water,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
-glass-shot,beverage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
+glass-shot,alcohol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
+glass-shot,bar,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
+glass-shot,beverage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,2
+glass-shot,celebration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
+glass-shot,cocktail,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
 glass-shot,consumption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
 glass-shot,cup,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
 glass-shot,cylinder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
 glass-shot,half empty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
 glass-shot,half full,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
 glass-shot,hydrate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
-glass-shot,refreshment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
+glass-shot,party,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
+glass-shot,portion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
+glass-shot,refreshment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,2
+glass-shot,rock glass,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
+glass-shot,serve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
 glass-shot,simple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
+glass-shot,spirits,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
+glass-shot,toast,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
 glass-shot,vessel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
 glass-shot,volume,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
 glass-shot,basic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
 glass-shot,clarity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.882779,,1
+glass-shot,event,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
+glass-shot,habit,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
 glass-shot,household,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.882779,,1
 glass-shot,kitchen,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
 glass-shot,measurement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
@@ -24,3 +37,8 @@ glass-shot,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_re
 glass-shot,nutrition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
 glass-shot,perspective,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.882779,,1
 glass-shot,purity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_usk90peurYz9UbJEmpC6ftXf,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.881780,,1
+glass-shot,ritual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
+glass-shot,sociability,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
+glass-shot,social interaction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
+glass-shot,symbolic consumption,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1
+glass-shot,tradition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Bw7JCOJNAkybsaGjY0HprTRA,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.301695,,1

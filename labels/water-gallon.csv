@@ -1,13 +1,20 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-water-gallon,bottle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
+water-gallon,bottle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,2
 water-gallon,cap,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
-water-gallon,container,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
+water-gallon,container,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,2
 water-gallon,containment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
+water-gallon,cylinder shape,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1
+water-gallon,hydration,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1
 water-gallon,jar,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
 water-gallon,lid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
+water-gallon,liquid container,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1
 water-gallon,vessel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
-water-gallon,beverage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
+water-gallon,water storage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1
+water-gallon,beverage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,2
+water-gallon,capacity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1
+water-gallon,capsule,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1
 water-gallon,compact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
+water-gallon,consumption,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1
 water-gallon,cylinder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
 water-gallon,form,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
 water-gallon,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
@@ -15,11 +22,19 @@ water-gallon,object,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_r
 water-gallon,package,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
 water-gallon,product,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
 water-gallon,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
+water-gallon,reservoir,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1
 water-gallon,seal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
 water-gallon,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
 water-gallon,solid shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
-water-gallon,storage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
-water-gallon,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
+water-gallon,storage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,2
+water-gallon,supply,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1
+water-gallon,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,2
 water-gallon,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
+water-gallon,filtration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1
 water-gallon,geometry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
+water-gallon,home appliance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1
 water-gallon,preservation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_0UzQF03vBi3qP24NoC95GJC7,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.574179,,1
+water-gallon,purchasing,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1
+water-gallon,sustainability,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1
+water-gallon,transport,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1
+water-gallon,volume,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7U35BGRHjJTt53ygqlw1BqXO,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.579845,,1

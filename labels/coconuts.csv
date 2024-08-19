@@ -1,25 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 coconuts,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
 coconuts,character,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,coconuts,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
 coconuts,cool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,exotic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
+coconuts,food,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
+coconuts,fruit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
+coconuts,hard shell,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
 coconuts,illustration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,nature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
+coconuts,nut,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
 coconuts,playful,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,spiky,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
 coconuts,sunglasses,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,tropical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
 coconuts,walrus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
-coconuts,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,2
 coconuts,arctic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,beach,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
 coconuts,black and white art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
 coconuts,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
 coconuts,comical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
 coconuts,cute,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,duality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
 coconuts,fun,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
 coconuts,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,growth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
 coconuts,humor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
 coconuts,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,ingredient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
+coconuts,island,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
+coconuts,layer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
 coconuts,marine life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
 coconuts,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,palm,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.196699,,1
+coconuts,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
 coconuts,quirky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,refreshment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
 coconuts,sea creature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,split,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
+coconuts,summer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.196699,,1
+coconuts,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
+coconuts,texture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
+coconuts,tough,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.196699,,1
 coconuts,tusk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,vacation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.195698,,1
 coconuts,fins,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1
+coconuts,juicy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G5qYLUcdZj6BCDLYYKPtyPKq,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.196699,,1
 coconuts,zoology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hGlDn9qUNZeg7xLAhVszLYsz,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.306163,,1

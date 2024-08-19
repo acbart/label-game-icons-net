@@ -1,26 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 horizon-road,abstract path,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
 horizon-road,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
-horizon-road,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
-horizon-road,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
-horizon-road,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
-horizon-road,path,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
+horizon-road,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,2
+horizon-road,horizon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
+horizon-road,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,2
+horizon-road,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,2
+horizon-road,path,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,2
 horizon-road,pointing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
+horizon-road,road,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
 horizon-road,abstract design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
+horizon-road,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
+horizon-road,adventurous,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
 horizon-road,anchored point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
-horizon-road,bend,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
+horizon-road,bend,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,2
 horizon-road,change,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
+horizon-road,curve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
+horizon-road,destination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
+horizon-road,distance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
+horizon-road,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
+horizon-road,expedition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
+horizon-road,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
 horizon-road,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
+horizon-road,future,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
 horizon-road,guide,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
-horizon-road,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
+horizon-road,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,2
+horizon-road,landscape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
 horizon-road,pathway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
+horizon-road,perspective,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
+horizon-road,progress,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
 horizon-road,route,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
 horizon-road,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
 horizon-road,signage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
 horizon-road,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
 horizon-road,trail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
 horizon-road,transition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
+horizon-road,travel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
+horizon-road,traveling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
 horizon-road,turn,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
 horizon-road,zigzag,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
+horizon-road,discovery,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
+horizon-road,goal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
+horizon-road,quest,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
 horizon-road,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1
+horizon-road,unknown,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_L6LnoR15TQxRt19rrCoxpC09,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.086049,,1
 horizon-road,volatility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QAUtMydSltdvl1GZAoxpQXGQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.312725,,1

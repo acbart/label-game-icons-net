@@ -1,24 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-love-howl,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
+love-howl,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,2
 love-howl,dog,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
 love-howl,dog silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
-love-howl,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
-love-howl,love,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
+love-howl,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,2
+love-howl,howl,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.932541,,1
+love-howl,love,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,2
 love-howl,pet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
+love-howl,wolf,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.932541,,1
 love-howl,adoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
-love-howl,affection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
+love-howl,affection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,2
 love-howl,animal icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
 love-howl,animal welfare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
+love-howl,bond,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
 love-howl,care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
 love-howl,companionship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
 love-howl,devotion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
+love-howl,emotion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
 love-howl,friendship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
 love-howl,heart symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
 love-howl,loving pet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
 love-howl,loyalty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
+love-howl,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
+love-howl,pack,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
+love-howl,passion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
+love-howl,romance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
 love-howl,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
-love-howl,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
+love-howl,sound,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
+love-howl,unity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
+love-howl,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
+love-howl,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,2
+love-howl,expression,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
 love-howl,fidelity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
 love-howl,graphic design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
+love-howl,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
+love-howl,mystery,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
+love-howl,soul,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
+love-howl,spirit,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
+love-howl,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_3Qf4LTRikK0jr1E9Q6bxYy0B,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.933434,,1
 love-howl,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1
 love-howl,vector,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sLeHmXcGqsYy6tQ4BS2IuRXr,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.323962,,1

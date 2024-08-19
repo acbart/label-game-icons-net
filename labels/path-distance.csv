@@ -1,29 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-path-distance,destination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
-path-distance,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
+path-distance,connection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
+path-distance,connection points,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
+path-distance,dashed line,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
+path-distance,destination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,2
+path-distance,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,2
+path-distance,distance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
 path-distance,location,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
-path-distance,map,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
-path-distance,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
-path-distance,path,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
-path-distance,route,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
+path-distance,location marker,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
+path-distance,map,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,2
+path-distance,map marker,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
+path-distance,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,2
+path-distance,path,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,2
+path-distance,route,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,2
 path-distance,cartography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
 path-distance,checkpoint,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
 path-distance,coordinates,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
-path-distance,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
-path-distance,itinerary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
-path-distance,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
+path-distance,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,2
+path-distance,itinerary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,2
+path-distance,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,2
+path-distance,link,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
+path-distance,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
 path-distance,movements,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
+path-distance,pathway,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
+path-distance,pin,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
+path-distance,planning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
 path-distance,pointers,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
 path-distance,spatial awareness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
 path-distance,tourism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
-path-distance,tracking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
-path-distance,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
+path-distance,tracking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,2
+path-distance,trail,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
+path-distance,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,2
 path-distance,travel planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
 path-distance,visual guide,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
-path-distance,wayfinding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
-path-distance,adventure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
+path-distance,wayfinding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,2
+path-distance,adventure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,2
 path-distance,dot pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
 path-distance,experience,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
-path-distance,exploration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
+path-distance,exploration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,2
+path-distance,graphical representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
 path-distance,marking,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
+path-distance,networking,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
+path-distance,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1
 path-distance,trails,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wyY6cfClncTg0433T1F0xxtR,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.119002,,1
+path-distance,visual metaphor,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IOo9QloRcNDHxKR32IFJN27e,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.065502,,1

@@ -1,26 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-puppet,abstract figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,abstract figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,2
 puppet,action,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,control,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
 puppet,dance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,marionette,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
 puppet,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
-puppet,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,2
 puppet,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,puppet,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
 puppet,active,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
 puppet,arms,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,articulation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
 puppet,athletics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
 puppet,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,doll,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
 puppet,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
 puppet,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
 puppet,exercise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
 puppet,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,figure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
 puppet,fitness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
 puppet,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
-puppet,gesture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,gesture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,2
 puppet,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,human-like,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
 puppet,legs,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,limbs,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
+puppet,manipulation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
+puppet,marionette strings,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
 puppet,pose,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,puppeteer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
 puppet,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,strings,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
+puppet,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
 puppet,stylized,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
 puppet,symbolic human,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,animation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
 puppet,artistic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,communication,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
+puppet,entertainment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
+puppet,flexibility,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
 puppet,leisure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Eox6V3zVf1DHoEl6llf5ol7J,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.717879,,1
+puppet,performance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
+puppet,playful,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
+puppet,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
+puppet,stage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
+puppet,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
+puppet,theater,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1
+puppet,toy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_epaoE5hZnHs4HKUaSTJmtHmT,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.272351,,1

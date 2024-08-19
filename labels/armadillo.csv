@@ -1,23 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-armadillo,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
-armadillo,armadillo,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
-armadillo,armor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
+armadillo,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,2
+armadillo,armadillo,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,2
+armadillo,armor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,2
+armadillo,armored animal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
+armadillo,defense,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
 armadillo,head,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
 armadillo,mammal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
-armadillo,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
-armadillo,shell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
+armadillo,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,2
+armadillo,segmentation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
+armadillo,shell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,2
 armadillo,tail,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
-armadillo,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.655258,,1
-armadillo,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
+armadillo,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.655258,,2
+armadillo,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
+armadillo,critter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
+armadillo,curled shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
+armadillo,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,2
+armadillo,hard surface,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
+armadillo,hardy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
 armadillo,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
+armadillo,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
+armadillo,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
 armadillo,legs,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
-armadillo,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
+armadillo,movable,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
+armadillo,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,2
 armadillo,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
+armadillo,patterns,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
 armadillo,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.655258,,1
 armadillo,resilience,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
+armadillo,rugged,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
 armadillo,segment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
+armadillo,shield,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
 armadillo,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
+armadillo,striped,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
 armadillo,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
-armadillo,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1
+armadillo,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,2
+armadillo,biome,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
+armadillo,ecosystem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
 armadillo,graphic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.655258,,1
+armadillo,indigenous,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
+armadillo,museum,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
+armadillo,prehistoric,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
+armadillo,south america,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tR96ESQB0cAdG3sGgRGqZvlq,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.627852,,1
 armadillo,texture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xzYSOaalsIRDakImRnWk2Ojx,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.654256,,1

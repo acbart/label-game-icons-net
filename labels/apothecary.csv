@@ -1,25 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+apothecary,apothecary,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
 apothecary,bowl,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.462946,,1
-apothecary,cooking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.462946,,1
+apothecary,cooking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.462946,,2
 apothecary,culinary,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.462946,,1
 apothecary,food preparation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.462946,,1
+apothecary,healing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
+apothecary,herbal medicine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
 apothecary,kitchen,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.462946,,1
+apothecary,mortar and pestle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
+apothecary,natural remedies,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
+apothecary,pharmacy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
 apothecary,pot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.462946,,1
 apothecary,spoon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.462946,,1
+apothecary,traditional medicine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
+apothecary,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
+apothecary,alchemy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
+apothecary,ancient practices,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
 apothecary,cookware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.463997,,1
+apothecary,craft,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
+apothecary,grinding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
+apothecary,healthcare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
 apothecary,herbs,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.463997,,1
 apothecary,homemade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.462946,,1
 apothecary,homestyle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.463997,,1
 apothecary,ingredients,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.463997,,1
-apothecary,leaf,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.462946,,1
+apothecary,leaf,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.462946,,2
 apothecary,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.463997,,1
+apothecary,mixing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
+apothecary,potion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
+apothecary,preparation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
+apothecary,preparation bowl,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
+apothecary,processing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
 apothecary,recipe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.462946,,1
 apothecary,soup,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.462946,,1
 apothecary,stirring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.463997,,1
+apothecary,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
+apothecary,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
 apothecary,vegetarian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.463997,,1
 apothecary,culture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.463997,,1
 apothecary,domestic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.463997,,1
 apothecary,health,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.463997,,1
 apothecary,hospitality,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.463997,,1
 apothecary,nutrition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.463997,,1
+apothecary,ritual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
+apothecary,spice,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qCxrIGk6ZkaD76BFYHujeHKC,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.817446,,1
 apothecary,tradition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TPXXSZBvN3BribONMwSWBdrK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.463997,,1

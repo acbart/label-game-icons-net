@@ -1,27 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-trench-body-armor,armor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
+trench-body-armor,armor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
+trench-body-armor,body armor,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MbZ5o7qwh3xGNshie1oBm6HH,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.398984,,1
 trench-body-armor,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,military,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,vest,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
+trench-body-armor,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
+trench-body-armor,military,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
+trench-body-armor,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
+trench-body-armor,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
+trench-body-armor,vest,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
+trench-body-armor,battle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MbZ5o7qwh3xGNshie1oBm6HH,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.398984,,1
 trench-body-armor,bodyguard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
+trench-body-armor,bulletproof,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MbZ5o7qwh3xGNshie1oBm6HH,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.398984,,1
 trench-body-armor,chestplate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
+trench-body-armor,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
 trench-body-armor,defensive gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
+trench-body-armor,durability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MbZ5o7qwh3xGNshie1oBm6HH,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.398984,,1
+trench-body-armor,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
+trench-body-armor,fortitude,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MbZ5o7qwh3xGNshie1oBm6HH,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.398984,,1
+trench-body-armor,gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
 trench-body-armor,guardian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,knight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
+trench-body-armor,historical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MbZ5o7qwh3xGNshie1oBm6HH,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.398984,,1
+trench-body-armor,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MbZ5o7qwh3xGNshie1oBm6HH,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.398984,,1
+trench-body-armor,knight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
 trench-body-armor,leather,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,protection gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,shield,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
-trench-body-armor,warrior,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
+trench-body-armor,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
+trench-body-armor,protection gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
+trench-body-armor,resilience,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MbZ5o7qwh3xGNshie1oBm6HH,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.398984,,1
+trench-body-armor,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
+trench-body-armor,shield,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
+trench-body-armor,soldier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MbZ5o7qwh3xGNshie1oBm6HH,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.398984,,1
+trench-body-armor,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
+trench-body-armor,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MbZ5o7qwh3xGNshie1oBm6HH,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.398984,,1
+trench-body-armor,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MbZ5o7qwh3xGNshie1oBm6HH,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.398984,,1
+trench-body-armor,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
+trench-body-armor,trench warfare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MbZ5o7qwh3xGNshie1oBm6HH,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.398984,,1
+trench-body-armor,vintage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MbZ5o7qwh3xGNshie1oBm6HH,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.398984,,1
+trench-body-armor,warfare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MbZ5o7qwh3xGNshie1oBm6HH,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.398984,,1
+trench-body-armor,warrior,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,2
 trench-body-armor,bulky,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
 trench-body-armor,outfit,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1
 trench-body-armor,reinforced,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MQsP9ML9eTpVGCnP2S77yBFp,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.513625,,1

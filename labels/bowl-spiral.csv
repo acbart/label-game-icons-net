@@ -1,28 +1,53 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-bowl-spiral,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
+bowl-spiral,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,2
+bowl-spiral,bowl,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
 bowl-spiral,complementary forces,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
 bowl-spiral,conflict,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
 bowl-spiral,contrast,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
 bowl-spiral,duality,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
 bowl-spiral,opposition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
 bowl-spiral,philosophical concept,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
+bowl-spiral,spiral,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
 bowl-spiral,yin yang,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
+bowl-spiral,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
 bowl-spiral,abstract concepts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
 bowl-spiral,abstract shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
-bowl-spiral,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
+bowl-spiral,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
+bowl-spiral,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,2
+bowl-spiral,complexity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
+bowl-spiral,concentric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
+bowl-spiral,container,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
 bowl-spiral,cultural symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
+bowl-spiral,curve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
 bowl-spiral,curves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
+bowl-spiral,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
+bowl-spiral,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
+bowl-spiral,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
 bowl-spiral,equilibrium,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
-bowl-spiral,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
+bowl-spiral,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
+bowl-spiral,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,2
+bowl-spiral,helix,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
 bowl-spiral,integration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
 bowl-spiral,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
 bowl-spiral,interdependence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
+bowl-spiral,loop,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
+bowl-spiral,modern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
+bowl-spiral,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
+bowl-spiral,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
 bowl-spiral,philosophy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
+bowl-spiral,round,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
+bowl-spiral,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
+bowl-spiral,swirl,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
+bowl-spiral,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
 bowl-spiral,symbolic balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
 bowl-spiral,synthesis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
+bowl-spiral,vortex,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
+bowl-spiral,whirl,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
 bowl-spiral,wholeness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
 bowl-spiral,circular motion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
-bowl-spiral,flow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
+bowl-spiral,flow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,2
+bowl-spiral,infinity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1
 bowl-spiral,meditation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
 bowl-spiral,motion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
-bowl-spiral,rotation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,1
+bowl-spiral,rotation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bhbNkcSVHyzhwR4MN7U12f4A,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.046063,,2
+bowl-spiral,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZFtdatwW6XJh4wvztugD6pdG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.627851,,1

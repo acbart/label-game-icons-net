@@ -1,31 +1,53 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+strafe,action,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
 strafe,aerospace,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,1
 strafe,antennas,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
 strafe,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
+strafe,direction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
+strafe,maneuver,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
+strafe,motion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
+strafe,movement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
 strafe,satellite,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
 strafe,space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,1
 strafe,space exploration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
 strafe,spacecraft,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
+strafe,strafe,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
 strafe,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
 strafe,telecommunication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,1
+strafe,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
+strafe,angle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
+strafe,approach,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
+strafe,arc,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
 strafe,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
 strafe,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
+strafe,curve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
 strafe,data,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
+strafe,dotted line,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
 strafe,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,1
+strafe,flight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
+strafe,guide,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
 strafe,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,1
-strafe,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,1
+strafe,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,2
 strafe,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
 strafe,orbit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
 strafe,orbit path,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,1
+strafe,path,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
 strafe,propulsion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,1
 strafe,rocket,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
 strafe,satellite dish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,1
 strafe,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
 strafe,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
+strafe,speed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
+strafe,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
+strafe,swoop,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
+strafe,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
+strafe,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
+strafe,targeting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
 strafe,tracking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,1
 strafe,transmission,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
+strafe,turn,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hWmJFE93MYHZ9nLoBoQKEnCP,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.480331,,1
 strafe,wireless,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.305118,,1
 strafe,analysis,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,1
 strafe,discovery,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,1
 strafe,research,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,1
-strafe,trajectory,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,1
+strafe,trajectory,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wBG1QIqrJz58wqGEU97CdJYw,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.306055,,2

@@ -1,22 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 tangerine,burst,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
+tangerine,citrus,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
 tangerine,eruption,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
 tangerine,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
+tangerine,fruit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
 tangerine,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
+tangerine,tangerine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
+tangerine,vitamin C,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
+tangerine,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
 tangerine,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
 tangerine,break,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
 tangerine,crack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
 tangerine,damage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
 tangerine,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
 tangerine,disruption,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
+tangerine,food,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
 tangerine,fracture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
+tangerine,fresh,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
+tangerine,healthy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
+tangerine,healthy eating,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
+tangerine,juicy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
+tangerine,natural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
+tangerine,nutrition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
+tangerine,organic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
+tangerine,round,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
 tangerine,shockwave,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
+tangerine,spiky top,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
+tangerine,autumn,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
 tangerine,chaos,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
+tangerine,crop,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
 tangerine,destruction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
+tangerine,dots,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
 tangerine,energy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
 tangerine,force,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
+tangerine,local,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
+tangerine,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
+tangerine,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
 tangerine,power,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
 tangerine,rupture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
 tangerine,scatter,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
+tangerine,seedless,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
+tangerine,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
 tangerine,sudden,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1
+tangerine,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DU4tUFK04Wh8TqpgJYuY8Xfq,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.845342,,1
 tangerine,violent,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U2ql0xPoQvAO9YwQBUi2LVyW,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.197676,,1

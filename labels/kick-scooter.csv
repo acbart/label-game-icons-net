@@ -1,22 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+kick-scooter,kick-scooter,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
+kick-scooter,personal transport,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
 kick-scooter,personal vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
-kick-scooter,scooter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
-kick-scooter,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
+kick-scooter,scooter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,2
+kick-scooter,transportation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,2
 kick-scooter,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
-kick-scooter,commuting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
+kick-scooter,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
+kick-scooter,bike alternative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
+kick-scooter,commuting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,2
 kick-scooter,electric scooter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
 kick-scooter,environmentally friendly,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
-kick-scooter,handlebars,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
+kick-scooter,handlebars,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,2
+kick-scooter,inline design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
+kick-scooter,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
+kick-scooter,manual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
 kick-scooter,manual operation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
 kick-scooter,micro-mobility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
-kick-scooter,mobility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
+kick-scooter,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
+kick-scooter,mobility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,2
+kick-scooter,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
 kick-scooter,outdoor activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
-kick-scooter,ride,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
+kick-scooter,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
+kick-scooter,ride,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,2
 kick-scooter,simplistic design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
 kick-scooter,speed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
-kick-scooter,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
+kick-scooter,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,2
+kick-scooter,urban,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
 kick-scooter,urban travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
-kick-scooter,wheels,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
+kick-scooter,wheels,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,2
+kick-scooter,activity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
+kick-scooter,eco-friendly,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
 kick-scooter,escape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
 kick-scooter,freedom,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
-kick-scooter,youth,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,1
+kick-scooter,fun,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
+kick-scooter,outdoors,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G9TYEIsClE8pAAEozIIVJTqU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.870397,,1
+kick-scooter,youth,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rggYCjkD3DsLr8wkL0DUGCAW,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.525855,,2

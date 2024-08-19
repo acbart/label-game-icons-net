@@ -1,25 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-treasure-map,X marks the spot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
+treasure-map,X marks the spot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,2
 treasure-map,destination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
 treasure-map,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
+treasure-map,directions,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
 treasure-map,geography,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
-treasure-map,map,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
-treasure-map,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
-treasure-map,path,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
-treasure-map,route,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
+treasure-map,map,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,2
+treasure-map,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,2
+treasure-map,path,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,2
+treasure-map,route,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,2
 treasure-map,tracking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
-treasure-map,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
+treasure-map,treasure map,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
+treasure-map,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,2
+treasure-map,adventure story,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
+treasure-map,cartography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
 treasure-map,chart,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
+treasure-map,directional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
+treasure-map,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
 treasure-map,dotted line,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
 treasure-map,expedition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
-treasure-map,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
-treasure-map,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
-treasure-map,landscape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
+treasure-map,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,2
+treasure-map,goal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
+treasure-map,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
+treasure-map,hidden,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
+treasure-map,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,2
+treasure-map,landmarks,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
+treasure-map,landscape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,2
 treasure-map,legend,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
+treasure-map,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
 treasure-map,orientation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
-treasure-map,pirate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
-treasure-map,quest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
+treasure-map,pirate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,2
+treasure-map,planning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
+treasure-map,pursuit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
+treasure-map,quest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,2
 treasure-map,schematic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
+treasure-map,symbols,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
 treasure-map,terrain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
+treasure-map,track,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
 treasure-map,treasure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
 treasure-map,wayfinding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7eXTo44BBEDrn1qF1Aa3MwT2,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.581322,,1
+treasure-map,charts,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
+treasure-map,fantasy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1
+treasure-map,mystical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rc7asUiKlepsLsWTjH9KJ4A4,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.252902,,1

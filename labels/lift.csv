@@ -1,25 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-lift,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
-lift,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,2
+lift,ascending,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
+lift,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,2
 lift,downward,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,elevator,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
 lift,guide,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,human figure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
+lift,lift,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
 lift,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,person,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
 lift,upward,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,upward movement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
+lift,vertical transport,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
+lift,accessibility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
+lift,building,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
 lift,choice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,convenience,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
 lift,decision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,descent,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
 lift,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
+lift,height,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
 lift,instruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
-lift,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
+lift,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,2
 lift,orientation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
 lift,path,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
 lift,pointer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
 lift,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,system,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
 lift,transition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
-lift,vertical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
+lift,vertical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,2
 lift,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
 lift,black and white,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
 lift,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
-lift,geometry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,geometry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,2
 lift,journey,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,modernity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
 lift,progress,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
 lift,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_S1GAodijNCD3FNxeeJEIdf4Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.245220,,1
+lift,structure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1
+lift,urban,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DCOuZfFhuXvE0ixbdZxbwLPJ,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.677889,,1

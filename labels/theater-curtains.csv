@@ -1,31 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-theater-curtains,curtains,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
-theater-curtains,stage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
-theater-curtains,theater,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
+theater-curtains,curtains,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,2
+theater-curtains,entrance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
+theater-curtains,exit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
+theater-curtains,performing arts,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
+theater-curtains,stage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,2
+theater-curtains,theater,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,2
 theater-curtains,acting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
+theater-curtains,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
 theater-curtains,arts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
+theater-curtains,audience,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
 theater-curtains,auditorium,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
 theater-curtains,broadway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
+theater-curtains,ceremony,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
 theater-curtains,cinema,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
-theater-curtains,closing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
+theater-curtains,closing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,2
 theater-curtains,concert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
-theater-curtains,curtain call,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
-theater-curtains,drama,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
-theater-curtains,dramatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
-theater-curtains,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
-theater-curtains,event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
+theater-curtains,curtain call,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,2
+theater-curtains,drama,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,2
+theater-curtains,dramatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,2
+theater-curtains,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,2
+theater-curtains,event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,2
+theater-curtains,exhibition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
 theater-curtains,live performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
-theater-curtains,opening,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
+theater-curtains,opening,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,2
 theater-curtains,opera,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
-theater-curtains,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
-theater-curtains,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
-theater-curtains,production,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
+theater-curtains,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,2
+theater-curtains,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,2
+theater-curtains,production,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,2
 theater-curtains,proscenium,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
+theater-curtains,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
 theater-curtains,reveal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
 theater-curtains,scene,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
+theater-curtains,scenery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
+theater-curtains,screen,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
 theater-curtains,show,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
 theater-curtains,showcase,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
+theater-curtains,showtime,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
 theater-curtains,spectacle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
+theater-curtains,symbolic gateway,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
+theater-curtains,unveiling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
 theater-curtains,venue,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
+theater-curtains,borders,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
 theater-curtains,festival,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
 theater-curtains,gala,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jhob29T24506aHJe60zEZAwn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.244678,,1
+theater-curtains,gathering,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
+theater-curtains,illusion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1
+theater-curtains,mystery,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yZC0QEfmve9m9cDIfcQMgszB,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.062110,,1

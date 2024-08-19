@@ -1,25 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-escalator,escalator,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
+escalator,ascending,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
+escalator,descending,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
+escalator,escalator,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,2
 escalator,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
-escalator,stairs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
-escalator,accessibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
-escalator,convenience,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
+escalator,stairs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,2
+escalator,accessibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,2
+escalator,airport,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
+escalator,convenience,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,2
 escalator,conveyor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
 escalator,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
 escalator,downward,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
 escalator,elevation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
-escalator,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
+escalator,incline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
+escalator,mall,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
+escalator,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
+escalator,mobility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
+escalator,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,2
 escalator,passenger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
-escalator,public space,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
+escalator,people mover,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
+escalator,public space,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,2
+escalator,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
 escalator,step,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
-escalator,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
-escalator,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
+escalator,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,2
+escalator,transportation hub,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
+escalator,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,2
 escalator,upward,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
+escalator,urban,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
 escalator,utility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
 escalator,vertical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
+escalator,architectural feature,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
+escalator,automation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
 escalator,building interior,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
+escalator,engineering,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
+escalator,facility,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
 escalator,flow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
+escalator,industrial design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
+escalator,modern convenience,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
 escalator,motion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
 escalator,pathway,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
 escalator,progress,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
 escalator,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mh9pf5OzSTUP8eKG9SpIwjJ6,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.735344,,1
+escalator,systematic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1
+escalator,vertical transport,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KYHKoYSkNzk4WO7cRIHHeBvF,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.788349,,1

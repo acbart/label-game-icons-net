@@ -1,26 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-caravan,camper,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,camping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,caravan,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
+caravan,camper,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
+caravan,camping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
+caravan,caravan,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
+caravan,door,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MiagfYhdy3JZgroEJpY8Am3e,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.414803,,1
 caravan,home on wheels,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,mobile home,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,trailer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,travel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
+caravan,mobile home,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
+caravan,trailer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
+caravan,travel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
+caravan,vehicle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
+caravan,wheels,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MiagfYhdy3JZgroEJpY8Am3e,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.414803,,1
+caravan,window,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MiagfYhdy3JZgroEJpY8Am3e,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.414803,,1
+caravan,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
 caravan,campground,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,holiday,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,nomadic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
+caravan,compact living,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MiagfYhdy3JZgroEJpY8Am3e,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.414803,,1
+caravan,escape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MiagfYhdy3JZgroEJpY8Am3e,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.414803,,1
+caravan,flexibility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MiagfYhdy3JZgroEJpY8Am3e,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.414803,,1
+caravan,getaway,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MiagfYhdy3JZgroEJpY8Am3e,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.414803,,1
+caravan,holiday,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
+caravan,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
+caravan,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MiagfYhdy3JZgroEJpY8Am3e,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.414803,,1
+caravan,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MiagfYhdy3JZgroEJpY8Am3e,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.414803,,1
+caravan,nomadic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
+caravan,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
 caravan,portable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
+caravan,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
 caravan,retreat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,road trip,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
+caravan,road trip,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
+caravan,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MiagfYhdy3JZgroEJpY8Am3e,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.414803,,1
+caravan,symbols,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MiagfYhdy3JZgroEJpY8Am3e,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.414803,,1
 caravan,tourism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
-caravan,vacation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
+caravan,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
+caravan,vacation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
 caravan,escapade,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.127915,,1
-caravan,freedom,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
+caravan,freedom,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,2
 caravan,lifestyle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1
+caravan,minimalism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MiagfYhdy3JZgroEJpY8Am3e,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.414803,,1
 caravan,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bmrlZ9ANTbdaOPV9BWUcMpXW,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.126896,,1

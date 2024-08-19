@@ -1,30 +1,56 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+stable,animal housing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
+stable,barn,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
 stable,bucket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
 stable,drawing water,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
+stable,equestrian,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
+stable,horse,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
+stable,livestock,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
+stable,stable,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
 stable,water well,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
+stable,animal care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
+stable,building,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
+stable,enclosure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
+stable,farm,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
 stable,handle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
+stable,horse management,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
+stable,horse riding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
 stable,hydration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
 stable,iconic well,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
 stable,manual labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
+stable,paddock,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
+stable,pasture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
 stable,potable water,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
 stable,pumping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
+stable,ranch,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
 stable,resource gathering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
+stable,roof,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
 stable,rope,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
-stable,rural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
+stable,rural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,2
+stable,shelter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
 stable,stone well,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
-stable,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
+stable,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,2
 stable,sustainability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
 stable,traditional water access,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
 stable,village life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
 stable,well housing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
 stable,winch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
-stable,agriculture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
+stable,agriculture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,2
+stable,country life,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
 stable,essential service,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
+stable,grounds,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
 stable,heritage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
 stable,historic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
+stable,homestead,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
+stable,outbuilding,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
 stable,outdoor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
+stable,protection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
 stable,public utility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
+stable,rustic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
+stable,safety,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
+stable,storage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
 stable,supply,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
+stable,support,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_TnGzKGGRElz8vOrB1mqaBgRV,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.155178,,1
 stable,survival,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
 stable,utility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1
 stable,vintage technology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PpgTWUjnHJUH0EooA7atGjby,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.017012,,1

@@ -1,24 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+powder-bag,bag,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
 powder-bag,brew,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
+powder-bag,contents,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
 powder-bag,drink,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
 powder-bag,lid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
+powder-bag,opening,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
+powder-bag,pouch,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
+powder-bag,powder-bag,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
+powder-bag,storage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
 powder-bag,tea pot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
 powder-bag,teapot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
+powder-bag,abstract container,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
+powder-bag,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
 powder-bag,beverage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
 powder-bag,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.382248,,1
-powder-bag,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
-powder-bag,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
+powder-bag,compact,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
+powder-bag,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,2
+powder-bag,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,2
+powder-bag,culinary use,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
+powder-bag,dots,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
+powder-bag,filled,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
+powder-bag,grainy texture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
 powder-bag,hot drinks,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.382248,,1
 powder-bag,infusion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.382248,,1
+powder-bag,ingredients,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
 powder-bag,kitchenware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
+powder-bag,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
+powder-bag,package,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
+powder-bag,portion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
 powder-bag,pour,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
+powder-bag,sack,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
+powder-bag,sealed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
 powder-bag,spout,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
+powder-bag,supply,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
+powder-bag,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
+powder-bag,versatile use,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
 powder-bag,vessel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
+powder-bag,boundaries,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
 powder-bag,ceramic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
-powder-bag,culinary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
+powder-bag,culinary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,2
 powder-bag,domestic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
 powder-bag,gathering,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.382248,,1
 powder-bag,hospitality,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.381247,,1
+powder-bag,outlined form,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Xoh5Gx4daLKfjCOiMsdNsfF9,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.893640,,1
 powder-bag,relaxation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.382248,,1
 powder-bag,ritual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.382248,,1
 powder-bag,service,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_WTiAOImyHsK15zwceWUXjJ7p,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.382248,,1

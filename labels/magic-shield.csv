@@ -1,26 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+magic-shield,arcane,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
 magic-shield,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
 magic-shield,badge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
-magic-shield,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
+magic-shield,barrier,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
+magic-shield,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,2
+magic-shield,defensive magic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
 magic-shield,design,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
-magic-shield,emblem,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
-magic-shield,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
+magic-shield,emblem,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,2
+magic-shield,magic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
+magic-shield,mystic protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
+magic-shield,mystical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
+magic-shield,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,2
+magic-shield,protection spell,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
 magic-shield,protection symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
-magic-shield,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
-magic-shield,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
+magic-shield,protective ward,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
+magic-shield,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,2
+magic-shield,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,2
 magic-shield,strength,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
-magic-shield,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
-magic-shield,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
+magic-shield,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,2
+magic-shield,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,2
+magic-shield,amulet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
 magic-shield,armory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
+magic-shield,charm,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
+magic-shield,crest,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
 magic-shield,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
+magic-shield,enchantment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
+magic-shield,forcefield,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
+magic-shield,fortification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
 magic-shield,fortress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
 magic-shield,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
+magic-shield,guard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
 magic-shield,heraldry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
+magic-shield,hex,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
 magic-shield,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
 magic-shield,military,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
 magic-shield,order,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
+magic-shield,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
+magic-shield,ritual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
+magic-shield,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
+magic-shield,sigil,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
 magic-shield,sign,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
+magic-shield,sorcery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
 magic-shield,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
 magic-shield,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
 magic-shield,triangle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
 magic-shield,unity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KWRNTAco5rxwosWQVaWEaBGU,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.352153,,1
+magic-shield,white magic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1
+magic-shield,insignia,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZeIF6t39X5BurRQq16ivtGsr,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.022145,,1

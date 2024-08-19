@@ -1,26 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-abstract-110,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
+abstract-110,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,2
+abstract-110,balanced,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7jEssTwPyVvrXXz6STTY1Cr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.329521,,1
 abstract-110,central division,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
-abstract-110,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
-abstract-110,pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
+abstract-110,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,2
+abstract-110,pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,2
+abstract-110,stacked,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7jEssTwPyVvrXXz6STTY1Cr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.329521,,1
+abstract-110,symmetric,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7jEssTwPyVvrXXz6STTY1Cr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.329521,,1
 abstract-110,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
 abstract-110,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
-abstract-110,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
+abstract-110,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7jEssTwPyVvrXXz6STTY1Cr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.330584,,1
+abstract-110,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,2
+abstract-110,arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7jEssTwPyVvrXXz6STTY1Cr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.330584,,1
 abstract-110,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
+abstract-110,columns,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7jEssTwPyVvrXXz6STTY1Cr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.330584,,1
+abstract-110,composition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7jEssTwPyVvrXXz6STTY1Cr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.330584,,1
 abstract-110,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
 abstract-110,curves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
+abstract-110,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7jEssTwPyVvrXXz6STTY1Cr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.330584,,1
 abstract-110,division,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
 abstract-110,form,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
-abstract-110,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
+abstract-110,graphics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7jEssTwPyVvrXXz6STTY1Cr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.330584,,1
+abstract-110,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,2
 abstract-110,intersection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
-abstract-110,layers,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
+abstract-110,layers,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,2
 abstract-110,minimalism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
-abstract-110,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
+abstract-110,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,2
+abstract-110,mirror,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7jEssTwPyVvrXXz6STTY1Cr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.330584,,1
 abstract-110,quadrants,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
 abstract-110,segments,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
 abstract-110,stacked shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
-abstract-110,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
+abstract-110,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,2
+abstract-110,tiles,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7jEssTwPyVvrXXz6STTY1Cr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.330584,,1
 abstract-110,visual balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
 abstract-110,visual design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
-abstract-110,futuristic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
-abstract-110,modern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,1
+abstract-110,futuristic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,2
+abstract-110,modern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IZ1USNyUCb4xncaPlDOGR0I8,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.782325,,2
+abstract-110,ornament,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7jEssTwPyVvrXXz6STTY1Cr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.330584,,1
+abstract-110,partition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7jEssTwPyVvrXXz6STTY1Cr4,0,gpt-4o-2024-08-06,2024-08-18T22:29:30.330584,,1

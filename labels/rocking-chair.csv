@@ -1,25 +1,36 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-rocking-chair,curved lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
-rocking-chair,relaxation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
+rocking-chair,chair,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q7R7CTSryS6wnjHTmwHOBV5y,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.511178,,1
+rocking-chair,curved lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,2
+rocking-chair,relaxation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,2
 rocking-chair,rocking chair,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
 rocking-chair,rocking motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
+rocking-chair,rocking-chair,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q7R7CTSryS6wnjHTmwHOBV5y,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.511178,,1
 rocking-chair,casual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
-rocking-chair,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
+rocking-chair,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,2
 rocking-chair,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
-rocking-chair,furniture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
-rocking-chair,home,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
+rocking-chair,elderly,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q7R7CTSryS6wnjHTmwHOBV5y,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.511178,,1
+rocking-chair,furniture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,2
+rocking-chair,home,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,2
 rocking-chair,interior,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
-rocking-chair,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
-rocking-chair,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
+rocking-chair,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,2
+rocking-chair,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q7R7CTSryS6wnjHTmwHOBV5y,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.511178,,1
+rocking-chair,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,2
+rocking-chair,nostalgia,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q7R7CTSryS6wnjHTmwHOBV5y,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.511178,,1
 rocking-chair,patio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
-rocking-chair,rest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
+rocking-chair,rest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,2
 rocking-chair,seat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
+rocking-chair,seating,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q7R7CTSryS6wnjHTmwHOBV5y,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.511178,,1
+rocking-chair,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q7R7CTSryS6wnjHTmwHOBV5y,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.511178,,1
 rocking-chair,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
-rocking-chair,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
+rocking-chair,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,2
 rocking-chair,cradle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
-rocking-chair,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
+rocking-chair,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,2
+rocking-chair,interior design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q7R7CTSryS6wnjHTmwHOBV5y,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.511178,,1
+rocking-chair,nursery,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q7R7CTSryS6wnjHTmwHOBV5y,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.511178,,1
 rocking-chair,old-fashioned,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
-rocking-chair,swing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
-rocking-chair,traditional,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
-rocking-chair,vintage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1
+rocking-chair,simplistic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q7R7CTSryS6wnjHTmwHOBV5y,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.511178,,1
+rocking-chair,smooth,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_q7R7CTSryS6wnjHTmwHOBV5y,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.511178,,1
+rocking-chair,swing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,2
+rocking-chair,traditional,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,2
+rocking-chair,vintage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,2
 rocking-chair,wooden,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_AwWJxM2gd7zyj5B0us8p61uF,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.543858,,1

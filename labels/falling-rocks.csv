@@ -1,25 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 falling-rocks,breakdown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
 falling-rocks,broken,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
-falling-rocks,collapse,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,2
+falling-rocks,collapse,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,3
 falling-rocks,crumble,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
 falling-rocks,damage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
+falling-rocks,danger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
 falling-rocks,debris,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
 falling-rocks,destruction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
+falling-rocks,falling rocks,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
 falling-rocks,fragmented,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
 falling-rocks,fragments,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
+falling-rocks,hazard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
+falling-rocks,landslide,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
+falling-rocks,rockslide,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
+falling-rocks,steep slope,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
+falling-rocks,warning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
+falling-rocks,avalanche,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
+falling-rocks,caution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
 falling-rocks,chaos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
 falling-rocks,demolition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
+falling-rocks,disaster,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
 falling-rocks,disintegration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
 falling-rocks,dismantle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
 falling-rocks,erode,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
+falling-rocks,erosion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
 falling-rocks,falling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
+falling-rocks,falling objects,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
 falling-rocks,fissure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
+falling-rocks,geological hazard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
+falling-rocks,gravity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
 falling-rocks,instability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
+falling-rocks,mountain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
+falling-rocks,outdoor warning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
+falling-rocks,risk,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
+falling-rocks,rough terrain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
 falling-rocks,rubble,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
 falling-rocks,ruins,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
+falling-rocks,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
 falling-rocks,shattered,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
 falling-rocks,unstable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
+falling-rocks,unstable ground,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
 falling-rocks,wreckage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
+falling-rocks,abstract danger,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
 falling-rocks,brittle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
+falling-rocks,nature,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1
 falling-rocks,splinter,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lq0RFkjjp4otCSYLnvaL4Nsp,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.782287,,1
+falling-rocks,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pjROw60TApdKMNMGd7JgcPj,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.968171,,1

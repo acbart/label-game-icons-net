@@ -1,25 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 executioner-hood,cloaked figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
-executioner-hood,disguise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
+executioner-hood,disguise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,2
 executioner-hood,enigmatic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
 executioner-hood,espionage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
+executioner-hood,executioner,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
 executioner-hood,hidden identity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
-executioner-hood,hood,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
+executioner-hood,hood,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,2
+executioner-hood,mask,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
 executioner-hood,mysterious character,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
-executioner-hood,mystery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
+executioner-hood,mystery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,2
 executioner-hood,ninja,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
+executioner-hood,sinister,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
 executioner-hood,spy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
-executioner-hood,stealth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
-executioner-hood,anonymity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
+executioner-hood,stealth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,2
+executioner-hood,anonymity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,2
 executioner-hood,black hat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
 executioner-hood,camouflage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
 executioner-hood,concealment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
+executioner-hood,costume,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
+executioner-hood,darkness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
+executioner-hood,fear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
+executioner-hood,gothic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
+executioner-hood,horror,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
 executioner-hood,incognito,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
+executioner-hood,intimidation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
+executioner-hood,judgment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
 executioner-hood,lurk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
+executioner-hood,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
+executioner-hood,mythical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
 executioner-hood,occult,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
+executioner-hood,punishment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
 executioner-hood,secretive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
-executioner-hood,shadow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
-executioner-hood,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
+executioner-hood,shadow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,2
+executioner-hood,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,2
 executioner-hood,stealthy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
+executioner-hood,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
+executioner-hood,unknown identity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
 executioner-hood,unseen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
 executioner-hood,watchful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_RIFFBb8Nm1AMu4wWxnSDmFcV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.745941,,1
+executioner-hood,noir,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1
+executioner-hood,theatre,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Q4wANykUwTS8Zi0Hdmo8Dsn5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.825285,,1

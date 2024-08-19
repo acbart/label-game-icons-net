@@ -1,25 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-asian-lantern,illumination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
+asian-lantern,asian culture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,asian lantern,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,cultural symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,glowing effect,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,illumination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,2
 asian-lantern,lantern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
 asian-lantern,light,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
+asian-lantern,light source,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
 asian-lantern,radiance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
 asian-lantern,shine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
 asian-lantern,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
+asian-lantern,abstract lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,ambiance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
 asian-lantern,beacon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
 asian-lantern,brightness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
+asian-lantern,celebration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,celebratory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,circular shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
 asian-lantern,electricity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
+asian-lantern,elegant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
 asian-lantern,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
+asian-lantern,festive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
 asian-lantern,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
 asian-lantern,glow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
 asian-lantern,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
+asian-lantern,hanging lamp,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,illumination device,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
 asian-lantern,inspiration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
 asian-lantern,lamp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
+asian-lantern,layered design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
 asian-lantern,lighting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
+asian-lantern,minimalist design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
 asian-lantern,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
 asian-lantern,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
 asian-lantern,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
+asian-lantern,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
 asian-lantern,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
+asian-lantern,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,traditional decor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
 asian-lantern,visibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
-asian-lantern,decor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
+asian-lantern,visual balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,decor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,2
 asian-lantern,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1
+asian-lantern,peace,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,serenity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
+asian-lantern,spiritual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_U0zAOC5lxq18tz9UbvNS6c87,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.744581,,1
 asian-lantern,warmth,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2uGtrDPqtEIDl5gxt90ip1iu,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.677256,,1

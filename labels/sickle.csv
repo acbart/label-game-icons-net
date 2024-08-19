@@ -1,25 +1,54 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+sickle,agriculture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,art,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
 sickle,curve,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
+sickle,cutting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,drawing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
+sickle,farming,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,handle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
+sickle,harvest,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,line,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
 sickle,paint brush,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
 sickle,painting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
+sickle,reaping,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
+sickle,sickle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,stroke,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
-sickle,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
+sickle,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,2
+sickle,blade,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,bristle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
 sickle,calligraphy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
 sickle,craft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
 sickle,creative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
+sickle,crescent shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
+sickle,crops,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
+sickle,curved,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
+sickle,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
 sickle,fine art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
 sickle,fluidity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
+sickle,gardening,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
+sickle,grain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
+sickle,grass cutting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
+sickle,hand tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,hobby,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
+sickle,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
+sickle,labor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
+sickle,manual work,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
+sickle,rural,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
+sickle,scythe,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
+sickle,seasonal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,swoosh,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
+sickle,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,technique,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
+sickle,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
+sickle,antique,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
+sickle,collective,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,decoration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1
+sickle,folklore,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
+sickle,harvest moon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
+sickle,industrial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
+sickle,landscaping,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_a1fw5uempgVC62GaEqWo0nQi,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.490794,,1
 sickle,texture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3TdJBS1SMVc1xxvIdpprpkMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.817415,,1

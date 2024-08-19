@@ -1,27 +1,56 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+envelope,communication,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,communication tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,contact,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
 envelope,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
+envelope,envelope,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,letter,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,mail,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,message,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
 envelope,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
 envelope,safeguard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
 envelope,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
 envelope,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.613720,,1
-envelope,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
+envelope,triangle shapes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,2
 envelope,armor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
 envelope,badge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
+envelope,business,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,connection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,correspondence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,delivery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
 envelope,divide,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
+envelope,document,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
 envelope,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
+envelope,formal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
 envelope,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
+envelope,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,paper,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
 envelope,partition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
 envelope,partitioned,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
+envelope,postal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,receive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
 envelope,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
 envelope,secure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
 envelope,security system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
 envelope,segmentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
+envelope,send,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,sharp angles,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
 envelope,structural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
 envelope,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
+envelope,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,writing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
 envelope,blocked,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
+envelope,compact,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
 envelope,cut,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
 envelope,defense mechanisms,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
+envelope,expression,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
 envelope,law enforcement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
 envelope,military,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
+envelope,network,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
+envelope,origami,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_YxPhm11eMxRgEfGJ67iVB0Ad,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.050842,,1
 envelope,police,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1
 envelope,protection plan,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TgHZxUw1GpqAkvrzVVhyfL0G,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.614719,,1

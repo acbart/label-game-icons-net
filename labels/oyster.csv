@@ -1,25 +1,53 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+oyster,bivalve,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845091,,1
 oyster,gesture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
 oyster,hand,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
+oyster,marine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845091,,1
+oyster,oyster,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845091,,1
 oyster,peace,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
+oyster,seafood,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845091,,1
+oyster,shell,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845091,,1
+oyster,shellfish,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
 oyster,sign,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
 oyster,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
-oyster,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
+oyster,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,2
 oyster,agreement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
 oyster,calm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
 oyster,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
+oyster,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
+oyster,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
 oyster,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
 oyster,hands up,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
 oyster,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
+oyster,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
+oyster,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
 oyster,open palm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
+oyster,organic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
+oyster,pearl,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
 oyster,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
+oyster,sea,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
+oyster,seashell,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
 oyster,stop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
 oyster,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
+oyster,texture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
 oyster,unity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
+oyster,aquatic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
 oyster,assistance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
 oyster,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
+oyster,coastal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
+oyster,culinary,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
+oyster,ecosystem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
+oyster,environment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
+oyster,fishing,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
+oyster,fluidity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
+oyster,fossil,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
+oyster,gourmet,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
+oyster,harvest,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
 oyster,human interaction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
 oyster,humanity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
+oyster,ingredient,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
 oyster,interface,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
+oyster,nutrition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
+oyster,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QSpOANv0zqgPDSjNiGMsdFdh,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.845620,,1
 oyster,reception,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
-oyster,wave,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,1
+oyster,wave,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XY73AderH6rfF55lZmnRGOIB,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.063999,,2

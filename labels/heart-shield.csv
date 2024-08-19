@@ -1,26 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-heart-shield,care,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
+heart-shield,care,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
+heart-shield,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
+heart-shield,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
+heart-shield,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
+heart-shield,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
+heart-shield,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
+heart-shield,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
+heart-shield,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
+heart-shield,defend,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WOlfeEQ6yKTY6chyoBiDCRve,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.732655,,1
+heart-shield,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
+heart-shield,emotional protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WOlfeEQ6yKTY6chyoBiDCRve,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.732655,,1
 heart-shield,empathy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
+heart-shield,fortify,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WOlfeEQ6yKTY6chyoBiDCRve,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.732655,,1
+heart-shield,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
 heart-shield,guardian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,insurance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,love,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
+heart-shield,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
+heart-shield,heart care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WOlfeEQ6yKTY6chyoBiDCRve,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.732655,,1
+heart-shield,insurance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
+heart-shield,love,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
 heart-shield,security badge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
+heart-shield,security shield,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WOlfeEQ6yKTY6chyoBiDCRve,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.732655,,1
+heart-shield,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WOlfeEQ6yKTY6chyoBiDCRve,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.732655,,1
+heart-shield,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
 heart-shield,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,trust,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
-heart-shield,well-being,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
+heart-shield,trust,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
+heart-shield,well-being,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,2
 heart-shield,badge,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
+heart-shield,concept,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WOlfeEQ6yKTY6chyoBiDCRve,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.732655,,1
 heart-shield,emotions,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
 heart-shield,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
 heart-shield,line art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1
+heart-shield,metaphor,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WOlfeEQ6yKTY6chyoBiDCRve,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.732655,,1
+heart-shield,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WOlfeEQ6yKTY6chyoBiDCRve,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.732655,,1
 heart-shield,vitality,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7vLwLjOPw3oBIFKJX3tG34yn,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.235554,,1

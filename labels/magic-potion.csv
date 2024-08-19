@@ -1,25 +1,55 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+magic-potion,cauldron,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
 magic-potion,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
 magic-potion,earth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
+magic-potion,fantasy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,magic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,mystical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
 magic-potion,orbit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
 magic-potion,planet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
+magic-potion,potion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
 magic-potion,satellite,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
 magic-potion,signal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
+magic-potion,sorcery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
 magic-potion,space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
+magic-potion,spell,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
 magic-potion,wireless,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
+magic-potion,witchcraft,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,wizardry,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,alchemy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,arcane,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
 magic-potion,astronomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
+magic-potion,bottle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,brew,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
 magic-potion,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
 magic-potion,broadcasting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
+magic-potion,bubbles,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
 magic-potion,communication lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
 magic-potion,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
 magic-potion,data,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
+magic-potion,elixir,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,enchantment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
 magic-potion,global,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
 magic-potion,globe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
+magic-potion,hex,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,mixture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,mythical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
 magic-potion,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
+magic-potion,occult,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
 magic-potion,satellite dish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
 magic-potion,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
 magic-potion,signal waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
 magic-potion,space exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
 magic-potion,spacecraft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
+magic-potion,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
 magic-potion,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
+magic-potion,transformation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,wizard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,container,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,foaming,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
 magic-potion,geography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xRrUPvo6qL1Pa0FSoRKj03Af,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.723534,,1
+magic-potion,philosopher's stone,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,scientific,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1
+magic-potion,steam,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_g8RFMYg07v9Bf3KTuIfWPoZ5,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.557943,,1

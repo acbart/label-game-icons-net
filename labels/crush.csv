@@ -1,22 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 crush,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
+crush,breakup,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
+crush,broken,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
 crush,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
 crush,crown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
 crush,emblem,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
+crush,emotion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
+crush,emotional,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
+crush,heartbreak,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
+crush,impact,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
 crush,majesty,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
+crush,pain,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
 crush,pointed shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
 crush,prestige,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
 crush,regal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
+crush,relationship,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
 crush,royalty,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
+crush,sorrow,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
+crush,affection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
 crush,authority,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
 crush,ceremonial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
+crush,collapsing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
+crush,cracked,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
+crush,damage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
 crush,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
+crush,depression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
+crush,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
+crush,disruption,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
+crush,fragmentation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
 crush,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
 crush,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
 crush,honor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
 crush,jewel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
 crush,monarchy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
 crush,ornament,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
-crush,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
+crush,pressure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
+crush,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
+crush,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
+crush,stress,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s4JY6Wf023V8nulHUbe4HcMj,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.684304,,1
+crush,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,2
 crush,zigzag pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1
 crush,pendant,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7rSA98IAjOIsgFvzF2D711GK,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.967030,,1

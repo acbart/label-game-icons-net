@@ -1,22 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-ursa-major,astronomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
-ursa-major,celestial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
-ursa-major,constellation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
+ursa-major,asterism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
+ursa-major,astronomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,2
+ursa-major,big-dipper,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
+ursa-major,celestial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,2
+ursa-major,constellation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,2
 ursa-major,cosmic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
 ursa-major,linked stars,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
 ursa-major,night sky,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
 ursa-major,star map,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
+ursa-major,stars,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
+ursa-major,ursa-major,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
 ursa-major,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
 ursa-major,astrology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
+ursa-major,cartography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
 ursa-major,connectivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
+ursa-major,cosmos,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
 ursa-major,galaxy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
+ursa-major,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
 ursa-major,guide,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
 ursa-major,line pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
-ursa-major,map,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
+ursa-major,map,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,2
 ursa-major,mystical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
-ursa-major,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
+ursa-major,mythology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
+ursa-major,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,2
+ursa-major,night,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
+ursa-major,night-sky,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
+ursa-major,northern-hemisphere,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
+ursa-major,orientation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
+ursa-major,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
+ursa-major,space,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
+ursa-major,stargazing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
+ursa-major,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
 ursa-major,triangular shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
 ursa-major,universe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
-ursa-major,zodiac,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
-ursa-major,direction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1
+ursa-major,zodiac,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,2
+ursa-major,ancient,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
+ursa-major,direction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,2
+ursa-major,exploration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
+ursa-major,legend,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ntRaDnMqvaTI2X3ckCoA40bE,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.102705,,1
 ursa-major,pathway,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MszzgDkOVto3jGIvDhq6IcPR,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.462463,,1

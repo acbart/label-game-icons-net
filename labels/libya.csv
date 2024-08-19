@@ -1,21 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-libya,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
+libya,Africa,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
+libya,Libya,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
+libya,North Africa,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.192150,,1
+libya,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,2
+libya,cartography,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
+libya,geography,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
 libya,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
 libya,irregular,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
+libya,map outline,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
+libya,nation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
+libya,outline,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
 libya,polygon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
-libya,shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
+libya,shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,2
 libya,block,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
+libya,border,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
 libya,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
+libya,country silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
 libya,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
 libya,form,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
+libya,jurisdiction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
+libya,landmass,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
+libya,location,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.192150,,1
 libya,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
+libya,political map,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
+libya,region,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
 libya,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
 libya,solid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
+libya,sovereignty,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.192150,,1
 libya,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
+libya,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
+libya,territory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
+libya,topography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.191153,,1
 libya,boundary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,2
+libya,demarcation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.192150,,1
 libya,edges,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
+libya,expanse,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.192150,,1
 libya,figure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
 libya,fragment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
+libya,macro view,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vZuT0THApG2drzuVneevII8c,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.192150,,1
 libya,mass,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
 libya,modern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1
 libya,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZMJ3Lq9rpNJGrNxx7M3apnMz,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.625973,,1

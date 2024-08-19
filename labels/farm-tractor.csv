@@ -1,26 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 farm-tractor,agribusiness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
-farm-tractor,agriculture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
+farm-tractor,agriculture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,2
 farm-tractor,crop production,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
-farm-tractor,cultivation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
-farm-tractor,farm equipment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
-farm-tractor,farming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
+farm-tractor,cultivation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,2
+farm-tractor,farm equipment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,2
+farm-tractor,farming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,2
 farm-tractor,farming industry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
 farm-tractor,harvest,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
 farm-tractor,planting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
-farm-tractor,plowing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
+farm-tractor,plowing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,2
 farm-tractor,soil preparation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
-farm-tractor,tractor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
+farm-tractor,tractor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,2
 farm-tractor,cultivator,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
 farm-tractor,engine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
+farm-tractor,field work,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sEvODiOXMyZGap5dZUqIkZuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.993770,,1
 farm-tractor,fields,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
 farm-tractor,fieldwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
+farm-tractor,harvesting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sEvODiOXMyZGap5dZUqIkZuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.993770,,1
+farm-tractor,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sEvODiOXMyZGap5dZUqIkZuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.993770,,1
 farm-tractor,industrial farming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
-farm-tractor,landscape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
-farm-tractor,machinery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
+farm-tractor,landscape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,2
+farm-tractor,machinery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,2
 farm-tractor,mechanization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
-farm-tractor,rural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
+farm-tractor,rural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,2
 farm-tractor,tillage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
-farm-tractor,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
-farm-tractor,vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
-farm-tractor,wheels,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,1
+farm-tractor,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,2
+farm-tractor,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sEvODiOXMyZGap5dZUqIkZuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.993770,,1
+farm-tractor,vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,2
+farm-tractor,wheels,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Ga1ODqPcID42whXfHlDp5Fwv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.791338,,2
+farm-tractor,construction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sEvODiOXMyZGap5dZUqIkZuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.993770,,1
+farm-tractor,durability,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sEvODiOXMyZGap5dZUqIkZuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.993770,,1
+farm-tractor,engineering,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sEvODiOXMyZGap5dZUqIkZuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.993770,,1
+farm-tractor,innovation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sEvODiOXMyZGap5dZUqIkZuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.993770,,1
+farm-tractor,manual labor,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sEvODiOXMyZGap5dZUqIkZuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.993770,,1
+farm-tractor,outdoors,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sEvODiOXMyZGap5dZUqIkZuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.993770,,1
+farm-tractor,power,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sEvODiOXMyZGap5dZUqIkZuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.993770,,1
+farm-tractor,productivity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sEvODiOXMyZGap5dZUqIkZuQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.993770,,1

@@ -1,26 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-hammer-sickle,agriculture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
-hammer-sickle,communism,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
-hammer-sickle,hammer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
-hammer-sickle,ideology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
+hammer-sickle,agriculture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,2
+hammer-sickle,collectivism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
+hammer-sickle,communism,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,2
+hammer-sickle,emblem,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
+hammer-sickle,hammer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,2
+hammer-sickle,historical context,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
+hammer-sickle,ideology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,2
 hammer-sickle,labor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
-hammer-sickle,proletariat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
-hammer-sickle,revolution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
-hammer-sickle,sickle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
+hammer-sickle,political symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
+hammer-sickle,proletariat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,2
+hammer-sickle,revolution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,2
+hammer-sickle,sickle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,2
+hammer-sickle,socialism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
+hammer-sickle,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
 hammer-sickle,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
+hammer-sickle,crossed tools,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
+hammer-sickle,economics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
 hammer-sickle,economy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
 hammer-sickle,farming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
 hammer-sickle,hard work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
 hammer-sickle,harvesting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
+hammer-sickle,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
 hammer-sickle,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
+hammer-sickle,industrial labor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
 hammer-sickle,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
 hammer-sickle,metalwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
 hammer-sickle,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
+hammer-sickle,opposition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
+hammer-sickle,peasantry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
 hammer-sickle,solidarity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
 hammer-sickle,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
-hammer-sickle,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
-hammer-sickle,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
+hammer-sickle,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,2
+hammer-sickle,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,2
+hammer-sickle,union,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
 hammer-sickle,unity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
+hammer-sickle,utopia,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
 hammer-sickle,work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
+hammer-sickle,worker,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pO3cpEnH79nDF2eJSr50JLKu,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.524394,,1
 hammer-sickle,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1
 hammer-sickle,weapon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CQxQNf3jRcAUCUW17w8NCYWu,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.170421,,1

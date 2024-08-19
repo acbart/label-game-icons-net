@@ -1,21 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-plants-and-animals,eco-friendly,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
-plants-and-animals,environment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
-plants-and-animals,growth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
-plants-and-animals,leaf,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
+plants-and-animals,bloom,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1
+plants-and-animals,eco-friendly,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,2
+plants-and-animals,environment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,2
+plants-and-animals,flora,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1
+plants-and-animals,growth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,2
+plants-and-animals,leaf,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,2
 plants-and-animals,life,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
-plants-and-animals,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
+plants-and-animals,life cycle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.961824,,1
+plants-and-animals,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,2
 plants-and-animals,organic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
-plants-and-animals,plant,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
-plants-and-animals,sustainability,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
+plants-and-animals,plant,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,2
+plants-and-animals,sustainability,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,2
+plants-and-animals,biodiversity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1
 plants-and-animals,botanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
+plants-and-animals,botany,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1
 plants-and-animals,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
-plants-and-animals,ecology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
+plants-and-animals,ecology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,2
+plants-and-animals,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1
 plants-and-animals,flourishing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
+plants-and-animals,germination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1
 plants-and-animals,green,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
+plants-and-animals,habitat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,2
 plants-and-animals,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
-plants-and-animals,renewal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
-plants-and-animals,seedling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
+plants-and-animals,natural cycle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1
+plants-and-animals,nurture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1
+plants-and-animals,organic growth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1
+plants-and-animals,organics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1
+plants-and-animals,renewal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,2
+plants-and-animals,roots,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1
+plants-and-animals,seedling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,2
+plants-and-animals,spiritual growth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1
+plants-and-animals,verde,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1
+plants-and-animals,abstract nature,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1
 plants-and-animals,agriculture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
 plants-and-animals,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
 plants-and-animals,diagram,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
@@ -23,3 +39,4 @@ plants-and-animals,environmental design,low,en,acbart@vt.edu,,,False,False,start
 plants-and-animals,fertility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
 plants-and-animals,nature symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
 plants-and-animals,pictogram,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_e65WzMhy7ZBpBSIgXD3q0bDK,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.498158,,1
+plants-and-animals,symbolic plant,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JJa7UzwZaxv6BKR03rRyV7aT,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.962837,,1

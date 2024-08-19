@@ -1,22 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-village,buildings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
-village,dwelling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
-village,home,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
-village,houses,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
+village,buildings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,2
+village,countryside,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
+village,dwelling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,2
+village,home,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,2
+village,houses,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,2
+village,roofs,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
 village,rooftops,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
+village,rural,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
+village,small town,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
 village,abode,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
-village,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
+village,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
+village,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,2
 village,civic design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
-village,community,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
+village,cluster,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
+village,community,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,2
+village,domestic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
+village,geometric shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
+village,group,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
+village,habitation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
 village,housing complex,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
 village,living spaces,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
-village,neighborhood,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
+village,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
+village,neighborhood,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,2
 village,property,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
 village,real estate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
-village,residential,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
-village,settlement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
+village,residential,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,2
+village,settlement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,2
+village,shelter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
+village,simple living,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
+village,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
+village,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
 village,structures,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
 village,suburban,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
 village,town,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
 village,urban,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
-village,village,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,1
+village,village,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Q7V7X7t1HoFeCgR7xuMMy75K,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.516474,,2
+village,congregation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1
+village,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZZCLkzDp7rSbTQjacWpGzohq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.379730,,1

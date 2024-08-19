@@ -1,20 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 low-tide,depth gauge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
+low-tide,ebb,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
 low-tide,levels,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
-low-tide,measurement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
-low-tide,ruler,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
-low-tide,sea level,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
-low-tide,water level,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
-low-tide,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
+low-tide,low tide,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,measurement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,2
+low-tide,ruler,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,2
+low-tide,sea level,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,2
+low-tide,tide,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,tide measurement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,water level,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,2
+low-tide,abstract wave,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,2
 low-tide,calibration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
+low-tide,coastal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,coastline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,depth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,ebb tide,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,gauge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,graph,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
 low-tide,height measurement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
+low-tide,hydrology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
 low-tide,linear scaling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
 low-tide,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
+low-tide,marine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
 low-tide,metric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
+low-tide,nautical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,oceanography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
 low-tide,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
 low-tide,quantification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
 low-tide,scaling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
+low-tide,sea,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,sea measurement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,shore,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,shoreline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
 low-tide,vertical lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
+low-tide,vertical scale,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,waterline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,wave,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
+low-tide,wave pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RN9bes0syctd0HTMAlTy2pkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.463012,,1
 low-tide,waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
 low-tide,analysis,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1
 low-tide,control,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U5EcUivbY8K3QM9B835ix3kM,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.702513,,1

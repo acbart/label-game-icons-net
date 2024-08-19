@@ -1,31 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 birch-trees,bark,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
 birch-trees,birch,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
+birch-trees,birch trees,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
 birch-trees,natural,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
-birch-trees,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
-birch-trees,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
+birch-trees,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,2
+birch-trees,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,2
 birch-trees,trees,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
+birch-trees,trunk,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
 birch-trees,trunks,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
 birch-trees,wood,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
+birch-trees,woods,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
+birch-trees,abstract lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
 birch-trees,branch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
+birch-trees,deciduous,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
 birch-trees,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
-birch-trees,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
-birch-trees,forest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
-birch-trees,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
-birch-trees,landscape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
+birch-trees,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,2
+birch-trees,foliage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
+birch-trees,forest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,2
+birch-trees,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,2
+birch-trees,landscape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,2
 birch-trees,leaves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
 birch-trees,life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
-birch-trees,organic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
-birch-trees,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
+birch-trees,organic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,2
+birch-trees,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,2
+birch-trees,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
 birch-trees,plant,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
+birch-trees,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
+birch-trees,textures,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
 birch-trees,vegetation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
-birch-trees,wilderness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
+birch-trees,verticality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
+birch-trees,wilderness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,2
+birch-trees,woodland,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
+birch-trees,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
 birch-trees,biotic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
+birch-trees,calm,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
 birch-trees,conservation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
+birch-trees,graphic design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
 birch-trees,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
 birch-trees,lumber,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
+birch-trees,minimalism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
 birch-trees,pioneer species,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
-birch-trees,renewal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
+birch-trees,renewal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,2
 birch-trees,season,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
+birch-trees,seasonal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
+birch-trees,serenity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_99TyUOOLixTECAUt1or1dcjn,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.790629,,1
 birch-trees,shade,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1
 birch-trees,wildlife,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_K9YOnDkrqFvbdlLS8Ggcz7kF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.223770,,1

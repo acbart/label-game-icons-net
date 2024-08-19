@@ -1,28 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-trophy-cup,achievement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,award,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,competition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,honor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,prize,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,recognition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,success,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,trophy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,victory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
+trophy-cup,achievement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
+trophy-cup,award,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
+trophy-cup,award ceremony,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rblL23AU83DJXDqO2XCdBXos,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.738586,,1
+trophy-cup,competition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
+trophy-cup,honor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
+trophy-cup,prize,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
+trophy-cup,recognition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
+trophy-cup,success,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
+trophy-cup,triumph,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rblL23AU83DJXDqO2XCdBXos,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.738586,,1
+trophy-cup,trophy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
+trophy-cup,victory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
 trophy-cup,winner,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,celebration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
+trophy-cup,winning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rblL23AU83DJXDqO2XCdBXos,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.738586,,1
+trophy-cup,accomplishment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rblL23AU83DJXDqO2XCdBXos,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.738586,,1
+trophy-cup,ambition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rblL23AU83DJXDqO2XCdBXos,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.738586,,1
+trophy-cup,celebration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
 trophy-cup,championship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,contest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,cup,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
+trophy-cup,contest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
+trophy-cup,cup,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
+trophy-cup,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rblL23AU83DJXDqO2XCdBXos,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.738586,,1
 trophy-cup,excellence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,glory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,goal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
+trophy-cup,glory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
+trophy-cup,goal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
+trophy-cup,goal-reaching,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rblL23AU83DJXDqO2XCdBXos,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.738586,,1
+trophy-cup,higher rank,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rblL23AU83DJXDqO2XCdBXos,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.738586,,1
+trophy-cup,leader,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rblL23AU83DJXDqO2XCdBXos,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.738586,,1
 trophy-cup,leadership,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
+trophy-cup,medal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rblL23AU83DJXDqO2XCdBXos,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.738586,,1
 trophy-cup,merit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
 trophy-cup,reward,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,sports,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
+trophy-cup,sports,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
+trophy-cup,status,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rblL23AU83DJXDqO2XCdBXos,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.738586,,1
 trophy-cup,success symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
+trophy-cup,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rblL23AU83DJXDqO2XCdBXos,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.738586,,1
+trophy-cup,tournament,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rblL23AU83DJXDqO2XCdBXos,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.738586,,1
 trophy-cup,achievement icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
-trophy-cup,champion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
+trophy-cup,champion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,2
+trophy-cup,jubilation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rblL23AU83DJXDqO2XCdBXos,0,gpt-4o-2024-08-06,2024-08-18T22:29:13.738586,,1
 trophy-cup,podium,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
 trophy-cup,sportsmanship,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1
 trophy-cup,victory symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_MjtMCy3mPzHk6fx044BMtB4P,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.397767,,1

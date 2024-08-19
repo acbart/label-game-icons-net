@@ -1,25 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-running-ninja,action,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
-running-ninja,dynamic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
+running-ninja,action,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,2
+running-ninja,dynamic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,2
 running-ninja,forward motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
 running-ninja,momentum,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
-running-ninja,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
-running-ninja,speed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
+running-ninja,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,2
+running-ninja,ninja,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,running,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,speed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,2
 running-ninja,advanced,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
+running-ninja,agility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
 running-ninja,bold design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
 running-ninja,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
-running-ninja,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
+running-ninja,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,2
 running-ninja,flight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
 running-ninja,futuristic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
 running-ninja,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
 running-ninja,kinetic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
+running-ninja,martial arts,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
 running-ninja,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
 running-ninja,progression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
+running-ninja,secretive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,shadow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,silence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
 running-ninja,sleek,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
+running-ninja,sneak,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,stealth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
 running-ninja,streamlined,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
 running-ninja,swift,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
 running-ninja,transformation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
 running-ninja,vector,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
+running-ninja,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,action figure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,athletics,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,blur,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,character,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
 running-ninja,displacement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
+running-ninja,emblem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,figure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,icon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
 running-ninja,modernity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1
+running-ninja,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,speedster,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
+running-ninja,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KchfwBrs3vGPWaPgsP9DyEjL,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.018847,,1
 running-ninja,technology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TmXxUVYt9j6Jd6AxdN1gduOF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.508882,,1

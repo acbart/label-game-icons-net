@@ -1,24 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 diplodocus,ancient,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
-diplodocus,dinosaur,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
-diplodocus,extinct,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
+diplodocus,dinosaur,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,2
+diplodocus,diplodocus,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RzWUDjrTf4kKRzZKlNWUQVRB,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.070876,,1
+diplodocus,extinct,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,2
 diplodocus,jurassic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
-diplodocus,prehistoric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
-diplodocus,wildlife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
-diplodocus,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
+diplodocus,long neck,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RzWUDjrTf4kKRzZKlNWUQVRB,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.070876,,1
+diplodocus,paleontology,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RzWUDjrTf4kKRzZKlNWUQVRB,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.070876,,1
+diplodocus,prehistoric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,2
+diplodocus,reptile,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RzWUDjrTf4kKRzZKlNWUQVRB,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.070876,,1
+diplodocus,wildlife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,2
+diplodocus,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RzWUDjrTf4kKRzZKlNWUQVRB,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.070876,,1
+diplodocus,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,2
 diplodocus,archetype,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
+diplodocus,bone structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RzWUDjrTf4kKRzZKlNWUQVRB,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.070876,,1
 diplodocus,creature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
 diplodocus,figure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
 diplodocus,giant reptile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
 diplodocus,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
 diplodocus,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
-diplodocus,natural history,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
+diplodocus,iconic shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RzWUDjrTf4kKRzZKlNWUQVRB,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.070876,,1
+diplodocus,large creature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RzWUDjrTf4kKRzZKlNWUQVRB,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.070876,,1
+diplodocus,museum,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RzWUDjrTf4kKRzZKlNWUQVRB,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.070876,,1
+diplodocus,natural history,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,2
 diplodocus,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
+diplodocus,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RzWUDjrTf4kKRzZKlNWUQVRB,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.070876,,1
 diplodocus,paleo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
 diplodocus,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
-diplodocus,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
+diplodocus,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,2
 diplodocus,species,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
-diplodocus,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
-diplodocus,tail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
-diplodocus,illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1
+diplodocus,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,2
+diplodocus,tail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,2
+diplodocus,vertebrate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RzWUDjrTf4kKRzZKlNWUQVRB,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.070876,,1
+diplodocus,illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,2
 diplodocus,mythical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5LUr4TjrBNk94Vs3G3bXrxHM,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.549566,,1

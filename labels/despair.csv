@@ -1,25 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 despair,barbell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,burdened,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
+despair,despair,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,exercise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
 despair,fitness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
 despair,gym,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,hopelessness,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,lifting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,overwhelmed,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
+despair,pressure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
+despair,sadness,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,strength,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,stress,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
+despair,suffering,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,weightlifting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
 despair,workout,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,anxiety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,athlete,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,bend,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,bodybuilding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,depression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,determination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
 despair,effort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,emotional weight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,endurance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,exhaustion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
+despair,fatigue,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,mental health,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,muscle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
 despair,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,personification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
 despair,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,psychological,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,sports,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,struggle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,training,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,abstract figure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,achievement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,artistic representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,commitment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,conceptual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,discipline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,graphic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
+despair,low mood,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
 despair,routine,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ugVZB5buN4CjxHWHi4itRBmN,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.454957,,1
+despair,slump,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1
+despair,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MzymvZxgI26HnkieBm53ii3t,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.335249,,1

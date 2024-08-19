@@ -1,21 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 whisk,art,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.612175,,1
 whisk,artist,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.613225,,1
+whisk,baking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,beating,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
 whisk,brush,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.613225,,1
+whisk,cooking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,culinary,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,culinary tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
 whisk,drawing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.612175,,1
+whisk,egg beater,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,equipment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,food preparation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,kitchen,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,kitchenware,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,mixing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
 whisk,paintbrush,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.612175,,1
 whisk,painting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.612175,,1
+whisk,stirring,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,utensil,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
 whisk,visual arts,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.613225,,1
+whisk,whisk,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
 whisk,aesthetics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.613225,,1
 whisk,artisan,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.613225,,1
 whisk,brushstroke,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.613225,,1
+whisk,cheffing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,cooking process,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
 whisk,craft,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.612175,,1
 whisk,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.612175,,1
 whisk,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.613225,,1
-whisk,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.612175,,1
+whisk,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.612175,,2
 whisk,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.612175,,1
 whisk,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.613225,,1
+whisk,kitchen gadget,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,manual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
 whisk,manual work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.612175,,1
-whisk,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.612175,,1
+whisk,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,swirls,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.612175,,2
+whisk,wire,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,artistic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
 whisk,detail,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.613225,,1
+whisk,domestic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,home,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
 whisk,media,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_VYE2afrv81wwJatTRuVCwqGV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.613225,,1
+whisk,spiral,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1
+whisk,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jQGkq8tMIFZxBPay3T5QxqVq,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.747255,,1

@@ -1,25 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+paint-roller,decorating,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
 paint-roller,drip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
 paint-roller,liquid drop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
 paint-roller,paint roller,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
-paint-roller,painting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
-paint-roller,DIY,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
-paint-roller,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
+paint-roller,paint-roller,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
+paint-roller,painting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,2
+paint-roller,wall painting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
+paint-roller,DIY,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,2
+paint-roller,applicator,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
+paint-roller,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,2
 paint-roller,brush,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
-paint-roller,coating,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
-paint-roller,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
+paint-roller,coating,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,2
+paint-roller,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,2
 paint-roller,covering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
+paint-roller,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
+paint-roller,cylindrical shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
 paint-roller,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
 paint-roller,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
+paint-roller,drips,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
 paint-roller,finishing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
-paint-roller,home improvement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
-paint-roller,interior design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
+paint-roller,handle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
+paint-roller,home decor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
+paint-roller,home improvement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,2
+paint-roller,interior design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,2
 paint-roller,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
-paint-roller,maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
-paint-roller,renovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
-paint-roller,rolling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
+paint-roller,maintenance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,2
+paint-roller,professional tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
+paint-roller,renovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,2
+paint-roller,rolling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,2
+paint-roller,smooth surface,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
+paint-roller,spreading,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
 paint-roller,surface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
-paint-roller,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
+paint-roller,surface coverage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
+paint-roller,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,2
+paint-roller,tool grip,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
 paint-roller,wall,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
+paint-roller,abstract representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
 paint-roller,application,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
+paint-roller,craftsmanship,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
+paint-roller,even application,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1
 paint-roller,smooth,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bax6YqBfwWzH8y7myF8tkE7o,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.078999,,1
+paint-roller,texture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EqCCxOGU8B9ebX3tTEazsPw5,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.890767,,1

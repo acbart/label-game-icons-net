@@ -1,25 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 mp-40,assault rifle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
-mp-40,firearm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
-mp-40,gun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
-mp-40,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
-mp-40,aggression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
-mp-40,ammunition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
-mp-40,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
-mp-40,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
+mp-40,firearm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,2
+mp-40,gun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,2
+mp-40,submachine gun,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ihtTUC6gHsWQLzpMmlWJF6CD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.900690,,1
+mp-40,weapon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,2
+mp-40,20th century,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ihtTUC6gHsWQLzpMmlWJF6CD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.900690,,1
+mp-40,German engineering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ihtTUC6gHsWQLzpMmlWJF6CD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.900690,,1
+mp-40,aggression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,2
+mp-40,ammunition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,2
+mp-40,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,2
+mp-40,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,2
 mp-40,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
-mp-40,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
+mp-40,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,2
 mp-40,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
-mp-40,military,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
-mp-40,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
+mp-40,historical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ihtTUC6gHsWQLzpMmlWJF6CD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.900690,,1
+mp-40,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ihtTUC6gHsWQLzpMmlWJF6CD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.900690,,1
+mp-40,machine gun,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ihtTUC6gHsWQLzpMmlWJF6CD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.900690,,1
+mp-40,military,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,2
+mp-40,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ihtTUC6gHsWQLzpMmlWJF6CD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.900690,,1
+mp-40,rifle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ihtTUC6gHsWQLzpMmlWJF6CD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.900690,,1
+mp-40,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,2
 mp-40,shooting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
+mp-40,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ihtTUC6gHsWQLzpMmlWJF6CD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.900690,,1
+mp-40,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ihtTUC6gHsWQLzpMmlWJF6CD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.900690,,1
+mp-40,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ihtTUC6gHsWQLzpMmlWJF6CD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.900690,,1
+mp-40,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ihtTUC6gHsWQLzpMmlWJF6CD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.900690,,1
 mp-40,threat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
 mp-40,trigger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
 mp-40,violence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
-mp-40,war,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
-mp-40,action,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
+mp-40,war,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,2
+mp-40,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ihtTUC6gHsWQLzpMmlWJF6CD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.900690,,1
+mp-40,action,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,2
 mp-40,barrel,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
 mp-40,criminal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
 mp-40,mechanism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
 mp-40,power,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
 mp-40,protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1yREAlfaAV2yzhVryYuu9RCy,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.373782,,1
+mp-40,vintage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ihtTUC6gHsWQLzpMmlWJF6CD,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.900690,,1

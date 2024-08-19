@@ -1,31 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 base-dome,astronomical research,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
 base-dome,astronomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,base,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
 base-dome,observational science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
-base-dome,observatory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,observatory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,2
 base-dome,sky observation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,structure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
 base-dome,telescope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
+base-dome,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
 base-dome,astrophysics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,building,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
 base-dome,celestial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,communication,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
 base-dome,cosmic research,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
 base-dome,cosmic study,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
 base-dome,cosmos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
-base-dome,dome,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,dome,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,2
 base-dome,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
 base-dome,exploratory science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
+base-dome,lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
+base-dome,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
 base-dome,night sky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
 base-dome,planetarium,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,research,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
 base-dome,research facility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
-base-dome,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,roof,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
+base-dome,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,2
 base-dome,scientific equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
 base-dome,scientific observation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,signal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
 base-dome,space,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
 base-dome,space exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
 base-dome,stargazing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
-base-dome,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
+base-dome,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,2
 base-dome,universe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,construction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
+base-dome,coverage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
 base-dome,geodesic structure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
 base-dome,global observation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
 base-dome,knowledge,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,protection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
+base-dome,satellite,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1
 base-dome,satellite dish,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
 base-dome,signal transmission,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ApoKmnqEI3XAOzSQei9S9ynY,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.782488,,1
+base-dome,weather,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kD14Abc5tRy4KilRGxWiVikT,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.152898,,1

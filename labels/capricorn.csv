@@ -1,26 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 capricorn,Capricorn,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
-capricorn,astrology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
-capricorn,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
-capricorn,zodiac,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
+capricorn,astrology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,2
+capricorn,capricorn,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
+capricorn,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,2
+capricorn,zodiac,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,2
+capricorn,ambition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
 capricorn,astrological chart,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
+capricorn,cardinal sign,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
 capricorn,celestial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
+capricorn,constellation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
 capricorn,constellations,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
 capricorn,cosmic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
+capricorn,determination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
+capricorn,discipline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
+capricorn,earth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
 capricorn,earth sign,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
+capricorn,element,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
 capricorn,esoteric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
-capricorn,goat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
-capricorn,horoscope,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
+capricorn,goat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,2
+capricorn,horns,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
+capricorn,horoscope,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,2
 capricorn,mysticism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
-capricorn,mythology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
+capricorn,mythology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,2
 capricorn,sea goat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
 capricorn,spirituality,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
+capricorn,stability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
 capricorn,star sign,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
-capricorn,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
+capricorn,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
+capricorn,success,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
+capricorn,winter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
+capricorn,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,2
 capricorn,affinity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
 capricorn,curved lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
 capricorn,energy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
 capricorn,initiation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
 capricorn,journey,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
+capricorn,mature,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
+capricorn,mystical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1
 capricorn,natal chart,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
 capricorn,nature,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TvsxQEgCHUPRf5FBB8REx9GS,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.110915,,1
+capricorn,tradition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_sbaJlNTei5Fu7Rzys2qaMXZk,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.351262,,1

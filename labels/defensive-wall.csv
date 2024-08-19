@@ -1,33 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-defensive-wall,castle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
-defensive-wall,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
-defensive-wall,fortress,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
+defensive-wall,bulwark,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mejeTB1Jp6X6iBeoSJRvLzcA,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.307009,,1
+defensive-wall,castle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,2
+defensive-wall,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,2
+defensive-wall,fortification,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mejeTB1Jp6X6iBeoSJRvLzcA,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.307009,,1
+defensive-wall,fortress,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,2
+defensive-wall,rampart,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mejeTB1Jp6X6iBeoSJRvLzcA,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.307009,,1
 defensive-wall,tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
-defensive-wall,wall,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
+defensive-wall,wall,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,2
 defensive-wall,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
-defensive-wall,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
+defensive-wall,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,2
+defensive-wall,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mejeTB1Jp6X6iBeoSJRvLzcA,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.307009,,1
 defensive-wall,bastion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
 defensive-wall,battlement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
+defensive-wall,battlements,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mejeTB1Jp6X6iBeoSJRvLzcA,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.307009,,1
 defensive-wall,chess rook,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
+defensive-wall,citadel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mejeTB1Jp6X6iBeoSJRvLzcA,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.307009,,1
 defensive-wall,defensive architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
+defensive-wall,deterrent,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mejeTB1Jp6X6iBeoSJRvLzcA,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.307009,,1
 defensive-wall,guard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
 defensive-wall,historical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
 defensive-wall,historical landmark,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
 defensive-wall,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
-defensive-wall,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
+defensive-wall,impenetrable,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mejeTB1Jp6X6iBeoSJRvLzcA,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.307009,,1
+defensive-wall,impregnable,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mejeTB1Jp6X6iBeoSJRvLzcA,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.307009,,1
+defensive-wall,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,2
 defensive-wall,monument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
-defensive-wall,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
+defensive-wall,obstacle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mejeTB1Jp6X6iBeoSJRvLzcA,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.307009,,1
+defensive-wall,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,2
 defensive-wall,resilience,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
+defensive-wall,resistance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mejeTB1Jp6X6iBeoSJRvLzcA,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.307009,,1
 defensive-wall,royalty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
-defensive-wall,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
+defensive-wall,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mejeTB1Jp6X6iBeoSJRvLzcA,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.307009,,1
+defensive-wall,secure perimeter,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mejeTB1Jp6X6iBeoSJRvLzcA,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.307009,,1
+defensive-wall,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,2
 defensive-wall,solid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
 defensive-wall,strategic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
-defensive-wall,stronghold,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
-defensive-wall,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
+defensive-wall,stronghold,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,2
+defensive-wall,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,2
 defensive-wall,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
 defensive-wall,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
 defensive-wall,turret,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
 defensive-wall,watchtower,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
+defensive-wall,boundaries,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mejeTB1Jp6X6iBeoSJRvLzcA,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.307009,,1
 defensive-wall,feudal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
 defensive-wall,medieval Europe,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1
 defensive-wall,stone,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xCP4mWB9VcGJ0e8yIhmaF4I9,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.757611,,1

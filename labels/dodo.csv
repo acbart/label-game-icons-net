@@ -1,26 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-dodo,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,1
-dodo,dodo,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,1
-dodo,endangered,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,1
-dodo,extinct,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,1
+dodo,animal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
+dodo,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,2
+dodo,dodo,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,2
+dodo,endangered,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,2
+dodo,extinct,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,2
+dodo,flightless,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
 dodo,flightless bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,1
+dodo,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
 dodo,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,1
+dodo,archaic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
 dodo,aviary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,1
 dodo,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,1
 dodo,bold shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,1
-dodo,cartoonish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,1
+dodo,cartoonish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,2
+dodo,curved beak,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
+dodo,distinctive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
 dodo,fauna,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,1
-dodo,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,1
+dodo,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
+dodo,historical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
+dodo,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,2
+dodo,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
+dodo,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
 dodo,island,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,1
-dodo,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,1
+dodo,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
+dodo,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,2
 dodo,non-flying,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,1
 dodo,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,1
 dodo,prehistoric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,1
-dodo,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,1
-dodo,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,1
+dodo,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
+dodo,rounded body,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
+dodo,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,2
+dodo,simple,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
+dodo,stylized,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
+dodo,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,2
 dodo,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,1
-dodo,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,1
+dodo,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.260302,,2
 dodo,Mauritius,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,1
+dodo,artistic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
 dodo,booming,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,1
 dodo,mass extinction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,1
+dodo,mythical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LZi2FntbVcxzJzrtHuYpitOA,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.937009,,1
 dodo,vintage representation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_eNrXcHW6IEu0veTNfG1ecap5,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.261384,,1

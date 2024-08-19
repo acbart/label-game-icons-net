@@ -1,23 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-crossed-bones,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
+crossed-bones,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,2
+crossed-bones,bones,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,caution,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,cross,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,crossbones,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
 crossed-bones,crossed shapes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
+crossed-bones,danger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,death,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,hazard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
 crossed-bones,intersection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
 crossed-bones,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
+crossed-bones,threat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,warning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
 crossed-bones,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
 crossed-bones,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
 crossed-bones,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
 crossed-bones,creative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
 crossed-bones,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
 crossed-bones,decoration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
-crossed-bones,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
+crossed-bones,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,2
 crossed-bones,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
-crossed-bones,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
-crossed-bones,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
-crossed-bones,motif,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
+crossed-bones,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,2
+crossed-bones,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,2
+crossed-bones,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,imagery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,motif,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,2
 crossed-bones,ornament,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
 crossed-bones,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
+crossed-bones,piracy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,pirate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,signal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,skull,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
 crossed-bones,spreading arms,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
-crossed-bones,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
+crossed-bones,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,2
+crossed-bones,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,visual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
 crossed-bones,visual art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
+crossed-bones,culture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,custom,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
 crossed-bones,flower-like,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
+crossed-bones,heraldry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
+crossed-bones,historic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1
 crossed-bones,multiplicity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hlgFUZ9URuPDzoMs5zizgoSe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.341882,,1
+crossed-bones,traditional,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_yjWcWzxqmAOzRm3N1w2oZKvp,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.919035,,1

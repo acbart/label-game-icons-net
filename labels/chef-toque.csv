@@ -1,25 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 chef-toque,boxing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
+chef-toque,chef hat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
+chef-toque,cooking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
+chef-toque,cuisine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
+chef-toque,culinary,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
 chef-toque,fight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
+chef-toque,food preparation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
+chef-toque,gastronomy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
 chef-toque,gloves,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
+chef-toque,professional chef,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
 chef-toque,punching,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
 chef-toque,sports,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
 chef-toque,athletics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
+chef-toque,baking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
 chef-toque,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
 chef-toque,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
 chef-toque,contact sports,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
+chef-toque,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
 chef-toque,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
 chef-toque,duel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
+chef-toque,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
 chef-toque,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
 chef-toque,exercise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
 chef-toque,fitness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
+chef-toque,food industry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
+chef-toque,headwear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
+chef-toque,hospitality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
+chef-toque,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
+chef-toque,identity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
+chef-toque,kitchen,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
 chef-toque,martial arts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
 chef-toque,match,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
+chef-toque,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
 chef-toque,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
+chef-toque,restaurant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
 chef-toque,ring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
+chef-toque,skill,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
 chef-toque,sparring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
 chef-toque,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
+chef-toque,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
 chef-toque,training,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
+chef-toque,uniform,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
+chef-toque,apron,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
+chef-toque,authority,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_D3LmPnVu2S74VoIL1HUShzRL,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.767970,,1
 chef-toque,endurance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
 chef-toque,grappling,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
-chef-toque,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,1
+chef-toque,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_nbGE6jqPUQQZV68LLDbdNoW1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.210984,,2

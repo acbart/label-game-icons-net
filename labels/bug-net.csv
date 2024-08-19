@@ -1,24 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+bug-net,bug-net,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
 bug-net,butterfly net,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
-bug-net,capture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
+bug-net,capture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,2
+bug-net,catch,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
 bug-net,catching,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
+bug-net,entomology,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
 bug-net,insect hunting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
+bug-net,insect-catching,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
 bug-net,netting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
 bug-net,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
+bug-net,trap,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
 bug-net,collecting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
+bug-net,collection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
+bug-net,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
 bug-net,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
 bug-net,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
+bug-net,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
 bug-net,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
 bug-net,framework,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
 bug-net,fun,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
 bug-net,grid pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
-bug-net,hobby,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
+bug-net,hobby,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,2
+bug-net,hunting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
+bug-net,loop handle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
 bug-net,mesh,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
+bug-net,mesh pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
 bug-net,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
+bug-net,nature activities,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
+bug-net,net structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
 bug-net,outdoor activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
+bug-net,outdoor tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
+bug-net,pursuit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
 bug-net,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
-bug-net,search,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
+bug-net,scoop,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
+bug-net,search,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,2
+bug-net,study,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
+bug-net,swoop,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
 bug-net,wilderness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
+bug-net,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_WizZoJUsUYIRYkxFoxPEr4XG,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.944225,,1
 bug-net,childhood play,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
 bug-net,curved lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1
 bug-net,education,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_zJy6cJbO3uiTOeHEPF1N34No,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.016839,,1

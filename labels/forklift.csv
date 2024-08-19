@@ -1,26 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-forklift,equipment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
-forklift,forklift,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
-forklift,industrial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
-forklift,lifting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
-forklift,logistics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
-forklift,machinery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
-forklift,transport,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
-forklift,warehouse,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
-forklift,cargo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
+forklift,equipment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,2
+forklift,forklift,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,2
+forklift,forks,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PEbajg4HNGWyimu7jt4HFdUB,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.615058,,1
+forklift,heavy duty,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PEbajg4HNGWyimu7jt4HFdUB,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.615058,,1
+forklift,industrial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,2
+forklift,industrial vehicle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PEbajg4HNGWyimu7jt4HFdUB,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.615058,,1
+forklift,lifting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,2
+forklift,loading,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PEbajg4HNGWyimu7jt4HFdUB,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.615058,,1
+forklift,logistics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,2
+forklift,machinery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,2
+forklift,material handling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PEbajg4HNGWyimu7jt4HFdUB,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.615058,,1
+forklift,transport,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,2
+forklift,transportation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PEbajg4HNGWyimu7jt4HFdUB,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.615058,,1
+forklift,warehouse,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,2
+forklift,arm,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PEbajg4HNGWyimu7jt4HFdUB,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.615058,,1
+forklift,business,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PEbajg4HNGWyimu7jt4HFdUB,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.615058,,1
+forklift,cargo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,2
 forklift,commercial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
-forklift,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
+forklift,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,2
 forklift,distribution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
 forklift,factory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
 forklift,heavy lifting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
-forklift,load,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
+forklift,load,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,2
 forklift,manual handling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
+forklift,manual labor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PEbajg4HNGWyimu7jt4HFdUB,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.615058,,1
 forklift,manufacturing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
 forklift,moving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
+forklift,operation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PEbajg4HNGWyimu7jt4HFdUB,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.615058,,2
 forklift,pallets,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
-forklift,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
+forklift,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,2
 forklift,shipping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
-forklift,storage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
+forklift,storage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,2
 forklift,supply chain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
-forklift,vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1
+forklift,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PEbajg4HNGWyimu7jt4HFdUB,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.615058,,1
+forklift,vehicle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,2
+forklift,wheels,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PEbajg4HNGWyimu7jt4HFdUB,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.615058,,1
+forklift,workplace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PEbajg4HNGWyimu7jt4HFdUB,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.615058,,1
 forklift,stacking,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KYTjsJBCdKEsSbvSVXyEJdkg,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.962279,,1

@@ -1,26 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 bee,antennae,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
-bee,bee,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
+bee,bee,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,2
 bee,bug,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
-bee,insect,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
-bee,wings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
+bee,insect,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,2
+bee,wings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,2
+bee,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
 bee,abstract design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
 bee,animal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
+bee,buzzer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
 bee,buzzy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
-bee,colony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
+bee,colony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,2
 bee,diligence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
-bee,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
+bee,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,2
 bee,entomology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
 bee,flight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
+bee,flying,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
 bee,gardening,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
-bee,hive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
-bee,honey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
-bee,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
-bee,pollination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
+bee,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
+bee,hive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,2
+bee,honey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,2
+bee,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
+bee,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,3
+bee,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
+bee,pollen,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
+bee,pollination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,2
+bee,productivity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
+bee,queen,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
+bee,stripes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
+bee,sweet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
+bee,teamwork,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
 bee,zigzag pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
-bee,agriculture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
+bee,agriculture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,2
+bee,biological,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
+bee,black and white,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
 bee,black and white art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
-bee,hexagon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
+bee,environment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
+bee,fertility,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
+bee,harmony,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BggEYaxh9c08TqjVqnr24jOa,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.189706,,1
+bee,hexagon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,2
 bee,queen bee,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
 bee,spring,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
-bee,worker,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,1
+bee,worker,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tzNs9dxDvI3CWwJkiwQMoc6A,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.941344,,2

@@ -1,26 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+volcano,ash,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
+volcano,eruption,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
+volcano,explosion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
 volcano,growth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
+volcano,lava,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
 volcano,natural,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
-volcano,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
+volcano,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,2
 volcano,plant,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
+volcano,smoke,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
 volcano,tree,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
 volcano,vegetation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
+volcano,volcano,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
 volcano,biological,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
 volcano,botany,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
 volcano,bush,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
+volcano,catastrophe,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
+volcano,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
+volcano,disaster,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
 volcano,eco,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
 volcano,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
+volcano,fire,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
 volcano,flora,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
+volcano,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
 volcano,forest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
 volcano,garden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
+volcano,geology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
+volcano,geothermal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
+volcano,heat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
 volcano,leaves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
 volcano,life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
+volcano,mountain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
+volcano,nature's fury,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
 volcano,organic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
 volcano,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
+volcano,peak,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
+volcano,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
 volcano,roots,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
+volcano,seismic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
 volcano,shrubbery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
+volcano,symbolic warning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
 volcano,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
+volcano,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
+volcano,abstract danger,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
 volcano,arbor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
 volcano,earth,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
-volcano,energy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1
+volcano,energy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,2
+volcano,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
+volcano,nature icon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_lLEVAYPeHVCll7Zuni50eTke,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.724202,,1
 volcano,renewal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_E5zjldMxplSuFmyUckeSwXSG,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.712202,,1

@@ -3,24 +3,41 @@ vending-machine,automated selling,high,en,acbart@vt.edu,,,False,False,starter-v1
 vending-machine,automatic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
 vending-machine,buttons,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
 vending-machine,coinslot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
-vending-machine,commercial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
-vending-machine,convenience,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
+vending-machine,commercial,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,2
+vending-machine,convenience,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,2
+vending-machine,dispense,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
 vending-machine,dispensing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
-vending-machine,interface,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
-vending-machine,self-service,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
+vending-machine,interface,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,2
+vending-machine,rectangle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
+vending-machine,self-service,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,2
+vending-machine,shelves,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
 vending-machine,snack dispenser,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
 vending-machine,vending machine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
+vending-machine,vending-machine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
+vending-machine,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
+vending-machine,accessibility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
+vending-machine,automation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,2
 vending-machine,beverage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
+vending-machine,button,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
+vending-machine,consumption,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
+vending-machine,convenience-store,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
+vending-machine,distribution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
+vending-machine,economical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
 vending-machine,food,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
-vending-machine,machine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
+vending-machine,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
+vending-machine,machine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,2
+vending-machine,modern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
+vending-machine,operation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
 vending-machine,product display,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
-vending-machine,products,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
-vending-machine,purchase,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
+vending-machine,products,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,2
+vending-machine,purchase,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,2
 vending-machine,refreshment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
-vending-machine,retail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
+vending-machine,retail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,2
+vending-machine,retailer,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
 vending-machine,sales,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
 vending-machine,selection panel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
-vending-machine,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
-vending-machine,transaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
-vending-machine,urban,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1
+vending-machine,slots,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kJwEUXUqhyDY2C3OCCclzMim,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.255408,,1
+vending-machine,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,2
+vending-machine,transaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,2
+vending-machine,urban,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,2
 vending-machine,urban convenience,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_f8JH3b67SB5RYa0XpUi6TgVm,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.490473,,1

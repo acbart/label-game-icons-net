@@ -1,26 +1,32 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-bowl-of-rice,bowl,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
+bowl-of-rice,asian food,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfKpFjTFdQZNic7J8eaBnRNv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.837514,,1
+bowl-of-rice,bowl,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,2
 bowl-of-rice,chopsticks,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
-bowl-of-rice,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
-bowl-of-rice,rice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
+bowl-of-rice,cultural symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfKpFjTFdQZNic7J8eaBnRNv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.837514,,1
+bowl-of-rice,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,2
+bowl-of-rice,rice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,2
 bowl-of-rice,Asian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
-bowl-of-rice,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
-bowl-of-rice,cuisine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
-bowl-of-rice,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
-bowl-of-rice,dining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
+bowl-of-rice,cereal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfKpFjTFdQZNic7J8eaBnRNv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.837514,,1
+bowl-of-rice,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,2
+bowl-of-rice,cuisine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,2
+bowl-of-rice,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,2
+bowl-of-rice,dining,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,2
 bowl-of-rice,dish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
 bowl-of-rice,eating,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
-bowl-of-rice,grains,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
-bowl-of-rice,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
-bowl-of-rice,nutrition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
-bowl-of-rice,serving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
+bowl-of-rice,grains,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,2
+bowl-of-rice,healthy eating,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfKpFjTFdQZNic7J8eaBnRNv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.837514,,1
+bowl-of-rice,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,2
+bowl-of-rice,nutrition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,2
+bowl-of-rice,serving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,2
+bowl-of-rice,staple food,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfKpFjTFdQZNic7J8eaBnRNv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.837514,,1
 bowl-of-rice,utensils,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
 bowl-of-rice,ceremony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
+bowl-of-rice,harvest,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kfKpFjTFdQZNic7J8eaBnRNv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.837514,,1
 bowl-of-rice,homecooked,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
-bowl-of-rice,minimalism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
-bowl-of-rice,portion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
+bowl-of-rice,minimalism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,2
+bowl-of-rice,portion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,2
 bowl-of-rice,recipe,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
 bowl-of-rice,side dish,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
-bowl-of-rice,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
+bowl-of-rice,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,2
 bowl-of-rice,sushi,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1
 bowl-of-rice,tradition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_orK0OyWyknZh2q1UH3LJX5qa,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.234823,,1

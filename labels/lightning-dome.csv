@@ -1,24 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+lightning-dome,abstract,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
 lightning-dome,bolt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
+lightning-dome,charge,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
 lightning-dome,current,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
+lightning-dome,dome,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
 lightning-dome,electric shock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
-lightning-dome,electricity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
-lightning-dome,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
-lightning-dome,power,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
+lightning-dome,electricity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,2
+lightning-dome,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,2
+lightning-dome,natural phenomenon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
+lightning-dome,power,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,2
+lightning-dome,protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
+lightning-dome,security,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
 lightning-dome,shock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
+lightning-dome,thunderbolt,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
 lightning-dome,voltage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
 lightning-dome,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
+lightning-dome,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
 lightning-dome,caution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
 lightning-dome,circuit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
+lightning-dome,cover,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
 lightning-dome,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
+lightning-dome,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
+lightning-dome,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
+lightning-dome,electric field,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
 lightning-dome,electricity supply,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
+lightning-dome,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
 lightning-dome,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
+lightning-dome,impact,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
 lightning-dome,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
-lightning-dome,lightning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
-lightning-dome,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
-lightning-dome,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
+lightning-dome,lightning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,2
+lightning-dome,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,2
+lightning-dome,shield,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
+lightning-dome,storm,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
+lightning-dome,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
+lightning-dome,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,2
 lightning-dome,thunder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
 lightning-dome,utilities,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
 lightning-dome,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
+lightning-dome,weather,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EFSUI47i8qjL2NNj9PfDNN7f,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.284156,,1
 lightning-dome,icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
-lightning-dome,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,1
+lightning-dome,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_koSYhESvr6GcHlIfbB3JwFr2,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.645004,,2

@@ -1,16 +1,30 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+metroid,alien,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
 metroid,balance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
+metroid,bioform,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
+metroid,character,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
+metroid,creature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
 metroid,duality,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
+metroid,fantasy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
+metroid,gaming,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
 metroid,harmony,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
+metroid,organism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
+metroid,science fiction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
+metroid,shell,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
 metroid,spiritual,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
 metroid,yin yang,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
-metroid,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
+metroid,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,2
+metroid,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
 metroid,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
 metroid,complementary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
 metroid,complete,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
 metroid,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
 metroid,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
+metroid,dome,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
+metroid,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
 metroid,fluidity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
+metroid,futuristic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
+metroid,identity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
 metroid,ideogram,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
 metroid,meditation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
 metroid,mystical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
@@ -18,9 +32,19 @@ metroid,opposites,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req
 metroid,philosophy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
 metroid,serenity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
 metroid,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
+metroid,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
+metroid,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
+metroid,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
+metroid,tentacles,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
 metroid,unity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
 metroid,wholeness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
+metroid,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
 metroid,eastern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
+metroid,elements,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
+metroid,form,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
 metroid,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
 metroid,illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1
+metroid,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
+metroid,protection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
+metroid,shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4SP3HSVBoDrJRcqY0PKQFooq,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.897207,,1
 metroid,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_50XWLo0xnT5d4GThUgSksDOj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.821103,,1

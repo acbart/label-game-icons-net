@@ -1,27 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-beetle-shell,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
+beetle-shell,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,2
+beetle-shell,beetle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
 beetle-shell,cap,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
+beetle-shell,exoskeleton,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
 beetle-shell,fungus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
+beetle-shell,insect,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
 beetle-shell,mushroom,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
 beetle-shell,organic structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
+beetle-shell,protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,2
+beetle-shell,shell,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
+beetle-shell,armor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
+beetle-shell,beetle carapace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
 beetle-shell,biodiversity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
 beetle-shell,biological,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
-beetle-shell,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
+beetle-shell,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,2
 beetle-shell,botanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
 beetle-shell,cellular,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
-beetle-shell,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
+beetle-shell,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
+beetle-shell,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,2
+beetle-shell,durability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
 beetle-shell,ecology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
 beetle-shell,flora,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
 beetle-shell,forest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
 beetle-shell,fungi,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
 beetle-shell,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
+beetle-shell,hardness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
+beetle-shell,natural design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
 beetle-shell,natural resources,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
-beetle-shell,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
+beetle-shell,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,2
+beetle-shell,organic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
+beetle-shell,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
 beetle-shell,patterns,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
 beetle-shell,shading,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
+beetle-shell,shield,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
 beetle-shell,stalk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
+beetle-shell,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
 beetle-shell,umbrella shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
 beetle-shell,agriculture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
+beetle-shell,contour,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
+beetle-shell,creature,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
 beetle-shell,decomposition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
-beetle-shell,ornament,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1
+beetle-shell,lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
+beetle-shell,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
+beetle-shell,modern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
+beetle-shell,ornament,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,2
+beetle-shell,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
+beetle-shell,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UQvztniOYGFlBjW5MSuZzNtG,0,gpt-4o-2024-08-06,2024-08-18T22:29:16.222222,,1
 beetle-shell,wildlife,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QEMmBLNjhO2foanEFncisfNn,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.947346,,1

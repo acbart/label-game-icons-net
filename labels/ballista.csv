@@ -1,25 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+ballista,ancient warfare,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
 ballista,angle measurement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
+ballista,armament,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
+ballista,artillery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
+ballista,ballista,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
+ballista,battlefield,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
 ballista,building,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
 ballista,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
 ballista,design,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
-ballista,engineering,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
+ballista,engineering,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,2
+ballista,military,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
+ballista,projectile,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
 ballista,ruler,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
+ballista,siege weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
 ballista,tools,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
+ballista,weaponry,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
+ballista,aim,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
+ballista,ancient technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
 ballista,angle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
 ballista,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
 ballista,blueprint,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
 ballista,calculation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
+ballista,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
+ballista,crossbow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
+ballista,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
 ballista,drafting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
 ballista,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
+ballista,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
 ballista,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
+ballista,historical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
 ballista,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
+ballista,launch,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
+ballista,lever,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
 ballista,measure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
-ballista,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
+ballista,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,2
+ballista,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
 ballista,planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
-ballista,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
+ballista,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
+ballista,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,2
 ballista,project,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
 ballista,renovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
+ballista,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
+ballista,targeting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
+ballista,tension,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
+ballista,trajectory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
 ballista,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
 ballista,adjustment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
-ballista,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,1
+ballista,structure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1
+ballista,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IfIOu2ikpisQ9fo7nud3VKAY,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.167087,,2
+ballista,technological,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JiinmDepnGFoFAM9nlbVkGnI,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.346074,,1

@@ -1,26 +1,56 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 scabbard,accident,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,battle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,blade,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
 scabbard,caution,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,combat,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
 scabbard,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
 scabbard,fall,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
 scabbard,injury,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,scabbard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,sheath,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
 scabbard,slip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,sword,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
 scabbard,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,armor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,ceremonial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,defensive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,duel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
 scabbard,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
 scabbard,exclamation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
 scabbard,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,guard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,handle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
 scabbard,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,hilt,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,historic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
 scabbard,impact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,knight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,martial arts,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,military,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
 scabbard,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
 scabbard,physical risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,2
 scabbard,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,sharpness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,swordplay,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,tactical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
+scabbard,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
 scabbard,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,warrior,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
 scabbard,OSHA,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
 scabbard,alertness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,decorative,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
 scabbard,emergency,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
 scabbard,fall protection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
 scabbard,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
 scabbard,industrial safety,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
+scabbard,ornamental,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_MLRTr8nMtnIXWS3JNLsQHkR0,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.011715,,1
 scabbard,prevention,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
 scabbard,safety protocol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1
 scabbard,workplace,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_bRWCmN5cQsy5jxqu0FC8sC32,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.662894,,1

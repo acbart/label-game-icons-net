@@ -1,25 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+skull-crack,break,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
 skull-crack,character,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
+skull-crack,crack,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
+skull-crack,damage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
+skull-crack,danger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
 skull-crack,eyes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
 skull-crack,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
-skull-crack,head,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
+skull-crack,fracture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
+skull-crack,head,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,2
+skull-crack,impact,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
 skull-crack,robot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
-skull-crack,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
+skull-crack,skull,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
+skull-crack,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,2
+skull-crack,alert,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
 skull-crack,angular,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
 skull-crack,antenna,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
 skull-crack,avatar,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
+skull-crack,caution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
 skull-crack,circular shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
 skull-crack,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
 skull-crack,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
 skull-crack,futuristic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
 skull-crack,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
+skull-crack,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
 skull-crack,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
+skull-crack,injury,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
 skull-crack,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
 skull-crack,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
 skull-crack,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
+skull-crack,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
+skull-crack,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
 skull-crack,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
 skull-crack,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
 skull-crack,triangular shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
+skull-crack,warning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
+skull-crack,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
+skull-crack,conceptual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.211626,,1
 skull-crack,contrast,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
+skull-crack,danger sign,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.211626,,1
 skull-crack,digital,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
+skull-crack,fear,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.211626,,1
+skull-crack,risk,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.211626,,1
+skull-crack,safety,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
+skull-crack,sharp edge,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.210588,,1
+skull-crack,shatter,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.211626,,1
 skull-crack,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Y4XGXnhBMZIq4aKsssVaIfsJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.018408,,1
+skull-crack,threat,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Rc5ueYiM4ZszYqkDWFeNqnXH,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.211626,,1

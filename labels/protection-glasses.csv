@@ -1,25 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-protection-glasses,eyewear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
+protection-glasses,eyewear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,2
 protection-glasses,frame,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
-protection-glasses,goggles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
+protection-glasses,goggles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,2
 protection-glasses,lens,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
-protection-glasses,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
+protection-glasses,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,2
+protection-glasses,shield,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
 protection-glasses,sunglasses,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
 protection-glasses,UV protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
 protection-glasses,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
+protection-glasses,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
+protection-glasses,construction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
 protection-glasses,curve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
+protection-glasses,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
 protection-glasses,eyes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
-protection-glasses,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
+protection-glasses,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,2
+protection-glasses,guard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
+protection-glasses,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
+protection-glasses,health,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
+protection-glasses,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
+protection-glasses,laboratory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
 protection-glasses,optics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
 protection-glasses,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
-protection-glasses,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
+protection-glasses,precaution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
+protection-glasses,prevention,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
+protection-glasses,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,2
+protection-glasses,security,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
 protection-glasses,shade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
 protection-glasses,shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
 protection-glasses,sports,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
 protection-glasses,style,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
-protection-glasses,vision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
+protection-glasses,vision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,2
 protection-glasses,vision aid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
+protection-glasses,workplace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
+protection-glasses,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
 protection-glasses,aviator,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
+protection-glasses,clean lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
 protection-glasses,gadget,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
+protection-glasses,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
+protection-glasses,modern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
+protection-glasses,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1
 protection-glasses,personal item,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
 protection-glasses,summer,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pQMydStixu7wC2RvfpnkMv6I,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.414279,,1
+protection-glasses,tech,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tFA7y0tbblSU5bOkbG6r3Lzc,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.995751,,1

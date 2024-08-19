@@ -1,31 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-abstract-045,chip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
-abstract-045,circuit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
+abstract-045,chip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,2
+abstract-045,circuit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,2
 abstract-045,data processing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
 abstract-045,integrated circuit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
 abstract-045,microchip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
-abstract-045,processor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
+abstract-045,processor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,2
+abstract-045,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
+abstract-045,central core,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
 abstract-045,computing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
 abstract-045,computing device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
-abstract-045,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
+abstract-045,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,2
 abstract-045,core,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
 abstract-045,cyber,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
-abstract-045,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
-abstract-045,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
-abstract-045,grid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
+abstract-045,data flow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
+abstract-045,digital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,2
+abstract-045,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,2
+abstract-045,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
+abstract-045,grid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,2
 abstract-045,hardware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
+abstract-045,hub,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
+abstract-045,integration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
+abstract-045,interface,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
 abstract-045,logic gate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
-abstract-045,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
+abstract-045,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,2
+abstract-045,node,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
+abstract-045,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
+abstract-045,process,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
 abstract-045,semiconductor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
-abstract-045,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
+abstract-045,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
+abstract-045,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,2
 abstract-045,technical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
-abstract-045,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
+abstract-045,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,2
 abstract-045,transistor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
 abstract-045,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
+abstract-045,balance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
 abstract-045,electric,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
 abstract-045,engineering,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
+abstract-045,future,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
 abstract-045,hybrid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
 abstract-045,informational,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
 abstract-045,infrastructure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
 abstract-045,mechanical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1
+abstract-045,modernity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
+abstract-045,order,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
+abstract-045,organization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_VhZLJucs9oUSwGu8Yn3Rq5GA,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.839290,,1
 abstract-045,platform,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PoNp4IhBzi9Z3pkXgi3LM1X1,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.632172,,1

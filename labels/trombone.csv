@@ -1,26 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+trombone,brass,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
 trombone,inject,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
 trombone,injection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
+trombone,instrument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,medical tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
 trombone,medicine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
+trombone,music,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
+trombone,musical instrument,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,needle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
+trombone,slide,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,syringe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
+trombone,trombone,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,vaccination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
+trombone,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
+trombone,band,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
+trombone,bell,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,clinical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
+trombone,concert,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,dosage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
 trombone,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
+trombone,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
 trombone,hypodermic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
+trombone,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
+trombone,jazz,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,liquid transfer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
 trombone,medical procedure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
+trombone,melody,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
+trombone,musician,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
+trombone,note,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
+trombone,orchestra,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
+trombone,performance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,pharmacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
 trombone,precise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
 trombone,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
+trombone,sound,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,sterile,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
+trombone,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,treatment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
+trombone,wind,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
+trombone,art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
+trombone,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,fluid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
 trombone,inoculate,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
 trombone,medical practice,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
+trombone,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,pierce,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1
+trombone,shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4eUR7QrQCKEMY1c37DBUJeya,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.577021,,1
 trombone,sharp,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JLYr6TSoJ9XA8nnExCsebPJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.389015,,1

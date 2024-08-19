@@ -1,26 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 aura,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
-aura,aura,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
+aura,aura,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,2
 aura,center,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
-aura,human figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
+aura,emanation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.889361,,1
+aura,human figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,2
 aura,identity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
-aura,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
+aura,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,2
 aura,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
+aura,spiritual,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.889361,,1
 aura,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
+aura,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.890361,,1
 aura,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
-aura,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
+aura,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,2
 aura,essence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
+aura,ethereal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.890361,,1
 aura,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
+aura,force field,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.890361,,1
+aura,glow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.889361,,1
+aura,halo,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.889361,,1
+aura,health,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.890361,,1
 aura,highlight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
 aura,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
 aura,illumination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
 aura,individual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
-aura,presence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
-aura,radiance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
+aura,inner self,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.889361,,1
+aura,light,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.889361,,1
+aura,mystical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.889361,,1
+aura,presence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,2
+aura,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.890361,,1
+aura,radiance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,2
 aura,radiate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
 aura,self,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
+aura,spirit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.889361,,1
 aura,spotlight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
+aura,surrounding,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.889361,,1
+aura,transcendent,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.889361,,1
+aura,wellness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.890361,,1
+aura,circle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.890361,,1
+aura,cosmic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.890361,,1
 aura,emanate,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
 aura,existence,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
+aura,flow,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.890361,,1
 aura,influence,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
-aura,vitality,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,1
+aura,solar,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EQwUOJeMiu601wBN0Vw6jGGk,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.890361,,1
+aura,vitality,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_1ZjuRkKbZqX5nHsf5aOpMuLF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.869329,,2

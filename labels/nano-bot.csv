@@ -1,24 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 nano-bot,armor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
+nano-bot,artificial intelligence,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,automation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
 nano-bot,body armor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
 nano-bot,chestplate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
 nano-bot,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
+nano-bot,digital,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,engineering,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,innovation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,machine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,mechanical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,nano-bot,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
 nano-bot,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
 nano-bot,protection gear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
+nano-bot,robotics,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,science,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,technology,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
 nano-bot,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
 nano-bot,body,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
+nano-bot,circuitry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
 nano-bot,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
+nano-bot,component,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,cyber,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,device,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
 nano-bot,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
+nano-bot,future,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
 nano-bot,gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
 nano-bot,knight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
 nano-bot,military,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
+nano-bot,miniature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,minimalism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
 nano-bot,outfit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
+nano-bot,precision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
 nano-bot,safeguard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
+nano-bot,science fiction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
 nano-bot,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
 nano-bot,shield,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
 nano-bot,shielding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
+nano-bot,small-scale,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
 nano-bot,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
 nano-bot,suit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
+nano-bot,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
+nano-bot,technical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
 nano-bot,toughness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
 nano-bot,warrior,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1
+nano-bot,shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Ne1DtzTyQzhHvM4YyxyhFHYI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.284267,,1
 nano-bot,tactic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2cnvxuEogaym9ISJfQ7VdsPj,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.947557,,1

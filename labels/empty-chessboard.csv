@@ -1,25 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-empty-chessboard,alternating,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
-empty-chessboard,checkerboard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
-empty-chessboard,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
-empty-chessboard,grid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
-empty-chessboard,pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
+empty-chessboard,alternating,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,2
+empty-chessboard,checkerboard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,2
+empty-chessboard,chessboard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1
+empty-chessboard,empty,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1
+empty-chessboard,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,2
+empty-chessboard,grid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,2
+empty-chessboard,pattern,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,2
 empty-chessboard,regularity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
 empty-chessboard,repetition,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
-empty-chessboard,squares,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
+empty-chessboard,squares,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,2
 empty-chessboard,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
-empty-chessboard,arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
+empty-chessboard,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1
+empty-chessboard,arrangement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,2
 empty-chessboard,binary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
-empty-chessboard,board game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
+empty-chessboard,board game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,2
 empty-chessboard,chess,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
+empty-chessboard,competition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1
 empty-chessboard,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
 empty-chessboard,duotone,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
 empty-chessboard,dynamic balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
+empty-chessboard,layout,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1
+empty-chessboard,logic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1
 empty-chessboard,matrix,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
-empty-chessboard,order,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
+empty-chessboard,order,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,2
 empty-chessboard,organizational,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
 empty-chessboard,pixelation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
+empty-chessboard,planning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1
+empty-chessboard,playfield,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1
 empty-chessboard,simplification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
-empty-chessboard,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
+empty-chessboard,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1
+empty-chessboard,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,2
+empty-chessboard,tactics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1
 empty-chessboard,tessellation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
 empty-chessboard,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9RlSBLniwNaXnjvPwOE8aaMZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.714461,,1
+empty-chessboard,coordinates,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1
+empty-chessboard,games,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1
+empty-chessboard,mind games,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1
+empty-chessboard,organization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1
+empty-chessboard,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rrLf6RJKLjbYbU796JcHOWK5,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.685037,,1

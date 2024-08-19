@@ -1,31 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 dig-dug,excavation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
-dig-dug,extraction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
-dig-dug,hammer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,1
-dig-dug,mining,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,1
-dig-dug,pickaxe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,1
+dig-dug,extraction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,2
+dig-dug,hammer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,2
+dig-dug,manual labor,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tsBuX5095bAfOG8bz3kTRQis,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.409293,,1
+dig-dug,mining,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,2
+dig-dug,pickaxe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,2
 dig-dug,prospecting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
-dig-dug,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
+dig-dug,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,2
 dig-dug,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
+dig-dug,tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tsBuX5095bAfOG8bz3kTRQis,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.409293,,1
 dig-dug,tools,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,1
 dig-dug,tools of trade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
-dig-dug,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,1
-dig-dug,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
-dig-dug,digging,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,1
-dig-dug,effort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
+dig-dug,burrowing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tsBuX5095bAfOG8bz3kTRQis,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.409293,,1
+dig-dug,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,2
+dig-dug,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,2
+dig-dug,digging,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,2
+dig-dug,earth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tsBuX5095bAfOG8bz3kTRQis,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.409293,,1
+dig-dug,earth moving,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tsBuX5095bAfOG8bz3kTRQis,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.409293,,1
+dig-dug,effort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,2
 dig-dug,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
-dig-dug,hard work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
+dig-dug,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tsBuX5095bAfOG8bz3kTRQis,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.409293,,1
+dig-dug,hard work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,2
 dig-dug,heavy equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
 dig-dug,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
-dig-dug,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,1
-dig-dug,labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,1
+dig-dug,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,2
+dig-dug,job,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tsBuX5095bAfOG8bz3kTRQis,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.409293,,1
+dig-dug,labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,2
 dig-dug,manual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,1
 dig-dug,metalwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
 dig-dug,production,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
-dig-dug,rock,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
+dig-dug,resource,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tsBuX5095bAfOG8bz3kTRQis,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.409293,,1
+dig-dug,rock,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,2
+dig-dug,rock breaking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tsBuX5095bAfOG8bz3kTRQis,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.409293,,1
+dig-dug,task,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tsBuX5095bAfOG8bz3kTRQis,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.409293,,1
 dig-dug,trade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
-dig-dug,work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,1
+dig-dug,underground,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tsBuX5095bAfOG8bz3kTRQis,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.409293,,1
+dig-dug,work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.463954,,2
+dig-dug,abstract tool,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tsBuX5095bAfOG8bz3kTRQis,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.409293,,1
 dig-dug,engineering,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
 dig-dug,mechanical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
+dig-dug,motion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_tsBuX5095bAfOG8bz3kTRQis,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.409293,,1
 dig-dug,resources,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1
 dig-dug,utility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Z7LmEPCYZRjhYHw6xMGI0hVY,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.464952,,1

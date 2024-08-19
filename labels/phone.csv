@@ -1,26 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-phone,call,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,phone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,receiver,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,talk,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,telephone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
+phone,call,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
+phone,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
+phone,phone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
+phone,receiver,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
+phone,talk,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
+phone,telephone,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
 phone,analog,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
+phone,audio,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nArnQNkXRyPvywqrchCPfDV7,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.262925,,1
 phone,communication device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,connect,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,contact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,conversation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,handset,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
+phone,connect,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
+phone,contact,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
+phone,conversation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
+phone,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
+phone,dial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nArnQNkXRyPvywqrchCPfDV7,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.262925,,1
+phone,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nArnQNkXRyPvywqrchCPfDV7,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.262925,,1
+phone,handset,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
+phone,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nArnQNkXRyPvywqrchCPfDV7,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.262925,,1
+phone,interface,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nArnQNkXRyPvywqrchCPfDV7,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.262925,,1
+phone,message,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nArnQNkXRyPvywqrchCPfDV7,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.262925,,1
 phone,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,ring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
+phone,ring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
+phone,service,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nArnQNkXRyPvywqrchCPfDV7,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.262925,,1
+phone,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
 phone,talking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
+phone,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nArnQNkXRyPvywqrchCPfDV7,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.262925,,1
 phone,telephony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
 phone,voice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,customer service,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,helpline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
+phone,aid,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nArnQNkXRyPvywqrchCPfDV7,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.262925,,1
+phone,curved shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nArnQNkXRyPvywqrchCPfDV7,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.262925,,1
+phone,customer service,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
+phone,helpline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
+phone,icon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nArnQNkXRyPvywqrchCPfDV7,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.262925,,1
 phone,messaging,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,old-fashioned,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
+phone,old-fashioned,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
 phone,rotary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
-phone,support,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,1
+phone,support,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_m0HCFHwcM9f6YIEy2htSF5i9,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.201733,,2
+phone,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_nArnQNkXRyPvywqrchCPfDV7,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.262925,,1

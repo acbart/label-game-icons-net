@@ -1,28 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 paraguay,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
+paraguay,cartography,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
+paraguay,contour,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
+paraguay,country outline,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
 paraguay,curve,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
 paraguay,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
 paraguay,flow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
+paraguay,landmass,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
+paraguay,map,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
 paraguay,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
 paraguay,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
+paraguay,outline,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
+paraguay,paraguay,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
 paraguay,path,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
+paraguay,region,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
 paraguay,route,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
 paraguay,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
+paraguay,territory,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
 paraguay,turn,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
+paraguay,abstract icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
+paraguay,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
+paraguay,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
 paraguay,adjustment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
+paraguay,border,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
 paraguay,change,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
+paraguay,geography,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
 paraguay,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
+paraguay,iconic shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
 paraguay,indication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
 paraguay,instructions,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
 paraguay,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
 paraguay,modification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
+paraguay,national symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
 paraguay,planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
 paraguay,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
+paraguay,province,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
 paraguay,redirection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
 paraguay,reorientation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
 paraguay,right angle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
 paraguay,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
+paraguay,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
+paraguay,south america,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
 paraguay,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
+paraguay,territorial division,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NKCBM1b5Lu2HagRUdzOsPR6V,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.027510,,1
 paraguay,transition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
 paraguay,gesture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1
 paraguay,zigzag,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SsHPqMrYN5pbnKsdnwyijsum,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.106000,,1

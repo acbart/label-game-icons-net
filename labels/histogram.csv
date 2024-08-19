@@ -1,29 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 histogram,analysis,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
-histogram,analytics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
-histogram,bar graph,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
+histogram,analytics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,2
+histogram,bar chart,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
+histogram,bar graph,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,2
 histogram,business,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
-histogram,chart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
-histogram,comparison,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
+histogram,chart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,2
+histogram,comparison,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,2
 histogram,data,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
+histogram,data visualization,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
 histogram,data-driven,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
 histogram,finance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
+histogram,histogram,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
 histogram,insights,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
 histogram,market,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
-histogram,measurement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
+histogram,measurement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,2
 histogram,performance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
 histogram,quantitative,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
 histogram,report,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
 histogram,research,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
-histogram,statistics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
+histogram,statistics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,2
 histogram,trend,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
+histogram,vertical bars,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
 histogram,visualization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
+histogram,abstract diagram,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
+histogram,categorization,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
 histogram,compare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
+histogram,data analysis,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
 histogram,diagram,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
+histogram,distribution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
 histogram,evaluation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
+histogram,frequency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
+histogram,graph,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
+histogram,information display,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
 histogram,overview,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
 histogram,planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
 histogram,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
 histogram,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
+histogram,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
 histogram,summary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
+histogram,alignment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
+histogram,format,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
 histogram,grid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JHInsOsyybGKaTIaw8bbf4Zd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.284724,,1
+histogram,order,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
+histogram,organization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
+histogram,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
+histogram,quantity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
+histogram,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1
+histogram,structure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Mr9d4cfL88pWh8MSqglz1xyl,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.947802,,1

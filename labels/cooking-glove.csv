@@ -1,18 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 cooking-glove,clothing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
-cooking-glove,glove,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
+cooking-glove,cooking-glove,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
+cooking-glove,glove,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,2
+cooking-glove,hand,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
+cooking-glove,heat-resistant,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
+cooking-glove,kitchen,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
 cooking-glove,mitten,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
+cooking-glove,oven mitt,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
+cooking-glove,safety,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
+cooking-glove,baking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
 cooking-glove,cold,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
+cooking-glove,cooking,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
+cooking-glove,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
+cooking-glove,domestic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
+cooking-glove,fabric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
 cooking-glove,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
+cooking-glove,fingerless design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
+cooking-glove,grip,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
 cooking-glove,handwear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
+cooking-glove,household,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
+cooking-glove,kitchenware,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
 cooking-glove,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
-cooking-glove,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
+cooking-glove,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,2
+cooking-glove,protection gear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
+cooking-glove,safety equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
 cooking-glove,seasonal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
 cooking-glove,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
 cooking-glove,simple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
+cooking-glove,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
+cooking-glove,thumb,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
+cooking-glove,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
+cooking-glove,utensil,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
 cooking-glove,warmth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
 cooking-glove,winter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
+cooking-glove,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
 cooking-glove,accessory,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
+cooking-glove,appliance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_HPpZ7B0qEFmZnIpKg9LvLBdD,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.427139,,1
 cooking-glove,cover,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
 cooking-glove,cozy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1
 cooking-glove,curve,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_TiiD5CkjlyJg5ug7XSAkkZI1,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.365717,,1

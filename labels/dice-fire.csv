@@ -1,25 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-dice-fire,chance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
-dice-fire,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
-dice-fire,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
-dice-fire,fire,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
+dice-fire,chance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,2
+dice-fire,chance game,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
+dice-fire,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,2
+dice-fire,dice,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,2
+dice-fire,fire,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,2
 dice-fire,flame,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
 dice-fire,gamble,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
+dice-fire,gambling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
+dice-fire,game,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
 dice-fire,gaming,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
-dice-fire,luck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
+dice-fire,luck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,2
 dice-fire,randomness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
-dice-fire,risk,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
+dice-fire,risk,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,2
 dice-fire,roll,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
+dice-fire,rolling dice,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
+dice-fire,winning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
 dice-fire,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.517234,,1
-dice-fire,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.517234,,1
+dice-fire,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.517234,,2
+dice-fire,burning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
 dice-fire,chaos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.517234,,1
 dice-fire,darkness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.517234,,1
 dice-fire,devil,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.517234,,1
+dice-fire,element of surprise,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
+dice-fire,exciting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
+dice-fire,explosive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
 dice-fire,fiery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.517234,,1
-dice-fire,heat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
+dice-fire,flames,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
+dice-fire,fortune,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
+dice-fire,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
+dice-fire,heat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,2
 dice-fire,hell,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.517234,,1
+dice-fire,hot stakes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
 dice-fire,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.517234,,1
 dice-fire,passion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
-dice-fire,probability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
-dice-fire,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.517234,,1
+dice-fire,play,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
+dice-fire,probability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,2
+dice-fire,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
+dice-fire,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.517234,,2
+dice-fire,thrill,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
 dice-fire,unpredictability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_C0ulTWGwpHCtZ5xdYNxBCXv0,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.516231,,1
+dice-fire,unpredictable,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1
+dice-fire,combustion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_LmHhFrQgStWuLcgdtAeX0QlY,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.985813,,1

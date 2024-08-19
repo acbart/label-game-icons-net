@@ -1,23 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 spiral-thrust,audio control,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
 spiral-thrust,audio off,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
+spiral-thrust,direction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
+spiral-thrust,motion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
+spiral-thrust,movement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
 spiral-thrust,mute,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
 spiral-thrust,no audio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
 spiral-thrust,no sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
+spiral-thrust,propulsion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
+spiral-thrust,rotation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
 spiral-thrust,silence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
 spiral-thrust,silent,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
 spiral-thrust,sound off,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
+spiral-thrust,spiral,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
+spiral-thrust,thrust,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
 spiral-thrust,volume off,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
+spiral-thrust,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
+spiral-thrust,aerodynamics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.963828,,1
 spiral-thrust,block,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
 spiral-thrust,cancel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
 spiral-thrust,crossed out,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
 spiral-thrust,deactivate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
+spiral-thrust,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
+spiral-thrust,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
+spiral-thrust,energy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
+spiral-thrust,flow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
 spiral-thrust,forbidden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
+spiral-thrust,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
 spiral-thrust,line through,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
+spiral-thrust,mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
+spiral-thrust,momentum,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
+spiral-thrust,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
 spiral-thrust,prohibition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
 spiral-thrust,quiet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
 spiral-thrust,restriction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
 spiral-thrust,speaker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
+spiral-thrust,speed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.963828,,1
+spiral-thrust,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.963828,,1
 spiral-thrust,calm,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
+spiral-thrust,drawing,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
+spiral-thrust,innovation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.963828,,1
 spiral-thrust,neutralize,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
+spiral-thrust,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
 spiral-thrust,peace,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Bhlb6iG1MIgbB0hU2JYYkS4s,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.183380,,1
+spiral-thrust,pencil,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
+spiral-thrust,sketch,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.963828,,1
+spiral-thrust,space,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.963828,,1
+spiral-thrust,tool,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.962823,,1
+spiral-thrust,weapon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OmOYDv5U3U2DWG8tLXsEGTA7,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.963828,,1

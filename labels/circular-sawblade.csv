@@ -1,26 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-circular-sawblade,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
+circular-sawblade,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,2
+circular-sawblade,circular saw,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.438790,,1
+circular-sawblade,cutting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.438790,,1
 circular-sawblade,dynamic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
+circular-sawblade,jagged edge,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.439790,,1
 circular-sawblade,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
-circular-sawblade,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
+circular-sawblade,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,2
+circular-sawblade,power tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.439790,,1
 circular-sawblade,rotate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
+circular-sawblade,rotational motion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.438790,,1
+circular-sawblade,sawblade,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.438790,,1
+circular-sawblade,sharp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.438790,,1
 circular-sawblade,spiral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
 circular-sawblade,swirl,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
+circular-sawblade,teeth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.438790,,1
+circular-sawblade,tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.438790,,1
 circular-sawblade,whirl,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
 circular-sawblade,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
+circular-sawblade,construction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.438790,,1
+circular-sawblade,craftsmanship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.439790,,1
 circular-sawblade,cyclone,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
+circular-sawblade,danger,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.439790,,1
 circular-sawblade,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
-circular-sawblade,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
+circular-sawblade,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,2
+circular-sawblade,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.439790,,1
+circular-sawblade,fabrication,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.439790,,1
 circular-sawblade,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
 circular-sawblade,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
-circular-sawblade,gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
+circular-sawblade,gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,2
+circular-sawblade,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.438790,,1
+circular-sawblade,machinery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.438790,,1
 circular-sawblade,mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
+circular-sawblade,metalwork,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.439790,,1
 circular-sawblade,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
+circular-sawblade,precision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.438790,,1
 circular-sawblade,process,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
 circular-sawblade,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
 circular-sawblade,turbine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
 circular-sawblade,vortex,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
+circular-sawblade,woodwork,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.439790,,1
 circular-sawblade,graphic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
-circular-sawblade,mechanical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
+circular-sawblade,mechanical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,2
+circular-sawblade,spiral pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.439790,,1
 circular-sawblade,style,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1
+circular-sawblade,symbolic representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QInw8pFzlP2B2aHMIOO70ij6,0,gpt-4o-2024-08-06,2024-08-18T22:29:17.439790,,1
 circular-sawblade,wind,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_fcVZxAjPMn4SiIMbSbvnA4Zt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.224065,,1

@@ -1,24 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+duel,battle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
 duel,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
 duel,connection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
 duel,conversation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
+duel,crossed weapons,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
+duel,duel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
 duel,human figures,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
 duel,interaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
+duel,opposing forces,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
 duel,two people,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
+duel,two sides,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
+duel,versus,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
 duel,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
-duel,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
+duel,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,2
+duel,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
+duel,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
+duel,competition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
+duel,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
+duel,conflicting ideas,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
+duel,counterbalance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
 duel,dialogue,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
 duel,discussion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
+duel,face-off,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
+duel,fight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
 duel,gesture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
-duel,meeting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
+duel,meeting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,2
 duel,mirroring,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
 duel,relationship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
+duel,rivalry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
 duel,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
-duel,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
+duel,struggle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
+duel,swords,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,2
+duel,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,2
 duel,unity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
 duel,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
 duel,black and white art,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
-duel,confrontation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
+duel,confrontation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,2
 duel,dynamic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
-duel,opposition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1
+duel,mirror image,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
+duel,opposition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,2
+duel,paradox,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6k8S5IHSNyGAHjkUXrpZTtBs,0,gpt-4o-2024-08-06,2024-08-18T22:29:27.707438,,1
 duel,stand-off,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_oELYsfDSxNNkjHewl1EF7JYO,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.973032,,1

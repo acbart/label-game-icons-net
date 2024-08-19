@@ -1,22 +1,33 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-liquid-soap,bottle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
+liquid-soap,bottle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2
 liquid-soap,dispenser,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
-liquid-soap,liquid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
-liquid-soap,pump,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
+liquid-soap,handwashing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KbDxdUGY3HlVTTYkpAbqpuDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.306167,,1
+liquid-soap,liquid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2
+liquid-soap,pump,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2
+liquid-soap,sanitization,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KbDxdUGY3HlVTTYkpAbqpuDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.306167,,1
 liquid-soap,soap,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
-liquid-soap,cleaning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
-liquid-soap,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
+liquid-soap,soap dispenser,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KbDxdUGY3HlVTTYkpAbqpuDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.306167,,1
+liquid-soap,cleaning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2
+liquid-soap,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2
 liquid-soap,cosmetics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
-liquid-soap,drop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
-liquid-soap,fluid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
-liquid-soap,hygiene,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
+liquid-soap,daily use,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KbDxdUGY3HlVTTYkpAbqpuDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.306167,,1
+liquid-soap,drop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2
+liquid-soap,fluid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2
+liquid-soap,health,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KbDxdUGY3HlVTTYkpAbqpuDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.306167,,1
+liquid-soap,hygiene,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2
 liquid-soap,nozzle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
-liquid-soap,personal care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
+liquid-soap,personal care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2
+liquid-soap,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KbDxdUGY3HlVTTYkpAbqpuDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.306167,,1
 liquid-soap,sanitizer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
-liquid-soap,bathroom,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
-liquid-soap,dispensing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
-liquid-soap,household,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
-liquid-soap,kitchen,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
+liquid-soap,self-care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KbDxdUGY3HlVTTYkpAbqpuDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.306167,,1
+liquid-soap,symbolic cleanliness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KbDxdUGY3HlVTTYkpAbqpuDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.306167,,1
+liquid-soap,bathroom,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2
+liquid-soap,dispensing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2
+liquid-soap,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KbDxdUGY3HlVTTYkpAbqpuDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.306167,,1
+liquid-soap,household,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2
+liquid-soap,kitchen,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2
+liquid-soap,minimalism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KbDxdUGY3HlVTTYkpAbqpuDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.306167,,1
 liquid-soap,product,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
-liquid-soap,skincare,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
-liquid-soap,utility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,1
+liquid-soap,simplification,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_KbDxdUGY3HlVTTYkpAbqpuDU,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.306167,,1
+liquid-soap,skincare,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2
+liquid-soap,utility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_CquFRPMpR0wizjvhR27TAxgH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.652519,,2

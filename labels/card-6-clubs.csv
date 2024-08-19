@@ -1,22 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 card-6-clubs,clubs,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
-card-6-clubs,number six,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
-card-6-clubs,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
+card-6-clubs,clubs suit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
+card-6-clubs,number six,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,2
+card-6-clubs,playing card,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,2
 card-6-clubs,blackjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
 card-6-clubs,bridge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
-card-6-clubs,card game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
+card-6-clubs,card design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
+card-6-clubs,card game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,2
+card-6-clubs,classic games,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
+card-6-clubs,competition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
 card-6-clubs,deck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
+card-6-clubs,deck of cards,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
+card-6-clubs,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
 card-6-clubs,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
 card-6-clubs,game,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
-card-6-clubs,poker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
+card-6-clubs,game piece,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
+card-6-clubs,gameplay,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
+card-6-clubs,number symbols,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
+card-6-clubs,playing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
+card-6-clubs,poker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,2
+card-6-clubs,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
 card-6-clubs,suit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
-card-6-clubs,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
+card-6-clubs,suit icons,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
+card-6-clubs,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,2
+card-6-clubs,traditional games,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
+card-6-clubs,abstract shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
 card-6-clubs,diamond,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
 card-6-clubs,hand,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
 card-6-clubs,hearts,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
-card-6-clubs,luck,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
+card-6-clubs,leisure activity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
+card-6-clubs,luck,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,2
 card-6-clubs,numerical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
 card-6-clubs,randomness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
+card-6-clubs,spade iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1
 card-6-clubs,spades,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
-card-6-clubs,strategy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
+card-6-clubs,strategy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,2
 card-6-clubs,table games,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QodOdJ5By8yS7gY7Ugj8krE1,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.138656,,1
+card-6-clubs,visual art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_e21GIDIA2KeHazPtzsYn4Pdv,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.375845,,1

@@ -1,24 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 jetpack,blastoff,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
+jetpack,flying,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZD40bDw6c13A34ZApWtKmmZe,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.407888,,1
+jetpack,jetpack,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZD40bDw6c13A34ZApWtKmmZe,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.407888,,1
 jetpack,launch,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
 jetpack,liftoff,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
-jetpack,rocket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
+jetpack,rocket,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,2
 jetpack,space travel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
 jetpack,spaceship,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
-jetpack,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
+jetpack,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,2
 jetpack,aerodynamics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
+jetpack,aerospace,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZD40bDw6c13A34ZApWtKmmZe,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.407888,,1
+jetpack,boost,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZD40bDw6c13A34ZApWtKmmZe,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.407888,,1
 jetpack,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
+jetpack,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZD40bDw6c13A34ZApWtKmmZe,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.407888,,1
 jetpack,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
-jetpack,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
-jetpack,flight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
-jetpack,future,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
-jetpack,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,2
+jetpack,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,2
+jetpack,flight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,2
+jetpack,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZD40bDw6c13A34ZApWtKmmZe,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.407888,,1
+jetpack,future,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,2
+jetpack,individual mobility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZD40bDw6c13A34ZApWtKmmZe,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.407888,,1
+jetpack,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,4
 jetpack,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
 jetpack,mission,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
+jetpack,mobility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZD40bDw6c13A34ZApWtKmmZe,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.407888,,1
+jetpack,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZD40bDw6c13A34ZApWtKmmZe,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.407888,,1
+jetpack,personal flight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZD40bDw6c13A34ZApWtKmmZe,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.407888,,1
 jetpack,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
-jetpack,propulsion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
-jetpack,speed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
-jetpack,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
+jetpack,propulsion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,2
+jetpack,science fiction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZD40bDw6c13A34ZApWtKmmZe,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.407888,,1
+jetpack,speed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,2
+jetpack,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,2
 jetpack,thrust,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
-jetpack,escape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1
+jetpack,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZD40bDw6c13A34ZApWtKmmZe,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.407888,,1
+jetpack,travel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZD40bDw6c13A34ZApWtKmmZe,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.407888,,1
+jetpack,vertical takeoff,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ZD40bDw6c13A34ZApWtKmmZe,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.407888,,1
+jetpack,escape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,2
 jetpack,vehicle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mW0a1S9NGemTawO0tfdeRRL5,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.157985,,1

@@ -1,26 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-progression,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
+progression,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,2
 progression,bar chart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
+progression,bar graph,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4zExgjAyXTvJIPbuVDAhjXL1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.984696,,1
+progression,chart,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4zExgjAyXTvJIPbuVDAhjXL1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.984696,,1
+progression,development,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4zExgjAyXTvJIPbuVDAhjXL1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.984696,,1
 progression,graph,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
-progression,growth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
-progression,improvement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
-progression,increase,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
+progression,growth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,2
+progression,improvement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,2
+progression,increase,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,2
 progression,positive change,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
-progression,progress,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
-progression,rise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
+progression,progress,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,2
+progression,rise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,2
 progression,achievement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
-progression,analytics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
-progression,business,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
+progression,advancement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4zExgjAyXTvJIPbuVDAhjXL1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.984696,,1
+progression,analytics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,2
+progression,business,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,2
 progression,data,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
 progression,economics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
-progression,finance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
-progression,forecast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
+progression,elevation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4zExgjAyXTvJIPbuVDAhjXL1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.984696,,1
+progression,escalation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4zExgjAyXTvJIPbuVDAhjXL1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.984696,,1
+progression,finance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,2
+progression,forecast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,2
 progression,goal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
 progression,marking change,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
-progression,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
+progression,metric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4zExgjAyXTvJIPbuVDAhjXL1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.984696,,1
+progression,monitoring,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4zExgjAyXTvJIPbuVDAhjXL1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.984696,,1
+progression,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,2
 progression,results,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
-progression,statistics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
+progression,statistics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,2
 progression,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
-progression,success,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
-progression,trend,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
+progression,success,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,2
+progression,trajectory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4zExgjAyXTvJIPbuVDAhjXL1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.984696,,1
+progression,trend,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,2
+progression,calculation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4zExgjAyXTvJIPbuVDAhjXL1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.984696,,1
 progression,direction,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hVkJdki1C5SjT5Z8vc5UkkEN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.409248,,1
+progression,evaluation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4zExgjAyXTvJIPbuVDAhjXL1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.984696,,1
+progression,potential,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4zExgjAyXTvJIPbuVDAhjXL1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.984696,,1

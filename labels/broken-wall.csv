@@ -1,24 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-broken-wall,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
+broken-wall,architecture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,2
 broken-wall,block,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
+broken-wall,breakage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
 broken-wall,brick,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
+broken-wall,broken wall,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
 broken-wall,building,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
-broken-wall,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
+broken-wall,collapse,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
+broken-wall,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,2
 broken-wall,construction material,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
+broken-wall,cracked,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
+broken-wall,damage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
+broken-wall,destruction,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
+broken-wall,disrepair,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
+broken-wall,fracture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
+broken-wall,instability,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
 broken-wall,rectangle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
+broken-wall,security breach,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
+broken-wall,shattered,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
 broken-wall,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
-broken-wall,wall,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
+broken-wall,structure failure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
+broken-wall,vulnerability,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
+broken-wall,wall,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,2
 broken-wall,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
-broken-wall,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,2
+broken-wall,barrier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,3
+broken-wall,bricks,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
+broken-wall,deconstruction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
 broken-wall,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
+broken-wall,demolition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
 broken-wall,durability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
 broken-wall,fortification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
 broken-wall,foundation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
+broken-wall,gap,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
 broken-wall,grid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
+broken-wall,imperfection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
 broken-wall,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
 broken-wall,layered,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
+broken-wall,opening,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
 broken-wall,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
 broken-wall,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
+broken-wall,ruin,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
+broken-wall,ruins,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1
 broken-wall,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
 broken-wall,solid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
 broken-wall,stability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_SnsjEIU7IqZ77mQyeQKSupir,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.008815,,1
+broken-wall,urban decay,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s3uaI4KNpzxN7Mvtqsezmbcg,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.909602,,1

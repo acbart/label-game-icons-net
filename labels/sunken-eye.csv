@@ -1,27 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-sunken-eye,eye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.333158,,1
+sunken-eye,eye,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.333158,,2
+sunken-eye,face,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.585966,,1
 sunken-eye,focus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.333158,,1
 sunken-eye,gaze,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
 sunken-eye,insight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
+sunken-eye,look,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.585966,,1
 sunken-eye,observation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
 sunken-eye,perception,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.333158,,1
 sunken-eye,sight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.333158,,1
+sunken-eye,sunken,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1
+sunken-eye,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1
 sunken-eye,view,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.333158,,1
-sunken-eye,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.333158,,1
+sunken-eye,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.333158,,2
+sunken-eye,visual representation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1
 sunken-eye,watching,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.333158,,1
 sunken-eye,Third Eye,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
-sunken-eye,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
+sunken-eye,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,2
 sunken-eye,awareness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.333158,,1
 sunken-eye,consciousness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
+sunken-eye,contour,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1
+sunken-eye,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1
+sunken-eye,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1
 sunken-eye,enlightenment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
 sunken-eye,esoteric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
+sunken-eye,fatigue,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1
+sunken-eye,health,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1
+sunken-eye,hollow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1
+sunken-eye,human,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.585966,,1
+sunken-eye,impression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1
 sunken-eye,inner sight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
 sunken-eye,intuition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
 sunken-eye,lens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
+sunken-eye,metaphor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.585966,,1
 sunken-eye,mystery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
 sunken-eye,mystic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
 sunken-eye,ocular,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
+sunken-eye,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1
 sunken-eye,perspective,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
 sunken-eye,reflection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
+sunken-eye,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1
 sunken-eye,surveillance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.334113,,1
 sunken-eye,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_plJrxhDzbK3453qb25WfxISi,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.333158,,1
+sunken-eye,tiredness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1
+sunken-eye,deficiency,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.585966,,1
+sunken-eye,expression,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1
+sunken-eye,motif,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RhR7NXqGwX59mkViv592cLl1,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.584953,,1

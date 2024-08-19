@@ -1,25 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 mad-scientist,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
-mad-scientist,curved lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
-mad-scientist,expression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
+mad-scientist,abstract face,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
+mad-scientist,curved lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,2
+mad-scientist,eccentric,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
+mad-scientist,expression,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,2
 mad-scientist,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
 mad-scientist,friendly,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
 mad-scientist,fun,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
+mad-scientist,glasses,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
 mad-scientist,happy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
+mad-scientist,mad-scientist,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
+mad-scientist,madness,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
 mad-scientist,playful,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
+mad-scientist,round lenses,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
+mad-scientist,science theme,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
 mad-scientist,smiley,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
 mad-scientist,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
+mad-scientist,wild hair,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
 mad-scientist,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
 mad-scientist,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
+mad-scientist,cartoonish,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
 mad-scientist,character,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
+mad-scientist,chemistry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
+mad-scientist,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
 mad-scientist,curves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
 mad-scientist,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
-mad-scientist,emoticon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
+mad-scientist,emoticon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,2
+mad-scientist,experimentation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
 mad-scientist,graphic design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
-mad-scientist,humor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
+mad-scientist,humor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,2
+mad-scientist,iconic representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
+mad-scientist,imagination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
+mad-scientist,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
+mad-scientist,inventive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
 mad-scientist,mask,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
 mad-scientist,minimalism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
 mad-scientist,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
+mad-scientist,quirky character,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
 mad-scientist,simple,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
+mad-scientist,smiling face,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
 mad-scientist,stylized,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
+mad-scientist,stylized portrait,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
 mad-scientist,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9JE1vOUhELmEUftpkrAxd5cm,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.338987,,1
+mad-scientist,fantasy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1
+mad-scientist,playfulness,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_phKgYfqK5yMHRvir4parny2z,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.972434,,1

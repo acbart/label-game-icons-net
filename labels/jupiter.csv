@@ -1,23 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+jupiter,astronomy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.774050,,1
+jupiter,celestial body,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
 jupiter,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
+jupiter,cosmic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
+jupiter,cosmos,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.774050,,1
+jupiter,gas giant,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
 jupiter,horizon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
+jupiter,jupiter,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.774050,,1
 jupiter,layers,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
-jupiter,lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
+jupiter,lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,2
+jupiter,outer space,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
+jupiter,planet,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.774050,,1
+jupiter,rings,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
+jupiter,solar system,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
+jupiter,space,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
 jupiter,sunset,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
+jupiter,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
 jupiter,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
+jupiter,universe,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.774050,,1
+jupiter,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
 jupiter,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
+jupiter,astrology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
 jupiter,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
 jupiter,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
 jupiter,contrast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
 jupiter,depth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
 jupiter,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
-jupiter,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
+jupiter,gas,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
+jupiter,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,2
+jupiter,gravitational,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
+jupiter,iconic representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
+jupiter,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
 jupiter,landscape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
 jupiter,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
+jupiter,mythology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
+jupiter,orbit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
+jupiter,orbital,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
+jupiter,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
 jupiter,patterns,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
 jupiter,perspective,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
 jupiter,reflection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
+jupiter,saturn,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
+jupiter,simplified,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
 jupiter,sky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
-jupiter,stripes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
+jupiter,spheres,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
+jupiter,stripes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,2
 jupiter,visual balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1
+jupiter,mythological,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XFibZSsdhSux75OdTKXRRMrU,0,gpt-4o-2024-08-06,2024-08-18T22:29:06.775051,,1
 jupiter,optical illusion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pRQOGBK0YjEqLNVFMXfezJNd,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.500855,,1

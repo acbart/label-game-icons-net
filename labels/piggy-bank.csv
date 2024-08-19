@@ -1,24 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 piggy-bank,coin deposit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.215735,,1
-piggy-bank,finance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.215735,,1
-piggy-bank,money,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.215735,,1
+piggy-bank,coins,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,deposit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,finance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.215735,,2
+piggy-bank,money,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.215735,,2
+piggy-bank,personal finance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
 piggy-bank,piggy bank,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.215735,,1
-piggy-bank,savings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.215735,,1
-piggy-bank,banking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
-piggy-bank,budgeting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
-piggy-bank,cash,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
-piggy-bank,economy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.215735,,1
-piggy-bank,financial planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
+piggy-bank,piggy-bank,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,saving account,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,savings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.215735,,2
+piggy-bank,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,account balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,banking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,2
+piggy-bank,budgeting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,2
+piggy-bank,cash,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,2
+piggy-bank,economical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,economy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.215735,,2
+piggy-bank,financial planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,2
 piggy-bank,fiscal responsibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
 piggy-bank,funds,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
-piggy-bank,investment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
-piggy-bank,wealth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
+piggy-bank,future,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,growth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,investment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,2
+piggy-bank,nest egg,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,retirement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,simple design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,store value,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,thrift,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,wallet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_rMPwMSu6SVgEjYRset6BRnox,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.302562,,1
+piggy-bank,wealth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,2
 piggy-bank,accumulation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
 piggy-bank,asset management,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
 piggy-bank,capital,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
 piggy-bank,economic management,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
 piggy-bank,monetary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
-piggy-bank,prosperity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
+piggy-bank,prosperity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,2
 piggy-bank,resource allocation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
-piggy-bank,security,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1
+piggy-bank,security,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,2
 piggy-bank,treasure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_R7zgmoddnaWFMpO3g5G7nStG,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.216732,,1

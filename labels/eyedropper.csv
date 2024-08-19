@@ -1,28 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-eyedropper,drop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
-eyedropper,eyedropper,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
+eyedropper,drop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,2
+eyedropper,eyedropper,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,2
+eyedropper,fluid,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
 eyedropper,fluid transfer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
-eyedropper,liquid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
-eyedropper,pipette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
+eyedropper,liquid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,2
+eyedropper,pipette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,2
 eyedropper,scientific instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
-eyedropper,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
+eyedropper,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,2
 eyedropper,analysis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
-eyedropper,application,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
+eyedropper,application,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,2
+eyedropper,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
 eyedropper,chemical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
-eyedropper,dispense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
+eyedropper,chemistry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
+eyedropper,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
+eyedropper,digital,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
+eyedropper,dispense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,2
+eyedropper,drawing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
 eyedropper,droplet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
+eyedropper,edit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
 eyedropper,experiment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
 eyedropper,extract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
 eyedropper,fine control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
-eyedropper,laboratory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
-eyedropper,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
+eyedropper,graphic design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
+eyedropper,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
+eyedropper,interface,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
+eyedropper,laboratory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,2
+eyedropper,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,2
+eyedropper,medical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
 eyedropper,medicine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
 eyedropper,micro,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
 eyedropper,pharmacy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
-eyedropper,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,2
-eyedropper,sampling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
-eyedropper,scientific,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
+eyedropper,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,3
+eyedropper,sampling,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,2
+eyedropper,sampling tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
+eyedropper,scientific,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,2
+eyedropper,selection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
+eyedropper,software,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
+eyedropper,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
 eyedropper,transfer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
+eyedropper,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_RyvnkxzUCrJIewIJHqeypPKm,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.268740,,1
 eyedropper,distribution,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
 eyedropper,miniature,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1
 eyedropper,wet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_duiYcMmPvsN5wRn42M2kvebE,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.655347,,1

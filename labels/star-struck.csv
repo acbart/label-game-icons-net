@@ -1,25 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-star-struck,emotion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
-star-struck,excitement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
+star-struck,emotion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,2
+star-struck,excitement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,2
+star-struck,eyes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
 star-struck,face,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
+star-struck,facial expression,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
+star-struck,fascination,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
 star-struck,star eyes,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
+star-struck,star-struck,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
+star-struck,stars,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
+star-struck,wonder,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
+star-struck,abstract face,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
+star-struck,amazed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
 star-struck,animated,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
-star-struck,awe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
-star-struck,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
+star-struck,awe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,2
+star-struck,captivated,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
+star-struck,cartoon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,2
 star-struck,cartoonish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
 star-struck,character,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
 star-struck,comic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
+star-struck,delight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
+star-struck,enthusiasm,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
+star-struck,expression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
 star-struck,expressive,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
+star-struck,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
 star-struck,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
-star-struck,reaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
+star-struck,mouth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
+star-struck,reaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,2
 star-struck,shock,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
 star-struck,stunned,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
-star-struck,surprise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
+star-struck,surprise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,2
+star-struck,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
+star-struck,emoticon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
 star-struck,exaggeration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
-star-struck,fantasy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
+star-struck,fantasy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,2
 star-struck,fun,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
-star-struck,graphic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
+star-struck,graphic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,2
 star-struck,illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
 star-struck,novelty,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
 star-struck,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
 star-struck,visual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wVQYHp3InnPi3V9Plun2bgi1,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.046590,,1
+star-struck,visual representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1
+star-struck,zest,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Pm8IQ3Il8UrxdPNCXek31Be5,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.268458,,1

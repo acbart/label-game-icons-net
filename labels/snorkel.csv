@@ -1,23 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-snorkel,equipment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
+snorkel,breathing apparatus,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
+snorkel,diving,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
+snorkel,equipment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,2
 snorkel,fishing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
 snorkel,hook,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
 snorkel,j-shape,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
+snorkel,snorkel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
+snorkel,snorkeling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
 snorkel,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
+snorkel,underwater,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
+snorkel,water sports,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
 snorkel,angler,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
+snorkel,aqua,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
+snorkel,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
 snorkel,attachment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
 snorkel,bait,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
 snorkel,catch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
+snorkel,curved,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
 snorkel,curved shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
+snorkel,gear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
 snorkel,grab,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
 snorkel,hanging,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
 snorkel,marine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
+snorkel,marine exploration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
 snorkel,nautical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
+snorkel,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
+snorkel,pipe,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
+snorkel,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
+snorkel,scuba,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
 snorkel,secured,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
 snorkel,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
 snorkel,snag,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
+snorkel,swimming aid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
+snorkel,tube,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
 snorkel,utilitarian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
+snorkel,vacation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
+snorkel,adventure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
+snorkel,breath,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
+snorkel,float,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
+snorkel,hobby,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
 snorkel,lever,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
 snorkel,metallic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
-snorkel,safety,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
+snorkel,plastic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1
+snorkel,safety,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,2
 snorkel,sport,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8MN4ZQKWrAFfE1dISXDcIY0Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.077129,,1
+snorkel,vent,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_hBy67IsM8eSMErxGKop3aWE8,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.099129,,1

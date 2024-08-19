@@ -1,26 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 stone-wheel,Ethereum,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
 stone-wheel,blockchain,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
+stone-wheel,circular,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
 stone-wheel,cryptocurrency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
 stone-wheel,decentralization,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
 stone-wheel,digital currency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
+stone-wheel,movement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
+stone-wheel,rotation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
+stone-wheel,round,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
+stone-wheel,stone,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
 stone-wheel,token,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
+stone-wheel,transportation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
+stone-wheel,wheel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
+stone-wheel,ancient technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
+stone-wheel,archaeology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
+stone-wheel,basic engineering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
 stone-wheel,cryptography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
 stone-wheel,diamond,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
 stone-wheel,distributed ledger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
 stone-wheel,economy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
+stone-wheel,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
+stone-wheel,evolution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
 stone-wheel,finance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
 stone-wheel,financial freedom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
 stone-wheel,futuristic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
 stone-wheel,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
-stone-wheel,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,2
+stone-wheel,history,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
+stone-wheel,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
+stone-wheel,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,3
 stone-wheel,investment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
 stone-wheel,ledger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
+stone-wheel,mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
 stone-wheel,oval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
 stone-wheel,peer-to-peer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
+stone-wheel,prehistoric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
+stone-wheel,primitive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
+stone-wheel,progress,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
+stone-wheel,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
 stone-wheel,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
-stone-wheel,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
+stone-wheel,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
+stone-wheel,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,2
+stone-wheel,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
 stone-wheel,transaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
 stone-wheel,virtual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
 stone-wheel,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1
+stone-wheel,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jTed0K5y0l15HEPq5IAQtmRQ,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.424749,,1
 stone-wheel,modern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hOFSxBth3bekvJmQHYvWPTZD,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.089137,,1

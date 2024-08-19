@@ -1,25 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+incisors,bite,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
+incisors,dental,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
+incisors,dentistry,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
+incisors,front teeth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
 incisors,geometry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122560,,1
 incisors,global,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122560,,1
 incisors,globe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.121952,,1
 incisors,grid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122487,,1
+incisors,incisors,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
 incisors,lines,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122487,,1
 incisors,map,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122560,,1
 incisors,spherical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122487,,1
 incisors,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122487,,1
-incisors,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122487,,1
+incisors,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122487,,2
+incisors,teeth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
 incisors,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122560,,1
+incisors,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
+incisors,anatomy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
 incisors,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122487,,1
 incisors,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122560,,1
+incisors,biology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
+incisors,chewing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
 incisors,curved shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122487,,1
+incisors,dental care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
+incisors,dental hygiene,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
 incisors,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122560,,1
+incisors,enamel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
 incisors,equator,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122560,,1
 incisors,framework,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122560,,1
+incisors,health,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
 incisors,horizontal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122487,,1
 incisors,internet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122487,,1
+incisors,medical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
+incisors,mouth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
 incisors,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122560,,2
 incisors,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122487,,1
+incisors,oral health,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
 incisors,organization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122560,,1
-incisors,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122560,,1
+incisors,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122560,,2
+incisors,smile,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
+incisors,tooth shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
+incisors,tooth structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
 incisors,vertical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122487,,1
 incisors,visualization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UPOICQj0ECaE5dsLw8fegyAV,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.122560,,1
+incisors,abstraction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
+incisors,arrangement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
+incisors,curved shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
+incisors,formation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1
+incisors,rows,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_kNDgvB7PDVck0LXyewyTYNO6,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.288047,,1

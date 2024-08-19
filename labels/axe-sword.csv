@@ -1,26 +1,54 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 axe-sword,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
 axe-sword,art,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
+axe-sword,axe,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
 axe-sword,creativity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,2
+axe-sword,crossed weapons,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
 axe-sword,design,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
 axe-sword,drafting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
 axe-sword,geometry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
 axe-sword,imagination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
+axe-sword,sword,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,weapon cross,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
 axe-sword,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
 axe-sword,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
+axe-sword,battle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,battlefield,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,clash,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
 axe-sword,composition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
 axe-sword,conceptualization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
+axe-sword,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,duality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,duel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
 axe-sword,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
+axe-sword,fight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
 axe-sword,form,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
+axe-sword,historical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
 axe-sword,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
+axe-sword,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
 axe-sword,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
+axe-sword,power,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
 axe-sword,precision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
 axe-sword,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
 axe-sword,sketch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
-axe-sword,tools,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
+axe-sword,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,tools,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,2
 axe-sword,visualization,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
+axe-sword,warfare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,weaponry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
 axe-sword,abstract thought,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
+axe-sword,danger,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,emblem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,force,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,heroic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
 axe-sword,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
 axe-sword,modernism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
-axe-sword,sharp,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
+axe-sword,sharp,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,2
 axe-sword,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J707R0jWIpc1EQ26bhx1zOsV,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.705279,,1
+axe-sword,victory,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,violence,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1
+axe-sword,visual representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_BYR959eSJIt9UbpTI65Kc1tt,0,gpt-4o-2024-08-06,2024-08-18T22:28:59.846943,,1

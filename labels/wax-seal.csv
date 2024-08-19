@@ -1,29 +1,58 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 wax-seal,audio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
 wax-seal,audio settings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,emblem,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,equalizer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,mark,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
 wax-seal,music control,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,seal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
 wax-seal,speaker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,stamp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,volume,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,wax seal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
 wax-seal,amplifier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,approval,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,audio engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,authenticity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
+wax-seal,authority,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
+wax-seal,badge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,bass,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
 wax-seal,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
 wax-seal,broadcasting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,certification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
+wax-seal,classic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
+wax-seal,crest,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
+wax-seal,document,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,electric signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
 wax-seal,frequency,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,heritage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,2
+wax-seal,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
+wax-seal,identity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
+wax-seal,impression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
+wax-seal,insignia,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,modulation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,monogram,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
+wax-seal,official,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,pitch,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
 wax-seal,radio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
 wax-seal,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,signature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,sonic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
 wax-seal,spectrum,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
 wax-seal,stereo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
+wax-seal,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,transmission,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
 wax-seal,treble,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,vintage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,waveform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,circle,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
+wax-seal,decorative,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
+wax-seal,legacy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
+wax-seal,ornamental,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,resonance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1
+wax-seal,ring,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0qbi0XEApQjLuj1eG5OjpAzA,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.846895,,1
 wax-seal,vibration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_6dStFec2aT07wwjt8QrE2pfA,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.743591,,1

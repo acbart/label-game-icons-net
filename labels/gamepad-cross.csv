@@ -1,26 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 gamepad-cross,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
+gamepad-cross,button,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
 gamepad-cross,central,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
 gamepad-cross,circular,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
-gamepad-cross,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
+gamepad-cross,console,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
+gamepad-cross,control,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
+gamepad-cross,controller,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
+gamepad-cross,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,2
+gamepad-cross,directional,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
 gamepad-cross,four directions,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
+gamepad-cross,gamepad,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
+gamepad-cross,gaming,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
 gamepad-cross,geometric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
+gamepad-cross,input device,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
+gamepad-cross,joystick,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
 gamepad-cross,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
+gamepad-cross,video game,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
+gamepad-cross,abstraction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
 gamepad-cross,arrows,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
 gamepad-cross,block,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.846280,,1
 gamepad-cross,compass,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
-gamepad-cross,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
+gamepad-cross,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,2
 gamepad-cross,diagram,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
+gamepad-cross,digital,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
 gamepad-cross,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
+gamepad-cross,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
+gamepad-cross,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
+gamepad-cross,interface,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
 gamepad-cross,junction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.846280,,1
 gamepad-cross,meeting point,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.846280,,1
-gamepad-cross,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
+gamepad-cross,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,2
 gamepad-cross,node,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.846280,,1
 gamepad-cross,orientation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
 gamepad-cross,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.846280,,1
 gamepad-cross,points,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
-gamepad-cross,shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
+gamepad-cross,quadrant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
+gamepad-cross,shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,2
+gamepad-cross,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
 gamepad-cross,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.845273,,1
+gamepad-cross,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
+gamepad-cross,tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
+gamepad-cross,activity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
+gamepad-cross,geometry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_pIJOz7jJQHDL6QO2UsNvnMbr,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.180095,,1
 gamepad-cross,layout,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.846280,,1
 gamepad-cross,pathways,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.846280,,1
 gamepad-cross,strategic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QPOCvLE3vfAvgBZkkDC6npAe,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.846280,,1

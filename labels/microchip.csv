@@ -1,29 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 microchip,chip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
-microchip,circuit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
-microchip,component,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
-microchip,digital,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
-microchip,electronics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
-microchip,hardware,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
-microchip,integrated circuit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
-microchip,microchip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
+microchip,circuit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,2
+microchip,component,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,2
+microchip,digital,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,2
+microchip,electronics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,2
+microchip,hardware,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,2
+microchip,integrated circuit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,2
+microchip,microchip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,2
 microchip,microprocessor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
-microchip,processor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
-microchip,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
+microchip,processor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,2
+microchip,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,2
 microchip,PCB,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
+microchip,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
+microchip,computation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
 microchip,computing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
 microchip,connectivity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
+microchip,data,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
 microchip,data processing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
+microchip,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
+microchip,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
 microchip,electronic design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
-microchip,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
+microchip,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,2
 microchip,logic board,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
 microchip,machine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
+microchip,miniaturization,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
 microchip,motherboard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
 microchip,pins,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
-microchip,semiconductor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
+microchip,semiconductor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,2
 microchip,silicon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
 microchip,sockets,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
+microchip,system,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
 microchip,technical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
+microchip,abstraction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
+microchip,assembly,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
+microchip,complexity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
+microchip,control,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
+microchip,development,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
 microchip,information,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
-microchip,innovation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
+microchip,innovation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,3
+microchip,modernization,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
+microchip,network,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
+microchip,power,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
+microchip,precision,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1
 microchip,structure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_UZ3BzhGh5OF9l8Be6TpaH2Jn,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.421183,,1
+microchip,technology advancement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Sj2mN4ljixk43DtyecdKmmkx,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.365714,,1

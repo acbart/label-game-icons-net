@@ -1,25 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-round-bottom-flask,chemistry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
-round-bottom-flask,experiment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
+round-bottom-flask,chemistry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,2
+round-bottom-flask,experiment,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,2
 round-bottom-flask,experiment tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
-round-bottom-flask,flask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
-round-bottom-flask,laboratory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
-round-bottom-flask,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
+round-bottom-flask,flask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,2
+round-bottom-flask,laboratory,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,2
+round-bottom-flask,science,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,2
 round-bottom-flask,science icon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
 round-bottom-flask,scientific research,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
 round-bottom-flask,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
 round-bottom-flask,alchemy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
-round-bottom-flask,beaker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
+round-bottom-flask,beaker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,2
+round-bottom-flask,boiling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1IbhQISVBXF3RarPckZWd9XR,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.584942,,1
 round-bottom-flask,concentration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
-round-bottom-flask,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
+round-bottom-flask,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,2
 round-bottom-flask,container shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
 round-bottom-flask,curved sides,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
-round-bottom-flask,glassware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
-round-bottom-flask,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
+round-bottom-flask,glassware,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,2
+round-bottom-flask,heat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1IbhQISVBXF3RarPckZWd9XR,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.584942,,1
+round-bottom-flask,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,2
+round-bottom-flask,mixing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1IbhQISVBXF3RarPckZWd9XR,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.584942,,1
 round-bottom-flask,mixture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
 round-bottom-flask,narrow neck,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
-round-bottom-flask,potion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
+round-bottom-flask,potion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,2
+round-bottom-flask,reaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1IbhQISVBXF3RarPckZWd9XR,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.584942,,1
+round-bottom-flask,research,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1IbhQISVBXF3RarPckZWd9XR,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.584942,,1
 round-bottom-flask,round base,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
+round-bottom-flask,scientific,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1IbhQISVBXF3RarPckZWd9XR,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.584942,,1
 round-bottom-flask,substance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
 round-bottom-flask,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
 round-bottom-flask,vial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_J49WrZHOWzk9jgOtEMA3soaZ,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.830518,,1
+round-bottom-flask,Bunsen burner,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1IbhQISVBXF3RarPckZWd9XR,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.584942,,1
+round-bottom-flask,academic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1IbhQISVBXF3RarPckZWd9XR,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.584942,,1
+round-bottom-flask,alchemist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1IbhQISVBXF3RarPckZWd9XR,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.584942,,1
+round-bottom-flask,curved,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1IbhQISVBXF3RarPckZWd9XR,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.584942,,1
+round-bottom-flask,education,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1IbhQISVBXF3RarPckZWd9XR,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.584942,,1
+round-bottom-flask,laboratory equipment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1IbhQISVBXF3RarPckZWd9XR,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.584942,,1
+round-bottom-flask,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1IbhQISVBXF3RarPckZWd9XR,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.584942,,1
+round-bottom-flask,vessel,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_1IbhQISVBXF3RarPckZWd9XR,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.584942,,1

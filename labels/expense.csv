@@ -1,25 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-expense,arrows,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
+expense,allocation of funds,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
+expense,arrows,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,2
+expense,budgeting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
 expense,decision making,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
-expense,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
-expense,divergence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
+expense,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,2
+expense,divergence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,2
+expense,expenditure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
+expense,expense,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
+expense,financial decision,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
+expense,financial management,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
+expense,financial planning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
 expense,fork in the road,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
+expense,money outflow,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
 expense,multidirectional,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
 expense,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
 expense,path,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
-expense,split,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
+expense,split,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,2
+expense,allocation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
 expense,choices,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
-expense,distribution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
+expense,decision-making,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
+expense,distribute,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
+expense,distribution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,2
+expense,division,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
+expense,economics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
 expense,expansion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
 expense,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
-expense,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
+expense,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,2
 expense,navigation tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
 expense,options,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
+expense,outflow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
 expense,planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
+expense,resource management,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
 expense,routes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
+expense,scattering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
+expense,spending,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
 expense,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
 expense,variation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
 expense,wayfinding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
 expense,connectivity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
-expense,flow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1
+expense,disperse,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
+expense,flow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,2
+expense,route,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_NXMBSIFwHC2JoQqHYjxOpzkp,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.847309,,1
 expense,tripod,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PBCs5nrI26Ir26au3jiD2U6G,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.751338,,1

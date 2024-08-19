@@ -1,25 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-light-projector,beam,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
+light-projector,beam,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,2
 light-projector,directional light,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
-light-projector,illumination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
+light-projector,illumination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,2
+light-projector,light,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QibCINib5l8dzDLfzrWElX6u,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.253151,,1
 light-projector,light source,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
-light-projector,spotlight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
+light-projector,projector,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QibCINib5l8dzDLfzrWElX6u,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.253151,,1
+light-projector,spotlight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,2
 light-projector,stage lighting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
-light-projector,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
+light-projector,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,2
+light-projector,angle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QibCINib5l8dzDLfzrWElX6u,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.253151,,1
 light-projector,audience,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
 light-projector,brightness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
+light-projector,cinema,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QibCINib5l8dzDLfzrWElX6u,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.253151,,1
+light-projector,communication,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QibCINib5l8dzDLfzrWElX6u,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.253151,,1
 light-projector,concert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
-light-projector,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
+light-projector,device,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QibCINib5l8dzDLfzrWElX6u,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.253151,,1
+light-projector,display,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QibCINib5l8dzDLfzrWElX6u,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.253151,,1
+light-projector,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,2
 light-projector,event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
-light-projector,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
+light-projector,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,2
 light-projector,highlighting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
+light-projector,lens,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QibCINib5l8dzDLfzrWElX6u,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.253151,,1
 light-projector,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
-light-projector,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
-light-projector,projection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
+light-projector,presentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,2
+light-projector,projection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,2
 light-projector,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
-light-projector,theater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
+light-projector,theater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,2
 light-projector,visibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
+light-projector,visual media,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QibCINib5l8dzDLfzrWElX6u,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.253151,,1
+light-projector,broadcast,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QibCINib5l8dzDLfzrWElX6u,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.253151,,1
 light-projector,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
+light-projector,emphasis,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QibCINib5l8dzDLfzrWElX6u,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.253151,,1
+light-projector,entertainment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QibCINib5l8dzDLfzrWElX6u,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.253151,,1
 light-projector,industry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
 light-projector,setup,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
-light-projector,technology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,1
+light-projector,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_QibCINib5l8dzDLfzrWElX6u,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.253151,,1
+light-projector,technology,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_a9yQwCvCaDmNT7y7AaoorT3J,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.637006,,2

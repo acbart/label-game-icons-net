@@ -1,25 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-boba,beverage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
-boba,boba,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
-boba,bubble tea,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
+boba,beverage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,2
+boba,boba,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,2
+boba,bubble tea,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,2
 boba,bubbles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
-boba,cup,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
-boba,drink,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
-boba,straw,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
+boba,cup,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,2
+boba,drink,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,2
+boba,pearls,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v7onUxeqhuM6xDJiRMDyhIN6,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.826626,,1
+boba,straw,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,2
 boba,straw in cup,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
 boba,tapioca pearls,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
+boba,café,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v7onUxeqhuM6xDJiRMDyhIN6,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.826626,,1
 boba,cold drink,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
-boba,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
+boba,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,2
+boba,cool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v7onUxeqhuM6xDJiRMDyhIN6,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.826626,,1
+boba,dessert,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v7onUxeqhuM6xDJiRMDyhIN6,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.826626,,1
 boba,dessert drink,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
+boba,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v7onUxeqhuM6xDJiRMDyhIN6,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.826626,,1
 boba,iconic drink,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
-boba,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
-boba,refreshing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
-boba,refreshment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
+boba,liquid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,2
+boba,refreshing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,2
+boba,refreshment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,2
 boba,sippable,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
 boba,soft drink,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
-boba,sweet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
+boba,sweet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,2
+boba,takeaway,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v7onUxeqhuM6xDJiRMDyhIN6,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.826626,,1
 boba,tea,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
 boba,thirst-quenching,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
+boba,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v7onUxeqhuM6xDJiRMDyhIN6,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.826626,,1
+boba,consumption,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v7onUxeqhuM6xDJiRMDyhIN6,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.826626,,1
 boba,frappe,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
 boba,gist,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
+boba,plastic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v7onUxeqhuM6xDJiRMDyhIN6,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.826626,,1
+boba,sipper,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v7onUxeqhuM6xDJiRMDyhIN6,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.826626,,1
+boba,snack,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v7onUxeqhuM6xDJiRMDyhIN6,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.826626,,1
 boba,summer,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_3EzzbdEgWeAoNOSyNxq8dOhs,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.230776,,1
+boba,treat,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_v7onUxeqhuM6xDJiRMDyhIN6,0,gpt-4o-2024-08-06,2024-08-18T22:28:57.826626,,1

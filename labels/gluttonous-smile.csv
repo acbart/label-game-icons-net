@@ -1,24 +1,53 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 gluttonous-smile,aquatic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.889779,,1
+gluttonous-smile,emotion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,expression,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
 gluttonous-smile,fins,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.889779,,1
 gluttonous-smile,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.889779,,1
+gluttonous-smile,mouth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
 gluttonous-smile,scales,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.889779,,1
 gluttonous-smile,sea life,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.889779,,1
-gluttonous-smile,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.890783,,1
+gluttonous-smile,smile,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,teeth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.890783,,2
 gluttonous-smile,biological,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.889779,,1
+gluttonous-smile,contentment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
 gluttonous-smile,creature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.889779,,1
-gluttonous-smile,curve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.890783,,1
+gluttonous-smile,curve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.890783,,2
+gluttonous-smile,curves,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,face,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,gesture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,glee,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,happiness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
 gluttonous-smile,iconography,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.890783,,1
+gluttonous-smile,joy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,joyous,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,lobed shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
 gluttonous-smile,marine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.889779,,1
 gluttonous-smile,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.890783,,1
 gluttonous-smile,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.889779,,1
 gluttonous-smile,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.889779,,1
 gluttonous-smile,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.889779,,1
+gluttonous-smile,positive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,rounded shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,satisfaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
 gluttonous-smile,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.890783,,1
 gluttonous-smile,swimming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.889779,,1
+gluttonous-smile,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
 gluttonous-smile,underwater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.889779,,1
 gluttonous-smile,waves,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.890783,,1
 gluttonous-smile,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.889779,,1
 gluttonous-smile,black and white,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.890783,,1
+gluttonous-smile,cartoonish,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,conceptual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,creative,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
 gluttonous-smile,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.890783,,1
+gluttonous-smile,euphoria,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,figurative,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,intense expression,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,peculiar,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,playful,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
 gluttonous-smile,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_JpDmDPpLHo3tHF2pyYE6tXSq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.890783,,1
+gluttonous-smile,unusual,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1
+gluttonous-smile,whimsical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0n1NFfbABwTNPaiJHvvSP8a8,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.355341,,1

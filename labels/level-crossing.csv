@@ -1,26 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 level-crossing,access control,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
-level-crossing,barrier,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
+level-crossing,barrier,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,2
 level-crossing,checkpoint,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
+level-crossing,crossing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.151749,,1
 level-crossing,entry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
-level-crossing,gate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
+level-crossing,gate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,2
+level-crossing,level-crossing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.151749,,1
 level-crossing,lifting arm,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
-level-crossing,stop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
+level-crossing,rail safety,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.152635,,1
+level-crossing,railroad,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.151749,,1
+level-crossing,signal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.151749,,1
+level-crossing,stop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,2
+level-crossing,transportation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.151749,,1
+level-crossing,warning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.151749,,1
 level-crossing,boundary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
+level-crossing,caution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.152635,,1
 level-crossing,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
 level-crossing,entrance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
 level-crossing,exit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
+level-crossing,guard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.151749,,1
+level-crossing,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.152635,,1
+level-crossing,intersection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.151749,,1
+level-crossing,limitation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.152635,,1
 level-crossing,lower,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
-level-crossing,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
+level-crossing,precaution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.152635,,1
+level-crossing,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,2
 level-crossing,railroad crossing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
 level-crossing,raise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
-level-crossing,restriction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
-level-crossing,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
+level-crossing,restriction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,2
+level-crossing,road intersection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.151749,,1
+level-crossing,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,2
 level-crossing,security,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
 level-crossing,security measure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
 level-crossing,traffic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
+level-crossing,traffic control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.152635,,1
+level-crossing,train,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.151749,,1
+level-crossing,warning system,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.152635,,1
 level-crossing,demarcation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
 level-crossing,gatehouse,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
+level-crossing,movement,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.151749,,1
 level-crossing,partition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
 level-crossing,passage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1
+level-crossing,public transport,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_4pUEjZLce7xCkcyy4Cxwb37F,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.152635,,1
 level-crossing,segmentation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hS65sZfSjDeDQsVrpbcmcnqH,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.615974,,1

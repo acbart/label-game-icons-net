@@ -1,25 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+imp,creature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
+imp,demon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
 imp,dragon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112450,,1
-imp,fantasy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112450,,1
-imp,mystical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
-imp,mythical creature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112450,,1
+imp,fantasy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112450,,2
+imp,horned,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
+imp,horns,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
+imp,imp,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
+imp,mystical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,2
+imp,mythical creature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112450,,2
 imp,mythology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
-imp,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
+imp,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,2
+imp,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
 imp,alchemy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
 imp,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
+imp,devil,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
 imp,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
+imp,evil,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
 imp,fire breath,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
-imp,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
+imp,goblins,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
+imp,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,2
 imp,guardian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
-imp,legend,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
+imp,legend,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,2
 imp,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
+imp,mischief,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
+imp,playful,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
 imp,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
 imp,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
 imp,serpent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
-imp,tail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
+imp,shadowy figure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
+imp,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
+imp,sinister,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
+imp,sneaky,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
+imp,tail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,2
 imp,tattoo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
 imp,transformation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
-imp,wings,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
+imp,trickster,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
+imp,wings,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,2
 imp,yin yang,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
+imp,chimerical,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
+imp,darkness,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
+imp,inner child,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
 imp,knight,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
+imp,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
 imp,ornament,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_j8YwO5ImtmmS062ub0zt1QLq,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.112988,,1
+imp,ornate,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1
+imp,stylized,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_mVoUWnFgRPKkUZRIXE7X0MVa,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.229791,,1

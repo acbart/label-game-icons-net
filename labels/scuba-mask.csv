@@ -1,26 +1,48 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 scuba-mask,astronaut,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
+scuba-mask,breathing apparatus,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
 scuba-mask,cosmos,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
-scuba-mask,exploration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
+scuba-mask,dive,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
+scuba-mask,diving equipment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
+scuba-mask,exploration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,2
 scuba-mask,helmet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
+scuba-mask,mask,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
 scuba-mask,mission,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
+scuba-mask,safety gear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
+scuba-mask,scuba-mask,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
+scuba-mask,snorkel,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
+scuba-mask,snorkeling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
 scuba-mask,space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
-scuba-mask,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
+scuba-mask,underwater,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
+scuba-mask,abstract shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
+scuba-mask,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,2
+scuba-mask,adventure gear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
+scuba-mask,aquatic sports,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
 scuba-mask,aviation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
 scuba-mask,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
 scuba-mask,extraterrestrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
 scuba-mask,floating,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
 scuba-mask,frontier,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
 scuba-mask,futuristic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
-scuba-mask,goggles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
+scuba-mask,goggles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,2
 scuba-mask,isolation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
 scuba-mask,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
+scuba-mask,marine exploration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
+scuba-mask,marine life,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
+scuba-mask,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
+scuba-mask,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
 scuba-mask,oxygen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
 scuba-mask,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
 scuba-mask,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
+scuba-mask,sealife,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
+scuba-mask,sports,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
 scuba-mask,suit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
 scuba-mask,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
 scuba-mask,tether,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
 scuba-mask,universe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
 scuba-mask,void,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
+scuba-mask,fitment,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
 scuba-mask,gear,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_vIZZCRDy0aZOtozFnSUwmoBt,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.681895,,1
+scuba-mask,hobby,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
+scuba-mask,travel,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1
+scuba-mask,vacation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ecwzzyYNuEqs4RavyoG0xxkK,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.072147,,1

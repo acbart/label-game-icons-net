@@ -1,26 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 assassin-pocket,crossed blades,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
+assassin-pocket,crossed weapons,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6zBsZFPFsdUaTtJ7dgay77V1,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.864300,,1
+assassin-pocket,dagger,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6zBsZFPFsdUaTtJ7dgay77V1,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.864300,,1
+assassin-pocket,sword,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6zBsZFPFsdUaTtJ7dgay77V1,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.863301,,1
 assassin-pocket,swords,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
-assassin-pocket,weaponry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
-assassin-pocket,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
-assassin-pocket,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
-assassin-pocket,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
+assassin-pocket,weaponry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,2
+assassin-pocket,agility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6zBsZFPFsdUaTtJ7dgay77V1,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.864300,,1
+assassin-pocket,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,2
+assassin-pocket,combat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,2
+assassin-pocket,conflict,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,2
 assassin-pocket,confrontation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
-assassin-pocket,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
-assassin-pocket,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
-assassin-pocket,duel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
+assassin-pocket,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,2
+assassin-pocket,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,2
+assassin-pocket,duel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,2
+assassin-pocket,game,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6zBsZFPFsdUaTtJ7dgay77V1,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.864300,,1
 assassin-pocket,knighthood,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
 assassin-pocket,medieval,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
-assassin-pocket,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
+assassin-pocket,ninja,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6zBsZFPFsdUaTtJ7dgay77V1,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.864300,,1
+assassin-pocket,precision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6zBsZFPFsdUaTtJ7dgay77V1,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.864300,,1
+assassin-pocket,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,2
+assassin-pocket,stealth,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6zBsZFPFsdUaTtJ7dgay77V1,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.864300,,1
+assassin-pocket,strategy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6zBsZFPFsdUaTtJ7dgay77V1,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.864300,,1
+assassin-pocket,tactics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6zBsZFPFsdUaTtJ7dgay77V1,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.864300,,1
+assassin-pocket,threat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6zBsZFPFsdUaTtJ7dgay77V1,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.864300,,1
 assassin-pocket,warfare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
+assassin-pocket,warrior,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6zBsZFPFsdUaTtJ7dgay77V1,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.864300,,1
 assassin-pocket,aggression,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
-assassin-pocket,cutting,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
+assassin-pocket,cutting,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,2
 assassin-pocket,fearless,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
 assassin-pocket,force,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
 assassin-pocket,heroic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
-assassin-pocket,historical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
-assassin-pocket,martial arts,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
+assassin-pocket,historical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,2
+assassin-pocket,martial arts,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,2
 assassin-pocket,metal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
-assassin-pocket,sharp,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
+assassin-pocket,sharp,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,2
 assassin-pocket,strength,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
 assassin-pocket,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_FT1qNmoRKT1cUMt8ptFliIdQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.862357,,1
+assassin-pocket,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6zBsZFPFsdUaTtJ7dgay77V1,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.864300,,1

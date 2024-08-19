@@ -1,21 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+pauldrons,armor,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,defense,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,medieval,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
 pauldrons,performance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.395359,,1
 pauldrons,props,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.395359,,1
+pauldrons,protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,protective gear,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,shoulder guards,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,shoulder protection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,shoulders,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
 pauldrons,stage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.395359,,1
+pauldrons,abstract shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,angular patterns,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,armor plating,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
 pauldrons,art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.395359,,1
+pauldrons,battle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
 pauldrons,celebration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.395359,,1
 pauldrons,ceremony,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.395359,,1
+pauldrons,combat gear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
 pauldrons,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.395359,,1
 pauldrons,duo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.395359,,1
 pauldrons,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.396362,,1
 pauldrons,event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.396362,,1
 pauldrons,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.395359,,1
 pauldrons,gathering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.395359,,1
+pauldrons,gear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,historical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,iconic representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,knight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,military,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
 pauldrons,pair,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.395359,,1
 pauldrons,social,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.396362,,1
+pauldrons,symmetric design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
 pauldrons,theater,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.395359,,1
+pauldrons,traditional,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,warfare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,warrior,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
 pauldrons,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.396362,,1
+pauldrons,ceremonial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
 pauldrons,communication,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.396362,,1
+pauldrons,costume,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
 pauldrons,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.396362,,1
+pauldrons,fashion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,heroic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
 pauldrons,illustration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.396362,,1
+pauldrons,metal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,symbolic strength,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
 pauldrons,symmetry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QZVwxyqNTOabYsDBEepHNluQ,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.396362,,1
+pauldrons,wardrobe,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1
+pauldrons,weight,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_InBXhBrnyOCJ3ZSUciuDVNlL,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.970530,,1

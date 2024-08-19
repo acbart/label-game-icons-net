@@ -1,27 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 feline,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,1
-feline,cat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,1
-feline,ears,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,1
-feline,feline,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,1
+feline,animal silhouette,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.032770,,1
+feline,cat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,2
+feline,ears,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,2
+feline,feline,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,2
+feline,four-legged,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.033781,,1
 feline,icon,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
-feline,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,1
-feline,tail,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,1
+feline,legs,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.032770,,1
+feline,profile,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.032770,,1
+feline,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,2
+feline,tail,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,2
+feline,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.032770,,1
 feline,agility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
 feline,animal representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
 feline,black cat association,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
-feline,creature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
+feline,creature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,2
 feline,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
 feline,domestic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
-feline,graceful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
+feline,domestic animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.032770,,1
+feline,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.032770,,1
+feline,graceful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,2
 feline,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
+feline,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.033781,,1
 feline,independence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
 feline,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
-feline,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,1
-feline,pet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,1
+feline,minimalist design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.032770,,1
+feline,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.033781,,1
+feline,nature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.033781,,1
+feline,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,2
+feline,pet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,2
 feline,playful,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
+feline,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.033781,,1
 feline,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.803036,,1
 feline,silhouette art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
-feline,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
+feline,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.032770,,1
+feline,smooth lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.032770,,1
+feline,stance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.033781,,1
+feline,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,2
 feline,whiskers,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
 feline,mystery,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
 feline,nocturnal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZWicuc1lTjOCcLVrkhwaKM7h,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.804130,,1
+feline,pet care,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.033781,,1
+feline,wildlife,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_c75vVfWugdrU3Y37Ful0yWsK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.033781,,1

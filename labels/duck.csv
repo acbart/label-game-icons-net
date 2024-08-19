@@ -1,26 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-duck,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,duck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,waterfowl,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,wildlife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,beak,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
+duck,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
+duck,bird,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
+duck,duck,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
+duck,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
+duck,waterfowl,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
+duck,webbed feet,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JHcCgjlRSwAqJAeOP09G4W59,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.412978,,1
+duck,wildlife,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
+duck,aquatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
+duck,beak,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
+duck,feathers,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JHcCgjlRSwAqJAeOP09G4W59,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.412978,,1
 duck,float,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
+duck,floating,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JHcCgjlRSwAqJAeOP09G4W59,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.412978,,1
+duck,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JHcCgjlRSwAqJAeOP09G4W59,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.412978,,1
 duck,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
 duck,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,lake,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,poultry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,quack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
+duck,lake,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
+duck,minimalistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JHcCgjlRSwAqJAeOP09G4W59,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.412978,,1
+duck,outline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
+duck,pond,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JHcCgjlRSwAqJAeOP09G4W59,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.412978,,1
+duck,poultry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
+duck,quack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
 duck,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,swimming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
+duck,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
+duck,simple,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JHcCgjlRSwAqJAeOP09G4W59,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.412978,,1
+duck,swimming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
+duck,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
 duck,winged,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
-duck,aviary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
+duck,wings,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JHcCgjlRSwAqJAeOP09G4W59,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.412978,,1
+duck,aviary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,2
+duck,decorative,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JHcCgjlRSwAqJAeOP09G4W59,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.412978,,1
 duck,environment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
 duck,feather,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
+duck,flat design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JHcCgjlRSwAqJAeOP09G4W59,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.412978,,1
 duck,habitat,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1
+duck,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JHcCgjlRSwAqJAeOP09G4W59,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.412978,,1
+duck,leg,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JHcCgjlRSwAqJAeOP09G4W59,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.412978,,1
+duck,logo design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JHcCgjlRSwAqJAeOP09G4W59,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.412978,,1
+duck,natural habitat,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JHcCgjlRSwAqJAeOP09G4W59,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.412978,,1
 duck,navigation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_IFdtJGr55l6UNa5EVSUTw8mV,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.627568,,1

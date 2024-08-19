@@ -1,26 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-duration,countdown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
-duration,duration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
-duration,hourglass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
-duration,sand timer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
-duration,time,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
-duration,waiting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
-duration,arrow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
-duration,cycle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
+duration,countdown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,2
+duration,duration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,2
+duration,hourglass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,2
+duration,passage of time,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
+duration,sand timer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,2
+duration,time,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,2
+duration,waiting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,2
+duration,arrow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,2
+duration,circular motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
+duration,cycle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,2
+duration,cycles,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
 duration,delay,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
+duration,limited time,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
+duration,measurement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
 duration,momentum,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
 duration,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
-duration,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
+duration,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,2
 duration,repeat action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
-duration,repetition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
+duration,repetition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,2
+duration,symbolic representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
 duration,symbolic time,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
+duration,temporality,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
+duration,timing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
 duration,transience,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
 duration,transition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
+duration,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
 duration,back in time,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
 duration,cycle of life,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
+duration,dashes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
+duration,dotted line,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.442991,,1
+duration,endurance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
+duration,flow,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
 duration,future,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
 duration,infinite loop,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
 duration,interruption,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
 duration,patience,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
 duration,pause,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1
+duration,rhythm,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
+duration,rotation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
+duration,turnaround,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_eAoDAxwdK1TNXxFwTzcM3qa2,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.441989,,1
 duration,zen,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_U7yj2Zjg5Kb5ixOEYxg1HKk4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.637583,,1

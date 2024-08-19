@@ -1,24 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+back-pain,ache,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
+back-pain,back-pain,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
 back-pain,burst,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
 back-pain,collision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
 back-pain,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
 back-pain,dangerous,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
+back-pain,discomfort,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
 back-pain,emergency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
 back-pain,explosion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
 back-pain,hazard,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
+back-pain,health,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
 back-pain,impact,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
+back-pain,injury,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
+back-pain,medical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
+back-pain,pain,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
+back-pain,posture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
 back-pain,risk,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
 back-pain,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
-back-pain,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
+back-pain,silhouette,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
+back-pain,spine,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
+back-pain,tension,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
+back-pain,warning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,2
 back-pain,action,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
 back-pain,alarm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
 back-pain,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
+back-pain,chiropractor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
 back-pain,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
 back-pain,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
+back-pain,ergonomic injury,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.940984,,1
+back-pain,ergonomics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
 back-pain,force,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
+back-pain,health risk,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
+back-pain,healthcare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.940984,,1
 back-pain,incident,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
-back-pain,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
+back-pain,leaning,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
+back-pain,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,2
+back-pain,muscle strain,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
+back-pain,person,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
+back-pain,physical therapy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
+back-pain,sciatica,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
 back-pain,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
-back-pain,spikes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
-back-pain,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
+back-pain,skeletal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1
+back-pain,spikes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,2
+back-pain,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,2
 back-pain,shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4HDK7IHnBjsgWdDZlCExgtqg,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.884331,,1
+back-pain,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_DGGLLB9DlbTzInPrHo4C6uZK,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.939981,,1

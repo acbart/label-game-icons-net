@@ -1,24 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-light-bulb,creativity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
-light-bulb,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
+light-bulb,creativity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,2
+light-bulb,discovery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
+light-bulb,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,2
+light-bulb,idea,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
 light-bulb,ideas,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
-light-bulb,illumination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
-light-bulb,innovation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
-light-bulb,insight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
-light-bulb,inspiration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
+light-bulb,illumination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,2
+light-bulb,innovation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,2
+light-bulb,insight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,2
+light-bulb,inspiration,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,2
 light-bulb,knowledge,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
 light-bulb,light bulb,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
-light-bulb,thinking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
+light-bulb,light-bulb,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
+light-bulb,thinking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,2
 light-bulb,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
-light-bulb,brainstorm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.247679,,1
+light-bulb,brainstorm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.247679,,2
 light-bulb,bright,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
-light-bulb,concept,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
-light-bulb,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
+light-bulb,brightness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
+light-bulb,concept,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,2
+light-bulb,creativity spark,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
+light-bulb,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,2
 light-bulb,electric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
-light-bulb,electricity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
+light-bulb,electricity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,2
+light-bulb,eureka,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
+light-bulb,intellectual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
 light-bulb,modern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
+light-bulb,problem-solving,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
 light-bulb,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
 light-bulb,sharp lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
-light-bulb,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
+light-bulb,solution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
+light-bulb,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,2
+light-bulb,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
+light-bulb,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
+light-bulb,thought,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
 light-bulb,wisdom,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
 light-bulb,zigzag,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PhFj5PdIOvgpE7x4aphd45VT,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.246304,,1
+light-bulb,abstraction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
+light-bulb,bulb shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
+light-bulb,electric current,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
+light-bulb,graphic representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
+light-bulb,simplicity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1
+light-bulb,visual representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G4pPWgEYQk673fNu8xBiClY8,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.683878,,1

@@ -1,27 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+death-star,artificial,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
 death-star,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
 death-star,death star,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
-death-star,fictional,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
+death-star,fictional,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,2
+death-star,fortress,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
+death-star,futuristic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
+death-star,orbital,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
 death-star,outer space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
-death-star,science fiction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
-death-star,space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
-death-star,sphere,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
+death-star,planetary,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
+death-star,science fiction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,2
+death-star,space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,2
+death-star,sphere,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,2
+death-star,superweapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
 death-star,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
-death-star,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
+death-star,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,2
+death-star,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
 death-star,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
+death-star,architecture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
+death-star,armament,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
 death-star,astronomy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
-death-star,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
-death-star,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
+death-star,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,2
+death-star,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,2
+death-star,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
 death-star,cut out,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
+death-star,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
 death-star,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
 death-star,dome,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
+death-star,galactic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
+death-star,giant,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
 death-star,half circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
 death-star,hole,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
 death-star,icon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
+death-star,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
 death-star,moon,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
 death-star,orb,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
 death-star,planet,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
 death-star,quarter,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
 death-star,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
-death-star,star,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
-death-star,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,1
+death-star,spacecraft,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_IGiPSHVufFfPy2AFMZatOA5G,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.880702,,1
+death-star,star,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,2
+death-star,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_N34DlnWWHcFUzWRfN5VXX61F,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.481233,,2

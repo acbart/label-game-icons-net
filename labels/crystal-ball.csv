@@ -1,26 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-crystal-ball,clairvoyance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
+crystal-ball,clairvoyance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,2
 crystal-ball,crystal ball,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
-crystal-ball,divination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
+crystal-ball,crystal-ball,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G8KIrXpIfc3UvCBMFJmDuyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.022478,,1
+crystal-ball,divination,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,2
 crystal-ball,fortune telling,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
-crystal-ball,future,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
-crystal-ball,magic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
-crystal-ball,mysticism,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
+crystal-ball,fortune-telling,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G8KIrXpIfc3UvCBMFJmDuyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.022478,,1
+crystal-ball,future,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,2
+crystal-ball,magic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,2
+crystal-ball,mysticism,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,2
 crystal-ball,orb,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
-crystal-ball,prediction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
-crystal-ball,supernatural,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
+crystal-ball,prediction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,2
+crystal-ball,supernatural,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,2
 crystal-ball,vision,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
+crystal-ball,abstract shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G8KIrXpIfc3UvCBMFJmDuyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.022478,,1
+crystal-ball,enchanted,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G8KIrXpIfc3UvCBMFJmDuyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.022478,,1
 crystal-ball,enigmatic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
-crystal-ball,esoteric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
+crystal-ball,esoteric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,2
 crystal-ball,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
+crystal-ball,foresight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G8KIrXpIfc3UvCBMFJmDuyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.022478,,1
 crystal-ball,glass,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
+crystal-ball,insight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G8KIrXpIfc3UvCBMFJmDuyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.022478,,1
 crystal-ball,interpretation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
 crystal-ball,mysterious,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
-crystal-ball,occult,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
-crystal-ball,reflection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
+crystal-ball,mystical orb,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G8KIrXpIfc3UvCBMFJmDuyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.022478,,1
+crystal-ball,occult,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,2
+crystal-ball,reflection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,2
 crystal-ball,ritual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
+crystal-ball,round,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G8KIrXpIfc3UvCBMFJmDuyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.022478,,1
 crystal-ball,seer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
-crystal-ball,sphere,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
+crystal-ball,seer's tool,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G8KIrXpIfc3UvCBMFJmDuyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.022478,,1
+crystal-ball,sphere,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,2
 crystal-ball,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
+crystal-ball,symbolic vision,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G8KIrXpIfc3UvCBMFJmDuyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.022478,,1
 crystal-ball,unknown,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
+crystal-ball,wizardry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G8KIrXpIfc3UvCBMFJmDuyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.022478,,1
 crystal-ball,alchemy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ZXMlzQJaAF2DU3CYwt0GdyIq,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.374466,,1
+crystal-ball,ornament,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_G8KIrXpIfc3UvCBMFJmDuyiF,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.022478,,1

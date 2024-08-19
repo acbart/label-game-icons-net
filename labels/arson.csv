@@ -1,25 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+arson,arson,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
+arson,burning,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
+arson,combustion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
+arson,crime,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
+arson,criminal act,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
 arson,crisis,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
-arson,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
-arson,destruction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
+arson,danger,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,2
+arson,destruction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,2
 arson,disaster,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
-arson,emergency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
-arson,fire,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
+arson,emergency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,2
+arson,fire,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,2
+arson,flame,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
 arson,flames,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
-arson,house,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
-arson,accident,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
+arson,flammable,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
+arson,house,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,2
+arson,accident,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,2
 arson,alarm,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
-arson,building,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
+arson,blaze,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
+arson,building,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,2
 arson,burn,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
+arson,crime scene,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
+arson,emergency services,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
 arson,evacuation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
+arson,fire alarm,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
 arson,fire hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
-arson,fire safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
-arson,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
+arson,fire safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,2
+arson,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,2
+arson,heat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
+arson,ignition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
+arson,incident,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
 arson,loss,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
 arson,peril,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
-arson,property damage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
+arson,property damage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,2
+arson,rescue,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
 arson,residence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
-arson,smoke,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
+arson,smoke,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,2
+arson,spark,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cBQpjomOUf4iqEsoBHCMQg6n,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.850300,,1
 arson,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
-arson,insurance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1
+arson,insurance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,2
 arson,urban,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DABJvHt2S7oA34rHxWvOynPV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.858381,,1

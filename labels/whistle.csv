@@ -1,24 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-whistle,coach,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
+whistle,attention,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XenwK8Ixnh7fVsPuiP59KaRr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.753243,,1
+whistle,coach,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
 whistle,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,referee,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,signal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,sports,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,whistle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,authority,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,discipline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
+whistle,referee,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,signal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,sports,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,whistle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,authority,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,calling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XenwK8Ixnh7fVsPuiP59KaRr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.753243,,1
+whistle,command,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XenwK8Ixnh7fVsPuiP59KaRr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.753243,,1
+whistle,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,control,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,device,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XenwK8Ixnh7fVsPuiP59KaRr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.753243,,1
+whistle,discipline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,emergency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XenwK8Ixnh7fVsPuiP59KaRr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.753243,,1
+whistle,game management,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XenwK8Ixnh7fVsPuiP59KaRr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.753243,,1
+whistle,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
 whistle,instruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,regulation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
-whistle,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
+whistle,instrument,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XenwK8Ixnh7fVsPuiP59KaRr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.753243,,1
+whistle,regulation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,sports equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XenwK8Ixnh7fVsPuiP59KaRr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.753243,,1
+whistle,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,2
+whistle,black and white design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XenwK8Ixnh7fVsPuiP59KaRr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.753243,,1
 whistle,crescent,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
+whistle,exercise,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XenwK8Ixnh7fVsPuiP59KaRr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.753243,,1
 whistle,hollow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
 whistle,object,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1
+whistle,outline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XenwK8Ixnh7fVsPuiP59KaRr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.753243,,1
+whistle,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XenwK8Ixnh7fVsPuiP59KaRr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.753243,,1
+whistle,shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XenwK8Ixnh7fVsPuiP59KaRr,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.753243,,1
 whistle,sharp edges,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_EVedO2Gl9SDkryphT0IkDXSF,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.614185,,1

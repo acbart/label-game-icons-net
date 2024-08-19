@@ -1,27 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-camel,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
-camel,camel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
-camel,desert,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
+camel,adaptation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
+camel,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,2
+camel,camel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,2
+camel,desert,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,2
 camel,hump,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
+camel,humps,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
+camel,Africa,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
+camel,Asia,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
+camel,Middle East,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
+camel,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
 camel,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
-camel,bactrian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
+camel,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
+camel,bactrian,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,2
 camel,beast of burden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
 camel,caravan,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
-camel,dromedary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
-camel,endurance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
-camel,expedition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
+camel,dromedary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,2
+camel,ecosystem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
+camel,endurance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,2
+camel,expedition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,2
+camel,freedom,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
 camel,hoofed mammal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
-camel,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
-camel,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
-camel,nomad,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
+camel,humpback,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
+camel,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
+camel,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
+camel,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,2
+camel,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
+camel,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,2
+camel,nomad,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,2
 camel,resourcefulness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
 camel,ride,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
-camel,safari,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
+camel,safari,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,2
 camel,sand dunes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
-camel,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
+camel,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,2
+camel,sustainability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
 camel,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
+camel,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
 camel,transport,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
-camel,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
+camel,transportation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
+camel,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,2
+camel,wilderness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_gELGoW6p0Bu0y72iBbwOJraP,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.224836,,1
 camel,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
 camel,endurance icon,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1
 camel,guide,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_rkR9Rdr7J6JSP12Ar6pUnDPY,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.087923,,1

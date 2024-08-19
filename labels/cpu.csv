@@ -1,30 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 cpu,chip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,circuit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
+cpu,circuit,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
 cpu,computer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,digital,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
+cpu,computing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1
+cpu,cpu,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1
+cpu,data processing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1
+cpu,digital,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
 cpu,electronic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,hardware,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,microchip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,processor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
+cpu,hardware,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
+cpu,information,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1
+cpu,microchip,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
+cpu,processor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
+cpu,technology,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
+cpu,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1
 cpu,central processing unit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
+cpu,chipset,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1
 cpu,components,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
+cpu,core,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1
 cpu,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,grid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,integrated circuit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
+cpu,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
+cpu,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
+cpu,grid,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
+cpu,integrated circuit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
 cpu,lines,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
+cpu,machine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1
 cpu,machinery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
+cpu,motherboard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1
+cpu,network,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
+cpu,performance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1
 cpu,rectangle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,semiconductor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
+cpu,schematic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1
+cpu,semiconductor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
+cpu,silicon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1
+cpu,system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
+cpu,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
+cpu,block diagram,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1
 cpu,control,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
 cpu,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
 cpu,framework,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
 cpu,future,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
+cpu,industrial,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1
 cpu,innovation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
-cpu,logic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,1
+cpu,logic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jUTdDiRDWbh0hD0460KYBLEO,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.401717,,2
+cpu,modular,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_taYwKBdiNGOLZQHIaYGetBlv,0,gpt-4o-2024-08-06,2024-08-18T22:29:02.606367,,1

@@ -1,25 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+frog-foot,foot,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
+frog-foot,footprint,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
+frog-foot,frog,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
 frog-foot,ink blot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
 frog-foot,paint splatter,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
 frog-foot,splash,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
-frog-foot,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
+frog-foot,webbed,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
+frog-foot,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,2
+frog-foot,amphibian,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
+frog-foot,animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
 frog-foot,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
+frog-foot,biology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
 frog-foot,biomorphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
 frog-foot,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
 frog-foot,drop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
+frog-foot,fingerlike,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
 frog-foot,fluidity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
 frog-foot,freeform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
 frog-foot,frog toe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
+frog-foot,imprint,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
 frog-foot,modern art,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
 frog-foot,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
-frog-foot,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
+frog-foot,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,2
 frog-foot,organic shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
+frog-foot,paw,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
+frog-foot,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
+frog-foot,simple,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
 frog-foot,spot,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
 frog-foot,spread,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
-frog-foot,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
+frog-foot,track,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
+frog-foot,wild,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
+frog-foot,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
+frog-foot,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,2
 frog-foot,chaos,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
+frog-foot,ecology,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
 frog-foot,expression,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
 frog-foot,freedom,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
 frog-foot,non-conformity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
+frog-foot,organic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
+frog-foot,outdoors,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
+frog-foot,primitive,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
 frog-foot,randomness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1
+frog-foot,representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
+frog-foot,splay,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
+frog-foot,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AnoQYLsqmuZHPBO97Bvo3JgH,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.704677,,1
 frog-foot,unpredictability,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Wk7gTJXnIQTV8lrCj0bVY9Wv,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.994412,,1

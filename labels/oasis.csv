@@ -1,27 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 oasis,beach,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
-oasis,island,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
-oasis,palm trees,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
-oasis,relaxation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
-oasis,tropical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
+oasis,desert,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
+oasis,island,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,2
+oasis,palm trees,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,2
+oasis,relaxation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,2
+oasis,tropical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,2
 oasis,vacation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
+oasis,water body,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
+oasis,calm,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
+oasis,circle shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
 oasis,coastline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
-oasis,escape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
+oasis,escape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,2
 oasis,exotic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
 oasis,getaway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
-oasis,holiday,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
+oasis,haven,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
+oasis,holiday,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,2
 oasis,landscape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
 oasis,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
-oasis,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
-oasis,oasis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
+oasis,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,2
+oasis,oasis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,2
 oasis,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
-oasis,paradise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
+oasis,paradise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,2
 oasis,resort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
+oasis,resource,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
+oasis,rest,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
+oasis,sanctuary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
+oasis,sand dunes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
 oasis,sandy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
 oasis,scenery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
 oasis,sea,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
 oasis,summer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
+oasis,survival,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
+oasis,symbolic retreat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
+oasis,tranquility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
 oasis,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
+oasis,vacation spot,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
+oasis,wilderness,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
 oasis,hammock,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
+oasis,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
 oasis,recreation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1
+oasis,reflection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
+oasis,solitude,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_6nofhpqFJOG3NmZcBM4eyeSI,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.557837,,1
 oasis,sunbathing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_KZkGZrP8Mvicrp3MQdaloAWV,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.006558,,1

@@ -1,26 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-logging,axe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
-logging,chopping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
-logging,cutting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
+logging,axe,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,2
+logging,chopping,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,2
+logging,cutting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,2
 logging,log,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
-logging,timber,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
-logging,tree stump,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
-logging,wood,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
-logging,woodcutting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
+logging,logging,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UrHJb8tYz3V7UBqKzVzaS2yz,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.857403,,1
+logging,timber,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,2
+logging,tree stump,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,2
+logging,wood,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,2
+logging,woodcutting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,2
 logging,clearance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
-logging,deforestation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
+logging,deforestation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,2
 logging,ecology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
-logging,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
-logging,forest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
+logging,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,2
+logging,forest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,2
 logging,forest management,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
+logging,forestry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UrHJb8tYz3V7UBqKzVzaS2yz,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.857403,,1
 logging,harvest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
-logging,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
+logging,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,2
+logging,lumber,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UrHJb8tYz3V7UBqKzVzaS2yz,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.857403,,1
 logging,lumberjack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
-logging,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
+logging,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,2
 logging,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
-logging,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
+logging,stump,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UrHJb8tYz3V7UBqKzVzaS2yz,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.857403,,1
+logging,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,2
 logging,woodwork,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
 logging,ecosystem,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
 logging,habitat,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
+logging,harvesting,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UrHJb8tYz3V7UBqKzVzaS2yz,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.857403,,1
+logging,landscape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UrHJb8tYz3V7UBqKzVzaS2yz,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.857403,,1
+logging,manual labor,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UrHJb8tYz3V7UBqKzVzaS2yz,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.857403,,1
+logging,natural resources,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UrHJb8tYz3V7UBqKzVzaS2yz,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.857403,,1
 logging,plant,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
+logging,resource extraction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UrHJb8tYz3V7UBqKzVzaS2yz,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.857403,,1
 logging,sustainability,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_BpUPzg7jE38bdD0I2tNLyLwF,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.354508,,1
+logging,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UrHJb8tYz3V7UBqKzVzaS2yz,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.857403,,1
+logging,work,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UrHJb8tYz3V7UBqKzVzaS2yz,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.857403,,1

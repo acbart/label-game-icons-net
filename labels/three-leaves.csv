@@ -1,22 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 three-leaves,burn,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
-three-leaves,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
+three-leaves,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,2
+three-leaves,environment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
 three-leaves,fire,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.514580,,1
 three-leaves,flame,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.514580,,1
+three-leaves,foliage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
 three-leaves,heat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
+three-leaves,leaves,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
+three-leaves,life,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
+three-leaves,nature,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
+three-leaves,plant,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
+three-leaves,three elements,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
+three-leaves,abstract design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
+three-leaves,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
+three-leaves,botanical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
+three-leaves,clover-like,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
 three-leaves,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
 three-leaves,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
 three-leaves,destruction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
 three-leaves,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
+three-leaves,ecology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
 three-leaves,element,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
-three-leaves,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
+three-leaves,floral,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
+three-leaves,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,2
+three-leaves,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
 three-leaves,light,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
+three-leaves,minimalistic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
+three-leaves,natural cycle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
+three-leaves,organic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
 three-leaves,passion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
 three-leaves,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
 three-leaves,rebirth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
+three-leaves,renewal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
 three-leaves,spiritual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
-three-leaves,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
+three-leaves,sustainability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
+three-leaves,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,2
+three-leaves,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
 three-leaves,transformation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
+three-leaves,unity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2mBvGD54134DnZS6ZFRFNRBu,0,gpt-4o-2024-08-06,2024-08-18T22:29:26.025057,,1
 three-leaves,warmth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
 three-leaves,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1
 three-leaves,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_sH9K3dvm6pYY2cE2leH1OofJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.515578,,1

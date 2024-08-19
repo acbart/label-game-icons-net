@@ -1,25 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-ski-boot,boot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
-ski-boot,footwear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
-ski-boot,hiking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
-ski-boot,strap,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
-ski-boot,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
+ski-boot,boot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,2
+ski-boot,equipment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1
+ski-boot,footwear,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,2
+ski-boot,hiking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,2
+ski-boot,skiing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1
+ski-boot,sport,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1
+ski-boot,strap,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,2
+ski-boot,winter sport,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1
+ski-boot,activity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1
+ski-boot,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,2
 ski-boot,ankle support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
+ski-boot,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1
 ski-boot,climbing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
+ski-boot,cold weather,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1
 ski-boot,comfort,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
 ski-boot,durability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
 ski-boot,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
-ski-boot,gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
+ski-boot,gear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,2
 ski-boot,lace,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
-ski-boot,mountain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
-ski-boot,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
-ski-boot,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
+ski-boot,locking mechanism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1
+ski-boot,mountain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,2
+ski-boot,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1
+ski-boot,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,2
+ski-boot,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,2
 ski-boot,robust,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
 ski-boot,rugged,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.838421,,1
-ski-boot,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
+ski-boot,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,2
 ski-boot,sole,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.838421,,1
+ski-boot,speed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1
+ski-boot,sturdy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1
+ski-boot,supportive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1
 ski-boot,terrain,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
 ski-boot,tread,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
 ski-boot,trekking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
 ski-boot,walk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
+ski-boot,fashion,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1
 ski-boot,leather,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_cDns5UYiDdS5uzfY3A0hKkwk,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.837433,,1
+ski-boot,tourism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1
+ski-boot,travel,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_7MXTq4VgzSsfgU6KxomuIlln,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.550802,,1

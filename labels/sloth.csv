@@ -1,23 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-sloth,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
+sloth,animal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,2
+sloth,calm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
 sloth,climbing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
-sloth,hanging,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
+sloth,hanging,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,2
 sloth,mammal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
-sloth,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
-sloth,sloth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
-sloth,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.352981,,1
+sloth,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,2
+sloth,relaxed,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
+sloth,resting,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
+sloth,sloth,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,2
+sloth,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.352981,,2
+sloth,abstract animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
+sloth,branch,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
 sloth,branches,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
+sloth,claws,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
+sloth,curve,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
+sloth,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
 sloth,forest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
+sloth,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
+sloth,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
 sloth,jungle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
 sloth,leaf,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
+sloth,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
+sloth,line art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
+sloth,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
 sloth,relaxation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
 sloth,round shapes,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.352981,,1
-sloth,slow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
-sloth,tree,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
-sloth,tropical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
-sloth,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
+sloth,serene,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
+sloth,slow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,2
+sloth,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_S634BEYQBFxablQMOYHiTQRq,0,gpt-4o-2024-08-06,2024-08-18T22:28:58.403010,,1
+sloth,tree,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,2
+sloth,tropical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,2
+sloth,wildlife,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,2
 sloth,calmness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.352981,,1
 sloth,equilibrium,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.352981,,1
-sloth,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.352981,,1
+sloth,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.352981,,2
 sloth,peaceful,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.351999,,1
 sloth,symmetry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_ByUK9vpMSkbZrGh95vzrwOUF,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.352981,,1

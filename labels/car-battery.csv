@@ -1,27 +1,42 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-car-battery,battery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
-car-battery,electricity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
-car-battery,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
-car-battery,negative terminal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
+car-battery,automobile component,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
+car-battery,battery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,2
+car-battery,battery icon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
+car-battery,battery terminals,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
+car-battery,car battery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
+car-battery,electricity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,2
+car-battery,energy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,2
+car-battery,energy storage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
+car-battery,negative terminal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,2
 car-battery,plus sign,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
-car-battery,positive terminal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
+car-battery,positive terminal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,2
 car-battery,power source,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
+car-battery,power supply,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
+car-battery,vehicle power,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
+car-battery,abstract design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
 car-battery,charge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
+car-battery,charging,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
 car-battery,circuit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
-car-battery,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
-car-battery,current,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
+car-battery,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,2
+car-battery,current,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,2
 car-battery,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
 car-battery,electronics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
+car-battery,engine start,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
 car-battery,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
 car-battery,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
 car-battery,plug,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
+car-battery,rectangular shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
 car-battery,storage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
-car-battery,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
+car-battery,symbolic representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
+car-battery,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,2
 car-battery,voltage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
 car-battery,box shape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
+car-battery,capacity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
+car-battery,hardware,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
+car-battery,maintenance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_glmqjqL1EaoNdQVF9YPcChL0,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.366347,,1
 car-battery,power bank,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
 car-battery,rectangle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
 car-battery,stability,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.114915,,1
-car-battery,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
+car-battery,symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,2
 car-battery,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.113896,,1
 car-battery,utility,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pGHAlcj6VLQDdCdtetyKaPj4,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.114915,,1

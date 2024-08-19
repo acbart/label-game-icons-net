@@ -1,25 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+saint-basil-cathedral,Russian architecture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
+saint-basil-cathedral,architecture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
 saint-basil-cathedral,castle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
+saint-basil-cathedral,cathedral,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
 saint-basil-cathedral,checkmate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
 saint-basil-cathedral,chess,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
+saint-basil-cathedral,cultural heritage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
+saint-basil-cathedral,domes,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
 saint-basil-cathedral,game,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
+saint-basil-cathedral,historic landmark,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
+saint-basil-cathedral,iconic building,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
+saint-basil-cathedral,onion dome,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
+saint-basil-cathedral,religious structure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
 saint-basil-cathedral,rook,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
 saint-basil-cathedral,strategy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
 saint-basil-cathedral,tower,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
+saint-basil-cathedral,towers,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
+saint-basil-cathedral,abstract representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
 saint-basil-cathedral,bishop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
 saint-basil-cathedral,board,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
 saint-basil-cathedral,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
+saint-basil-cathedral,cityscape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
 saint-basil-cathedral,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,2
 saint-basil-cathedral,defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
+saint-basil-cathedral,famous monument,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
 saint-basil-cathedral,fortress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
+saint-basil-cathedral,geometric shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
 saint-basil-cathedral,intellectual,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
 saint-basil-cathedral,knight,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
 saint-basil-cathedral,logic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
 saint-basil-cathedral,mindgame,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
+saint-basil-cathedral,national symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
 saint-basil-cathedral,opponent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
+saint-basil-cathedral,orthodox church,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
 saint-basil-cathedral,pawn,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
+saint-basil-cathedral,place of worship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
 saint-basil-cathedral,planning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
+saint-basil-cathedral,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
+saint-basil-cathedral,spires,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
 saint-basil-cathedral,tactics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
 saint-basil-cathedral,thinking,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
+saint-basil-cathedral,tourist attraction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
 saint-basil-cathedral,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1
+saint-basil-cathedral,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
+saint-basil-cathedral,exaggerated features,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
+saint-basil-cathedral,fantasy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
+saint-basil-cathedral,line work,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
+saint-basil-cathedral,simplified form,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
+saint-basil-cathedral,symmetrical design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_CTLXDu56EIXYl8xVtW6EgL9e,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.762489,,1
 saint-basil-cathedral,victory,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_QB0WZWzos7e6VCyd1mrtzwGN,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.619416,,1

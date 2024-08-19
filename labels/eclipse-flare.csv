@@ -1,26 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+eclipse-flare,astronomical phenomenon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
+eclipse-flare,astronomy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
 eclipse-flare,cardinal points,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
+eclipse-flare,celestial,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
 eclipse-flare,compass,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
 eclipse-flare,direction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
+eclipse-flare,eclipse,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
+eclipse-flare,flare,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
+eclipse-flare,moon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
 eclipse-flare,navigation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
 eclipse-flare,navigation tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
 eclipse-flare,orientation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
+eclipse-flare,solar event,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
+eclipse-flare,sun,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
 eclipse-flare,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
-eclipse-flare,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
+eclipse-flare,alignment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
+eclipse-flare,circle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,2
+eclipse-flare,cosmic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
 eclipse-flare,expedition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
 eclipse-flare,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
 eclipse-flare,guidance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
 eclipse-flare,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
+eclipse-flare,light rays,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
 eclipse-flare,mapping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
 eclipse-flare,north,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
+eclipse-flare,occultation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
+eclipse-flare,orb,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
 eclipse-flare,outdoors,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
+eclipse-flare,outer space,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
 eclipse-flare,pathfinder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
 eclipse-flare,pointer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
+eclipse-flare,radiance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
+eclipse-flare,shining,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
+eclipse-flare,spiky shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
 eclipse-flare,star shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
+eclipse-flare,starburst,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
 eclipse-flare,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
+eclipse-flare,symbolic astronomy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
 eclipse-flare,travel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
+eclipse-flare,universe,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
 eclipse-flare,wayfinding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
+eclipse-flare,astrological symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
 eclipse-flare,discovery,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
 eclipse-flare,explorers,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
 eclipse-flare,landscaping,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
+eclipse-flare,nature,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1
 eclipse-flare,surveying,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_mewESe7eGBLzMZc2w9RdsZsO,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.567768,,1
+eclipse-flare,visibility,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_UtJFwsNVYNqqi5DU9uWHcolf,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.905803,,1

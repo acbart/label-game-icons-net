@@ -1,25 +1,38 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 park-bench,bench,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.108999,,1
-park-bench,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.108999,,1
+park-bench,furniture,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OSrBCLqO2KJ2ursy0UpBvGB1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.038454,,1
+park-bench,nature,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.108999,,2
 park-bench,outdoor,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.108999,,1
+park-bench,outdoor seating,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OSrBCLqO2KJ2ursy0UpBvGB1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.038454,,1
 park-bench,park,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.108999,,1
-park-bench,public space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
-park-bench,relaxation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.108999,,1
+park-bench,park bench,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OSrBCLqO2KJ2ursy0UpBvGB1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.038454,,1
+park-bench,public space,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,2
+park-bench,relaxation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.108999,,2
 park-bench,resting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.108999,,1
 park-bench,seating,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.108999,,1
-park-bench,shade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.108999,,1
-park-bench,tree,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.108999,,1
-park-bench,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
+park-bench,shade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.108999,,2
+park-bench,tree,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.108999,,2
+park-bench,community,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OSrBCLqO2KJ2ursy0UpBvGB1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.038454,,1
+park-bench,environment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,2
+park-bench,garden,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OSrBCLqO2KJ2ursy0UpBvGB1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.038454,,1
 park-bench,gardens,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
 park-bench,green space,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
 park-bench,landscape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
-park-bench,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
-park-bench,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
+park-bench,leisure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,2
+park-bench,meeting point,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OSrBCLqO2KJ2ursy0UpBvGB1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.038454,,1
+park-bench,recreation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,2
+park-bench,rest,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OSrBCLqO2KJ2ursy0UpBvGB1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.038454,,1
 park-bench,sitting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
+park-bench,social interaction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OSrBCLqO2KJ2ursy0UpBvGB1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.038454,,1
+park-bench,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OSrBCLqO2KJ2ursy0UpBvGB1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.038454,,1
 park-bench,tranquility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
-park-bench,urban,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
+park-bench,urban,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,2
 park-bench,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
+park-bench,abstract design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OSrBCLqO2KJ2ursy0UpBvGB1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.038454,,1
 park-bench,architecture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
 park-bench,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
+park-bench,graphic art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OSrBCLqO2KJ2ursy0UpBvGB1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.038454,,1
+park-bench,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OSrBCLqO2KJ2ursy0UpBvGB1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.038454,,1
 park-bench,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
 park-bench,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_c5v9t5H6guypS5GaocfbIh2r,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.110000,,1
+park-bench,symbolism of peace,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_OSrBCLqO2KJ2ursy0UpBvGB1,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.038454,,1

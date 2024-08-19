@@ -1,28 +1,51 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 mining,ascend,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
 mining,climbing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
+mining,digging,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
+mining,excavation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
+mining,extract,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
 mining,hiker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
-mining,mountain,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
+mining,miner,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
+mining,mining,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
+mining,mountain,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,2
 mining,mountaineer,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
+mining,pickaxe,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
+mining,rock,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
+mining,tool,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
+mining,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
 mining,achievement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
 mining,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
 mining,athlete,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
 mining,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
+mining,construction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436923,,1
 mining,danger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
 mining,determination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
+mining,drilling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
 mining,endurance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
+mining,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
 mining,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
 mining,extreme sports,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
+mining,geology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
 mining,goal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
+mining,hard work,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
+mining,industry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
 mining,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
+mining,labor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
+mining,natural resources,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436923,,1
 mining,obstacle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
 mining,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
 mining,peak,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
 mining,physical activity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
+mining,resources,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
 mining,risk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
+mining,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436923,,1
 mining,sports,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
 mining,steep,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
 mining,summit,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
+mining,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436923,,1
+mining,work,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436035,,1
 mining,landscape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
+mining,metaphor,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436923,,1
 mining,nature,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
 mining,path,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_htzL0LjZviDhyOE7HA2sbehA,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.437233,,1
+mining,pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AVTSbohTnsP77goD2Z99Yg2K,0,gpt-4o-2024-08-06,2024-08-18T22:29:22.436923,,1

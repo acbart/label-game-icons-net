@@ -1,26 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-salmon,aquatic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,aquatic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,2
 salmon,arrow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
-salmon,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,fish,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,2
+salmon,icon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
 salmon,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,salmon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
+salmon,simplified,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
 salmon,speed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
-salmon,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,2
+salmon,animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
+salmon,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
 salmon,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
 salmon,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,fins,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
 salmon,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
+salmon,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
 salmon,marine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
-salmon,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,marine life,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
+salmon,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,2
 salmon,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
-salmon,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,ocean,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,2
+salmon,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
 salmon,pointing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,representation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
+salmon,river,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
+salmon,sea creature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
 salmon,sea life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
 salmon,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,swim,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
 salmon,swimming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
-salmon,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,2
 salmon,tail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
 salmon,Pisces,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,catch,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
+salmon,ecosystem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
 salmon,guidance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,habitat,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_0cRH94w9pF8WIEDXfwBbq96v,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.504769,,1
 salmon,sleek,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
-salmon,streamlined,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
-salmon,wildlife,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1
+salmon,streamlined,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,2
+salmon,wildlife,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,2
 salmon,zodiac,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dTkwZGsDMSQKzl8GdN6ngzIN,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.539637,,1

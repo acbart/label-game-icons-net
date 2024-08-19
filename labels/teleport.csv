@@ -1,31 +1,57 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 teleport,center,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
 teleport,concentric,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,concentric circles,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
+teleport,figure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
 teleport,focus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,human silhouette,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
 teleport,individual,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
 teleport,influence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
 teleport,location,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
 teleport,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,portal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
 teleport,position,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
 teleport,presence,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
-teleport,rings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,rings,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,2
+teleport,teleport,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
+teleport,transition,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
+teleport,transport,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.896017,,1
 teleport,area,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,beam,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
+teleport,central,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.896017,,1
+teleport,circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
 teleport,depth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,dimension,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
+teleport,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.896017,,1
 teleport,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
 teleport,layers,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
 teleport,levels,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
 teleport,mapping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
 teleport,medium,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,mobility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
+teleport,movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
 teleport,perspective,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,positional change,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
 teleport,proximity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
 teleport,radius,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
 teleport,range,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
 teleport,reach,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,sequential,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.896017,,1
 teleport,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,spatial shift,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
 teleport,standing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
 teleport,surround,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,swirl,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
 teleport,target,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
 teleport,territory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,time warp,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
+teleport,transformation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
+teleport,travel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
 teleport,zone,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
 teleport,airy,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,align,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.896017,,1
+teleport,flux,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.896017,,1
 teleport,navigation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n4QxcExD2OEpZU3pv11MXcOl,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.440814,,1
+teleport,oscillation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1
+teleport,vibration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_X0C5h8YEAMse9DhV4WUZjwuc,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.895137,,1

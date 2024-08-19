@@ -1,27 +1,55 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+red-carpet,VIP,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
+red-carpet,arrival,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
 red-carpet,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,entrance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.260871,,1
+red-carpet,gala,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.260871,,1
 red-carpet,leader,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,limelight,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.260871,,1
 red-carpet,podium,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,premiere,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.260871,,1
 red-carpet,presentation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
 red-carpet,public speaking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,red carpet,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.260871,,1
 red-carpet,speech,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,walkway,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
 red-carpet,announcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
 red-carpet,audience,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
 red-carpet,authority,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,award,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.260871,,1
+red-carpet,celebration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.260871,,1
+red-carpet,ceremony,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.260871,,1
 red-carpet,conference,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,cordon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
 red-carpet,debate,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
 red-carpet,discussion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.260871,,1
 red-carpet,engagement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
-red-carpet,event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,event,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,2
+red-carpet,exclusive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.260871,,1
+red-carpet,exclusivity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
+red-carpet,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
+red-carpet,festivity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.260871,,1
+red-carpet,formal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
 red-carpet,forum,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,glamour,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
 red-carpet,influence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,invitation-only,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
 red-carpet,lectern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
 red-carpet,meeting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
 red-carpet,orator,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,paparazzi,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.260871,,1
+red-carpet,pathway,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
 red-carpet,presentation skills,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,prestige,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
+red-carpet,reception,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
 red-carpet,rhetoric,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,showcase,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
 red-carpet,spokesperson,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,spotlight,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
+red-carpet,velvet rope,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
 red-carpet,platform,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
+red-carpet,security,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_cVlIi0j2INxVHoXNMsBCCWC2,0,gpt-4o-2024-08-06,2024-08-18T22:29:10.261892,,1
 red-carpet,seminar,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
 red-carpet,stage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1
 red-carpet,stand,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XaIcDqSUYQECXzf1nTCkRQ8x,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.484810,,1

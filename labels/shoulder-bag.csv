@@ -1,24 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+shoulder-bag,accessory,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
+shoulder-bag,bag,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
+shoulder-bag,fashion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
+shoulder-bag,handbag,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
 shoulder-bag,oval,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
+shoulder-bag,purse,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
+shoulder-bag,shoulder-bag,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
 shoulder-bag,simplicity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
-shoulder-bag,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
+shoulder-bag,structure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,2
 shoulder-bag,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
 shoulder-bag,symmetry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
 shoulder-bag,vertical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
-shoulder-bag,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
+shoulder-bag,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,2
 shoulder-bag,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,2
 shoulder-bag,base,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
 shoulder-bag,bucket,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
+shoulder-bag,carry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
 shoulder-bag,container,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
 shoulder-bag,curve,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
-shoulder-bag,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
-shoulder-bag,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
+shoulder-bag,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,2
+shoulder-bag,everyday use,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
+shoulder-bag,fashion statement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
+shoulder-bag,graphic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,2
+shoulder-bag,icon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
 shoulder-bag,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
 shoulder-bag,minimalism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
+shoulder-bag,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
+shoulder-bag,outline,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
+shoulder-bag,personal items,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
+shoulder-bag,portable,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
 shoulder-bag,proportion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
+shoulder-bag,simplified,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
 shoulder-bag,stability,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
+shoulder-bag,storage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.460362,,1
 shoulder-bag,streamline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
 shoulder-bag,upright,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
+shoulder-bag,curved lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.461222,,1
 shoulder-bag,fluidity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
-shoulder-bag,modern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
+shoulder-bag,modern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,2
 shoulder-bag,movement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_Nco8YYaxgvTqgddPMdNUDZdT,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.806415,,1
+shoulder-bag,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.461222,,1
+shoulder-bag,sleek,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.461222,,1
+shoulder-bag,utility,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JGnB0XPRzqiCiIwBiXc2HIkk,0,gpt-4o-2024-08-06,2024-08-18T22:29:11.461222,,1

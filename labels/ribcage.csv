@@ -1,26 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-ribcage,anatomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,bones,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,ribcage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,skeleton,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
+ribcage,anatomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,bones,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,rib,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2vrlKY3rNOgn16jaGuD9gJcC,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.457219,,1
+ribcage,ribcage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,skeleton,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,biological,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2vrlKY3rNOgn16jaGuD9gJcC,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.457219,,1
 ribcage,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,chest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,diagram,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,framework,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,human body,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,medical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,organ protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
+ribcage,cage structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2vrlKY3rNOgn16jaGuD9gJcC,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.457219,,1
+ribcage,chest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,diagram,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,framework,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,human body,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,medical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,organ protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2vrlKY3rNOgn16jaGuD9gJcC,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.457219,,1
 ribcage,protective structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,skeletal system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
+ribcage,respiration,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2vrlKY3rNOgn16jaGuD9gJcC,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.457219,,1
+ribcage,skeletal system,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
 ribcage,spinal column,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
+ribcage,spine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2vrlKY3rNOgn16jaGuD9gJcC,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.457219,,1
 ribcage,sternum,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
+ribcage,structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
 ribcage,thoracic cage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,thorax,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,vertebrae,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
+ribcage,thorax,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,vertebrae,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,vital organs,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2vrlKY3rNOgn16jaGuD9gJcC,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.457219,,1
+ribcage,x-ray,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2vrlKY3rNOgn16jaGuD9gJcC,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.457219,,1
+ribcage,abstract anatomy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2vrlKY3rNOgn16jaGuD9gJcC,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.457219,,1
 ribcage,archetype,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
 ribcage,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
 ribcage,emblem,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
-ribcage,internal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,1
+ribcage,internal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_PEZgCPxhVEj1gQ8JyQRImSD6,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.786514,,2
+ribcage,line art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2vrlKY3rNOgn16jaGuD9gJcC,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.457219,,1
+ribcage,minimalist,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2vrlKY3rNOgn16jaGuD9gJcC,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.457219,,1
+ribcage,mortal,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2vrlKY3rNOgn16jaGuD9gJcC,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.457219,,1
+ribcage,symmetry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2vrlKY3rNOgn16jaGuD9gJcC,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.457219,,1

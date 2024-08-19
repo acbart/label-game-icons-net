@@ -1,19 +1,32 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-director-chair,chair,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
-director-chair,cinema,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
-director-chair,director,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
-director-chair,filmmaking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
-director-chair,movie set,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
+director-chair,chair,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,2
+director-chair,cinema,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,2
+director-chair,director,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,2
+director-chair,filmmaking,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,2
+director-chair,folding chair,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1
+director-chair,movie set,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,2
+director-chair,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1
+director-chair,art direction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1
 director-chair,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
+director-chair,authority,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1
 director-chair,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
-director-chair,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
-director-chair,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
-director-chair,film industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
+director-chair,coordination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1
+director-chair,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,2
+director-chair,decision-making,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1
+director-chair,entertainment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,2
+director-chair,entertainment industry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1
+director-chair,film industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,2
 director-chair,folding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
-director-chair,production,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
-director-chair,seat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
+director-chair,hollywood,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1
+director-chair,leadership,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1
+director-chair,performance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1
+director-chair,position,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1
+director-chair,production,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,2
+director-chair,role,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1
+director-chair,seat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,2
 director-chair,shooting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
-director-chair,studio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
+director-chair,studio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,2
+director-chair,comfort,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1
 director-chair,communication,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
 director-chair,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
 director-chair,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
@@ -22,4 +35,6 @@ director-chair,portable,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_
 director-chair,props,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
 director-chair,setup,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
 director-chair,stage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
-director-chair,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,1
+director-chair,support,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1
+director-chair,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_4cCqL7U5RMADkZKUep0eKMSB,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.556575,,2
+director-chair,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_qp1uQlMSdraFdk0wlDf2h44V,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.092670,,1

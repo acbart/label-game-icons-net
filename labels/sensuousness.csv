@@ -1,26 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+sensuousness,abstract art,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.898855,,1
+sensuousness,abstract person,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.897873,,1
+sensuousness,artistic form,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.897873,,1
 sensuousness,figure,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
+sensuousness,fluid movement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.897873,,1
 sensuousness,freedom,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
-sensuousness,gesture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
+sensuousness,gesture,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,2
+sensuousness,graceful pose,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.897873,,1
 sensuousness,human,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
+sensuousness,human figure,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.897873,,1
 sensuousness,individual,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
-sensuousness,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
+sensuousness,minimalist,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.898855,,1
+sensuousness,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,2
 sensuousness,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
 sensuousness,person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
+sensuousness,personal expression,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.898855,,1
 sensuousness,pose,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
+sensuousness,sensuality,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.898855,,1
 sensuousness,vitality,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
 sensuousness,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
+sensuousness,aesthetic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.898855,,1
 sensuousness,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
-sensuousness,dance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
-sensuousness,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
+sensuousness,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.897873,,1
+sensuousness,body language,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.898855,,1
+sensuousness,curved limbs,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.897873,,1
+sensuousness,dance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,2
+sensuousness,dynamic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,2
+sensuousness,elegance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.897873,,1
 sensuousness,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
 sensuousness,entity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
-sensuousness,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
+sensuousness,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,2
 sensuousness,flexibility,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
+sensuousness,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.898855,,1
 sensuousness,illustration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
 sensuousness,life,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
+sensuousness,poise,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.898855,,1
 sensuousness,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
+sensuousness,sensibility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.898855,,1
 sensuousness,shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
 sensuousness,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
+sensuousness,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.898855,,1
 sensuousness,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1
+sensuousness,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_V5PwGV8eEhc4i31D9lE0vvCX,0,gpt-4o-2024-08-06,2024-08-18T22:29:23.898855,,1
 sensuousness,unity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_pYv7vglFI2LQL5dTMZA8CGvC,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.922234,,1

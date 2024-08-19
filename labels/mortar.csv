@@ -1,20 +1,35 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+mortar,artillery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
 mortar,astronomy,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
+mortar,military,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
+mortar,mortar,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
 mortar,stargazing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
 mortar,telescope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
+mortar,weapon,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
+mortar,aiming,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
+mortar,armament,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
 mortar,astronomer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
+mortar,attack,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
+mortar,battle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
+mortar,cannon,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
+mortar,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
 mortar,cosmos,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
+mortar,defense,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
 mortar,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
 mortar,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
 mortar,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
+mortar,explosive,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
+mortar,firepower,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
 mortar,focus,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
 mortar,instrument,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
+mortar,launching device,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
 mortar,lenses,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
 mortar,magnification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
 mortar,observation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
 mortar,observatory,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
 mortar,optics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
 mortar,planetary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
+mortar,projectile,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
 mortar,research,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
 mortar,science,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
 mortar,sky,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
@@ -22,6 +37,16 @@ mortar,space,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6k
 mortar,stars,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
 mortar,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
 mortar,universe,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
+mortar,warfare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
+mortar,abstract shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
+mortar,angled lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
+mortar,construction,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
+mortar,geometric,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
+mortar,installation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
 mortar,investigation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
+mortar,positioning,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
+mortar,structure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
 mortar,study,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1
+mortar,support,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
+mortar,trajectory,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_s1G2yOJF5XCsaVPUFn2OmX7z,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.149949,,1
 mortar,vision,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wW6ktXTCktqlmat8K1UNWukg,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.902524,,1

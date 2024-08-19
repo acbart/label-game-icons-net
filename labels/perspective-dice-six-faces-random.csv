@@ -1,24 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+perspective-dice-six-faces-random,cube,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
+perspective-dice-six-faces-random,dice,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
 perspective-dice-six-faces-random,enigmatic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
-perspective-dice-six-faces-random,mystery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
-perspective-dice-six-faces-random,puzzle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
+perspective-dice-six-faces-random,mystery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,2
+perspective-dice-six-faces-random,perspective,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
+perspective-dice-six-faces-random,puzzle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,2
 perspective-dice-six-faces-random,question,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
-perspective-dice-six-faces-random,unknown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
+perspective-dice-six-faces-random,question mark,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
+perspective-dice-six-faces-random,randomness,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
+perspective-dice-six-faces-random,six faces,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
+perspective-dice-six-faces-random,unknown,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,2
+perspective-dice-six-faces-random,3D shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
+perspective-dice-six-faces-random,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
 perspective-dice-six-faces-random,box,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
 perspective-dice-six-faces-random,challenge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
+perspective-dice-six-faces-random,chance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
+perspective-dice-six-faces-random,choice,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
 perspective-dice-six-faces-random,curiosity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
 perspective-dice-six-faces-random,decision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
+perspective-dice-six-faces-random,decision making,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
 perspective-dice-six-faces-random,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
-perspective-dice-six-faces-random,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
+perspective-dice-six-faces-random,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,2
+perspective-dice-six-faces-random,gambling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
+perspective-dice-six-faces-random,game,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
+perspective-dice-six-faces-random,geometric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
 perspective-dice-six-faces-random,hidden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
 perspective-dice-six-faces-random,information,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
 perspective-dice-six-faces-random,inquiry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
 perspective-dice-six-faces-random,investigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
+perspective-dice-six-faces-random,isometric view,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
 perspective-dice-six-faces-random,knowledge,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
+perspective-dice-six-faces-random,luck,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
+perspective-dice-six-faces-random,probability,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
 perspective-dice-six-faces-random,problem-solving,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
 perspective-dice-six-faces-random,riddle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
 perspective-dice-six-faces-random,solution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
 perspective-dice-six-faces-random,surprise,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
+perspective-dice-six-faces-random,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
 perspective-dice-six-faces-random,three-dimensional,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
-perspective-dice-six-faces-random,uncertainty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
+perspective-dice-six-faces-random,uncertainty,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,2
 perspective-dice-six-faces-random,anticipation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l3uDLRdpuyIL5UUgsx6Nj7O0,0,gpt-4o-2024-08-06,2024-08-18T21:02:13.178733,,1
+perspective-dice-six-faces-random,option,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1
+perspective-dice-six-faces-random,speculative,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vSKSWNFnfpIXK9mphifdXRWb,0,gpt-4o-2024-08-06,2024-08-18T22:29:09.219706,,1

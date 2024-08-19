@@ -1,22 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-tacos,Mexican cuisine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
-tacos,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
-tacos,taco,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
+tacos,Mexican cuisine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,2
+tacos,food,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,2
+tacos,taco,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,2
 tacos,corn,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
 tacos,crescent shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
+tacos,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
 tacos,cultural,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
-tacos,fast food,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
+tacos,culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
+tacos,diet,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
+tacos,fast food,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,2
 tacos,filled,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
-tacos,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
-tacos,shell,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
+tacos,ingredients,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
+tacos,meal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,2
+tacos,semi-circle,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
+tacos,shell,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,2
 tacos,side view,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
-tacos,snack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
+tacos,snack,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,2
+tacos,street food,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
+tacos,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
+tacos,symmetrical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
+tacos,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
+tacos,variety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
 tacos,wrap,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
+tacos,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
 tacos,authentic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
+tacos,celebration,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
 tacos,cuisine,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
 tacos,dinner,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
+tacos,festive,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
+tacos,gastro,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
+tacos,geometric shapes,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
 tacos,global,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
 tacos,gourmet,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
+tacos,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
 tacos,meat,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
-tacos,spice,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1
+tacos,spice,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,2
+tacos,texture,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_dVRVxXIUiKXWKL3FvvnGkGzI,0,gpt-4o-2024-08-06,2024-08-18T22:29:12.799872,,1
 tacos,vegetables,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_hV6xCR0XdUVP7wVtbnqPl0qP,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.186675,,1

@@ -1,30 +1,58 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+factory-arm,assembly line,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,automated work,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,automation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,automation arm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
 factory-arm,exercise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
+factory-arm,factory,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
 factory-arm,fitness,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,gym,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
+factory-arm,industrial,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
 factory-arm,lifting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
+factory-arm,machinery,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,manufacturing,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,mechanical arm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,mechanism,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,production,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,robotic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
 factory-arm,strength,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,training,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,weightlifting,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,workout,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,active,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
+factory-arm,assembly,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
 factory-arm,athlete,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,barbell,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,bench,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,bodybuilding,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
+factory-arm,conveyor belt,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,efficiency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
 factory-arm,endurance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
+factory-arm,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
 factory-arm,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,goal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,health,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
+factory-arm,heavy industry,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,industrial revolution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,machination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,machinery operation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
 factory-arm,motion,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
-factory-arm,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
+factory-arm,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,2
 factory-arm,muscles,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,performance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,power,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
+factory-arm,process,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
 factory-arm,push,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,repetition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
+factory-arm,robotics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
 factory-arm,routine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,2
 factory-arm,sport,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
 factory-arm,squats,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
+factory-arm,system,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,technology advancement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
 factory-arm,discipline,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_asJ1BJrhCqsfHJKPnsvIzEui,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.768291,,1
+factory-arm,structure,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1
+factory-arm,symbolic representation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_AKknmFKtbJvpCh3XtBXvjXlX,0,gpt-4o-2024-08-06,2024-08-18T22:29:03.914032,,1

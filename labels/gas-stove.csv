@@ -1,24 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
+gas-stove,appliance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
 gas-stove,audio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
+gas-stove,burner,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
+gas-stove,cooking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
+gas-stove,cooking equipment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
+gas-stove,flame,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
+gas-stove,gas,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
+gas-stove,gas-stove,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
+gas-stove,kitchen appliance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
 gas-stove,loud,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
 gas-stove,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
 gas-stove,noise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
 gas-stove,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
 gas-stove,speaker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
+gas-stove,abstract design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
 gas-stove,acoustics,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
 gas-stove,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
 gas-stove,amplification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
 gas-stove,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
 gas-stove,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
+gas-stove,culinary,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
 gas-stove,device,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
+gas-stove,domestic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
+gas-stove,energy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
+gas-stove,flame pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
+gas-stove,heat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
+gas-stove,home,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
+gas-stove,household,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
+gas-stove,ignition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
+gas-stove,modern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
 gas-stove,notification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
 gas-stove,output,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
 gas-stove,playback,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
+gas-stove,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
 gas-stove,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
 gas-stove,soundwave,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
-gas-stove,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
+gas-stove,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
+gas-stove,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,2
+gas-stove,utility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
 gas-stove,volume,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
 gas-stove,decibel,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
 gas-stove,frequency,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
+gas-stove,iconography,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_jCy4gZB6gkr9yiHqx8xYOtbK,0,gpt-4o-2024-08-06,2024-08-18T22:29:04.943034,,1
 gas-stove,movement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1
 gas-stove,vibration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_dr3vcmEAV0LrmXmwFxccL6YS,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.046890,,1

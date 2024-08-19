@@ -1,24 +1,53 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 spotted-wound,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
+spotted-wound,biological hazard,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.080156,,1
+spotted-wound,contagion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.080156,,1
+spotted-wound,contamination,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.080156,,1
+spotted-wound,damage,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
+spotted-wound,diagnosis,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.080156,,1
+spotted-wound,discomfort,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
+spotted-wound,disease,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
 spotted-wound,floral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
+spotted-wound,healing process,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
+spotted-wound,health,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.080156,,1
+spotted-wound,infection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
+spotted-wound,injury,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
+spotted-wound,medical symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
 spotted-wound,organic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
+spotted-wound,pain,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
+spotted-wound,spots,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
+spotted-wound,spotted wound,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
 spotted-wound,symbolic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
+spotted-wound,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
+spotted-wound,abstract pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
 spotted-wound,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
+spotted-wound,biological,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
 spotted-wound,biology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
+spotted-wound,biopsy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.080156,,1
+spotted-wound,blemish,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
 spotted-wound,botanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
+spotted-wound,cellular structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
+spotted-wound,chaotic design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.080156,,1
 spotted-wound,connection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
+spotted-wound,corrosion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
 spotted-wound,creative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
 spotted-wound,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
-spotted-wound,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
+spotted-wound,growth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,2
 spotted-wound,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
+spotted-wound,irregular shapes,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
+spotted-wound,medical diagnosis,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.080156,,1
 spotted-wound,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
+spotted-wound,organic disorder,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.080156,,1
+spotted-wound,organic form,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.079128,,1
 spotted-wound,patterns,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
+spotted-wound,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.080156,,1
 spotted-wound,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
 spotted-wound,vine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
 spotted-wound,balance,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
 spotted-wound,circles,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
 spotted-wound,cluster,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
 spotted-wound,decorative,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
+spotted-wound,dynamic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_x7WSA3c9cFBq1sRAOtV44EdA,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.080156,,1
 spotted-wound,flow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
 spotted-wound,fusion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1
 spotted-wound,harmony,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_xw1snLt14X6nTQtRLdjuh8HM,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.205382,,1

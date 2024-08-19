@@ -1,26 +1,46 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 glass-ball,aerodynamics,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
-glass-ball,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
+glass-ball,circle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,2
 glass-ball,circular,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
+glass-ball,crystal ball,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
 glass-ball,curve,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
 glass-ball,dynamic,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
 glass-ball,flow,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
 glass-ball,forward,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
+glass-ball,glass-ball,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
 glass-ball,motion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
 glass-ball,movement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
+glass-ball,reflection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
 glass-ball,speed,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
-glass-ball,sphere,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
+glass-ball,sphere,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,2
 glass-ball,wind,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
-glass-ball,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
+glass-ball,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,2
+glass-ball,clarity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
 glass-ball,crescent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
-glass-ball,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
+glass-ball,curved lines,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
+glass-ball,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,2
+glass-ball,divination,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
 glass-ball,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
+glass-ball,focus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
+glass-ball,fortune telling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
+glass-ball,future,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
 glass-ball,innovation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
+glass-ball,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
+glass-ball,mystical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
 glass-ball,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
 glass-ball,progress,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
 glass-ball,rotation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
+glass-ball,rounded,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
+glass-ball,simplicity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
+glass-ball,smooth surface,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
 glass-ball,swirl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
 glass-ball,swoosh,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
 glass-ball,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
 glass-ball,technology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
+glass-ball,transparency,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
 glass-ball,turbine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_7fuS3zPEfUtecreM4hzyrVEU,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.069868,,1
+glass-ball,visual art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
+glass-ball,contemporary,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
+glass-ball,modern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
+glass-ball,predictive,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1
+glass-ball,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ronW0APHhxjc9V9Wuqv9YbWg,0,gpt-4o-2024-08-06,2024-08-18T22:29:05.054581,,1

@@ -1,26 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-barrier,barrier,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
-barrier,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
-barrier,obstacle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
-barrier,roadblock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
+barrier,access denial,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1
+barrier,barrier,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,2
+barrier,barrier arm,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1
+barrier,construction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,2
+barrier,obstacle,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,2
+barrier,post,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1
+barrier,roadblock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,2
 barrier,stop,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
 barrier,bar,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
+barrier,bars,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1
 barrier,blockade,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
-barrier,boundary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
+barrier,blockage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1
+barrier,boundary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,2
 barrier,caution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
 barrier,checkpoint,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
 barrier,closure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
-barrier,detour,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
+barrier,control,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1
+barrier,detour,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,2
+barrier,division,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1
 barrier,fence,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
 barrier,halt,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
 barrier,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
-barrier,limitation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
-barrier,prohibition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
-barrier,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
-barrier,restriction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
-barrier,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
-barrier,temporary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
-barrier,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
+barrier,hindrance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1
+barrier,impediment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1
+barrier,limitation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,2
+barrier,prohibition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,2
+barrier,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,2
+barrier,restriction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,2
+barrier,safety,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,2
+barrier,separation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1
+barrier,temporary,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,2
+barrier,traffic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1
+barrier,warning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,2
+barrier,delineation,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1
 barrier,divider,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
-barrier,interruption,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
+barrier,horizontal lines,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1
+barrier,interruption,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,2
+barrier,marking,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1
 barrier,security,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_lDY0doqnIQS8diAJyRwTPBCR,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.780505,,1
+barrier,zigzag pattern,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Uu1AkHdmgNc6fQif5hy4jm19,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.137876,,1

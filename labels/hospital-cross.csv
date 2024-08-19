@@ -1,24 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-hospital-cross,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
-hospital-cross,emergency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
-hospital-cross,first aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
+hospital-cross,aid,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
+hospital-cross,care,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
+hospital-cross,cross,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,2
+hospital-cross,emergency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,2
+hospital-cross,first aid,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,2
 hospital-cross,health,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
-hospital-cross,hospital,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
-hospital-cross,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
+hospital-cross,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
+hospital-cross,hospital,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,2
+hospital-cross,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,2
 hospital-cross,plus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
-hospital-cross,addition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
-hospital-cross,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
+hospital-cross,plus sign,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
+hospital-cross,Christianity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
+hospital-cross,addition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,2
+hospital-cross,balance,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,2
 hospital-cross,central,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
+hospital-cross,clinic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
 hospital-cross,cover,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
-hospital-cross,intersection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
+hospital-cross,geometric shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
+hospital-cross,help,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
+hospital-cross,intersection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,2
+hospital-cross,mathematics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
+hospital-cross,pharmacy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
 hospital-cross,protection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
+hospital-cross,rescue,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
+hospital-cross,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
 hospital-cross,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
-hospital-cross,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
+hospital-cross,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,2
 hospital-cross,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
 hospital-cross,alignment,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.053498,,2
 hospital-cross,convergence,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.053498,,1
 hospital-cross,equal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.053498,,1
 hospital-cross,geometry,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
 hospital-cross,grid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.053498,,1
+hospital-cross,mortality,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
 hospital-cross,negative space,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.052507,,1
+hospital-cross,order,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
+hospital-cross,relief,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
+hospital-cross,security,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JmkNBkvDfxhHffrZ9MO4Oede,0,gpt-4o-2024-08-06,2024-08-18T22:29:21.017807,,1
 hospital-cross,unity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_HdxlWuR7IFOeFHtHr7Ypc6TO,0,gpt-4o-2024-08-06,2024-08-18T21:02:16.053498,,1

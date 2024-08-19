@@ -1,25 +1,54 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 defibrilate,affection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
 defibrilate,arrows,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
+defibrilate,cardiac arrest,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,defibrillator,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,emergency,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,emergency response,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
 defibrilate,emotion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
-defibrilate,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
+defibrilate,health intervention,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,2
+defibrilate,heart attack,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,heart symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,life-saving,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
 defibrilate,love,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
+defibrilate,medical,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,medical equipment,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
 defibrilate,partnership,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
 defibrilate,relationship,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
 defibrilate,romance,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
+defibrilate,save a life,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,CPR,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
 defibrilate,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
+defibrilate,aid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,cardiology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,care,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
 defibrilate,choices,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
 defibrilate,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
 defibrilate,crossroads,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
 defibrilate,decision,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
 defibrilate,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
+defibrilate,electric shock,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
 defibrilate,exchange,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
+defibrilate,first aid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,health symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,heart health,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,heartbeat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
 defibrilate,interaction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
 defibrilate,intersection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
 defibrilate,intertwined,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
+defibrilate,life,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
 defibrilate,navigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
+defibrilate,pulse,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,recovery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,resuscitation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,safety,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
+defibrilate,survival,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
 defibrilate,symbolism,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
 defibrilate,vector,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
+defibrilate,vital signs,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_N3nlHO0nF392nZVmDjdXw3xc,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.284827,,1
 defibrilate,flow,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
 defibrilate,gesture,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1
 defibrilate,networking,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_appj1vZItbE4DFtotaaOjuvz,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.443429,,1

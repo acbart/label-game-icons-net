@@ -1,25 +1,45 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 logic-gate-not,audio,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
-logic-gate-not,output,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
+logic-gate-not,input,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
+logic-gate-not,inverter,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
+logic-gate-not,logic,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
+logic-gate-not,logic gate,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
+logic-gate-not,negation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
+logic-gate-not,not gate,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
+logic-gate-not,output,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,2
 logic-gate-not,play,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
 logic-gate-not,sound,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
 logic-gate-not,speaker,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
 logic-gate-not,acoustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
 logic-gate-not,amplification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
+logic-gate-not,boolean algebra,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
 logic-gate-not,broadcast,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
 logic-gate-not,cone,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
+logic-gate-not,digital electronics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
 logic-gate-not,direction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
+logic-gate-not,dot,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
+logic-gate-not,electronic circuit,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
+logic-gate-not,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
 logic-gate-not,forward,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
+logic-gate-not,function,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
 logic-gate-not,mono,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
 logic-gate-not,projection,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
 logic-gate-not,signal,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
+logic-gate-not,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
+logic-gate-not,technology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
 logic-gate-not,transmission,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
-logic-gate-not,triangle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
+logic-gate-not,triangle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,2
 logic-gate-not,volume,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
+logic-gate-not,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
 logic-gate-not,alert,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
+logic-gate-not,analysis,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
 logic-gate-not,communication,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
+logic-gate-not,design,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
+logic-gate-not,diagram,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
+logic-gate-not,mathematics,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1
 logic-gate-not,mute,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
 logic-gate-not,navigation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
 logic-gate-not,point,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
 logic-gate-not,power,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
 logic-gate-not,start,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_kMpoNfLdxObusyx7T2IusV1Y,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.681514,,1
+logic-gate-not,system,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_FdSoGbmDneTsQbpe9ZZmWhgI,0,gpt-4o-2024-08-06,2024-08-18T22:29:07.381375,,1

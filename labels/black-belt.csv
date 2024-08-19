@@ -1,26 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-black-belt,belt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
+black-belt,belt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,2
 black-belt,black belt,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
-black-belt,karate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
-black-belt,knot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
-black-belt,martial arts,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
+black-belt,karate,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,2
+black-belt,knot,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,2
+black-belt,martial arts,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,2
 black-belt,proficiency,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
-black-belt,achievement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
+black-belt,achievement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,2
 black-belt,certification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
+black-belt,commitment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1
 black-belt,competition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
-black-belt,discipline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
+black-belt,dedication,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1
+black-belt,discipline,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,2
 black-belt,fitness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
+black-belt,focus,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1
+black-belt,goal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1
+black-belt,honor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1
 black-belt,judo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
+black-belt,jujitsu,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1
 black-belt,level,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
+black-belt,milestone,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1
+black-belt,perseverance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1
 black-belt,practice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
-black-belt,rank,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
-black-belt,self-defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
+black-belt,rank,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,2
+black-belt,self-defense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,2
 black-belt,sports,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
+black-belt,strength,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1
 black-belt,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
-black-belt,taekwondo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
-black-belt,training,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
+black-belt,taekwondo,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,2
+black-belt,tradition,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1
+black-belt,training,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,2
+black-belt,training program,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1
 black-belt,uniform,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
 black-belt,binding,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
+black-belt,ceremony,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1
 black-belt,fashion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
 black-belt,loop,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
+black-belt,spirituality,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1
+black-belt,success,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1
 black-belt,tie,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_2XNUDp2BeVgvUNdMT6Pt6t9O,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.868972,,1
+black-belt,victory,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_XYIX1J9VTpB5oQ2x7FQoX7b3,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.411963,,1

@@ -1,25 +1,47 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 centaur-heart,airplane,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
+centaur-heart,centaur,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
 centaur-heart,flight,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
-centaur-heart,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
+centaur-heart,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,2
+centaur-heart,love,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
 centaur-heart,love travel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
 centaur-heart,travel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
+centaur-heart,abstract art,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
 centaur-heart,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
 centaur-heart,aviation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
+centaur-heart,conceptual,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
+centaur-heart,creativity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
+centaur-heart,creature,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
+centaur-heart,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
 centaur-heart,dream,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
+centaur-heart,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
 centaur-heart,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
+centaur-heart,fusion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
 centaur-heart,getaway,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
+centaur-heart,half-horse,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
+centaur-heart,half-human,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
+centaur-heart,hybrid,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
+centaur-heart,imaginative,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
 centaur-heart,journey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
+centaur-heart,legend,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
+centaur-heart,mythical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
+centaur-heart,mythological,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
+centaur-heart,mythology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
 centaur-heart,romantic escape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
 centaur-heart,romantic trips,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
 centaur-heart,vacation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
 centaur-heart,wanderlust,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
-centaur-heart,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
+centaur-heart,abstract,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,2
+centaur-heart,animalistic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
 centaur-heart,connection,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
 centaur-heart,discovery,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
 centaur-heart,escape,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
 centaur-heart,graphic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
 centaur-heart,iconic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
+centaur-heart,intersection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
 centaur-heart,passion,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
-centaur-heart,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
+centaur-heart,romanticism,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
+centaur-heart,shape,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1
+centaur-heart,symbolism,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,2
 centaur-heart,traversing,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_tWYO2EUYHHvnVFHgtPVWMGt8,0,gpt-4o-2024-08-06,2024-08-18T21:02:11.175004,,1
+centaur-heart,trope,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_ydMzikkbdlrcq7BP2ohZZf5u,0,gpt-4o-2024-08-06,2024-08-18T22:29:01.642553,,1

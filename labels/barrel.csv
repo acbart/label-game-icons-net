@@ -1,29 +1,40 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-barrel,barrel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,barrel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,2
 barrel,cask,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
-barrel,container,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,container,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,2
+barrel,keg,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EALNJRq0lDpIoKQg0zpELIjz,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.126878,,1
 barrel,liquid storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
-barrel,staves,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
-barrel,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,liquids,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EALNJRq0lDpIoKQg0zpELIjz,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.126878,,1
+barrel,staves,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,2
+barrel,storage,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,2
 barrel,aged,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,agriculture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EALNJRq0lDpIoKQg0zpELIjz,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.126878,,1
 barrel,barrel shape,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
-barrel,beer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,beer,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,2
+barrel,bulk,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EALNJRq0lDpIoKQg0zpELIjz,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.126878,,1
+barrel,cylinder,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EALNJRq0lDpIoKQg0zpELIjz,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.126878,,1
 barrel,distillery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
-barrel,fermentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,fermentation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,2
+barrel,goods,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EALNJRq0lDpIoKQg0zpELIjz,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.126878,,1
 barrel,hoop,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,hoops,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EALNJRq0lDpIoKQg0zpELIjz,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.126878,,1
 barrel,rings,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
-barrel,rustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,rustic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,2
 barrel,sealed,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,shipping,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EALNJRq0lDpIoKQg0zpELIjz,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.126878,,1
+barrel,transport,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EALNJRq0lDpIoKQg0zpELIjz,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.126878,,1
 barrel,whiskey,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
-barrel,wine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,wine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,2
 barrel,wine barrel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
-barrel,wooden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,wooden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,2
 barrel,aroma,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
-barrel,classic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,classic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,2
 barrel,commerce,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
 barrel,curved lines,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
 barrel,drum,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
-barrel,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,economy,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EALNJRq0lDpIoKQg0zpELIjz,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.126878,,1
+barrel,industrial,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,2
 barrel,sedimentary,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_EALNJRq0lDpIoKQg0zpELIjz,0,gpt-4o-2024-08-06,2024-08-18T22:29:00.126878,,1
 barrel,transportation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
-barrel,vintage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,1
+barrel,vintage,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_g0EXpnhTHEsXsLBi9dVNUscN,0,gpt-4o-2024-08-06,2024-08-18T21:02:10.776503,,2

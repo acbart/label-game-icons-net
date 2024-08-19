@@ -1,26 +1,50 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 western-hat,anonymous,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
+western-hat,cowboy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
 western-hat,cowboy hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
 western-hat,disguise,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
-western-hat,hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
+western-hat,frontier,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
+western-hat,hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,2
 western-hat,incognito,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
 western-hat,mystery,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
 western-hat,secret identity,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
+western-hat,western,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
+western-hat,western film,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
 western-hat,Western theme,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
-western-hat,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
+western-hat,accessory,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
+western-hat,adventure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,3
 western-hat,camouflage,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
+western-hat,classic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
 western-hat,cloak-and-dagger,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
 western-hat,concealment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
 western-hat,costume,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
+western-hat,country,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
+western-hat,cowpoke,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
+western-hat,culture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
 western-hat,detective,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
 western-hat,enigma,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
+western-hat,fashion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
+western-hat,headgear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
 western-hat,hidden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
+western-hat,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
 western-hat,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
 western-hat,mysterious character,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
 western-hat,obscured,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
+western-hat,outdoor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
 western-hat,persona,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
+western-hat,ranch,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
+western-hat,rodeo,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
+western-hat,rustic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
 western-hat,secrecy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
+western-hat,sheriff,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
+western-hat,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
+western-hat,stylized,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
 western-hat,suspense,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
+western-hat,symbol,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
 western-hat,unidentified,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
 western-hat,unseen,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
-western-hat,wild west,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,1
+western-hat,wild west,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_5fY8lJB9RLobQMdBFgUDwXuV,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.607132,,2
+western-hat,desert,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
+western-hat,heritage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
+western-hat,pioneer,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1
+western-hat,tradition,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_2pRojK6f3IFKyqZ3bo7NCOKf,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.725238,,1

@@ -1,9 +1,18 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-fire-ray,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
+fire-ray,abstract,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,2
+fire-ray,action,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
+fire-ray,arc,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
+fire-ray,curved lines,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
+fire-ray,energy,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.508187,,1
+fire-ray,fire,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.508187,,1
+fire-ray,flash,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
 fire-ray,horn,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
+fire-ray,ignite,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
+fire-ray,movement,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
 fire-ray,music,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
 fire-ray,musical instrument,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
-fire-ray,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
+fire-ray,ray,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.508187,,1
+fire-ray,symbol,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,2
 fire-ray,trumpet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
 fire-ray,artistic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
 fire-ray,band,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
@@ -11,21 +20,37 @@ fire-ray,concert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_
 fire-ray,crescent,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
 fire-ray,curved line,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
 fire-ray,decorative,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
-fire-ray,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
+fire-ray,design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,2
+fire-ray,direction,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
+fire-ray,dynamics,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.508187,,1
+fire-ray,element,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
 fire-ray,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
+fire-ray,flare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
 fire-ray,flourish,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
-fire-ray,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
+fire-ray,flow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,2
+fire-ray,force,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
+fire-ray,impact,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
 fire-ray,instrumental,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
+fire-ray,intensity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
 fire-ray,jazz,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
+fire-ray,motion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.508187,,1
 fire-ray,orchestra,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
+fire-ray,path,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
 fire-ray,performing arts,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
 fire-ray,representation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
 fire-ray,rhythmic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
 fire-ray,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
-fire-ray,swirl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
+fire-ray,spark,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
+fire-ray,speed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
+fire-ray,swirl,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,2
+fire-ray,trail,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
+fire-ray,transmission,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
+fire-ray,wave,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
 fire-ray,creative,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
+fire-ray,focus,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
 fire-ray,graphic,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
 fire-ray,iconography,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
 fire-ray,logo,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
 fire-ray,silhouette,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1
+fire-ray,spirituality,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_wKLENHpVjhZkIjemG2IHrGq2,0,gpt-4o-2024-08-06,2024-08-18T22:29:19.509187,,1
 fire-ray,visual,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_n5M3SnL54NkpMmI5lCYNMrGF,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.706711,,1

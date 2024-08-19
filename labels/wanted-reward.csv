@@ -1,23 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-wanted-reward,bounty,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
+wanted-reward,bounty,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,2
 wanted-reward,crime,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
-wanted-reward,criminal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
+wanted-reward,criminal,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,2
 wanted-reward,law enforcement,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
 wanted-reward,missing person,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
+wanted-reward,poster,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o17n13kiKHukotQcICV6sDdX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.482319,,1
+wanted-reward,wanted,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o17n13kiKHukotQcICV6sDdX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.482319,,1
 wanted-reward,wanted poster,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
-wanted-reward,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,2
-wanted-reward,announcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
+wanted-reward,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,3
+wanted-reward,announcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,2
+wanted-reward,capture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o17n13kiKHukotQcICV6sDdX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.482319,,1
 wanted-reward,communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
 wanted-reward,document,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
+wanted-reward,frame,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o17n13kiKHukotQcICV6sDdX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.482319,,1
+wanted-reward,hunting,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o17n13kiKHukotQcICV6sDdX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.482319,,1
+wanted-reward,identification,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o17n13kiKHukotQcICV6sDdX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.482319,,1
 wanted-reward,identity,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
-wanted-reward,information,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
-wanted-reward,investigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
-wanted-reward,notice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
+wanted-reward,information,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,2
+wanted-reward,investigation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,2
+wanted-reward,missing,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o17n13kiKHukotQcICV6sDdX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.482319,,1
+wanted-reward,notice,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,2
+wanted-reward,old west,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o17n13kiKHukotQcICV6sDdX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.482319,,1
+wanted-reward,outlaw,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o17n13kiKHukotQcICV6sDdX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.482319,,1
 wanted-reward,public announcement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
 wanted-reward,recognition,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
-wanted-reward,reward,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
-wanted-reward,search,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,2
+wanted-reward,reward,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,2
+wanted-reward,search,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,3
 wanted-reward,sign,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
+wanted-reward,silhouette,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o17n13kiKHukotQcICV6sDdX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.482319,,1
 wanted-reward,display,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
+wanted-reward,headline,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o17n13kiKHukotQcICV6sDdX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.482319,,1
 wanted-reward,paper,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
 wanted-reward,posting,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_XDcVWIOnGGCsd1OEANyQEIJJ,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.546544,,1
+wanted-reward,publicity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o17n13kiKHukotQcICV6sDdX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.482319,,1
+wanted-reward,template,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o17n13kiKHukotQcICV6sDdX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.482319,,1
+wanted-reward,vintage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_o17n13kiKHukotQcICV6sDdX,0,gpt-4o-2024-08-06,2024-08-18T22:29:14.482319,,1

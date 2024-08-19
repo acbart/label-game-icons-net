@@ -1,25 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-spade,digging,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
+spade,ace,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,card game,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,deck,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,digging,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,2
 spade,excavation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
-spade,shovel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
-spade,spade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
-spade,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
+spade,game,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,playing card,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,poker,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,shovel,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,2
+spade,spade,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,2
+spade,suit,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,symbol,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,tool,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,2
+spade,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
 spade,agriculture,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
-spade,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
+spade,blackjack,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,blade,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,classic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,2
+spade,design,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
 spade,earth,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
 spade,farming,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
+spade,fortune,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
 spade,garden,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
-spade,gardening,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
+spade,gardening,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,2
 spade,ground,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
 spade,hand tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
 spade,hole,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
+spade,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
 spade,landscaping,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
+spade,luck,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
 spade,manual labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
+spade,minimalist,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
 spade,planting,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
+spade,pointed,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,shape,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,sharp,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,sharp edges,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
 spade,soil,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
+spade,triangular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
+spade,trowel,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
 spade,work,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
 spade,effort,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
 spade,movement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
 spade,outdoor,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
+spade,simple,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_PL4tgpEHj8SdEOPFxFOHn8TM,0,gpt-4o-2024-08-06,2024-08-18T22:29:24.542972,,1
 spade,surface,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1
 spade,task,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_8CosQk0Ef9qTZQmp447u55Kj,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.094158,,1

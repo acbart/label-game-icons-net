@@ -1,23 +1,53 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 dinosaur-bones,alarm clock,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
+dinosaur-bones,archaeology,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,bones,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,dinosaur,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,fossil,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,paleontology,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,remains,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
 dinosaur-bones,ringing,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
+dinosaur-bones,skeleton,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
 dinosaur-bones,time,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
 dinosaur-bones,alert,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
+dinosaur-bones,anatomy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,ancient,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,animal,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,artifact,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
 dinosaur-bones,buzz,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
+dinosaur-bones,cranium,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,discovery,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
 dinosaur-bones,early morning,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
+dinosaur-bones,evolution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,excavation,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,extinct,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,head,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,history,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,jurassic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,museum,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,natural history,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
 dinosaur-bones,notification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
+dinosaur-bones,paleoart,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,prehistoric,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
 dinosaur-bones,reminder,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
+dinosaur-bones,scientific study,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
 dinosaur-bones,sleep,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
 dinosaur-bones,snooze,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
 dinosaur-bones,sound,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
+dinosaur-bones,structure,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
+dinosaur-bones,vertebrate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
 dinosaur-bones,wake-up,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
+dinosaur-bones,abstract art,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
 dinosaur-bones,concentration,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
 dinosaur-bones,cycle,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
 dinosaur-bones,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
 dinosaur-bones,focus,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
+dinosaur-bones,iconic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
 dinosaur-bones,pattern,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
 dinosaur-bones,regularity,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
 dinosaur-bones,repeat,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
 dinosaur-bones,routine,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
 dinosaur-bones,sharp,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
+dinosaur-bones,symbolic,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1
 dinosaur-bones,tick,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_wQhELMPJ1pyRKaKbgdVrTVFt,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.466952,,1
+dinosaur-bones,wildlife,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_GRCiztRD0cTHtubeZhGLh06U,0,gpt-4o-2024-08-06,2024-08-18T22:29:18.423294,,1

@@ -1,28 +1,39 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-talk,chat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
-talk,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
-talk,conversation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
-talk,dialogue,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
-talk,discussion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
-talk,interaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
-talk,messaging,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
+talk,chat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,2
+talk,communication,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,2
+talk,conversation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,2
+talk,dialogue,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,2
+talk,discussion,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,2
+talk,interaction,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,4
+talk,messaging,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,2
+talk,speech bubble,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JAIf8XNRHrvBib6vlqS8tlHT,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.326997,,1
 talk,speech bubbles,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
-talk,comment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
+talk,talking,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JAIf8XNRHrvBib6vlqS8tlHT,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.326997,,1
+talk,answers,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JAIf8XNRHrvBib6vlqS8tlHT,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.326997,,1
+talk,comment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,2
+talk,community,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JAIf8XNRHrvBib6vlqS8tlHT,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.326997,,1
+talk,connection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JAIf8XNRHrvBib6vlqS8tlHT,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.326997,,1
 talk,customer support,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
+talk,debate,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JAIf8XNRHrvBib6vlqS8tlHT,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.326997,,1
 talk,dialog box,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
-talk,exchange,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
+talk,dialogue box,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JAIf8XNRHrvBib6vlqS8tlHT,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.326997,,1
+talk,exchange,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,2
+talk,exchange of ideas,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JAIf8XNRHrvBib6vlqS8tlHT,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.326997,,1
 talk,expression,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
-talk,feedback,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
+talk,feedback,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,2
 talk,information sharing,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
-talk,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
-talk,social,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
+talk,interface,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,2
+talk,language,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JAIf8XNRHrvBib6vlqS8tlHT,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.326997,,1
+talk,questions,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JAIf8XNRHrvBib6vlqS8tlHT,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.326997,,1
+talk,social,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,2
+talk,speech,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JAIf8XNRHrvBib6vlqS8tlHT,0,gpt-4o-2024-08-06,2024-08-18T22:29:29.326997,,1
 talk,talk,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
-talk,text,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
+talk,text,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,2
 talk,verbal communication,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
 talk,announcement,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
 talk,group chat,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
 talk,input,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
-talk,networking,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
+talk,networking,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,2
 talk,notification,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
 talk,online chat,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1
 talk,quotes,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_jt2QoQNwd8tP3OoMfaDw5ydg,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.494639,,1

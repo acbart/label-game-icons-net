@@ -1,15 +1,37 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 regeneration,blades,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.059576,,1
+regeneration,change,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,cycle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
 regeneration,fan,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.060576,,1
+regeneration,growth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
 regeneration,propeller,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.059576,,1
-regeneration,rotation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.060576,,1
+regeneration,rebirth,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,regeneration,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,renewal,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,rotation,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.060576,,2
 regeneration,spinning,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.060576,,1
+regeneration,transformation,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
 regeneration,airflow,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.060576,,1
-regeneration,circulation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.060576,,1
+regeneration,arrows,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,balance,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,circular pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,circulation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.060576,,2
+regeneration,continuity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
 regeneration,energy,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.060576,,1
+regeneration,evolution,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,flow,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,harmony,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,interconnection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
 regeneration,mechanical,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.060576,,1
 regeneration,movement,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.060576,,1
+regeneration,organic movement,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,progression,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,recycling,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,spiral,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,symbiosis,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
 regeneration,turbine,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.060576,,1
+regeneration,yin yang,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
+regeneration,biomimicry,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_I2FyyM6jsjJdzM6YtW1MkXen,0,gpt-4o-2024-08-06,2024-08-18T22:29:28.058002,,1
 regeneration,centrifugal,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.060576,,1
 regeneration,design,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.060576,,1
 regeneration,device,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_DZA7lA0prW0vi0dOHNFuePhf,0,gpt-4o-2024-08-06,2024-08-18T21:02:18.060576,,1

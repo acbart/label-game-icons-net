@@ -1,27 +1,49 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-heart-bottle,health,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
+heart-bottle,affection,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
+heart-bottle,bottle,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778000,,1
+heart-bottle,emotion,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
+heart-bottle,health,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,2
 heart-bottle,healthcare,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
-heart-bottle,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
+heart-bottle,heart,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,2
+heart-bottle,love,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778000,,1
 heart-bottle,medical,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
-heart-bottle,medicine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
+heart-bottle,medicine,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,2
+heart-bottle,romance,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
 heart-bottle,stethoscope,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
+heart-bottle,bond,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
 heart-bottle,cardiology,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
-heart-bottle,care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
+heart-bottle,care,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,2
 heart-bottle,check-up,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
 heart-bottle,clinic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
+heart-bottle,container,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778000,,1
 heart-bottle,diagnosis,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
 heart-bottle,doctor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
+heart-bottle,elixir,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
+heart-bottle,empathy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
+heart-bottle,essence,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
 heart-bottle,examination,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
+heart-bottle,flask,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
+heart-bottle,fragility,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
 heart-bottle,health check,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
 heart-bottle,heartbeat,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
 heart-bottle,hospital,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
+heart-bottle,intimacy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
 heart-bottle,medical equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
 heart-bottle,nurse,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
+heart-bottle,nurture,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
+heart-bottle,passion,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
 heart-bottle,patient,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
+heart-bottle,protection,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
 heart-bottle,pulse,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
+heart-bottle,purity,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
+heart-bottle,relationship,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
+heart-bottle,sentiment,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
+heart-bottle,support,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
 heart-bottle,treatment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
 heart-bottle,emergency,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
 heart-bottle,first aid,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
 heart-bottle,health monitoring,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
+heart-bottle,spirituality,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
+heart-bottle,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_vyMFksBWMOhjpXxST5PzMN2X,0,gpt-4o-2024-08-06,2024-08-18T22:29:20.778972,,1
 heart-bottle,vital signs,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
-heart-bottle,wellness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,1
+heart-bottle,wellness,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_l7X8ewC4JcUtNBwgezOwzUXl,0,gpt-4o-2024-08-06,2024-08-18T21:02:15.996869,,2

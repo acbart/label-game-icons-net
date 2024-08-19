@@ -1,27 +1,43 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 mining-helmet,hard hat,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
 mining-helmet,headlamp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
-mining-helmet,helmet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.860525,,1
-mining-helmet,lamp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
-mining-helmet,mining,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.860525,,1
-mining-helmet,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
-mining-helmet,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
-mining-helmet,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
+mining-helmet,helmet,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.860525,,2
+mining-helmet,lamp,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,2
+mining-helmet,mining,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.860525,,2
+mining-helmet,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,2
+mining-helmet,safety,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,2
+mining-helmet,torch,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
+mining-helmet,construction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,2
 mining-helmet,darkness,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
-mining-helmet,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
-mining-helmet,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
+mining-helmet,energy,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
+mining-helmet,engineering,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,2
+mining-helmet,equipment,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,2
 mining-helmet,excavation,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
 mining-helmet,exploration,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
-mining-helmet,headgear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
+mining-helmet,gear,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
+mining-helmet,hardhat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
+mining-helmet,hazard,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
+mining-helmet,headgear,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,2
 mining-helmet,industrial,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
-mining-helmet,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
-mining-helmet,labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
-mining-helmet,light,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
+mining-helmet,industry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,2
+mining-helmet,labor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,2
+mining-helmet,light,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,2
+mining-helmet,manual labor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
+mining-helmet,occupational,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
 mining-helmet,resource extraction,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
+mining-helmet,resources,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
+mining-helmet,safety measures,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
 mining-helmet,tool,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
 mining-helmet,tunnel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
-mining-helmet,underground,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
-mining-helmet,worker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
+mining-helmet,underground,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,2
+mining-helmet,worker,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,2
+mining-helmet,worksite,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
+mining-helmet,abstract,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
 mining-helmet,adventure,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
+mining-helmet,drilling,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
+mining-helmet,hardware,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
+mining-helmet,icon,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
 mining-helmet,mechanical,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
 mining-helmet,operation,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_9MnAxHWTLcqsMZSdd3JESufN,0,gpt-4o-2024-08-06,2024-08-18T21:02:12.861525,,1
+mining-helmet,spelunking,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1
+mining-helmet,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Hct2G2KBHxscIZCS3c5TbtrD,0,gpt-4o-2024-08-06,2024-08-18T22:29:08.003575,,1

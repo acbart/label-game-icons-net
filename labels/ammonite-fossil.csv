@@ -1,26 +1,44 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
-ammonite-fossil,ammonite,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.803609,,1
+ammonite-fossil,ammonite,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.803609,,2
+ammonite-fossil,coiled,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
 ammonite-fossil,curve,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
-ammonite-fossil,nautilus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.803609,,1
-ammonite-fossil,shell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.803609,,1
-ammonite-fossil,spiral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.803609,,1
+ammonite-fossil,nautilus,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.803609,,2
+ammonite-fossil,shell,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.803609,,2
+ammonite-fossil,spiral,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.803609,,2
 ammonite-fossil,swirl,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
 ammonite-fossil,abstract,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
-ammonite-fossil,evolution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
-ammonite-fossil,fossil,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
+ammonite-fossil,ancient ocean,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
+ammonite-fossil,archaeological find,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
+ammonite-fossil,archeology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
+ammonite-fossil,circular,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
+ammonite-fossil,evolution,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,2
+ammonite-fossil,fossil,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,2
+ammonite-fossil,geological,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
 ammonite-fossil,geometry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
 ammonite-fossil,golden ratio,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
 ammonite-fossil,logarithmic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
-ammonite-fossil,natural history,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
-ammonite-fossil,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
+ammonite-fossil,marine,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
+ammonite-fossil,mollusk,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
+ammonite-fossil,natural history,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,2
+ammonite-fossil,nature,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,2
 ammonite-fossil,organic,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
-ammonite-fossil,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
+ammonite-fossil,paleontology,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
+ammonite-fossil,pattern,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,2
+ammonite-fossil,shell pattern,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
 ammonite-fossil,shell structure,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
 ammonite-fossil,snail,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
 ammonite-fossil,spiral design,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
 ammonite-fossil,symmetry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
-ammonite-fossil,ancient,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
+ammonite-fossil,ancient,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,2
+ammonite-fossil,biology,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
+ammonite-fossil,collection,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
+ammonite-fossil,ecosystem,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
 ammonite-fossil,mathematics,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
 ammonite-fossil,ocean,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
-ammonite-fossil,prehistoric,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
+ammonite-fossil,ornament,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
+ammonite-fossil,prehistoric,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,2
+ammonite-fossil,science,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
 ammonite-fossil,sea,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_gP9Do29znogIJ756t4eeHyN5,0,gpt-4o-2024-08-06,2024-08-18T21:02:14.804612,,1
+ammonite-fossil,shellfish,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
+ammonite-fossil,skeleton,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1
+ammonite-fossil,symbol,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_JqqJBWl5tjre8xvrzq0f1br4,0,gpt-4o-2024-08-06,2024-08-18T22:29:15.546060,,1

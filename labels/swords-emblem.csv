@@ -1,24 +1,41 @@
 icon,text,relevance,language,author,reviewer,valid,human_authored,human_reviewed,prompt_id,gpt_run_id,execution_id,gpt_model,when_authored,when_reviewed,count
 swords-emblem,crossed swords,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
-swords-emblem,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
-swords-emblem,heraldry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
-swords-emblem,medieval,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
-swords-emblem,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
-swords-emblem,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
-swords-emblem,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
+swords-emblem,crossed weapons,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
+swords-emblem,defense,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,2
+swords-emblem,heraldry,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,2
+swords-emblem,medieval,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,2
+swords-emblem,protection,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,2
+swords-emblem,security,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,2
+swords-emblem,shield,high,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,2
+swords-emblem,swords,high,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
 swords-emblem,armor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
-swords-emblem,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
+swords-emblem,badge,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
+swords-emblem,battle,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,2
 swords-emblem,chivalry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
+swords-emblem,combat,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
+swords-emblem,courage,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
 swords-emblem,crest,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
-swords-emblem,duel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
-swords-emblem,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
+swords-emblem,duel,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,2
+swords-emblem,emblem,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,2
 swords-emblem,fortification,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
 swords-emblem,guardianship,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
-swords-emblem,knighthood,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
+swords-emblem,historical,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
+swords-emblem,honor,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
+swords-emblem,iconic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
+swords-emblem,knighthood,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,2
+swords-emblem,logo,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
 swords-emblem,medieval warfare,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
+swords-emblem,military,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
 swords-emblem,strength,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
 swords-emblem,symbol of bravery,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
+swords-emblem,symbolic,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
 swords-emblem,valor,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
+swords-emblem,warfare,medium,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
 swords-emblem,weaponry,medium,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
 swords-emblem,historical symbol,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
+swords-emblem,identity,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
+swords-emblem,significance,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
+swords-emblem,status,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
 swords-emblem,tradition,low,en,acbart@vt.edu,,,False,False,starter-v1-128,batch_req_iHbXljcR5FiKIc1P2HBsH51z,0,gpt-4o-2024-08-06,2024-08-18T21:02:17.396979,,1
+swords-emblem,traditional,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
+swords-emblem,vintage,low,en,acbart@vt.edu,,,False,False,starter-v2-128,batch_req_Dr6Ckh6YGVf374PnUa82t4ml,0,gpt-4o-2024-08-06,2024-08-18T22:29:25.780484,,1
