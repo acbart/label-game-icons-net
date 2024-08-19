@@ -39,6 +39,7 @@ jobs:
                   python-version: '3.x'
             - name: Build csv/json files
               run: |
+                  mkdir dist/
                   python3 combine_labels.py
             - name: Copy over README.md to docs/
               run: |
